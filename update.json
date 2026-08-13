@@ -1,7 +1,7 @@
 {
   "versionCode": 12,
   "versionName": "0.3.0",
-  "apkUrl": "https://github.com/gkarp/f1StatsApp/releases/download/v0.2.8/app-release.apk",
-  "changelog": "Первая версия с поддержкой внутрипрограммных обновлений.",
+  "apkUrl": "https://github.com/Glelg/pitWallPublic/releases/download/v0.3.0/f1stats-0.3.0-release.apk",
+  "changelog": "Первая стабильная версия с поддержкой обновлений.",
   "isForceUpdate": false
 }
