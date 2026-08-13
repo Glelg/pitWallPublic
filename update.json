@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "0.3.1",
-  "apkUrl": "https://github.com/Glelg/pitWallPublic/releases/download/v0.3.1/pitwall-0.3.1-release.apk",
-  "changelog": "Обновление до версии 0.3.1",
+  "versionCode": 14,
+  "versionName": "0.3.2",
+  "apkUrl": "https://github.com/Glelg/pitWallPublic/releases/download/v0.3.2/pitwall-0.3.2-release.apk",
+  "changelog": "Обновление до версии 0.3.2",
   "isForceUpdate": false
 }
