@@ -1,7 +1,9 @@
-{
-  "versionCode": 17,
-  "versionName": "0.3.5",
-  "apkUrl": "https://github.com/Glelg/pitWallPublic/releases/download/v0.3.5/pitwall-0.3.5-release.apk",
-  "changelog": "Release version 0.3.5",
-  "isForceUpdate": false
-}
+        {
+          "versionCode": 18,
+          "versionName": "0.4.1",
+          "apkUrl": "https://github.com/Glelg/pitWallPublic/releases/download/v0.4.1/pitwall-0.4.1-release.apk",
+          "changelog": "-Pitwall Tab — Added a dedicated Pitwall tab that aggregates key insights and live data.
+\n-Faster Startup — Optimized caching mechanisms and reduced overall app load times.
+\n-Qualifying Results — Fixed data rendering bugs to ensure qualifying standings and lap times display accurately.",
+          "isForceUpdate": false
+        }
