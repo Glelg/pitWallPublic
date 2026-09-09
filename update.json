@@ -1,11 +1,12 @@
         {
-          "versionCode": 19,
-          "versionName": "0.4.5",
-          "apkUrl": "https://github.com/Glelg/pitWallPublic/releases/download/v0.4.5/pitwall-0.4.5-release.apk",
-          "changelog": "-Weather Forecast — Added track weather forecasts for the upcoming Grand Prix weekend.
-\n-Session Details — Improved the layout and presentation of detailed session insights.
-\n-UI Polish — Unified visual styles and component design across the entire app.
-\n-Dutch GP Updates — Updated the circuit thumbnail and verified detailed track information for the Dutch Grand Prix.
-\n-Bug Fixes — Minor bug fixes and stability improvements.",
+          "versionCode": 20,
+          "versionName": "0.6.3",
+          "apkUrl": "https://github.com/Glelg/pitWallPublic/releases/download/v0.6.3/pitwall-0.6.3-release.apk",
+          "changelog": "-Driver Cards — Added detailed driver profile cards with current season standings and results.
+\n-Pitwall News Feed — Introduced a news section to the Pitwall tab to keep you up to date.
+\n-Settings Menu — Added a dedicated Settings screen for personalization and app preferences.
+\n-Qualifying Times Fix — Resolved bugs causing incorrect lap and sector time formatting in qualifying.
+\n-Standings & Substitutions Fix — Fixed championship standings calculation issues triggered by mid-season driver swaps.
+\n-UI Polish — Minor interface refinements and cosmetic tweaks across the app.",
           "isForceUpdate": false
         }
