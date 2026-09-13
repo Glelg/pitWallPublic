@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-13T22:25:09.519935Z",
+    "last_updated": "2026-09-13T22:39:15.687170Z",
     "year": 2023,
     "total_meetings": 24
   },
@@ -10,7 +10,7 @@
       "meeting_name": "Pre-Season Testing",
       "location": "Sakhir",
       "country_name": "Bahrain",
-      "country_code": "br",
+      "country_code": "bh",
       "circuit_name": "Sakhir",
       "date_start": "2023-02-23T07:00:00+00:00",
       "date_end": "2023-02-25T16:30:00+00:00",
@@ -44,7 +44,7 @@
       "meeting_name": "Bahrain Grand Prix",
       "location": "Sakhir",
       "country_name": "Bahrain",
-      "country_code": "br",
+      "country_code": "bh",
       "circuit_name": "Sakhir",
       "date_start": "2023-03-03T11:30:00+00:00",
       "date_end": "2023-03-05T17:00:00+00:00",
@@ -109,7 +109,7 @@
       "meeting_name": "Saudi Arabian Grand Prix",
       "location": "Jeddah",
       "country_name": "Saudi Arabia",
-      "country_code": "ks",
+      "country_code": "sa",
       "circuit_name": "Jeddah",
       "date_start": "2023-03-17T13:30:00+00:00",
       "date_end": "2023-03-19T19:00:00+00:00",
@@ -1397,26 +1397,7 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": [
-        {
-          "position": 1,
-          "driver_number": 1,
-          "driver_acronym": "VER",
-          "team_name": "Red Bull Racing"
-        },
-        {
-          "position": 2,
-          "driver_number": 16,
-          "driver_acronym": "LEC",
-          "team_name": "Ferrari"
-        },
-        {
-          "position": 3,
-          "driver_number": 11,
-          "driver_acronym": "PER",
-          "team_name": "Red Bull Racing"
-        }
-      ],
+      "top_results": null,
       "sessions": [
         {
           "session_key": 9182,
@@ -1455,7 +1436,7 @@
       "meeting_name": "Abu Dhabi Grand Prix",
       "location": "Yas Island",
       "country_name": "United Arab Emirates",
-      "country_code": "ua",
+      "country_code": "ae",
       "circuit_name": "Yas Marina Circuit",
       "date_start": "2023-11-24T09:30:00+00:00",
       "date_end": "2023-11-26T15:00:00+00:00",

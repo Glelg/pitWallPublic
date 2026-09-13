@@ -2,14 +2,25 @@
 
 # Международный стандарт ISO 3166-1 (alpha-3 в alpha-2 для иконок флагов)
 ISO_ALPHA3_TO_ALPHA2 = {
+    # Специфичные коды стран Формулы-1
+    "BRN": "bh", "BHR": "bh",  # Бахрейн (не бразилия!)
+    "SAU": "sa", "KSA": "sa",  # Саудовская Аравия
+    "ARE": "ae", "UAE": "ae",  # ОАЭ / Абу-Даби
+    "QAT": "qa",              # Катар
+    "AZE": "az",              # Азербайджан
+    "SGP": "sg", "SIN": "sg",  # Сингапур
+    "MYS": "my", "MAS": "my",  # Малайзия
+    "MCO": "mc", "MON": "mc",  # Монако
+    "DEU": "de", "GER": "de",  # Германия
+    "NLD": "nl", "NED": "nl",  # Нидерланды
+
+    # Стандартные ISO коды
     "ARG": "ar", "AUS": "au", "AUT": "at", "BEL": "be", "BRA": "br",
     "CAN": "ca", "CHN": "cn", "CZE": "cz", "DEN": "dk", "DNK": "dk",
-    "FIN": "fi", "FRA": "fr", "GER": "de", "DEU": "de", "GBR": "gb",
-    "HUN": "hu", "IDN": "id", "IND": "in", "ISR": "il", "ITA": "it",
-    "JPN": "jp", "MEX": "mx", "MON": "mc", "NED": "nl", "NLD": "nl",
+    "FIN": "fi", "FRA": "fr", "GBR": "gb", "HUN": "hu", "IDN": "id",
+    "IND": "in", "ISR": "il", "ITA": "it", "JPN": "jp", "MEX": "mx",
     "NZL": "nz", "POL": "pl", "PRT": "pt", "RUS": "ru", "ESP": "es",
-    "SWE": "se", "CHE": "ch", "SUI": "ch", "THA": "th", "USA": "us", "ZAF": "za",
-    "BHR": "bh", "QAT": "qa", "ARE": "ae", "SAU": "sa", "SGP": "sg", "MYS": "my"
+    "SWE": "se", "CHE": "ch", "SUI": "ch", "THA": "th", "USA": "us", "ZAF": "za"
 }
 
 def get_country_flag(country_code_str: str) -> str:

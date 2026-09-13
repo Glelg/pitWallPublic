@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-13T22:10:43.861341Z",
+    "last_updated": "2026-09-13T22:42:06.876556Z",
     "year": 2025,
     "total_meetings": 25
   },
@@ -10,7 +10,7 @@
       "meeting_name": "Pre-Season Testing",
       "location": "Sakhir",
       "country_name": "Bahrain",
-      "country_code": "br",
+      "country_code": "bh",
       "circuit_name": "Sakhir",
       "date_start": "2025-02-26T07:00:00+00:00",
       "date_end": "2025-02-28T16:00:00+00:00",
@@ -239,7 +239,7 @@
       "meeting_name": "Bahrain Grand Prix",
       "location": "Sakhir",
       "country_name": "Bahrain",
-      "country_code": "br",
+      "country_code": "bh",
       "circuit_name": "Sakhir",
       "date_start": "2025-04-11T11:30:00+00:00",
       "date_end": "2025-04-13T17:00:00+00:00",
@@ -304,7 +304,7 @@
       "meeting_name": "Saudi Arabian Grand Prix",
       "location": "Jeddah",
       "country_name": "Saudi Arabia",
-      "country_code": "ks",
+      "country_code": "sa",
       "circuit_name": "Jeddah",
       "date_start": "2025-04-18T13:30:00+00:00",
       "date_end": "2025-04-20T19:00:00+00:00",
@@ -1539,7 +1539,7 @@
       "meeting_name": "Abu Dhabi Grand Prix",
       "location": "Yas Island",
       "country_name": "United Arab Emirates",
-      "country_code": "ua",
+      "country_code": "ae",
       "circuit_name": "Yas Marina Circuit",
       "date_start": "2025-12-05T09:30:00+00:00",
       "date_end": "2025-12-07T15:00:00+00:00",
