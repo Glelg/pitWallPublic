@@ -2,10 +2,12 @@ name: Update F1 Standings
 
 on:
   schedule:
-    # Запуск каждые 30 минут
     - cron: '*/30 * * * *'
-  # Возможность запустить вручную одной кнопкой из интерфейса GitHub
   workflow_dispatch:
+
+# Явно разрешаем боту делать коммиты и пуши в репозиторий
+permissions:
+  contents: write
 
 jobs:
   build-and-update:
