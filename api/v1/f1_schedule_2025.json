@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-13T21:05:34.372997Z",
+    "last_updated": "2026-09-13T22:10:43.861341Z",
     "year": 2025,
     "total_meetings": 25
   },
@@ -51,7 +51,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 2,
+          "driver_number": 1,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 3,
+          "driver_number": 63,
+          "driver_acronym": "RUS",
+          "team_name": "Mercedes"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9686,
@@ -97,7 +116,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 44,
+          "driver_acronym": "HAM",
+          "team_name": "Ferrari"
+        },
+        {
+          "position": 2,
+          "driver_number": 81,
+          "driver_acronym": "PIA",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 3,
+          "driver_number": 1,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9988,
@@ -143,7 +181,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 1,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 2,
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 3,
+          "driver_number": 81,
+          "driver_acronym": "PIA",
+          "team_name": "McLaren"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9999,
@@ -189,7 +246,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 81,
+          "driver_acronym": "PIA",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 2,
+          "driver_number": 63,
+          "driver_acronym": "RUS",
+          "team_name": "Mercedes"
+        },
+        {
+          "position": 3,
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
+        }
+      ],
       "sessions": [
         {
           "session_key": 10007,
@@ -235,7 +311,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 81,
+          "driver_acronym": "PIA",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 2,
+          "driver_number": 1,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 3,
+          "driver_number": 16,
+          "driver_acronym": "LEC",
+          "team_name": "Ferrari"
+        }
+      ],
       "sessions": [
         {
           "session_key": 10015,
@@ -281,7 +376,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 2,
+          "driver_number": 81,
+          "driver_acronym": "PIA",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 3,
+          "driver_number": 44,
+          "driver_acronym": "HAM",
+          "team_name": "Ferrari"
+        }
+      ],
       "sessions": [
         {
           "session_key": 10023,
@@ -327,7 +441,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 1,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 2,
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 3,
+          "driver_number": 81,
+          "driver_acronym": "PIA",
+          "team_name": "McLaren"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9980,
@@ -373,7 +506,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 2,
+          "driver_number": 16,
+          "driver_acronym": "LEC",
+          "team_name": "Ferrari"
+        },
+        {
+          "position": 3,
+          "driver_number": 81,
+          "driver_acronym": "PIA",
+          "team_name": "McLaren"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9972,
@@ -419,7 +571,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 81,
+          "driver_acronym": "PIA",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 2,
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 3,
+          "driver_number": 16,
+          "driver_acronym": "LEC",
+          "team_name": "Ferrari"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9964,
@@ -465,7 +636,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 63,
+          "driver_acronym": "RUS",
+          "team_name": "Mercedes"
+        },
+        {
+          "position": 2,
+          "driver_number": 1,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 3,
+          "driver_number": 12,
+          "driver_acronym": "ANT",
+          "team_name": "Mercedes"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9956,
@@ -511,7 +701,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 2,
+          "driver_number": 81,
+          "driver_acronym": "PIA",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 3,
+          "driver_number": 16,
+          "driver_acronym": "LEC",
+          "team_name": "Ferrari"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9948,
@@ -557,7 +766,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 2,
+          "driver_number": 81,
+          "driver_acronym": "PIA",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 3,
+          "driver_number": 27,
+          "driver_acronym": "HUL",
+          "team_name": "Kick Sauber"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9940,
@@ -603,7 +831,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 1,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 2,
+          "driver_number": 81,
+          "driver_acronym": "PIA",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 3,
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9929,
@@ -649,7 +896,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 2,
+          "driver_number": 81,
+          "driver_acronym": "PIA",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 3,
+          "driver_number": 63,
+          "driver_acronym": "RUS",
+          "team_name": "Mercedes"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9921,
@@ -695,7 +961,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 81,
+          "driver_acronym": "PIA",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 2,
+          "driver_number": 1,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 3,
+          "driver_number": 6,
+          "driver_acronym": "HAD",
+          "team_name": "Racing Bulls"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9913,
@@ -741,7 +1026,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 1,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 2,
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 3,
+          "driver_number": 81,
+          "driver_acronym": "PIA",
+          "team_name": "McLaren"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9905,
@@ -787,7 +1091,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 1,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 2,
+          "driver_number": 63,
+          "driver_acronym": "RUS",
+          "team_name": "Mercedes"
+        },
+        {
+          "position": 3,
+          "driver_number": 55,
+          "driver_acronym": "SAI",
+          "team_name": "Williams"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9897,
@@ -833,7 +1156,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 63,
+          "driver_acronym": "RUS",
+          "team_name": "Mercedes"
+        },
+        {
+          "position": 2,
+          "driver_number": 1,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 3,
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9889,
@@ -879,7 +1221,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 1,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 2,
+          "driver_number": 63,
+          "driver_acronym": "RUS",
+          "team_name": "Mercedes"
+        },
+        {
+          "position": 3,
+          "driver_number": 55,
+          "driver_acronym": "SAI",
+          "team_name": "Williams"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9878,
@@ -925,7 +1286,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 2,
+          "driver_number": 16,
+          "driver_acronym": "LEC",
+          "team_name": "Ferrari"
+        },
+        {
+          "position": 3,
+          "driver_number": 1,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9870,
@@ -971,7 +1351,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 2,
+          "driver_number": 12,
+          "driver_acronym": "ANT",
+          "team_name": "Mercedes"
+        },
+        {
+          "position": 3,
+          "driver_number": 63,
+          "driver_acronym": "RUS",
+          "team_name": "Mercedes"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9859,
@@ -1017,7 +1416,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 1,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 2,
+          "driver_number": 63,
+          "driver_acronym": "RUS",
+          "team_name": "Mercedes"
+        },
+        {
+          "position": 3,
+          "driver_number": 12,
+          "driver_acronym": "ANT",
+          "team_name": "Mercedes"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9851,
@@ -1063,7 +1481,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 81,
+          "driver_acronym": "PIA",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 2,
+          "driver_number": 63,
+          "driver_acronym": "RUS",
+          "team_name": "Mercedes"
+        },
+        {
+          "position": 3,
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9840,
