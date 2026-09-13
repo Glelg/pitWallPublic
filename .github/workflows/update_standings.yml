@@ -1,13 +1,11 @@
 name: Update F1 Standings
 
 on:
-  # Запуск при пуше в main или master
   push:
     branches: [ "main", "master" ]
-  # Автоматический запуск ровно в 15 минут каждого часа
+  # Автоматический запуск каждые 30 минут (в :15 и :45 минут каждого часа)
   schedule:
-    - cron: '15 * * * *'
-  # Ручной запуск
+    - cron: '15,45 * * * *'
   workflow_dispatch:
 
 permissions:
