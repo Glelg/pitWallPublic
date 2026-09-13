@@ -4,12 +4,35 @@ import json
 import os
 import sys
 import time
+import ssl
 from datetime import datetime
 
-# Импортируем наш общий модуль флагов
+# Импортируем наш общий модуль флагов из utils
 from utils.flags import get_country_flag
 
 BASE_URL = "https://api.openf1.org/v1"
+
+def update_status_file(status_msg, success=True):
+    """Обновляет пульс бэкенда при каждом запуске"""
+    os.makedirs("api/v1", exist_ok=True)
+    status_file = "api/v1/status.json"
+    now_str = datetime.utcnow().isoformat() + "Z"
+
+    current_data = {}
+    if os.path.exists(status_file):
+        try:
+            with open(status_file, "r", encoding="utf-8") as f:
+                current_data = json.load(f)
+        except Exception:
+            pass
+
+    status_payload = {
+        "last_checked_at": now_str,
+        "openf1_status": status_msg,
+        "last_successful_standings_update": now_str if success else current_data.get("last_successful_standings_update", now_str)
+    }
+    with open(status_file, "w", encoding="utf-8") as f:
+        json.dump(status_payload, f, ensure_ascii=False, indent=2)
 
 def fetch_json(endpoint):
     url = f"{BASE_URL}/{endpoint}"
@@ -20,39 +43,38 @@ def fetch_json(endpoint):
         'Accept': 'application/json, text/plain, */*'
     }
     req = urllib.request.Request(url, headers=headers)
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+
     try:
-        time.sleep(0.3) # Легкая пауза
-        with urllib.request.urlopen(req) as response:
+        time.sleep(0.3)
+        with urllib.request.urlopen(req, context=ctx) as response:
             return json.loads(response.read().decode('utf-8'))
     except urllib.error.HTTPError as e:
-        print(f"  -> [OpenF1 Ошибка {e.code}]: Сервер недоступен или ограничил доступ.")
+        print(f"  -> [OpenF1 Ошибка {e.code}]: Сервер недоступен.")
         return None
     except Exception as e:
         print(f"  -> [Сетевая ошибка]: {e}")
         return None
 
-def get_country_flag(country_code_str: str) -> str:
-    if not country_code_str:
-        return ""
-    code = country_code_str.upper().strip()
-    return ISO_ALPHA3_TO_ALPHA2.get(code, code.lower()[:2])
-
 def main():
-    print("=== Мягкая сборка с защитой от ошибок сервера ===")
+    print("=== Чистая сборка с фиксацией пульса через utils.flags ===")
 
-    # 1. Автоматически определяем текущий календарный год
     current_year = datetime.utcnow().year
 
     sessions = fetch_json(f"sessions?year={current_year}")
     if sessions is None:
-        print("[ВНИМАНИЕ] OpenF1 заблокирован или занят. Сохраняем текущие данные без изменений.")
-        sys.exit(0) # Мягкий выход с кодом 0
+        print("[ВНИМАНИЕ] OpenF1 заблокирован. Фиксируем пульс проверки.")
+        update_status_file("OPENF1_TEMPORARILY_BUSY", success=False)
+        sys.exit(0)
 
     if not sessions:
         sessions = fetch_json("sessions") or []
 
     if not sessions:
-        print("[ВНИМАНИЕ] Не удалось получить сессии. Сохраняем текущие данные.")
+        print("[ВНИМАНИЕ] Не удалось получить сессии. Фиксируем пульс.")
+        update_status_file("OPENF1_NO_SESSIONS", success=False)
         sys.exit(0)
 
     latest_session = max(sessions, key=lambda s: s['session_key'])
@@ -61,10 +83,10 @@ def main():
 
     print(f"Актуальный сезон: {actual_year}, Последняя сессия: {latest_key}")
 
-    # 2. Запрашиваем таблицы
     all_driver_standings = fetch_json("championship_drivers")
     if not all_driver_standings:
-        print("[ВНИМАНИЕ] Таблица пилотов недоступна в данный момент. Сохраняем текущий файл.")
+        print("[ВНИМАНИЕ] Таблица пилотов недоступна. Фиксируем пульс.")
+        update_status_file("OPENF1_STANDINGS_UNAVAILABLE", success=False)
         sys.exit(0)
 
     latest_driver_standings = [s for s in all_driver_standings if s.get('session_key') == latest_key]
@@ -75,13 +97,11 @@ def main():
     all_team_standings = fetch_json("championship_teams") or []
     latest_team_standings = [t for t in all_team_standings if t.get('session_key') == latest_key]
 
-    # 3. Первая гонка сезона для проверки переходов
     gp_races = [s for s in sessions if s.get('session_type') == 'Race' and s.get('year') == actual_year]
     gp_races.sort(key=lambda x: x.get('date_start', ''))
 
     first_key = gp_races[0]['session_key'] if gp_races else latest_key
 
-    # 4. Составы пилотов
     latest_drivers_raw = fetch_json(f"drivers?session_key={latest_key}") or []
     first_drivers_raw = fetch_json(f"drivers?session_key={first_key}") if first_key != latest_key else latest_drivers_raw
     if first_drivers_raw is None: first_drivers_raw = []
@@ -89,7 +109,6 @@ def main():
     latest_drivers = { d['driver_number']: d for d in latest_drivers_raw if 'driver_number' in d }
     first_drivers = { d['driver_number']: d for d in first_drivers_raw if 'driver_number' in d }
 
-    # 5. Обработка пилотов
     enriched_drivers = []
     for standing in latest_driver_standings:
         driver_num = standing.get('driver_number')
@@ -135,7 +154,6 @@ def main():
 
     enriched_drivers.sort(key=lambda x: x['position'])
 
-    # 6. Обработка команд
     enriched_teams = []
     for team in latest_team_standings:
         team_name = team.get('team_name', 'Unknown')
@@ -155,12 +173,11 @@ def main():
 
     enriched_teams.sort(key=lambda x: x['position'])
 
-    # Страховка: заново пишем файл только если данные реально собраны
     if not enriched_drivers:
-        print("[ВНИМАНИЕ] Список пилотов пуст. Отмена перезаписи файла.")
+        print("[ВНИМАНИЕ] Список пилотов пуст. Фиксируем пульс.")
+        update_status_file("OPENF1_EMPTY_RESPONSE", success=False)
         sys.exit(0)
 
-    # 7. Сохранение
     final_data = {
         "metadata": {
             "last_updated": datetime.utcnow().isoformat() + "Z",
@@ -172,11 +189,12 @@ def main():
     }
 
     os.makedirs("api/v1", exist_ok=True)
-    file_path = "api/v1/standings.json"
+    file_path = "api/v1/f1_championship_standings.json"
     with open(file_path, "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=2)
 
-    print(f"=== Успешно! Файл обновлен свежими данными: {file_path} ===")
+    update_status_file("OK", success=True)
+    print(f"=== Успешно! Файл обновлен: {file_path} ===")
 
 if __name__ == "__main__":
     main()

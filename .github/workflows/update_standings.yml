@@ -1,9 +1,8 @@
-name: Update F1 Standings
+name: Update F1 Data
 
 on:
   push:
     branches: [ "main", "master" ]
-  # Автоматический запуск каждые 30 минут (в :15 и :45 минут каждого часа)
   schedule:
     - cron: '15,45 * * * *'
   workflow_dispatch:
@@ -27,9 +26,12 @@ jobs:
       - name: Запуск скрипта обновления турнирной таблицы
         run: python fetch_standings.py
 
+      - name: Запуск скрипта обновления расписания
+        run: python fetch_schedule.py
+
       - name: Сохранение изменений обратно в GitHub
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add api/v1/standings.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update F1 standings" && git push)
+          git add api/v1/*.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-sync F1 data & status heartbeat" && git push)

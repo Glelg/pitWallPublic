@@ -1,0 +1,1166 @@
+{
+  "metadata": {
+    "last_updated": "2026-09-13T21:05:39.397179Z",
+    "year": 2024,
+    "total_meetings": 25
+  },
+  "meetings": [
+    {
+      "meeting_key": 1228,
+      "meeting_name": "Pre-Season Testing",
+      "location": "Sakhir",
+      "country_name": "Bahrain",
+      "country_code": "br",
+      "circuit_name": "Sakhir",
+      "date_start": "2024-02-21T07:00:00+00:00",
+      "date_end": "2024-02-23T16:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": true,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9462,
+          "session_name": "Day 1",
+          "session_type": "Practice",
+          "date_start": "2024-02-21T07:00:00+00:00"
+        },
+        {
+          "session_key": 9463,
+          "session_name": "Day 2",
+          "session_type": "Practice",
+          "date_start": "2024-02-22T07:00:00+00:00"
+        },
+        {
+          "session_key": 9464,
+          "session_name": "Day 3",
+          "session_type": "Practice",
+          "date_start": "2024-02-23T07:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1229,
+      "meeting_name": "Bahrain Grand Prix",
+      "location": "Sakhir",
+      "country_name": "Bahrain",
+      "country_code": "br",
+      "circuit_name": "Sakhir",
+      "date_start": "2024-02-29T11:30:00+00:00",
+      "date_end": "2024-03-02T17:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9465,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-02-29T11:30:00+00:00"
+        },
+        {
+          "session_key": 9466,
+          "session_name": "Practice 2",
+          "session_type": "Practice",
+          "date_start": "2024-02-29T15:00:00+00:00"
+        },
+        {
+          "session_key": 9467,
+          "session_name": "Practice 3",
+          "session_type": "Practice",
+          "date_start": "2024-03-01T12:30:00+00:00"
+        },
+        {
+          "session_key": 9468,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-03-01T16:00:00+00:00"
+        },
+        {
+          "session_key": 9472,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-03-02T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1230,
+      "meeting_name": "Saudi Arabian Grand Prix",
+      "location": "Jeddah",
+      "country_name": "Saudi Arabia",
+      "country_code": "ks",
+      "circuit_name": "Jeddah",
+      "date_start": "2024-03-07T13:30:00+00:00",
+      "date_end": "2024-03-09T19:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9473,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-03-07T13:30:00+00:00"
+        },
+        {
+          "session_key": 9474,
+          "session_name": "Practice 2",
+          "session_type": "Practice",
+          "date_start": "2024-03-07T17:10:00+00:00"
+        },
+        {
+          "session_key": 9475,
+          "session_name": "Practice 3",
+          "session_type": "Practice",
+          "date_start": "2024-03-08T13:30:00+00:00"
+        },
+        {
+          "session_key": 9476,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-03-08T17:00:00+00:00"
+        },
+        {
+          "session_key": 9480,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-03-09T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1231,
+      "meeting_name": "Australian Grand Prix",
+      "location": "Melbourne",
+      "country_name": "Australia",
+      "country_code": "au",
+      "circuit_name": "Melbourne",
+      "date_start": "2024-03-22T01:30:00+00:00",
+      "date_end": "2024-03-24T06:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9481,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-03-22T01:30:00+00:00"
+        },
+        {
+          "session_key": 9482,
+          "session_name": "Practice 2",
+          "session_type": "Practice",
+          "date_start": "2024-03-22T05:00:00+00:00"
+        },
+        {
+          "session_key": 9483,
+          "session_name": "Practice 3",
+          "session_type": "Practice",
+          "date_start": "2024-03-23T01:30:00+00:00"
+        },
+        {
+          "session_key": 9484,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-03-23T05:00:00+00:00"
+        },
+        {
+          "session_key": 9488,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-03-24T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1232,
+      "meeting_name": "Japanese Grand Prix",
+      "location": "Suzuka",
+      "country_name": "Japan",
+      "country_code": "jp",
+      "circuit_name": "Suzuka",
+      "date_start": "2024-04-05T02:30:00+00:00",
+      "date_end": "2024-04-07T07:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9489,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-04-05T02:30:00+00:00"
+        },
+        {
+          "session_key": 9490,
+          "session_name": "Practice 2",
+          "session_type": "Practice",
+          "date_start": "2024-04-05T06:00:00+00:00"
+        },
+        {
+          "session_key": 9491,
+          "session_name": "Practice 3",
+          "session_type": "Practice",
+          "date_start": "2024-04-06T02:30:00+00:00"
+        },
+        {
+          "session_key": 9492,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-04-06T06:00:00+00:00"
+        },
+        {
+          "session_key": 9496,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-04-07T05:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1233,
+      "meeting_name": "Chinese Grand Prix",
+      "location": "Shanghai",
+      "country_name": "China",
+      "country_code": "cn",
+      "circuit_name": "Shanghai",
+      "date_start": "2024-04-19T03:30:00+00:00",
+      "date_end": "2024-04-21T09:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9663,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-04-19T03:30:00+00:00"
+        },
+        {
+          "session_key": 9668,
+          "session_name": "Sprint Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-04-19T07:30:00+00:00"
+        },
+        {
+          "session_key": 9672,
+          "session_name": "Sprint",
+          "session_type": "Race",
+          "date_start": "2024-04-20T03:00:00+00:00"
+        },
+        {
+          "session_key": 9664,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-04-20T07:00:00+00:00"
+        },
+        {
+          "session_key": 9673,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-04-21T07:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1234,
+      "meeting_name": "Miami Grand Prix",
+      "location": "Miami",
+      "country_name": "United States",
+      "country_code": "us",
+      "circuit_name": "Miami",
+      "date_start": "2024-05-03T16:30:00+00:00",
+      "date_end": "2024-05-05T22:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9497,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-05-03T16:30:00+00:00"
+        },
+        {
+          "session_key": 9502,
+          "session_name": "Sprint Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-05-03T20:30:00+00:00"
+        },
+        {
+          "session_key": 9506,
+          "session_name": "Sprint",
+          "session_type": "Race",
+          "date_start": "2024-05-04T16:00:00+00:00"
+        },
+        {
+          "session_key": 9498,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-05-04T20:00:00+00:00"
+        },
+        {
+          "session_key": 9507,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-05-05T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1235,
+      "meeting_name": "Emilia Romagna Grand Prix",
+      "location": "Imola",
+      "country_name": "Italy",
+      "country_code": "it",
+      "circuit_name": "Imola",
+      "date_start": "2024-05-17T11:30:00+00:00",
+      "date_end": "2024-05-19T15:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9508,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-05-17T11:30:00+00:00"
+        },
+        {
+          "session_key": 9509,
+          "session_name": "Practice 2",
+          "session_type": "Practice",
+          "date_start": "2024-05-17T15:00:00+00:00"
+        },
+        {
+          "session_key": 9510,
+          "session_name": "Practice 3",
+          "session_type": "Practice",
+          "date_start": "2024-05-18T10:30:00+00:00"
+        },
+        {
+          "session_key": 9511,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-05-18T14:00:00+00:00"
+        },
+        {
+          "session_key": 9515,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-05-19T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1236,
+      "meeting_name": "Monaco Grand Prix",
+      "location": "Monaco",
+      "country_name": "Monaco",
+      "country_code": "mc",
+      "circuit_name": "Monte Carlo",
+      "date_start": "2024-05-24T11:30:00+00:00",
+      "date_end": "2024-05-26T15:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9516,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-05-24T11:30:00+00:00"
+        },
+        {
+          "session_key": 9517,
+          "session_name": "Practice 2",
+          "session_type": "Practice",
+          "date_start": "2024-05-24T15:00:00+00:00"
+        },
+        {
+          "session_key": 9518,
+          "session_name": "Practice 3",
+          "session_type": "Practice",
+          "date_start": "2024-05-25T10:30:00+00:00"
+        },
+        {
+          "session_key": 9519,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-05-25T14:00:00+00:00"
+        },
+        {
+          "session_key": 9523,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-05-26T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1237,
+      "meeting_name": "Canadian Grand Prix",
+      "location": "Montréal",
+      "country_name": "Canada",
+      "country_code": "ca",
+      "circuit_name": "Montreal",
+      "date_start": "2024-06-07T17:30:00+00:00",
+      "date_end": "2024-06-09T20:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9524,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-06-07T17:30:00+00:00"
+        },
+        {
+          "session_key": 9525,
+          "session_name": "Practice 2",
+          "session_type": "Practice",
+          "date_start": "2024-06-07T21:00:00+00:00"
+        },
+        {
+          "session_key": 9526,
+          "session_name": "Practice 3",
+          "session_type": "Practice",
+          "date_start": "2024-06-08T16:30:00+00:00"
+        },
+        {
+          "session_key": 9527,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-06-08T20:00:00+00:00"
+        },
+        {
+          "session_key": 9531,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-06-09T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1238,
+      "meeting_name": "Spanish Grand Prix",
+      "location": "Barcelona",
+      "country_name": "Spain",
+      "country_code": "es",
+      "circuit_name": "Catalunya",
+      "date_start": "2024-06-21T11:30:00+00:00",
+      "date_end": "2024-06-23T15:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9532,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-06-21T11:30:00+00:00"
+        },
+        {
+          "session_key": 9533,
+          "session_name": "Practice 2",
+          "session_type": "Practice",
+          "date_start": "2024-06-21T15:00:00+00:00"
+        },
+        {
+          "session_key": 9534,
+          "session_name": "Practice 3",
+          "session_type": "Practice",
+          "date_start": "2024-06-22T10:30:00+00:00"
+        },
+        {
+          "session_key": 9535,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-06-22T14:00:00+00:00"
+        },
+        {
+          "session_key": 9539,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-06-23T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1239,
+      "meeting_name": "Austrian Grand Prix",
+      "location": "Spielberg",
+      "country_name": "Austria",
+      "country_code": "at",
+      "circuit_name": "Spielberg",
+      "date_start": "2024-06-28T10:30:00+00:00",
+      "date_end": "2024-06-30T15:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9540,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-06-28T10:30:00+00:00"
+        },
+        {
+          "session_key": 9545,
+          "session_name": "Sprint Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-06-28T14:30:00+00:00"
+        },
+        {
+          "session_key": 9549,
+          "session_name": "Sprint",
+          "session_type": "Race",
+          "date_start": "2024-06-29T10:00:00+00:00"
+        },
+        {
+          "session_key": 9541,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-06-29T14:00:00+00:00"
+        },
+        {
+          "session_key": 9550,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-06-30T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1240,
+      "meeting_name": "British Grand Prix",
+      "location": "Silverstone",
+      "country_name": "United Kingdom",
+      "country_code": "gb",
+      "circuit_name": "Silverstone",
+      "date_start": "2024-07-05T11:30:00+00:00",
+      "date_end": "2024-07-07T16:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9551,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-07-05T11:30:00+00:00"
+        },
+        {
+          "session_key": 9552,
+          "session_name": "Practice 2",
+          "session_type": "Practice",
+          "date_start": "2024-07-05T15:00:00+00:00"
+        },
+        {
+          "session_key": 9553,
+          "session_name": "Practice 3",
+          "session_type": "Practice",
+          "date_start": "2024-07-06T10:30:00+00:00"
+        },
+        {
+          "session_key": 9554,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-07-06T14:00:00+00:00"
+        },
+        {
+          "session_key": 9558,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-07-07T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1241,
+      "meeting_name": "Hungarian Grand Prix",
+      "location": "Budapest",
+      "country_name": "Hungary",
+      "country_code": "hu",
+      "circuit_name": "Hungaroring",
+      "date_start": "2024-07-19T11:30:00+00:00",
+      "date_end": "2024-07-21T15:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9559,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-07-19T11:30:00+00:00"
+        },
+        {
+          "session_key": 9560,
+          "session_name": "Practice 2",
+          "session_type": "Practice",
+          "date_start": "2024-07-19T15:00:00+00:00"
+        },
+        {
+          "session_key": 9561,
+          "session_name": "Practice 3",
+          "session_type": "Practice",
+          "date_start": "2024-07-20T10:30:00+00:00"
+        },
+        {
+          "session_key": 9562,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-07-20T14:00:00+00:00"
+        },
+        {
+          "session_key": 9566,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-07-21T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1242,
+      "meeting_name": "Belgian Grand Prix",
+      "location": "Spa-Francorchamps",
+      "country_name": "Belgium",
+      "country_code": "be",
+      "circuit_name": "Spa-Francorchamps",
+      "date_start": "2024-07-26T11:30:00+00:00",
+      "date_end": "2024-07-28T15:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9567,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-07-26T11:30:00+00:00"
+        },
+        {
+          "session_key": 9568,
+          "session_name": "Practice 2",
+          "session_type": "Practice",
+          "date_start": "2024-07-26T15:00:00+00:00"
+        },
+        {
+          "session_key": 9569,
+          "session_name": "Practice 3",
+          "session_type": "Practice",
+          "date_start": "2024-07-27T10:30:00+00:00"
+        },
+        {
+          "session_key": 9570,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-07-27T14:00:00+00:00"
+        },
+        {
+          "session_key": 9574,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-07-28T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1243,
+      "meeting_name": "Dutch Grand Prix",
+      "location": "Zandvoort",
+      "country_name": "Netherlands",
+      "country_code": "nl",
+      "circuit_name": "Zandvoort",
+      "date_start": "2024-08-23T10:30:00+00:00",
+      "date_end": "2024-08-25T15:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9575,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-08-23T10:30:00+00:00"
+        },
+        {
+          "session_key": 9576,
+          "session_name": "Practice 2",
+          "session_type": "Practice",
+          "date_start": "2024-08-23T14:00:00+00:00"
+        },
+        {
+          "session_key": 9577,
+          "session_name": "Practice 3",
+          "session_type": "Practice",
+          "date_start": "2024-08-24T09:30:00+00:00"
+        },
+        {
+          "session_key": 9578,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-08-24T13:00:00+00:00"
+        },
+        {
+          "session_key": 9582,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-08-25T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1244,
+      "meeting_name": "Italian Grand Prix",
+      "location": "Monza",
+      "country_name": "Italy",
+      "country_code": "it",
+      "circuit_name": "Monza",
+      "date_start": "2024-08-30T11:30:00+00:00",
+      "date_end": "2024-09-01T15:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9583,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-08-30T11:30:00+00:00"
+        },
+        {
+          "session_key": 9584,
+          "session_name": "Practice 2",
+          "session_type": "Practice",
+          "date_start": "2024-08-30T15:00:00+00:00"
+        },
+        {
+          "session_key": 9585,
+          "session_name": "Practice 3",
+          "session_type": "Practice",
+          "date_start": "2024-08-31T10:30:00+00:00"
+        },
+        {
+          "session_key": 9586,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-08-31T14:00:00+00:00"
+        },
+        {
+          "session_key": 9590,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-09-01T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1245,
+      "meeting_name": "Azerbaijan Grand Prix",
+      "location": "Baku",
+      "country_name": "Azerbaijan",
+      "country_code": "az",
+      "circuit_name": "Baku",
+      "date_start": "2024-09-13T09:30:00+00:00",
+      "date_end": "2024-09-15T13:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9591,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-09-13T09:30:00+00:00"
+        },
+        {
+          "session_key": 9592,
+          "session_name": "Practice 2",
+          "session_type": "Practice",
+          "date_start": "2024-09-13T13:00:00+00:00"
+        },
+        {
+          "session_key": 9593,
+          "session_name": "Practice 3",
+          "session_type": "Practice",
+          "date_start": "2024-09-14T08:30:00+00:00"
+        },
+        {
+          "session_key": 9594,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-09-14T12:00:00+00:00"
+        },
+        {
+          "session_key": 9598,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-09-15T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1246,
+      "meeting_name": "Singapore Grand Prix",
+      "location": "Marina Bay",
+      "country_name": "Singapore",
+      "country_code": "sg",
+      "circuit_name": "Singapore",
+      "date_start": "2024-09-20T09:30:00+00:00",
+      "date_end": "2024-09-22T14:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9599,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-09-20T09:30:00+00:00"
+        },
+        {
+          "session_key": 9600,
+          "session_name": "Practice 2",
+          "session_type": "Practice",
+          "date_start": "2024-09-20T13:00:00+00:00"
+        },
+        {
+          "session_key": 9601,
+          "session_name": "Practice 3",
+          "session_type": "Practice",
+          "date_start": "2024-09-21T09:30:00+00:00"
+        },
+        {
+          "session_key": 9602,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-09-21T13:00:00+00:00"
+        },
+        {
+          "session_key": 9606,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-09-22T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1247,
+      "meeting_name": "United States Grand Prix",
+      "location": "Austin",
+      "country_name": "United States",
+      "country_code": "us",
+      "circuit_name": "Austin",
+      "date_start": "2024-10-18T17:30:00+00:00",
+      "date_end": "2024-10-20T21:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9607,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-10-18T17:30:00+00:00"
+        },
+        {
+          "session_key": 9612,
+          "session_name": "Sprint Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-10-18T21:30:00+00:00"
+        },
+        {
+          "session_key": 9616,
+          "session_name": "Sprint",
+          "session_type": "Race",
+          "date_start": "2024-10-19T18:00:00+00:00"
+        },
+        {
+          "session_key": 9608,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-10-19T22:00:00+00:00"
+        },
+        {
+          "session_key": 9617,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-10-20T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1248,
+      "meeting_name": "Mexico City Grand Prix",
+      "location": "Mexico City",
+      "country_name": "Mexico",
+      "country_code": "mx",
+      "circuit_name": "Mexico City",
+      "date_start": "2024-10-25T18:30:00+00:00",
+      "date_end": "2024-10-27T22:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9618,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-10-25T18:30:00+00:00"
+        },
+        {
+          "session_key": 9619,
+          "session_name": "Practice 2",
+          "session_type": "Practice",
+          "date_start": "2024-10-25T22:00:00+00:00"
+        },
+        {
+          "session_key": 9620,
+          "session_name": "Practice 3",
+          "session_type": "Practice",
+          "date_start": "2024-10-26T17:30:00+00:00"
+        },
+        {
+          "session_key": 9621,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-10-26T21:00:00+00:00"
+        },
+        {
+          "session_key": 9625,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-10-27T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1249,
+      "meeting_name": "São Paulo Grand Prix",
+      "location": "São Paulo",
+      "country_name": "Brazil",
+      "country_code": "br",
+      "circuit_name": "Interlagos",
+      "date_start": "2024-11-01T14:30:00+00:00",
+      "date_end": "2024-11-03T17:30:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9626,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-11-01T14:30:00+00:00"
+        },
+        {
+          "session_key": 9631,
+          "session_name": "Sprint Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-11-01T18:30:00+00:00"
+        },
+        {
+          "session_key": 9635,
+          "session_name": "Sprint",
+          "session_type": "Race",
+          "date_start": "2024-11-02T14:00:00+00:00"
+        },
+        {
+          "session_key": 9627,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-11-03T10:30:00+00:00"
+        },
+        {
+          "session_key": 9636,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-11-03T15:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1250,
+      "meeting_name": "Las Vegas Grand Prix",
+      "location": "Las Vegas",
+      "country_name": "United States",
+      "country_code": "us",
+      "circuit_name": "Las Vegas",
+      "date_start": "2024-11-22T02:30:00+00:00",
+      "date_end": "2024-11-24T07:59:59+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9637,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-11-22T02:30:00+00:00"
+        },
+        {
+          "session_key": 9638,
+          "session_name": "Practice 2",
+          "session_type": "Practice",
+          "date_start": "2024-11-22T06:00:00+00:00"
+        },
+        {
+          "session_key": 9639,
+          "session_name": "Practice 3",
+          "session_type": "Practice",
+          "date_start": "2024-11-23T02:30:00+00:00"
+        },
+        {
+          "session_key": 9640,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-11-23T06:00:00+00:00"
+        },
+        {
+          "session_key": 9644,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-11-24T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1251,
+      "meeting_name": "Qatar Grand Prix",
+      "location": "Lusail",
+      "country_name": "Qatar",
+      "country_code": "qa",
+      "circuit_name": "Lusail",
+      "date_start": "2024-11-29T13:30:00+00:00",
+      "date_end": "2024-12-01T18:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": null,
+      "sessions": [
+        {
+          "session_key": 9645,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-11-29T13:30:00+00:00"
+        },
+        {
+          "session_key": 9650,
+          "session_name": "Sprint Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-11-29T17:30:00+00:00"
+        },
+        {
+          "session_key": 9654,
+          "session_name": "Sprint",
+          "session_type": "Race",
+          "date_start": "2024-11-30T14:00:00+00:00"
+        },
+        {
+          "session_key": 9646,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-11-30T18:00:00+00:00"
+        },
+        {
+          "session_key": 9655,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-12-01T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "meeting_key": 1252,
+      "meeting_name": "Abu Dhabi Grand Prix",
+      "location": "Yas Island",
+      "country_name": "United Arab Emirates",
+      "country_code": "ua",
+      "circuit_name": "Yas Marina Circuit",
+      "date_start": "2024-12-06T09:30:00+00:00",
+      "date_end": "2024-12-08T15:00:00+00:00",
+      "status": "COMPLETED",
+      "is_cancelled": false,
+      "is_testing": false,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 2,
+          "driver_number": 55,
+          "driver_acronym": "SAI",
+          "team_name": "Ferrari"
+        },
+        {
+          "position": 3,
+          "driver_number": 16,
+          "driver_acronym": "LEC",
+          "team_name": "Ferrari"
+        }
+      ],
+      "sessions": [
+        {
+          "session_key": 9461,
+          "session_name": "Practice 1",
+          "session_type": "Practice",
+          "date_start": "2024-12-06T09:30:00+00:00"
+        },
+        {
+          "session_key": 9656,
+          "session_name": "Practice 2",
+          "session_type": "Practice",
+          "date_start": "2024-12-06T13:00:00+00:00"
+        },
+        {
+          "session_key": 9657,
+          "session_name": "Practice 3",
+          "session_type": "Practice",
+          "date_start": "2024-12-07T10:30:00+00:00"
+        },
+        {
+          "session_key": 9658,
+          "session_name": "Qualifying",
+          "session_type": "Qualifying",
+          "date_start": "2024-12-07T14:00:00+00:00"
+        },
+        {
+          "session_key": 9662,
+          "session_name": "Race",
+          "session_type": "Race",
+          "date_start": "2024-12-08T13:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}
