@@ -1,0 +1,14 @@
+{
+  "ferrari": { "primary_colour": "EF1A2D", "secondary_colour": "FFFFFF", "text_colour": "EF1A2D", "icon_text": "F" },
+  "red bull": { "primary_colour": "001A30", "secondary_colour": "FF0000", "text_colour": "001A30", "icon_text": "R" },
+  "mercedes": { "primary_colour": "FFFFFF", "secondary_colour": "27F4D2", "text_colour": "FFFFFF", "icon_text": "M" },
+  "mclaren": { "primary_colour": "FFFFFF", "secondary_colour": "FF8000", "text_colour": "FFFFFF", "icon_text": "M" },
+  "aston martin": { "primary_colour": "00665E", "secondary_colour": "FFFFFF", "text_colour": "00665E", "icon_text": "A" },
+  "alpine": { "primary_colour": "0093CC", "secondary_colour": "FFFFFF", "text_colour": "0093CC", "icon_text": "A" },
+  "williams": { "primary_colour": "64C4FF", "secondary_colour": "FFFFFF", "text_colour": "64C4FF", "icon_text": "W" },
+  "haas": { "primary_colour": "FFFFFF", "secondary_colour": "FF0000", "text_colour": "FFFFFF", "icon_text": "H" },
+  "racing bulls": { "primary_colour": "6692FF", "secondary_colour": "FFFFFF", "text_colour": "6692FF", "icon_text": "R" },
+  "rb": { "primary_colour": "6692FF", "secondary_colour": "FFFFFF", "text_colour": "6692FF", "icon_text": "R" },
+  "sauber": { "primary_colour": "52E252", "secondary_colour": "000000", "text_colour": "52E252", "icon_text": "S" },
+  "kick": { "primary_colour": "52E252", "secondary_colour": "000000", "text_colour": "52E252", "icon_text": "S" }
+}

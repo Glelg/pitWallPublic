@@ -1,0 +1,31 @@
+name: Update F1 Standings
+
+on:
+  schedule:
+    # Запуск каждые 30 минут
+    - cron: '*/30 * * * *'
+  # Возможность запустить вручную одной кнопкой из интерфейса GitHub
+  workflow_dispatch:
+
+jobs:
+  build-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Чтение репозитория
+        uses: actions/checkout@v4
+
+      - name: Настройка Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Запуск скрипта обновления турнирной таблицы
+        run: python fetch_standings.py
+
+      - name: Сохранение изменений обратно в GitHub
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add api/v1/standings.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update F1 standings" && git push)
