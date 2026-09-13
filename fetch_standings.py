@@ -47,7 +47,7 @@ def main():
         print("Ошибка: Не удалось получить сессии из OpenF1")
         return
 
-    # 1. Отбираем только очковые сессии (Race и Sprint), полностью игнорируя практики и квалификации
+    # 1. Отбираем только очковые сессии (Race и Sprint)
     race_sessions = [s for s in sessions if s.get('session_type') in ['Race', 'Sprint']]
     race_session_keys = set(s['session_key'] for s in race_sessions if 'session_key' in s)
 
@@ -185,7 +185,7 @@ def main():
             "team_name": team_name,
             "team_colour": team_colour,
             "points": points_current,
-            "last_points_gained": points_current - points_start,
+            "last_points_gained": last_points_gained,  # Исправлено здесь!
             "position_change": position_change
         })
 
@@ -207,7 +207,7 @@ def main():
     with open(file_path, "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=2)
 
-    print(f"=== Полный порядок! Практики и квалификации отфильтрованы: {file_path} ===")
+    print(f"=== Исправлено! Файл сохранен: {file_path} ===")
 
 if __name__ == "__main__":
     main()
