@@ -1,6 +1,8 @@
 import urllib.request
+import urllib.error
 import json
 import os
+import sys
 import time
 from datetime import datetime
 
@@ -20,14 +22,22 @@ ISO_ALPHA3_TO_ALPHA2 = {
 def fetch_json(endpoint):
     url = f"{BASE_URL}/{endpoint}"
     print(f"Запрос: {url}")
-    req = urllib.request.Request(url, headers={'User-Agent': 'F1StatsBackend/1.0'})
+
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'application/json, text/plain, */*'
+    }
+    req = urllib.request.Request(url, headers=headers)
     try:
-        time.sleep(0.2)
+        time.sleep(0.3) # Легкая пауза
         with urllib.request.urlopen(req) as response:
             return json.loads(response.read().decode('utf-8'))
+    except urllib.error.HTTPError as e:
+        print(f"  -> [OpenF1 Ошибка {e.code}]: Сервер недоступен или ограничил доступ.")
+        return None
     except Exception as e:
-        print(f"Ошибка запроса {url}: {e}")
-        return []
+        print(f"  -> [Сетевая ошибка]: {e}")
+        return None
 
 def get_country_flag(country_code_str: str) -> str:
     if not country_code_str:
@@ -36,19 +46,22 @@ def get_country_flag(country_code_str: str) -> str:
     return ISO_ALPHA3_TO_ALPHA2.get(code, code.lower()[:2])
 
 def main():
-    print("=== Архитектурно чистая сборка турнирной таблицы ===")
+    print("=== Мягкая сборка с защитой от ошибок сервера ===")
 
     # 1. Автоматически определяем текущий календарный год
     current_year = datetime.utcnow().year
 
-    # Запрашиваем сессии актуального года
     sessions = fetch_json(f"sessions?year={current_year}")
-    if not sessions:
-        sessions = fetch_json("sessions")
+    if sessions is None:
+        print("[ВНИМАНИЕ] OpenF1 заблокирован или занят. Сохраняем текущие данные без изменений.")
+        sys.exit(0) # Мягкий выход с кодом 0
 
     if not sessions:
-        print("Ошибка: Не удалось получить сессии из OpenF1")
-        return
+        sessions = fetch_json("sessions") or []
+
+    if not sessions:
+        print("[ВНИМАНИЕ] Не удалось получить сессии. Сохраняем текущие данные.")
+        sys.exit(0)
 
     latest_session = max(sessions, key=lambda s: s['session_key'])
     latest_key = latest_session['session_key']
@@ -56,30 +69,35 @@ def main():
 
     print(f"Актуальный сезон: {actual_year}, Последняя сессия: {latest_key}")
 
-    # 2. Запрашиваем таблицы для последней сессии
+    # 2. Запрашиваем таблицы
     all_driver_standings = fetch_json("championship_drivers")
+    if not all_driver_standings:
+        print("[ВНИМАНИЕ] Таблица пилотов недоступна в данный момент. Сохраняем текущий файл.")
+        sys.exit(0)
+
     latest_driver_standings = [s for s in all_driver_standings if s.get('session_key') == latest_key]
     if not latest_driver_standings:
         latest_key = max(s['session_key'] for s in all_driver_standings if 'session_key' in s)
         latest_driver_standings = [s for s in all_driver_standings if s.get('session_key') == latest_key]
 
-    all_team_standings = fetch_json("championship_teams")
+    all_team_standings = fetch_json("championship_teams") or []
     latest_team_standings = [t for t in all_team_standings if t.get('session_key') == latest_key]
 
-    # 3. Находим первую гонку сезона для проверки переходов
+    # 3. Первая гонка сезона для проверки переходов
     gp_races = [s for s in sessions if s.get('session_type') == 'Race' and s.get('year') == actual_year]
     gp_races.sort(key=lambda x: x.get('date_start', ''))
 
     first_key = gp_races[0]['session_key'] if gp_races else latest_key
 
-    # 4. Составы первой и последней гонки
-    latest_drivers_raw = fetch_json(f"drivers?session_key={latest_key}")
+    # 4. Составы пилотов
+    latest_drivers_raw = fetch_json(f"drivers?session_key={latest_key}") or []
     first_drivers_raw = fetch_json(f"drivers?session_key={first_key}") if first_key != latest_key else latest_drivers_raw
+    if first_drivers_raw is None: first_drivers_raw = []
 
     latest_drivers = { d['driver_number']: d for d in latest_drivers_raw if 'driver_number' in d }
     first_drivers = { d['driver_number']: d for d in first_drivers_raw if 'driver_number' in d }
 
-    # 5. Обработка пилотов (только спортивные данные, без цветов)
+    # 5. Обработка пилотов
     enriched_drivers = []
     for standing in latest_driver_standings:
         driver_num = standing.get('driver_number')
@@ -88,7 +106,6 @@ def main():
         first_driver = first_drivers.get(driver_num)
 
         driver_profile = latest_driver or first_driver or {}
-
         is_inactive = (latest_driver is None)
 
         full_name = driver_profile.get('full_name') or f"Driver #{driver_num}"
@@ -126,7 +143,7 @@ def main():
 
     enriched_drivers.sort(key=lambda x: x['position'])
 
-    # 6. Обработка команд (чистые данные без цветов)
+    # 6. Обработка команд
     enriched_teams = []
     for team in latest_team_standings:
         team_name = team.get('team_name', 'Unknown')
@@ -146,6 +163,11 @@ def main():
 
     enriched_teams.sort(key=lambda x: x['position'])
 
+    # Страховка: заново пишем файл только если данные реально собраны
+    if not enriched_drivers:
+        print("[ВНИМАНИЕ] Список пилотов пуст. Отмена перезаписи файла.")
+        sys.exit(0)
+
     # 7. Сохранение
     final_data = {
         "metadata": {
@@ -162,7 +184,7 @@ def main():
     with open(file_path, "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=2)
 
-    print(f"=== Полный успех! Сгенерирован чистый файл {file_path} ===")
+    print(f"=== Успешно! Файл обновлен свежими данными: {file_path} ===")
 
 if __name__ == "__main__":
     main()
