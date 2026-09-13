@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-13T15:55:54.911386Z",
+    "last_updated": "2026-09-13T16:26:00.591878Z",
     "session_key": 11369,
     "year": 2026
   },
@@ -11,7 +11,6 @@
       "full_name": "Kimi ANTONELLI",
       "name_acronym": "ANT",
       "team_name": "Mercedes",
-      "team_colour": "00D7B6",
       "points": 292.0,
       "last_points_gained": 25.0,
       "position_change": 0,
@@ -25,7 +24,6 @@
       "full_name": "George RUSSELL",
       "name_acronym": "RUS",
       "team_name": "Mercedes",
-      "team_colour": "00D7B6",
       "points": 211.0,
       "last_points_gained": 10.0,
       "position_change": 0,
@@ -39,7 +37,6 @@
       "full_name": "Lewis HAMILTON",
       "name_acronym": "HAM",
       "team_name": "Ferrari",
-      "team_colour": "ED1131",
       "points": 191.0,
       "last_points_gained": 0.0,
       "position_change": 0,
@@ -53,7 +50,6 @@
       "full_name": "Lando NORRIS",
       "name_acronym": "NOR",
       "team_name": "McLaren",
-      "team_colour": "F47600",
       "points": 186.0,
       "last_points_gained": 15.0,
       "position_change": 0,
@@ -67,7 +63,6 @@
       "full_name": "Charles LECLERC",
       "name_acronym": "LEC",
       "team_name": "Ferrari",
-      "team_colour": "ED1131",
       "points": 167.0,
       "last_points_gained": 12.0,
       "position_change": 0,
@@ -81,7 +76,6 @@
       "full_name": "Max VERSTAPPEN",
       "name_acronym": "VER",
       "team_name": "Red Bull Racing",
-      "team_colour": "4781D7",
       "points": 145.0,
       "last_points_gained": 18.0,
       "position_change": 0,
@@ -95,7 +89,6 @@
       "full_name": "Oscar PIASTRI",
       "name_acronym": "PIA",
       "team_name": "McLaren",
-      "team_colour": "F47600",
       "points": 120.0,
       "last_points_gained": 4.0,
       "position_change": 0,
@@ -109,7 +102,6 @@
       "full_name": "Isack HADJAR",
       "name_acronym": "HAD",
       "team_name": "Red Bull Racing",
-      "team_colour": "4781D7",
       "points": 71.0,
       "last_points_gained": 0.0,
       "position_change": 0,
@@ -123,7 +115,6 @@
       "full_name": "Liam LAWSON",
       "name_acronym": "LAW",
       "team_name": "Red Bull Racing",
-      "team_colour": "4781D7",
       "points": 59.0,
       "last_points_gained": 8.0,
       "position_change": 0,
@@ -137,7 +128,6 @@
       "full_name": "Pierre GASLY",
       "name_acronym": "GAS",
       "team_name": "Alpine",
-      "team_colour": "00A1E8",
       "points": 41.0,
       "last_points_gained": 0.0,
       "position_change": 0,
@@ -151,7 +141,6 @@
       "full_name": "Arvid LINDBLAD",
       "name_acronym": "LIN",
       "team_name": "Racing Bulls",
-      "team_colour": "6C98FF",
       "points": 31.0,
       "last_points_gained": 2.0,
       "position_change": 0,
@@ -165,7 +154,6 @@
       "full_name": "Franco COLAPINTO",
       "name_acronym": "COL",
       "team_name": "Alpine",
-      "team_colour": "00A1E8",
       "points": 27.0,
       "last_points_gained": 6.0,
       "position_change": 0,
@@ -179,7 +167,6 @@
       "full_name": "Oliver BEARMAN",
       "name_acronym": "BEA",
       "team_name": "Haas F1 Team",
-      "team_colour": "9C9FA2",
       "points": 18.0,
       "last_points_gained": 0.0,
       "position_change": 0,
@@ -193,7 +180,6 @@
       "full_name": "Gabriel BORTOLETO",
       "name_acronym": "BOR",
       "team_name": "Audi",
-      "team_colour": "F50537",
       "points": 10.0,
       "last_points_gained": 0.0,
       "position_change": 0,
@@ -207,7 +193,6 @@
       "full_name": "Nico HULKENBERG",
       "name_acronym": "HUL",
       "team_name": "Audi",
-      "team_colour": "F50537",
       "points": 7.0,
       "last_points_gained": 1.0,
       "position_change": 0,
@@ -221,7 +206,6 @@
       "full_name": "Carlos SAINZ",
       "name_acronym": "SAI",
       "team_name": "Williams",
-      "team_colour": "1868DB",
       "points": 6.0,
       "last_points_gained": 0.0,
       "position_change": 0,
@@ -235,7 +219,6 @@
       "full_name": "Alexander ALBON",
       "name_acronym": "ALB",
       "team_name": "Williams",
-      "team_colour": "1868DB",
       "points": 5.0,
       "last_points_gained": 0.0,
       "position_change": 0,
@@ -249,7 +232,6 @@
       "full_name": "Esteban OCON",
       "name_acronym": "OCO",
       "team_name": "Haas F1 Team",
-      "team_colour": "9C9FA2",
       "points": 3.0,
       "last_points_gained": 0.0,
       "position_change": 0,
@@ -263,7 +245,6 @@
       "full_name": "Fernando ALONSO",
       "name_acronym": "ALO",
       "team_name": "Aston Martin",
-      "team_colour": "229971",
       "points": 3.0,
       "last_points_gained": 0.0,
       "position_change": 0,
@@ -277,7 +258,6 @@
       "full_name": "Yuki TSUNODA",
       "name_acronym": "TSU",
       "team_name": "Racing Bulls",
-      "team_colour": "6C98FF",
       "points": 1.0,
       "last_points_gained": 0.0,
       "position_change": 0,
@@ -291,7 +271,6 @@
       "full_name": "Lance STROLL",
       "name_acronym": "STR",
       "team_name": "Aston Martin",
-      "team_colour": "229971",
       "points": 0.0,
       "last_points_gained": 0.0,
       "position_change": 0,
@@ -305,7 +284,6 @@
       "full_name": "Valtteri BOTTAS",
       "name_acronym": "BOT",
       "team_name": "Cadillac",
-      "team_colour": "909090",
       "points": 0.0,
       "last_points_gained": 0.0,
       "position_change": 0,
@@ -319,7 +297,6 @@
       "full_name": "Sergio PEREZ",
       "name_acronym": "PER",
       "team_name": "Cadillac",
-      "team_colour": "909090",
       "points": 0.0,
       "last_points_gained": 0.0,
       "position_change": 0,
@@ -332,7 +309,6 @@
     {
       "position": 1,
       "team_name": "Mercedes",
-      "team_colour": "00D7B6",
       "points": 503.0,
       "last_points_gained": 35.0,
       "position_change": 0
@@ -340,7 +316,6 @@
     {
       "position": 2,
       "team_name": "Ferrari",
-      "team_colour": "ED1131",
       "points": 358.0,
       "last_points_gained": 12.0,
       "position_change": 0
@@ -348,7 +323,6 @@
     {
       "position": 3,
       "team_name": "McLaren",
-      "team_colour": "F47600",
       "points": 306.0,
       "last_points_gained": 19.0,
       "position_change": 0
@@ -356,7 +330,6 @@
     {
       "position": 4,
       "team_name": "Red Bull Racing",
-      "team_colour": "4781D7",
       "points": 230.0,
       "last_points_gained": 26.0,
       "position_change": 0
@@ -364,7 +337,6 @@
     {
       "position": 5,
       "team_name": "Racing Bulls",
-      "team_colour": "6C98FF",
       "points": 77.0,
       "last_points_gained": 2.0,
       "position_change": 0
@@ -372,7 +344,6 @@
     {
       "position": 6,
       "team_name": "Alpine",
-      "team_colour": "00A1E8",
       "points": 68.0,
       "last_points_gained": 6.0,
       "position_change": 0
@@ -380,7 +351,6 @@
     {
       "position": 7,
       "team_name": "Haas F1 Team",
-      "team_colour": "9C9FA2",
       "points": 21.0,
       "last_points_gained": 0.0,
       "position_change": 0
@@ -388,7 +358,6 @@
     {
       "position": 8,
       "team_name": "Audi",
-      "team_colour": "F50537",
       "points": 17.0,
       "last_points_gained": 1.0,
       "position_change": 0
@@ -396,7 +365,6 @@
     {
       "position": 9,
       "team_name": "Williams",
-      "team_colour": "1868DB",
       "points": 11.0,
       "last_points_gained": 0.0,
       "position_change": 0
@@ -404,7 +372,6 @@
     {
       "position": 10,
       "team_name": "Aston Martin",
-      "team_colour": "229971",
       "points": 3.0,
       "last_points_gained": 0.0,
       "position_change": 0
@@ -412,7 +379,6 @@
     {
       "position": 11,
       "team_name": "Cadillac",
-      "team_colour": "909090",
       "points": 0.0,
       "last_points_gained": 0.0,
       "position_change": 0
