@@ -1,12 +1,9 @@
         {
-          "versionCode": 21,
-          "versionName": "0.6.4",
-          "apkUrl": "https://github.com/Glelg/pitWallPublic/releases/download/v0.6.4/pitwall-0.6.4-release.apk",
-          "changelog": "-Driver Cards — Added detailed driver profile cards with current season standings and results.
-\n-Pitwall News Feed — Introduced a news section to the Pitwall tab to keep you up to date.
-\n-Settings Menu — Added a dedicated Settings screen for personalization and app preferences.
-\n-Qualifying Times Fix — Resolved bugs causing incorrect lap and sector time formatting in qualifying.
-\n-Standings & Substitutions Fix — Fixed championship standings calculation issues triggered by mid-season driver swaps.
-\n-UI Polish — Minor interface refinements and cosmetic tweaks across the app.",
+          "versionCode": 22,
+          "versionName": "0.7.1",
+          "apkUrl": "https://github.com/Glelg/pitWallPublic/releases/download/v0.7.1/pitwall-0.7.1-release.apk",
+          "changelog": "- Pitwall Cloud Engine — Migrated data layer to a dedicated cloud service for instant, crash-free loading.
+\n- Battery & Smoothness — Eliminated background processing to make the app faster and extend battery life.
+\n- UI Refinements — Made general interface fixes and visual polish in the Standings and Pitwall sections.",
           "isForceUpdate": false
         }
