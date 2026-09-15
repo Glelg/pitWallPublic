@@ -12,6 +12,12 @@ from utils.flags import get_country_flag
 
 BASE_URL = "https://api.openf1.org/v1"
 
+def is_main_race_session(s):
+    """Проверяет, является ли сессия ГЛАВНОЙ воскресной гонкой Гран-При (не Спринтом)"""
+    s_type = str(s.get('session_type', '')).lower()
+    s_name = str(s.get('session_name', '')).lower()
+    return s_type == 'race' and s_name == 'race' and 'sprint' not in s_name
+
 def fetch_json(endpoint, retries=6):
     url = f"{BASE_URL}/{endpoint}"
     print(f"Запрос: {url}")
@@ -35,7 +41,7 @@ def fetch_json(endpoint, retries=6):
                 return json.loads(response.read().decode('utf-8'))
         except urllib.error.HTTPError as e:
             if e.code in [429, 401]:
-                wait_time = backoff_delays[attempt] if attempt < len(backoff_delays) else 16
+                wait_time = backoff_delays[attempt] if attempt < len(backoff_delays) else 20
                 print(f"  -> [{e.code} Защита API] Пауза {wait_time} сек... (Попытка {attempt+1}/{retries})")
                 time.sleep(wait_time)
             elif e.code == 404:
@@ -80,7 +86,7 @@ def main():
         target_year = datetime.utcnow().year
         is_custom_year = False
 
-    print(f"=== Защищенная сборка расписания за {target_year} год (5 попыток с паузой до 16с) ===")
+    print(f"=== Защищенная сборка расписания за {target_year} год (только Главные гонки) ===")
 
     now_utc = datetime.utcnow().isoformat()
 
@@ -112,46 +118,55 @@ def main():
                 sessions_by_meeting[m_key] = []
             sessions_by_meeting[m_key].append(s)
 
-    # 3. Находим ВСЕ завершенные гонки года
+    # 3. Находим ВСЕ завершенные ГЛАВНЫЕ ВОСКРЕСНЫЕ ГОНКИ года (исключаем Спринты!)
     completed_races = [
         s for s in sessions_raw
-        if s.get('session_type') == 'Race' and s.get('date_start', '') < now_utc
+        if is_main_race_session(s) and s.get('date_start', '') < now_utc
     ]
     completed_races.sort(key=lambda x: x.get('date_start', ''))
 
-    # Ищем профили пилотов
-    latest_completed_key = completed_races[-1]['session_key'] if completed_races else None
-    drivers_raw = fetch_json(f"drivers?session_key={latest_completed_key}") if latest_completed_key else []
-    drivers_dict = { d['driver_number']: d for d in drivers_raw if 'driver_number' in d }
-
-    # 4. Собираем ПОДИУМЫ ДЛЯ ВСЕХ ЗАВЕРШЕННЫХ ГОНОК СЕЗОНА
+    # 4. Собираем ПОДИУМЫ ДЛЯ ВСЕХ ЗАВЕРШЕННЫХ ГЛАВНЫХ ГОНОК СЕЗОНА
     podiums_by_session_key = {}
     for race in completed_races:
         race_key = race.get('session_key')
         if not race_key: continue
 
         results_raw = fetch_json(f"session_result?session_key={race_key}") or []
-        podium_raw = [r for r in results_raw if r.get('position') in [1, 2, 3]]
-        podium_raw.sort(key=lambda x: x.get('position', 99))
 
-        podium_list = []
-        for p in podium_raw:
-            d_num = p.get('driver_number')
-            d_info = drivers_dict.get(d_num, {})
+        # Безопасная фильтрация позиций 1, 2, 3
+        podium_raw = []
+        for r in results_raw:
+            pos = r.get('position')
+            try:
+                if pos is not None and int(float(pos)) in [1, 2, 3]:
+                    podium_raw.append(r)
+            except Exception:
+                pass
 
-            if not d_info:
-                single_d = fetch_json(f"drivers?driver_number={d_num}")
-                if single_d: d_info = single_d[-1]
+        podium_raw.sort(key=lambda x: int(float(x.get('position', 99))))
 
-            podium_list.append({
-                "position": p.get('position'),
-                "driver_number": d_num,
-                "driver_acronym": d_info.get('name_acronym') or f"#{d_num}",
-                "team_name": d_info.get('team_name') or "Formula 1"
-            })
+        if podium_raw:
+            # Выкачиваем пилотов СТРОГО для этой конкретной гонки по ее session_key
+            race_drivers_raw = fetch_json(f"drivers?session_key={race_key}") or []
+            race_drivers_dict = { d['driver_number']: d for d in race_drivers_raw if 'driver_number' in d }
 
-        if podium_list:
-            podiums_by_session_key[race_key] = podium_list
+            podium_list = []
+            for p in podium_raw:
+                d_num = p.get('driver_number')
+                d_info = race_drivers_dict.get(d_num, {})
+
+                acronym = d_info.get('name_acronym') or p.get('driver_acronym') or f"#{d_num}"
+                team_name = d_info.get('team_name') or p.get('team_name') or "Formula 1"
+
+                podium_list.append({
+                    "position": int(float(p.get('position'))),
+                    "driver_number": d_num,
+                    "driver_acronym": acronym,
+                    "team_name": team_name
+                })
+
+            if podium_list:
+                podiums_by_session_key[race_key] = podium_list
 
     # 5. Форматируем уикенды
     formatted_meetings = []
@@ -184,9 +199,10 @@ def main():
                 "date_start": s.get('date_start', '')
             })
 
+        # Привязываем подиум СТРОГО от Главной воскресной гонки
         top_results = None
         if status == "COMPLETED" and not is_testing:
-            race_session = next((s for s in m_sessions if s.get('session_type') == 'Race'), None)
+            race_session = next((s for s in m_sessions if is_main_race_session(s)), None)
             if race_session:
                 race_key = race_session.get('session_key')
                 top_results = podiums_by_session_key.get(race_key)
@@ -230,7 +246,7 @@ def main():
             json.dump(final_data, f, ensure_ascii=False, indent=2)
 
     update_schedule_status_file("OK", success=True)
-    print(f"=== Полный успех! Файл сгенерирован: {file_path_year} ===")
+    print(f"=== Полный успех! Подиумы Главных гонок сохранены: {file_path_year} ===")
 
 if __name__ == "__main__":
     main()

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-15T21:13:01.699260Z",
+    "last_updated": "2026-09-15T21:34:13.051694Z",
     "year": 2023,
     "total_meetings": 24
   },
@@ -255,15 +255,15 @@
         },
         {
           "position": 2,
-          "driver_number": 16,
-          "driver_acronym": "LEC",
-          "team_name": "Ferrari"
-        },
-        {
-          "position": 3,
           "driver_number": 1,
           "driver_acronym": "VER",
           "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 3,
+          "driver_number": 16,
+          "driver_acronym": "LEC",
+          "team_name": "Ferrari"
         }
       ],
       "sessions": [
@@ -626,15 +626,15 @@
         },
         {
           "position": 2,
-          "driver_number": 11,
-          "driver_acronym": "PER",
-          "team_name": "Red Bull Racing"
+          "driver_number": 16,
+          "driver_acronym": "LEC",
+          "team_name": "Ferrari"
         },
         {
           "position": 3,
-          "driver_number": 55,
-          "driver_acronym": "SAI",
-          "team_name": "Ferrari"
+          "driver_number": 11,
+          "driver_acronym": "PER",
+          "team_name": "Red Bull Racing"
         }
       ],
       "sessions": [
@@ -821,15 +821,15 @@
         },
         {
           "position": 2,
-          "driver_number": 81,
-          "driver_acronym": "PIA",
-          "team_name": "McLaren"
+          "driver_number": 11,
+          "driver_acronym": "PER",
+          "team_name": "Red Bull Racing"
         },
         {
           "position": 3,
-          "driver_number": 10,
-          "driver_acronym": "GAS",
-          "team_name": "Alpine"
+          "driver_number": 16,
+          "driver_acronym": "LEC",
+          "team_name": "Ferrari"
         }
       ],
       "sessions": [
@@ -1140,15 +1140,15 @@
       "top_results": [
         {
           "position": 1,
-          "driver_number": 81,
-          "driver_acronym": "PIA",
-          "team_name": "McLaren"
-        },
-        {
-          "position": 2,
           "driver_number": 1,
           "driver_acronym": "VER",
           "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 2,
+          "driver_number": 81,
+          "driver_acronym": "PIA",
+          "team_name": "McLaren"
         },
         {
           "position": 3,
@@ -1211,14 +1211,14 @@
         },
         {
           "position": 2,
-          "driver_number": 44,
-          "driver_acronym": "HAM",
-          "team_name": "Mercedes"
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
         },
         {
           "position": 3,
-          "driver_number": 16,
-          "driver_acronym": "LEC",
+          "driver_number": 55,
+          "driver_acronym": "SAI",
           "team_name": "Ferrari"
         }
       ],
@@ -1347,9 +1347,9 @@
         },
         {
           "position": 3,
-          "driver_number": 11,
-          "driver_acronym": "PER",
-          "team_name": "Red Bull Racing"
+          "driver_number": 14,
+          "driver_acronym": "ALO",
+          "team_name": "Aston Martin"
         }
       ],
       "sessions": [

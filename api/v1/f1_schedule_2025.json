@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-13T22:42:06.876556Z",
+    "last_updated": "2026-09-15T21:39:12.779462Z",
     "year": 2025,
     "total_meetings": 25
   },
@@ -119,21 +119,21 @@
       "top_results": [
         {
           "position": 1,
-          "driver_number": 44,
-          "driver_acronym": "HAM",
-          "team_name": "Ferrari"
-        },
-        {
-          "position": 2,
           "driver_number": 81,
           "driver_acronym": "PIA",
           "team_name": "McLaren"
         },
         {
+          "position": 2,
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
+        },
+        {
           "position": 3,
-          "driver_number": 1,
-          "driver_acronym": "VER",
-          "team_name": "Red Bull Racing"
+          "driver_number": 63,
+          "driver_acronym": "RUS",
+          "team_name": "Mercedes"
         }
       ],
       "sessions": [
@@ -379,21 +379,21 @@
       "top_results": [
         {
           "position": 1,
-          "driver_number": 4,
-          "driver_acronym": "NOR",
-          "team_name": "McLaren"
-        },
-        {
-          "position": 2,
           "driver_number": 81,
           "driver_acronym": "PIA",
           "team_name": "McLaren"
         },
         {
+          "position": 2,
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
+        },
+        {
           "position": 3,
-          "driver_number": 44,
-          "driver_acronym": "HAM",
-          "team_name": "Ferrari"
+          "driver_number": 63,
+          "driver_acronym": "RUS",
+          "team_name": "Mercedes"
         }
       ],
       "sessions": [
@@ -834,21 +834,21 @@
       "top_results": [
         {
           "position": 1,
-          "driver_number": 1,
-          "driver_acronym": "VER",
-          "team_name": "Red Bull Racing"
-        },
-        {
-          "position": 2,
           "driver_number": 81,
           "driver_acronym": "PIA",
           "team_name": "McLaren"
         },
         {
-          "position": 3,
+          "position": 2,
           "driver_number": 4,
           "driver_acronym": "NOR",
           "team_name": "McLaren"
+        },
+        {
+          "position": 3,
+          "driver_number": 16,
+          "driver_acronym": "LEC",
+          "team_name": "Ferrari"
         }
       ],
       "sessions": [
@@ -1230,15 +1230,15 @@
         },
         {
           "position": 2,
-          "driver_number": 63,
-          "driver_acronym": "RUS",
-          "team_name": "Mercedes"
+          "driver_number": 4,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
         },
         {
           "position": 3,
-          "driver_number": 55,
-          "driver_acronym": "SAI",
-          "team_name": "Williams"
+          "driver_number": 16,
+          "driver_acronym": "LEC",
+          "team_name": "Ferrari"
         }
       ],
       "sessions": [
@@ -1366,9 +1366,9 @@
         },
         {
           "position": 3,
-          "driver_number": 63,
-          "driver_acronym": "RUS",
-          "team_name": "Mercedes"
+          "driver_number": 1,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
         }
       ],
       "sessions": [
@@ -1484,21 +1484,21 @@
       "top_results": [
         {
           "position": 1,
+          "driver_number": 1,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 2,
           "driver_number": 81,
           "driver_acronym": "PIA",
           "team_name": "McLaren"
         },
         {
-          "position": 2,
-          "driver_number": 63,
-          "driver_acronym": "RUS",
-          "team_name": "Mercedes"
-        },
-        {
           "position": 3,
-          "driver_number": 4,
-          "driver_acronym": "NOR",
-          "team_name": "McLaren"
+          "driver_number": 55,
+          "driver_acronym": "SAI",
+          "team_name": "Williams"
         }
       ],
       "sessions": [
