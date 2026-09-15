@@ -1,13 +1,13 @@
 name: Update F1 Data
 
 on:
+  # 1. Запуск от внешнего точного будильника cron-job.org
+  repository_dispatch:
+    types: [cron_trigger]
+  # 2. Запуск при твоих пушах
   push:
     branches: [ "main", "master" ]
-  schedule:
-    # 1. Пятница, Суббота, Воскресенье, Понедельник (Гоночные дни) -> Каждые 30 минут
-    - cron: '15,45 * * * 5,6,0,1'
-    # 2. Вторник, Среда, Четверг (Будни) -> Раз в 2 часа
-    - cron: '15 */2 * * 2,3,4'
+  # 3. Ручной запуск кнопкой
   workflow_dispatch:
 
 permissions:
