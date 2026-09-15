@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-13T22:39:15.687170Z",
+    "last_updated": "2026-09-15T21:13:01.699260Z",
     "year": 2023,
     "total_meetings": 24
   },
@@ -1397,7 +1397,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 1,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 2,
+          "driver_number": 16,
+          "driver_acronym": "LEC",
+          "team_name": "Ferrari"
+        },
+        {
+          "position": 3,
+          "driver_number": 11,
+          "driver_acronym": "PER",
+          "team_name": "Red Bull Racing"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9182,

@@ -12,7 +12,7 @@ from utils.flags import get_country_flag
 
 BASE_URL = "https://api.openf1.org/v1"
 
-def fetch_json(endpoint, retries=5):
+def fetch_json(endpoint, retries=6):
     url = f"{BASE_URL}/{endpoint}"
     print(f"Запрос: {url}")
 
@@ -25,8 +25,8 @@ def fetch_json(endpoint, retries=5):
     ctx.check_hostname = False
     ctx.verify_mode = ssl.CERT_NONE
 
-    # План пауз при блокировках: 2с, 4с, 8с, 12с, 16с
-    backoff_delays = [2, 4, 8, 12, 16]
+    # План пауз при блокировках: 2с, 4с, 8с, 12с, 16с, 20c
+    backoff_delays = [2, 4, 8, 12, 16, 20]
 
     for attempt in range(retries):
         try:

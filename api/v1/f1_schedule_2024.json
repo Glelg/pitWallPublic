@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-13T22:41:07.771854Z",
+    "last_updated": "2026-09-15T21:18:10.681914Z",
     "year": 2024,
     "total_meetings": 25
   },
@@ -1416,7 +1416,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 63,
+          "driver_acronym": "RUS",
+          "team_name": "Mercedes"
+        },
+        {
+          "position": 2,
+          "driver_number": 44,
+          "driver_acronym": "HAM",
+          "team_name": "Mercedes"
+        },
+        {
+          "position": 3,
+          "driver_number": 55,
+          "driver_acronym": "SAI",
+          "team_name": "Ferrari"
+        }
+      ],
       "sessions": [
         {
           "session_key": 9637,
