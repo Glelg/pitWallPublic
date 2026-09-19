@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-19T21:55:13.107542Z",
+    "last_updated": "2026-09-19T22:01:21.480485Z",
     "total_news": 22
   },
   "news": [
@@ -158,15 +158,6 @@
       "published_at": 1789721080000
     },
     {
-      "id": "https://www.skysports.com/f1/news/12433/13588823/azerbaijan-gp-2026-saturday-race-dates-schedule-baku-weather-uk-start-time-and-how-to-watch-or-stream-f1-live-on-sky-sports",
-      "title": "Azerbaijan GP schedule: Why is the race on a Saturday?",
-      "snippet": "Formula 1 will race in Azerbaijan on a Saturday as the sport returns to the Baku City Circuit for what often proves one of the season's most incident-filled events.",
-      "link": "https://www.skysports.com/f1/news/12433/13588823/azerbaijan-gp-2026-saturday-race-dates-schedule-baku-weather-uk-start-time-and-how-to-watch-or-stream-f1-live-on-sky-sports",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-baku-city-circuit_7354261.jpg?20260917084838",
-      "published_at": 1789711200000
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/c8r60g7nrn6o?at_medium=RSS&at_campaign=rss",
       "title": "Norris takes Madrid pole with 'gorgeous' lap",
       "snippet": "Lando Norris takes a superb pole position for McLaren at the Spanish Grand Prix, beating Mercedes' Kimi Antonelli and Red Bull's Max Verstappen.",
@@ -201,6 +192,15 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-4.motorsport.com/images/amp/0arEXMw2/s6/franco-colapinto-alpine.jpg",
       "published_at": 1789456711000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/f1-spanish-gp-norris-on-pole/10855001/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "F1 Spanish GP: Norris snatches last-gasp pole from Antonelli",
+      "snippet": "Formula 1’s reigning world champion Lando Norris has claimed his third pole position of the 2026 season at the Spanish Grand Prix, beating series leader Kimi Antonelli at the debutant Madring circuit.With a last-ditch effort Norris took a mere 0.011s out of Antonelli's benchmark to hand Mercedes its fourth consecutive qualifying defeat.It was F1's first-ever qualifying session on the ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/f1-spanish-gp-norris-on-pole/10855001/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0JXRzwpY/s6/lando-norris-mclaren-2.jpg",
+      "published_at": 1789225442000
     }
   ]
 }
