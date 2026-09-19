@@ -35,6 +35,9 @@ jobs:
       - name: Запуск скрипта обновления новостной ленты
         run: python fetch_news.py
 
+      - name: Запуск скрипта обновления результатов сессий
+        run: python fetch_results.py
+
       - name: Сохранение изменений обратно в GitHub
         run: |
           git config --global user.name "github-actions[bot]"
