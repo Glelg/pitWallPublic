@@ -1,9 +1,12 @@
         {
-          "versionCode": 22,
-          "versionName": "0.7.1",
-          "apkUrl": "https://github.com/Glelg/pitWallPublic/releases/download/v0.7.1/pitwall-0.7.1-release.apk",
+          "versionCode": 23,
+          "versionName": "0.7.2",
+          "apkUrl": "https://github.com/Glelg/pitWallPublic/releases/download/v0.7.2/pitwall-0.7.2-release.apk",
           "changelog": "- Pitwall Cloud Engine — Migrated data layer to a dedicated cloud service for instant, crash-free loading.
 \n- Battery & Smoothness — Eliminated background processing to make the app faster and extend battery life.
-\n- UI Refinements — Made general interface fixes and visual polish in the Standings and Pitwall sections.",
+\n- UI Refinements — Made general interface fixes and visual polish in the Standings and Pitwall sections.
+\n- Smooth Season Switching — Enjoy seamless slide transitions and instant year switching in the Schedule section.
+\n- Polished Year Selector — Redesigned year picker with a sleek, compact look aligned perfectly with race cards.
+\n- Pitwall News Feed — Enhanced the news carousel with smooth snap scrolling, tactile haptic feedback, fresh 5-minute updates, and loading shimmers.",
           "isForceUpdate": false
         }
