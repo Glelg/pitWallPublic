@@ -12,7 +12,7 @@ from utils.flags import get_country_flag
 BASE_URL = "https://api.openf1.org/v1"
 
 def fetch_json(endpoint, retries=5):
-    url = f"{BASE_URL}/{endpoint}"
+    url = f"{BASE_URL}/{endpoint}" if not endpoint.startswith("http") else endpoint
     print(f"Запрос: {url}", flush=True)
 
     headers = {
@@ -37,21 +37,23 @@ def fetch_json(endpoint, retries=5):
                 print(f"  -> [{e.code} Лимит] Пауза {wait_time} сек... (Попытка {attempt+1}/{retries})", flush=True)
                 time.sleep(wait_time)
             elif e.code == 404:
-                print(f"  -> [404 Not Found] Результаты недоступны.", flush=True)
                 return []
             else:
-                print(f"  -> [HTTP Error {e.code}]: {url}", flush=True)
                 return []
-        except Exception as e:
-            print(f"  -> [Ошибка]: {e}", flush=True)
+        except Exception:
+            time.sleep(1)
             return []
     return []
 
-def format_lap_time(seconds):
-    if seconds is None:
+def format_lap_time(val):
+    if val is None or val == "":
         return ""
+    if isinstance(val, list):
+        if not val:
+            return ""
+        val = val[-1]
     try:
-        sec_float = float(seconds)
+        sec_float = float(val)
         mins = int(sec_float // 60)
         remainder = sec_float % 60
         if mins > 0:
@@ -59,7 +61,27 @@ def format_lap_time(seconds):
         else:
             return f"{remainder:.3f}s"
     except Exception:
-        return str(seconds)
+        return str(val)
+
+def format_gap_time(val, pos_int):
+    if pos_int == 1:
+        return "LEADER"
+    if isinstance(val, list):
+        if not val:
+            return ""
+        val = val[-1]
+    if val is None or val == "":
+        return ""
+    try:
+        sec_float = float(val)
+        if sec_float == 0.0:
+            return "LEADER"
+        return f"+{sec_float:.3f}s"
+    except Exception:
+        s = str(val).strip()
+        if not s.startswith('+') and s != "LEADER":
+            return f"+{s}"
+        return s
 
 def load_json_file(filepath, default=None):
     if os.path.exists(filepath):
@@ -81,7 +103,8 @@ def sync_single_session_results(session, meeting_info, target_year):
     if not s_key:
         return False
 
-    s_name = session.get('session_name', 'Session')
+    s_name = str(session.get('session_name', 'Session'))
+    s_type = str(session.get('session_type', 'Practice'))
     print(f"Синхронизация результатов сессии {s_key} ({s_name} - {meeting_info.get('meeting_name', '')})...", flush=True)
 
     results_raw = fetch_json(f"session_result?session_key={s_key}") or []
@@ -91,6 +114,64 @@ def sync_single_session_results(session, meeting_info, target_year):
 
     drivers_raw = fetch_json(f"drivers?session_key={s_key}") or []
     drivers_dict = { d['driver_number']: d for d in drivers_raw if 'driver_number' in d }
+
+    is_race_or_sprint = ('race' in s_type.lower() or 'race' in s_name.lower() or 'sprint' in s_name.lower()) and 'qualifying' not in s_name.lower() and 'shootout' not in s_name.lower()
+    is_quali = 'qualifying' in s_type.lower() or 'qualifying' in s_name.lower() or 'shootout' in s_name.lower()
+
+    # --- СТРОГОЕ УСЛОВИЕ ПИТ-ЛЕЙН (СЕКТОР 1 > МЕДИАНА + 4.0с ИЛИ (СЕКТОР 1 == NONE И i1_SPEED != NONE)) ---
+    pit_lane_starters_by_telemetry = set()
+    if is_race_or_sprint:
+        laps_1 = fetch_json(f"laps?session_key={s_key}&lap_number=1") or []
+        s1_times = [float(l['duration_sector_1']) for l in laps_1 if l.get('duration_sector_1') is not None]
+
+        if s1_times:
+            s1_times.sort()
+            median_s1 = s1_times[len(s1_times) // 2]
+            for l in laps_1:
+                d_num = l.get('driver_number')
+                s1_val = l.get('duration_sector_1')
+                i1_val = l.get('i1_speed')
+
+                if d_num is not None:
+                    is_pit_by_s1_delta = False
+                    if s1_val is not None:
+                        try:
+                            if float(s1_val) > (median_s1 + 4.0):
+                                is_pit_by_s1_delta = True
+                        except Exception:
+                            pass
+
+                    is_pit_by_missing_s1_with_i1 = (s1_val is None) and (i1_val is not None)
+
+                    if is_pit_by_s1_delta or is_pit_by_missing_s1_with_i1:
+                        pit_lane_starters_by_telemetry.add(d_num)
+
+    # --- СТАРТОВАЯ РЕШЕТКА ---
+    grid_dict = {}
+    if is_race_or_sprint:
+        pos_raw = fetch_json(f"position?session_key={s_key}") or []
+        pos_raw.sort(key=lambda x: str(x.get('date', '')))
+        for p_item in pos_raw:
+            d_n = p_item.get('driver_number')
+            p_pos = p_item.get('position')
+            if d_n is not None and p_pos is not None:
+                if d_n not in grid_dict:
+                    try:
+                        grid_dict[d_n] = int(float(p_pos))
+                    except Exception:
+                        pass
+
+    # --- ПРОЙДЕННЫЕ КРУГИ ---
+    laps_raw = fetch_json(f"laps?session_key={s_key}") or []
+    laps_dict = {}
+    for l in laps_raw:
+        d_num = l.get('driver_number')
+        l_num = l.get('lap_number')
+        if d_num is not None and l_num is not None:
+            try:
+                laps_dict[d_num] = max(laps_dict.get(d_num, 0), int(l_num))
+            except Exception:
+                pass
 
     def get_sort_pos(r):
         try:
@@ -117,9 +198,12 @@ def sync_single_session_results(session, meeting_info, target_year):
         pos = r.get('position')
         pos_int = int(float(pos)) if pos is not None else None
 
-        duration = r.get('duration')
-        gap = r.get('gap_to_leader')
-        status = r.get('status', 'FINISHED')
+        grid_pos = grid_dict.get(d_num) or r.get('grid_position')
+        completed_laps = laps_dict.get(d_num) or r.get('laps_completed')
+
+        is_pit_lane = (d_num in pit_lane_starters_by_telemetry)
+
+        grid_penalty = None
 
         # Ручные штрафы если есть
         d_override = session_overrides.get(str(d_num))
@@ -127,16 +211,17 @@ def sync_single_session_results(session, meeting_info, target_year):
             status = d_override.get('status', status)
             pos_int = d_override.get('position', pos_int)
 
+        if is_pit_lane and not status:
+            status = "PIT LANE"
+
         if status and 'retired' in str(status).lower():
             time_or_retired = str(status).upper()
-        elif duration is not None:
-            time_or_retired = format_lap_time(duration)
-        elif gap is not None:
-            time_or_retired = f"+{gap}" if not str(gap).startswith('+') else str(gap)
+        elif raw_duration is not None:
+            time_or_retired = format_lap_time(raw_duration)
         else:
             time_or_retired = ""
 
-        gap_to_leader = "LEADER" if pos_int == 1 else (f"+{gap}" if gap and not str(gap).startswith('+') else (str(gap) if gap else ""))
+        gap_to_leader = format_gap_time(raw_gap, pos_int)
 
         formatted_results.append({
             "position": pos_int,
@@ -145,16 +230,17 @@ def sync_single_session_results(session, meeting_info, target_year):
             "driver_acronym": acronym,
             "team_name": team_name,
             "country_code": country_code,
-            "grid_position": r.get('grid_position'),
+            "grid_position": grid_pos,
+            "grid_penalty": grid_penalty,
+            "is_pit_lane_start": is_pit_lane,
             "time_or_retired": time_or_retired,
             "gap_to_leader": gap_to_leader,
-            "laps_completed": r.get('laps_completed'),
+            "laps_completed": completed_laps,
             "points": float(r.get('points', 0.0)),
             "is_fastest_lap": bool(r.get('is_fastest_lap', False)),
             "status": status
         })
 
-    # Статус стюардов: в первые 24 часа "PROVISIONAL", затем "FINAL"
     start_dt_str = session.get('date_start', '')
     stewards_status = "FINAL"
     if start_dt_str:
@@ -206,7 +292,6 @@ def main():
         print("Нет завершенных сессий в текущем сезоне.", flush=True)
         sys.exit(0)
 
-    # 1. Синхронизируем свежие сессии за последние 7 дней (приоритет)
     seven_days_ago = (now_dt - timedelta(days=7)).isoformat()
     recent_sessions = [
         s for s in completed_sessions
@@ -219,7 +304,6 @@ def main():
         sync_single_session_results(r_session, m_info, target_year)
         synced_keys.add(r_session.get('session_key'))
 
-    # 2. Ротация скользящего курсора для 1 старой сессии
     cursor_file = "config/results_sync_cursor.json"
     cursor_data = load_json_file(cursor_file, default={"cursor_index": 0})
     cursor_idx = cursor_data.get("cursor_index", 0)
