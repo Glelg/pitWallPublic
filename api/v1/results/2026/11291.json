@@ -8,7 +8,7 @@
     "meeting_name": "Canadian Grand Prix",
     "circuit_name": "Montreal",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T18:02:33.959690Z"
+    "last_updated": "2026-09-20T23:01:10.798370Z"
   },
   "results": [
     {
@@ -25,7 +25,7 @@
       "gap_to_leader": "LEADER",
       "laps_completed": 68,
       "points": 25.0,
-      "is_fastest_lap": false,
+      "is_fastest_lap": true,
       "status": "FINISHED"
     },
     {
@@ -264,7 +264,7 @@
       "laps_completed": 64,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "PIT LANE"
+      "status": "FINISHED"
     },
     {
       "position": 16,

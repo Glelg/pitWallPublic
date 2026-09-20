@@ -8,7 +8,7 @@
     "meeting_name": "Miami Grand Prix",
     "circuit_name": "Miami",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T16:02:22.003100Z"
+    "last_updated": "2026-09-20T23:00:18.237864Z"
   },
   "results": [
     {
@@ -42,7 +42,7 @@
       "gap_to_leader": "+3.264s",
       "laps_completed": 57,
       "points": 18.0,
-      "is_fastest_lap": false,
+      "is_fastest_lap": true,
       "status": "FINISHED"
     },
     {
