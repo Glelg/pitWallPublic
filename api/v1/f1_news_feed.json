@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-20T00:31:23.981323Z",
+    "last_updated": "2026-09-20T01:02:25.216776Z",
     "total_news": 22
   },
   "news": [
@@ -149,15 +149,6 @@
       "published_at": 1789729239000
     },
     {
-      "id": "https://www.autosport.com/f1/news/hes-causing-us-grey-hair-why-kimi-antonellis-speed-is-a-luxury-problem-for-mercedes/10856785/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "How Antonelli's luxury problem is causing Wolff and Mercedes grey hairs",
-      "snippet": "For better or for worse, there seems to be no slowing down Kimi Antonelli.Just ask Pete Bonnington, who channelled his inner schoolteacher in Madrid as he relentlessly had to remind the 20-year-old Italian to pay attention to track limits.Having benefited from an earlier virtual safety car on a circuit where overtaking proved impossible, all Antonelli had to do was to keep it clean until ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/hes-causing-us-grey-hair-why-kimi-antonellis-speed-is-a-luxury-problem-for-mercedes/10856785/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0o5AmgwY/s6/kimi-antonelli-mercedes.jpg",
-      "published_at": 1789721080000
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/c8r60g7nrn6o?at_medium=RSS&at_campaign=rss",
       "title": "Norris takes Madrid pole with 'gorgeous' lap",
       "snippet": "Lando Norris takes a superb pole position for McLaren at the Spanish Grand Prix, beating Mercedes' Kimi Antonelli and Red Bull's Max Verstappen.",
@@ -201,6 +192,15 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/0JXRzwpY/s6/lando-norris-mclaren-2.jpg",
       "published_at": 1789225442000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/f1-spanish-gp-fp2-report-10854602/10854602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "F1 Spanish GP: Antonelli leads tricky second practice as Lindblad crashes",
+      "snippet": "Kimi Antonelli has topped second practice at Formula 1's Spanish Grand Prix, pipping Ferrari's Charles Leclerc on Friday afternoon at the new Madring circuit, while Arvid Lindblad crashed.Antonelli set the fastest lap around the halfway mark in the second one-hour session as drivers and teams kept chipping away at their set-ups on the extremely difficult circuit in Madrid.The 5.4km track ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/f1-spanish-gp-fp2-report-10854602/10854602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/01QNkoe0/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": 1789143284000
     }
   ]
 }
