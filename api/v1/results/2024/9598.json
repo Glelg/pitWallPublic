@@ -8,7 +8,7 @@
     "meeting_name": "Azerbaijan Grand Prix",
     "circuit_name": "Baku",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T13:41:22.581207Z"
+    "last_updated": "2026-09-20T22:44:27.837160Z"
   },
   "results": [
     {
@@ -76,7 +76,7 @@
       "gap_to_leader": "+36.143s",
       "laps_completed": 51,
       "points": 13.0,
-      "is_fastest_lap": false,
+      "is_fastest_lap": true,
       "status": "FINISHED"
     },
     {

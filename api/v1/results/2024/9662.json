@@ -8,7 +8,7 @@
     "meeting_name": "Abu Dhabi Grand Prix",
     "circuit_name": "Yas Marina Circuit",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T13:46:17.747358Z"
+    "last_updated": "2026-09-20T22:49:15.007354Z"
   },
   "results": [
     {
@@ -280,7 +280,7 @@
       "gap_to_leader": "+1 LAP",
       "laps_completed": 57,
       "points": 0.0,
-      "is_fastest_lap": false,
+      "is_fastest_lap": true,
       "status": "FINISHED"
     },
     {

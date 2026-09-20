@@ -8,7 +8,7 @@
     "meeting_name": "Singapore Grand Prix",
     "circuit_name": "Singapore",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T13:42:12.678955Z"
+    "last_updated": "2026-09-20T22:45:18.293855Z"
   },
   "results": [
     {
@@ -314,7 +314,7 @@
       "gap_to_leader": "+1 LAP",
       "laps_completed": 61,
       "points": 0.0,
-      "is_fastest_lap": false,
+      "is_fastest_lap": true,
       "status": "FINISHED"
     },
     {

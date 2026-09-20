@@ -8,7 +8,7 @@
     "meeting_name": "Mexico City Grand Prix",
     "circuit_name": "Mexico City",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T13:43:19.821034Z"
+    "last_updated": "2026-09-20T22:46:26.332955Z"
   },
   "results": [
     {
@@ -59,7 +59,7 @@
       "gap_to_leader": "+34.387s",
       "laps_completed": 71,
       "points": 16.0,
-      "is_fastest_lap": false,
+      "is_fastest_lap": true,
       "status": "FINISHED"
     },
     {

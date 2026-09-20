@@ -8,7 +8,7 @@
     "meeting_name": "Azerbaijan Grand Prix",
     "circuit_name": "Baku",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T13:41:18.422570Z"
+    "last_updated": "2026-09-20T22:44:23.739726Z"
   },
   "results": [
     {
@@ -26,7 +26,10 @@
       "laps_completed": 20,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "q1_time": "1:42.775",
+      "q2_time": "1:42.056",
+      "q3_time": "1:41.365"
     },
     {
       "position": 2,
@@ -43,7 +46,10 @@
       "laps_completed": 19,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "q1_time": "1:43.033",
+      "q2_time": "1:42.598",
+      "q3_time": "1:41.686"
     },
     {
       "position": 3,
@@ -60,7 +66,10 @@
       "laps_completed": 23,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "q1_time": "1:43.357",
+      "q2_time": "1:42.503",
+      "q3_time": "1:41.805"
     },
     {
       "position": 4,
@@ -77,7 +86,10 @@
       "laps_completed": 15,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "q1_time": "1:43.213",
+      "q2_time": "1:42.263",
+      "q3_time": "1:41.813"
     },
     {
       "position": 5,
@@ -94,7 +106,10 @@
       "laps_completed": 20,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "q1_time": "1:43.139",
+      "q2_time": "1:42.329",
+      "q3_time": "1:41.874"
     },
     {
       "position": 6,
@@ -111,7 +126,10 @@
       "laps_completed": 20,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "q1_time": "1:43.097",
+      "q2_time": "1:42.042",
+      "q3_time": "1:42.023"
     },
     {
       "position": 7,
@@ -128,7 +146,10 @@
       "laps_completed": 22,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "q1_time": "1:43.089",
+      "q2_time": "1:42.765",
+      "q3_time": "1:42.289"
     },
     {
       "position": 8,
@@ -145,7 +166,10 @@
       "laps_completed": 19,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "q1_time": "1:43.472",
+      "q2_time": "1:42.426",
+      "q3_time": "1:42.369"
     },
     {
       "position": 9,
@@ -162,7 +186,10 @@
       "laps_completed": 20,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "q1_time": "1:43.138",
+      "q2_time": "1:42.473",
+      "q3_time": "1:42.530"
     },
     {
       "position": 10,
@@ -179,7 +206,10 @@
       "laps_completed": 19,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "q1_time": "1:42.899",
+      "q2_time": "1:42.840",
+      "q3_time": "1:42.859"
     },
     {
       "position": 11,
@@ -196,7 +226,10 @@
       "laps_completed": 14,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "q1_time": "1:43.471",
+      "q2_time": "1:42.968",
+      "q3_time": null
     },
     {
       "position": 12,
@@ -213,7 +246,10 @@
       "laps_completed": 16,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "q1_time": "1:43.337",
+      "q2_time": "1:43.035",
+      "q3_time": null
     },
     {
       "position": 13,
@@ -230,7 +266,10 @@
       "laps_completed": 14,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "q1_time": "1:43.101",
+      "q2_time": "1:43.191",
+      "q3_time": null
     },
     {
       "position": 14,
@@ -247,7 +286,10 @@
       "laps_completed": 14,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "q1_time": "1:43.370",
+      "q2_time": "1:43.404",
+      "q3_time": null
     },
     {
       "position": 15,
@@ -264,7 +306,10 @@
       "laps_completed": 9,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "q1_time": "1:43.547",
+      "q2_time": null,
+      "q3_time": null
     },
     {
       "position": 16,
@@ -281,7 +326,10 @@
       "laps_completed": 7,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "q1_time": "1:43.609",
+      "q2_time": null,
+      "q3_time": null
     },
     {
       "position": 17,
@@ -298,7 +346,10 @@
       "laps_completed": 7,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "q1_time": "1:43.618",
+      "q2_time": null,
+      "q3_time": null
     },
     {
       "position": 18,
@@ -315,7 +366,10 @@
       "laps_completed": 10,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "q1_time": "1:44.246",
+      "q2_time": null,
+      "q3_time": null
     },
     {
       "position": 19,
@@ -332,7 +386,10 @@
       "laps_completed": 8,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "q1_time": "1:44.504",
+      "q2_time": null,
+      "q3_time": null
     },
     {
       "position": null,
@@ -349,7 +406,10 @@
       "laps_completed": 15,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "q1_time": null,
+      "q2_time": null,
+      "q3_time": null
     }
   ]
 }

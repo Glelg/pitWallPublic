@@ -8,7 +8,7 @@
     "meeting_name": "Austrian Grand Prix",
     "circuit_name": "Spielberg",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T13:37:35.148615Z"
+    "last_updated": "2026-09-20T22:40:28.225051Z"
   },
   "results": [
     {
@@ -59,7 +59,7 @@
       "gap_to_leader": "+5.348s",
       "laps_completed": 23,
       "points": 6.0,
-      "is_fastest_lap": false,
+      "is_fastest_lap": true,
       "status": "FINISHED"
     },
     {

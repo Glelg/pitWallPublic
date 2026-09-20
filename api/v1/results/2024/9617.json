@@ -8,7 +8,7 @@
     "meeting_name": "United States Grand Prix",
     "circuit_name": "Austin",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T13:43:04.768658Z"
+    "last_updated": "2026-09-20T22:46:11.012623Z"
   },
   "results": [
     {
@@ -314,7 +314,7 @@
       "gap_to_leader": "+1 LAP",
       "laps_completed": 55,
       "points": 0.0,
-      "is_fastest_lap": false,
+      "is_fastest_lap": true,
       "status": "FINISHED"
     },
     {

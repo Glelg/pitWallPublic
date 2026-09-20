@@ -8,7 +8,7 @@
     "meeting_name": "Qatar Grand Prix",
     "circuit_name": "Lusail",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T13:45:23.311714Z"
+    "last_updated": "2026-09-20T22:48:25.381207Z"
   },
   "results": [
     {
@@ -178,7 +178,7 @@
       "gap_to_leader": "+35.762s",
       "laps_completed": 57,
       "points": 2.0,
-      "is_fastest_lap": false,
+      "is_fastest_lap": true,
       "status": "FINISHED"
     },
     {
