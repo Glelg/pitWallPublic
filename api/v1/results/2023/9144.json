@@ -8,7 +8,7 @@
     "meeting_name": "Dutch Grand Prix",
     "circuit_name": "Zandvoort",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-19T19:23:23.530855Z"
+    "last_updated": "2026-09-20T00:07:14.861573Z"
   },
   "results": [
     {
@@ -21,7 +21,7 @@
       "grid_position": null,
       "time_or_retired": "1:21.631",
       "gap_to_leader": "LEADER",
-      "laps_completed": null,
+      "laps_completed": 18,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -36,7 +36,7 @@
       "grid_position": null,
       "time_or_retired": "1:22.010",
       "gap_to_leader": "+0.379",
-      "laps_completed": null,
+      "laps_completed": 18,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -51,7 +51,7 @@
       "grid_position": null,
       "time_or_retired": "1:22.631",
       "gap_to_leader": "+1.0",
-      "laps_completed": null,
+      "laps_completed": 18,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -66,7 +66,7 @@
       "grid_position": null,
       "time_or_retired": "1:22.634",
       "gap_to_leader": "+1.003",
-      "laps_completed": null,
+      "laps_completed": 14,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -81,7 +81,7 @@
       "grid_position": null,
       "time_or_retired": "1:22.723",
       "gap_to_leader": "+1.092",
-      "laps_completed": null,
+      "laps_completed": 18,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -96,7 +96,7 @@
       "grid_position": null,
       "time_or_retired": "1:22.750",
       "gap_to_leader": "+1.119",
-      "laps_completed": null,
+      "laps_completed": 19,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -111,7 +111,7 @@
       "grid_position": null,
       "time_or_retired": "1:22.892",
       "gap_to_leader": "+1.261",
-      "laps_completed": null,
+      "laps_completed": 20,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -126,7 +126,7 @@
       "grid_position": null,
       "time_or_retired": "1:22.965",
       "gap_to_leader": "+1.334",
-      "laps_completed": null,
+      "laps_completed": 25,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -141,7 +141,7 @@
       "grid_position": null,
       "time_or_retired": "1:23.093",
       "gap_to_leader": "+1.462",
-      "laps_completed": null,
+      "laps_completed": 12,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -156,7 +156,7 @@
       "grid_position": null,
       "time_or_retired": "1:23.158",
       "gap_to_leader": "+1.527",
-      "laps_completed": null,
+      "laps_completed": 24,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -171,7 +171,7 @@
       "grid_position": null,
       "time_or_retired": "1:23.210",
       "gap_to_leader": "+1.579",
-      "laps_completed": null,
+      "laps_completed": 15,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -186,7 +186,7 @@
       "grid_position": null,
       "time_or_retired": "1:23.438",
       "gap_to_leader": "+1.807",
-      "laps_completed": null,
+      "laps_completed": 17,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -201,7 +201,7 @@
       "grid_position": null,
       "time_or_retired": "1:23.544",
       "gap_to_leader": "+1.913",
-      "laps_completed": null,
+      "laps_completed": 18,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -216,7 +216,7 @@
       "grid_position": null,
       "time_or_retired": "1:23.570",
       "gap_to_leader": "+1.939",
-      "laps_completed": null,
+      "laps_completed": 20,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -231,7 +231,7 @@
       "grid_position": null,
       "time_or_retired": "1:23.640",
       "gap_to_leader": "+2.009",
-      "laps_completed": null,
+      "laps_completed": 20,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -246,7 +246,7 @@
       "grid_position": null,
       "time_or_retired": "1:23.806",
       "gap_to_leader": "+2.175",
-      "laps_completed": null,
+      "laps_completed": 12,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -261,7 +261,7 @@
       "grid_position": null,
       "time_or_retired": "1:24.058",
       "gap_to_leader": "+2.427",
-      "laps_completed": null,
+      "laps_completed": 15,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -276,7 +276,7 @@
       "grid_position": null,
       "time_or_retired": "1:26.343",
       "gap_to_leader": "+4.712",
-      "laps_completed": null,
+      "laps_completed": 26,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -291,7 +291,7 @@
       "grid_position": null,
       "time_or_retired": "1:28.482",
       "gap_to_leader": "+6.851",
-      "laps_completed": null,
+      "laps_completed": 9,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -306,7 +306,7 @@
       "grid_position": null,
       "time_or_retired": "",
       "gap_to_leader": "",
-      "laps_completed": null,
+      "laps_completed": 1,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"

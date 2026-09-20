@@ -29,7 +29,7 @@ def fetch_json(endpoint, retries=6):
 
     for attempt in range(retries):
         try:
-            time.sleep(1.0)
+            time.sleep(0.8)
             with urllib.request.urlopen(req, context=ctx, timeout=10) as response:
                 return json.loads(response.read().decode('utf-8'))
         except urllib.error.HTTPError as e:
@@ -38,7 +38,7 @@ def fetch_json(endpoint, retries=6):
                 print(f"  -> [{e.code} Кулдаун API] Охлаждаем соединение {wait_time} сек... (Попытка {attempt+1}/{retries})", flush=True)
                 time.sleep(wait_time)
             elif e.code == 404:
-                print(f"  -> [404 Not Found] Результаты недоступны.", flush=True)
+                print(f"  -> [404] Данные недоступны.", flush=True)
                 return []
             else:
                 print(f"  -> [HTTP Error {e.code}]: {url}", flush=True)
@@ -68,7 +68,7 @@ def main():
     else:
         target_year = 2024
 
-    print(f"=== Бережная выкачка исторических протоколов за {target_year} год ===", flush=True)
+    print(f"=== Выкачка протоколов со стартовой решеткой из /position за {target_year} год ===", flush=True)
 
     meetings_raw = fetch_json(f"meetings?year={target_year}") or []
     meetings_dict = { m['meeting_key']: m for m in meetings_raw if 'meeting_key' in m }
@@ -99,16 +99,46 @@ def main():
         m_info = meetings_dict.get(m_key, {})
 
         s_name = s.get('session_name', 'Session')
+        s_type = s.get('session_type', 'Practice')
 
         print(f"[{idx}/{len(completed_sessions)}] Сессия {s_key} ({s_name} - {m_info.get('meeting_name', 'GP')})...", flush=True)
 
+        # 1. Результаты
         results_raw = fetch_json(f"session_result?session_key={s_key}") or []
         if not results_raw:
             print(f"  -> [Пусто] Нет результатов для сессии {s_key}", flush=True)
             continue
 
+        # 2. Пилоты
         drivers_raw = fetch_json(f"drivers?session_key={s_key}") or []
         drivers_dict = { d['driver_number']: d for d in drivers_raw if 'driver_number' in d }
+
+        # 3. Точнейшая стартовая решетка из эндпоинта /position OpenF1
+        grid_dict = {}
+        if 'race' in s_type.lower() or 'race' in s_name.lower():
+            pos_raw = fetch_json(f"position?session_key={s_key}") or []
+            pos_raw.sort(key=lambda x: x.get('date', ''))
+            for p_item in pos_raw:
+                d_n = p_item.get('driver_number')
+                p_pos = p_item.get('position')
+                if d_n is not None and p_pos is not None:
+                    if d_n not in grid_dict: # Берем САМУЮ ПЕРВУЮ позицию на старте!
+                        try:
+                            grid_dict[d_n] = int(float(p_pos))
+                        except Exception:
+                            pass
+
+        # 4. Пройденные круги из /laps OpenF1
+        laps_raw = fetch_json(f"laps?session_key={s_key}") or []
+        laps_dict = {}
+        for l in laps_raw:
+            d_num = l.get('driver_number')
+            l_num = l.get('lap_number')
+            if d_num is not None and l_num is not None:
+                try:
+                    laps_dict[d_num] = max(laps_dict.get(d_num, 0), int(l_num))
+                except Exception:
+                    pass
 
         def get_sort_pos(r):
             try:
@@ -130,6 +160,10 @@ def main():
 
             pos = r.get('position')
             pos_int = int(float(pos)) if pos is not None else None
+
+            # Точнейшая стартовая позиция из /position OpenF1
+            grid_pos = grid_dict.get(d_num) or r.get('grid_position')
+            completed_laps = laps_dict.get(d_num) or r.get('laps_completed')
 
             duration = r.get('duration')
             gap = r.get('gap_to_leader')
@@ -153,10 +187,10 @@ def main():
                 "driver_acronym": acronym,
                 "team_name": team_name,
                 "country_code": country_code,
-                "grid_position": r.get('grid_position'),
+                "grid_position": grid_pos,
                 "time_or_retired": time_or_retired,
                 "gap_to_leader": gap_to_leader,
-                "laps_completed": r.get('laps_completed'),
+                "laps_completed": completed_laps,
                 "points": float(r.get('points', 0.0)),
                 "is_fastest_lap": bool(r.get('is_fastest_lap', False)),
                 "status": status
@@ -168,7 +202,7 @@ def main():
                 "meeting_key": m_key,
                 "year": target_year,
                 "session_name": s_name,
-                "session_type": s.get('session_type', 'Practice'),
+                "session_type": s_type,
                 "meeting_name": m_info.get('meeting_name', ''),
                 "circuit_name": m_info.get('circuit_short_name', ''),
                 "stewards_status": "FINAL",
@@ -183,7 +217,7 @@ def main():
 
         saved_count += 1
 
-    print(f"=== Успех! Создано {saved_count} протоколов в папке {out_dir} ===", flush=True)
+    print(f"=== Успех! Создано {saved_count} точнейших протоколов в папке {out_dir} ===", flush=True)
 
 if __name__ == "__main__":
     main()
