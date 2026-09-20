@@ -5,6 +5,7 @@ import os
 import sys
 import time
 import ssl
+import re
 from datetime import datetime, timedelta, timezone
 
 from utils.flags import get_country_flag
@@ -205,14 +206,21 @@ def sync_single_session_results(session, meeting_info, target_year):
 
         grid_penalty = None
 
-        # Ручные штрафы если есть
+        raw_duration = r.get('duration')
+        raw_gap = r.get('gap_to_leader')
+
+        # 1. Первично считываем статус из ответа OpenF1
+        status = r.get('status', 'FINISHED')
+
+        # 2. Обновляем статус на PIT LANE если подтверждено телеметрией
+        if is_pit_lane and (not status or status == 'FINISHED'):
+            status = "PIT LANE"
+
+        # 3. Применяем ручное переопределение из конфига если задано
         d_override = session_overrides.get(str(d_num))
         if d_override:
             status = d_override.get('status', status)
             pos_int = d_override.get('position', pos_int)
-
-        if is_pit_lane and not status:
-            status = "PIT LANE"
 
         if status and 'retired' in str(status).lower():
             time_or_retired = str(status).upper()
@@ -272,55 +280,59 @@ def sync_single_session_results(session, meeting_info, target_year):
     return True
 
 def main():
-    target_year = datetime.utcnow().year
-    print(f"=== Автоматический умный синхронизатор результатов (сезон {target_year}) ===", flush=True)
+    try:
+        target_year = datetime.utcnow().year
+        print(f"=== Автоматический умный синхронизатор результатов (сезон {target_year}) ===", flush=True)
 
-    now_dt = datetime.now(timezone.utc)
-    now_utc_str = now_dt.isoformat()
+        now_dt = datetime.now(timezone.utc)
+        now_utc_str = now_dt.isoformat()
 
-    meetings_raw = fetch_json(f"meetings?year={target_year}") or []
-    meetings_dict = { m['meeting_key']: m for m in meetings_raw if 'meeting_key' in m }
+        meetings_raw = fetch_json(f"meetings?year={target_year}") or []
+        meetings_dict = { m['meeting_key']: m for m in meetings_raw if 'meeting_key' in m }
 
-    sessions_raw = fetch_json(f"sessions?year={target_year}") or []
-    completed_sessions = [
-        s for s in sessions_raw
-        if s.get('date_start', '') < now_utc_str and s.get('session_key')
-    ]
-    completed_sessions.sort(key=lambda x: x.get('date_start', ''))
+        sessions_raw = fetch_json(f"sessions?year={target_year}") or []
+        completed_sessions = [
+            s for s in sessions_raw
+            if s.get('date_start', '') < now_utc_str and s.get('session_key')
+        ]
+        completed_sessions.sort(key=lambda x: x.get('date_start', ''))
 
-    if not completed_sessions:
-        print("Нет завершенных сессий в текущем сезоне.", flush=True)
+        if not completed_sessions:
+            print("Нет завершенных сессий в текущем сезоне.", flush=True)
+            sys.exit(0)
+
+        seven_days_ago = (now_dt - timedelta(days=7)).isoformat()
+        recent_sessions = [
+            s for s in completed_sessions
+            if s.get('date_start', '') >= seven_days_ago
+        ]
+
+        synced_keys = set()
+        for r_session in recent_sessions:
+            m_info = meetings_dict.get(r_session.get('meeting_key'), {})
+            sync_single_session_results(r_session, m_info, target_year)
+            synced_keys.add(r_session.get('session_key'))
+
+        cursor_file = "config/results_sync_cursor.json"
+        cursor_data = load_json_file(cursor_file, default={"cursor_index": 0})
+        cursor_idx = cursor_data.get("cursor_index", 0)
+
+        if cursor_idx >= len(completed_sessions):
+            cursor_idx = 0
+
+        target_session = completed_sessions[cursor_idx]
+        target_key = target_session.get('session_key')
+
+        if target_key not in synced_keys:
+            m_info = meetings_dict.get(target_session.get('meeting_key'), {})
+            sync_single_session_results(target_session, m_info, target_year)
+
+        next_cursor = (cursor_idx + 1) % len(completed_sessions)
+        save_json_file(cursor_file, {"cursor_index": next_cursor, "last_synced_session_key": target_key})
+        print(f"Курсор ротации передвинут: {cursor_idx} -> {next_cursor}", flush=True)
+    except Exception as e:
+        print(f"[ВНИМАНИЕ] Временная сетевая ошибка OpenF1: {e}", flush=True)
         sys.exit(0)
-
-    seven_days_ago = (now_dt - timedelta(days=7)).isoformat()
-    recent_sessions = [
-        s for s in completed_sessions
-        if s.get('date_start', '') >= seven_days_ago
-    ]
-
-    synced_keys = set()
-    for r_session in recent_sessions:
-        m_info = meetings_dict.get(r_session.get('meeting_key'), {})
-        sync_single_session_results(r_session, m_info, target_year)
-        synced_keys.add(r_session.get('session_key'))
-
-    cursor_file = "config/results_sync_cursor.json"
-    cursor_data = load_json_file(cursor_file, default={"cursor_index": 0})
-    cursor_idx = cursor_data.get("cursor_index", 0)
-
-    if cursor_idx >= len(completed_sessions):
-        cursor_idx = 0
-
-    target_session = completed_sessions[cursor_idx]
-    target_key = target_session.get('session_key')
-
-    if target_key not in synced_keys:
-        m_info = meetings_dict.get(target_session.get('meeting_key'), {})
-        sync_single_session_results(target_session, m_info, target_year)
-
-    next_cursor = (cursor_idx + 1) % len(completed_sessions)
-    save_json_file(cursor_file, {"cursor_index": next_cursor, "last_synced_session_key": target_key})
-    print(f"Курсор ротации передвинут: {cursor_idx} -> {next_cursor}", flush=True)
 
 if __name__ == "__main__":
     main()
