@@ -5,6 +5,7 @@ import os
 import sys
 import time
 import ssl
+import re
 from datetime import datetime
 
 # Общий модуль флагов стран
@@ -45,6 +46,13 @@ def fetch_json(endpoint, retries=6):
             time.sleep(1)
             return []
     return []
+
+def extract_time_list(val):
+    if val is None:
+        return []
+    if isinstance(val, list):
+        return [format_lap_time(x) for x in val if x is not None]
+    return [format_lap_time(val)]
 
 def format_lap_time(val):
     if val is None or val == "":
@@ -90,7 +98,7 @@ def main():
     else:
         target_year = 2024
 
-    print(f"=== Выкачка протоколов за {target_year} год (Проверенная логика 2 правил) ===", flush=True)
+    print(f"=== Выкачка точнейших протоколов (Q1, Q2, Q3) за {target_year} год ===", flush=True)
 
     meetings_raw = fetch_json(f"meetings?year={target_year}") or []
     meetings_dict = { m['meeting_key']: m for m in meetings_raw if 'meeting_key' in m }
@@ -136,7 +144,7 @@ def main():
         is_race_or_sprint = ('race' in s_type.lower() or 'race' in s_name.lower() or 'sprint' in s_name.lower()) and 'qualifying' not in s_name.lower() and 'shootout' not in s_name.lower()
         is_quali = 'qualifying' in s_type.lower() or 'qualifying' in s_name.lower() or 'shootout' in s_name.lower()
 
-        # --- СТРОГОЕ ПРАВИЛО 1 & 2: ДЕТЕКЦИЯ ПИТ-ЛЕЙН ПО ТЕЛЕМЕТРИИ ---
+        # --- СТРОГОЕ УСЛОВИЕ 1 & 2: ДЕТЕКЦИЯ ПИТ-ЛЕЙН ПО ТЕЛЕМЕТРИИ ---
         pit_lane_starters_by_telemetry = set()
         if is_race_or_sprint:
             laps_1 = fetch_json(f"laps?session_key={s_key}&lap_number=1") or []
@@ -179,7 +187,7 @@ def main():
                         except Exception:
                             pass
 
-        # --- КВАЛИФИКАЦИОННЫЕ ШТРАФЫ ДЛЯ КВАЛИФИКАЦИИ (grid_position - quali_position) ---
+        # --- КВАЛИФИКАЦИОННЫЕ ШТРАФЫ ДЛЯ КВАЛИФИКАЦИИ ---
         quali_penalties_dict = {}
         if is_quali and m_key:
             m_sessions = [sess for sess in sessions_raw if sess.get('meeting_key') == m_key]
@@ -220,11 +228,15 @@ def main():
                 except Exception:
                     pass
 
+        # Улучшенная сортировка: если пилот прошел в Q3 но не имел времени в Q3, он остается в ТОП-10
         def get_sort_pos(r):
-            try:
-                return int(float(r.get('position', 999)))
-            except Exception:
-                return 999
+            pos = r.get('position')
+            if pos is not None:
+                try:
+                    return int(float(pos))
+                except Exception:
+                    pass
+            return 999
 
         results_raw.sort(key=get_sort_pos)
 
@@ -254,6 +266,12 @@ def main():
             raw_gap = r.get('gap_to_leader')
             status = r.get('status', 'FINISHED')
 
+            # Для Квалификации сохраняем времена Q1, Q2, Q3 отдельно
+            q_times = extract_time_list(raw_duration)
+            q1_t = q_times[0] if len(q_times) > 0 else None
+            q2_t = q_times[1] if len(q_times) > 1 else None
+            q3_t = q_times[2] if len(q_times) > 2 else None
+
             if is_pit_lane and not status:
                 status = "PIT LANE"
 
@@ -266,7 +284,7 @@ def main():
 
             gap_to_leader = format_gap_time(raw_gap, pos_int)
 
-            formatted_results.append({
+            item_dict = {
                 "position": pos_int,
                 "driver_number": d_num,
                 "full_name": full_name,
@@ -282,7 +300,14 @@ def main():
                 "points": float(r.get('points', 0.0)),
                 "is_fastest_lap": bool(r.get('is_fastest_lap', False)),
                 "status": status
-            })
+            }
+
+            if is_quali:
+                item_dict["q1_time"] = q1_t
+                item_dict["q2_time"] = q2_t
+                item_dict["q3_time"] = q3_t
+
+            formatted_results.append(item_dict)
 
         final_data = {
             "metadata": {
@@ -305,7 +330,7 @@ def main():
 
         saved_count += 1
 
-    print(f"=== Успех! Пересобраны точнейшие протоколы за {target_year} год: {file_path} ===", flush=True)
+    print(f"=== Успех! Создано {saved_count} точнейших протоколов с Q1/Q2/Q3 в папке {out_dir} ===", flush=True)
 
 if __name__ == "__main__":
     main()

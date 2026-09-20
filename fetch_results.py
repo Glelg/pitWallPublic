@@ -46,6 +46,13 @@ def fetch_json(endpoint, retries=5):
             return []
     return []
 
+def extract_time_list(val):
+    if val is None:
+        return []
+    if isinstance(val, list):
+        return [format_lap_time(x) for x in val if x is not None]
+    return [format_lap_time(val)]
+
 def format_lap_time(val):
     if val is None or val == "":
         return ""
@@ -119,7 +126,6 @@ def sync_single_session_results(session, meeting_info, target_year):
     is_race_or_sprint = ('race' in s_type.lower() or 'race' in s_name.lower() or 'sprint' in s_name.lower()) and 'qualifying' not in s_name.lower() and 'shootout' not in s_name.lower()
     is_quali = 'qualifying' in s_type.lower() or 'qualifying' in s_name.lower() or 'shootout' in s_name.lower()
 
-    # --- СТРОГОЕ УСЛОВИЕ ПИТ-ЛЕЙН (СЕКТОР 1 > МЕДИАНА + 4.0с ИЛИ (СЕКТОР 1 == NONE И i1_SPEED != NONE)) ---
     pit_lane_starters_by_telemetry = set()
     if is_race_or_sprint:
         laps_1 = fetch_json(f"laps?session_key={s_key}&lap_number=1") or []
@@ -147,7 +153,6 @@ def sync_single_session_results(session, meeting_info, target_year):
                     if is_pit_by_s1_delta or is_pit_by_missing_s1_with_i1:
                         pit_lane_starters_by_telemetry.add(d_num)
 
-    # --- СТАРТОВАЯ РЕШЕТКА ---
     grid_dict = {}
     if is_race_or_sprint:
         pos_raw = fetch_json(f"position?session_key={s_key}") or []
@@ -162,7 +167,6 @@ def sync_single_session_results(session, meeting_info, target_year):
                     except Exception:
                         pass
 
-    # --- ПРОЙДЕННЫЕ КРУГИ ---
     laps_raw = fetch_json(f"laps?session_key={s_key}") or []
     laps_dict = {}
     for l in laps_raw:
@@ -175,14 +179,16 @@ def sync_single_session_results(session, meeting_info, target_year):
                 pass
 
     def get_sort_pos(r):
-        try:
-            return int(float(r.get('position', 999)))
-        except Exception:
-            return 999
+        pos = r.get('position')
+        if pos is not None:
+            try:
+                return int(float(pos))
+            except Exception:
+                pass
+        return 999
 
     results_raw.sort(key=get_sort_pos)
 
-    # Проверяем ручные переопределения штрафов
     overrides = load_json_file("config/results_overrides.json")
     session_overrides = overrides.get(str(s_key), {})
 
@@ -209,14 +215,16 @@ def sync_single_session_results(session, meeting_info, target_year):
         raw_duration = r.get('duration')
         raw_gap = r.get('gap_to_leader')
 
-        # 1. Первично считываем статус из ответа OpenF1
+        q_times = extract_time_list(raw_duration)
+        q1_t = q_times[0] if len(q_times) > 0 else None
+        q2_t = q_times[1] if len(q_times) > 1 else None
+        q3_t = q_times[2] if len(q_times) > 2 else None
+
         status = r.get('status', 'FINISHED')
 
-        # 2. Обновляем статус на PIT LANE если подтверждено телеметрией
         if is_pit_lane and (not status or status == 'FINISHED'):
             status = "PIT LANE"
 
-        # 3. Применяем ручное переопределение из конфига если задано
         d_override = session_overrides.get(str(d_num))
         if d_override:
             status = d_override.get('status', status)
@@ -231,7 +239,7 @@ def sync_single_session_results(session, meeting_info, target_year):
 
         gap_to_leader = format_gap_time(raw_gap, pos_int)
 
-        formatted_results.append({
+        item_dict = {
             "position": pos_int,
             "driver_number": d_num,
             "full_name": full_name,
@@ -247,7 +255,14 @@ def sync_single_session_results(session, meeting_info, target_year):
             "points": float(r.get('points', 0.0)),
             "is_fastest_lap": bool(r.get('is_fastest_lap', False)),
             "status": status
-        })
+        }
+
+        if is_quali:
+            item_dict["q1_time"] = q1_t
+            item_dict["q2_time"] = q2_t
+            item_dict["q3_time"] = q3_t
+
+        formatted_results.append(item_dict)
 
     start_dt_str = session.get('date_start', '')
     stewards_status = "FINAL"
