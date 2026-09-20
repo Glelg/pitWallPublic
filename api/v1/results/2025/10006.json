@@ -8,7 +8,7 @@
     "meeting_name": "Japanese Grand Prix",
     "circuit_name": "Suzuka",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T14:12:16.255277Z"
+    "last_updated": "2026-09-20T21:33:38.341538Z"
   },
   "results": [
     {
@@ -110,7 +110,7 @@
       "gap_to_leader": "+18.671s",
       "laps_completed": 53,
       "points": 8.0,
-      "is_fastest_lap": false,
+      "is_fastest_lap": true,
       "status": "FINISHED"
     },
     {

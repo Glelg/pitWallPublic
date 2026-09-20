@@ -98,7 +98,7 @@ def main():
     else:
         target_year = 2024
 
-    print(f"=== Выкачка точнейших протоколов (Q1, Q2, Q3) за {target_year} год ===", flush=True)
+    print(f"=== Выкачка протоколов за {target_year} год со 100% быстрыми кругами из памяти ===", flush=True)
 
     meetings_raw = fetch_json(f"meetings?year={target_year}") or []
     meetings_dict = { m['meeting_key']: m for m in meetings_raw if 'meeting_key' in m }
@@ -144,7 +144,7 @@ def main():
         is_race_or_sprint = ('race' in s_type.lower() or 'race' in s_name.lower() or 'sprint' in s_name.lower()) and 'qualifying' not in s_name.lower() and 'shootout' not in s_name.lower()
         is_quali = 'qualifying' in s_type.lower() or 'qualifying' in s_name.lower() or 'shootout' in s_name.lower()
 
-        # --- СТРОГОЕ УСЛОВИЕ 1 & 2: ДЕТЕКЦИЯ ПИТ-ЛЕЙН ПО ТЕЛЕМЕТРИИ ---
+        # --- ДЕТЕКЦИЯ ПИТ-ЛЕЙН ПО ТЕЛЕМЕТРИИ ---
         pit_lane_starters_by_telemetry = set()
         if is_race_or_sprint:
             laps_1 = fetch_json(f"laps?session_key={s_key}&lap_number=1") or []
@@ -216,19 +216,35 @@ def main():
                         except Exception:
                             pass
 
-        # --- ПРОЙДЕННЫЕ КРУГИ ---
+        # --- ПРОЙДЕННЫЕ КРУГИ И ПОИСК БЫСТРОГО КРУГА В ПАМЯТИ (0 ЗАПРОСОВ В СЕТЬ) ---
         laps_raw = fetch_json(f"laps?session_key={s_key}") or []
         laps_dict = {}
+        fastest_driver_num = None
+
+        valid_lap_times = []
         for l in laps_raw:
             d_num = l.get('driver_number')
             l_num = l.get('lap_number')
+            l_dur = l.get('lap_duration')
+
             if d_num is not None and l_num is not None:
                 try:
                     laps_dict[d_num] = max(laps_dict.get(d_num, 0), int(l_num))
                 except Exception:
                     pass
 
-        # Улучшенная сортировка: если пилот прошел в Q3 но не имел времени в Q3, он остается в ТОП-10
+            if is_race_or_sprint and d_num is not None and l_dur is not None:
+                try:
+                    dur_val = float(l_dur)
+                    if dur_val > 40.0: # Фильтр валидных кругов Ф1
+                        valid_lap_times.append((d_num, dur_val))
+                except Exception:
+                    pass
+
+        if valid_lap_times:
+            valid_lap_times.sort(key=lambda x: x[1])
+            fastest_driver_num = valid_lap_times[0][0]
+
         def get_sort_pos(r):
             pos = r.get('position')
             if pos is not None:
@@ -266,14 +282,16 @@ def main():
             raw_gap = r.get('gap_to_leader')
             status = r.get('status', 'FINISHED')
 
-            # Для Квалификации сохраняем времена Q1, Q2, Q3 отдельно
+            is_dsq = bool(r.get('dsq')) or ("DSQ" in str(status).upper()) or ("DISQUALIFIED" in str(status).upper())
+            if is_dsq:
+                status = "DSQ"
+            elif is_pit_lane and not status:
+                status = "PIT LANE"
+
             q_times = extract_time_list(raw_duration)
             q1_t = q_times[0] if len(q_times) > 0 else None
             q2_t = q_times[1] if len(q_times) > 1 else None
             q3_t = q_times[2] if len(q_times) > 2 else None
-
-            if is_pit_lane and not status:
-                status = "PIT LANE"
 
             if status and 'retired' in str(status).lower():
                 time_or_retired = str(status).upper()
@@ -283,6 +301,9 @@ def main():
                 time_or_retired = ""
 
             gap_to_leader = format_gap_time(raw_gap, pos_int)
+
+            # Точный подчет Быстрого круга
+            is_fastest = (d_num == fastest_driver_num) if (is_race_or_sprint and fastest_driver_num is not None) else bool(r.get('is_fastest_lap', False))
 
             item_dict = {
                 "position": pos_int,
@@ -298,7 +319,7 @@ def main():
                 "gap_to_leader": gap_to_leader,
                 "laps_completed": completed_laps,
                 "points": float(r.get('points', 0.0)),
-                "is_fastest_lap": bool(r.get('is_fastest_lap', False)),
+                "is_fastest_lap": is_fastest,
                 "status": status
             }
 
@@ -330,7 +351,7 @@ def main():
 
         saved_count += 1
 
-    print(f"=== Успех! Создано {saved_count} точнейших протоколов с Q1/Q2/Q3 в папке {out_dir} ===", flush=True)
+    print(f"=== Успех! Создано {saved_count} точнейших протоколов в папке {out_dir} ===", flush=True)
 
 if __name__ == "__main__":
     main()

@@ -8,7 +8,7 @@
     "meeting_name": "Monaco Grand Prix",
     "circuit_name": "Monte Carlo",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T17:34:18.016580Z"
+    "last_updated": "2026-09-20T22:03:18.171147Z"
   },
   "results": [
     {
@@ -76,7 +76,7 @@
       "gap_to_leader": "+39.062s",
       "laps_completed": 78,
       "points": 13.0,
-      "is_fastest_lap": false,
+      "is_fastest_lap": true,
       "status": "FINISHED"
     },
     {

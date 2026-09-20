@@ -8,7 +8,7 @@
     "meeting_name": "Bahrain Grand Prix",
     "circuit_name": "Sakhir",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T17:31:03.339733Z"
+    "last_updated": "2026-09-20T22:00:07.468013Z"
   },
   "results": [
     {
@@ -280,7 +280,7 @@
       "gap_to_leader": "+1 LAP",
       "laps_completed": 56,
       "points": 0.0,
-      "is_fastest_lap": false,
+      "is_fastest_lap": true,
       "status": "FINISHED"
     },
     {

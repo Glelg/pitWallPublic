@@ -8,7 +8,7 @@
     "meeting_name": "Italian Grand Prix",
     "circuit_name": "Monza",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T14:20:05.319310Z"
+    "last_updated": "2026-09-20T21:41:23.253007Z"
   },
   "results": [
     {
@@ -42,7 +42,7 @@
       "gap_to_leader": "+19.207s",
       "laps_completed": 53,
       "points": 18.0,
-      "is_fastest_lap": false,
+      "is_fastest_lap": true,
       "status": "FINISHED"
     },
     {

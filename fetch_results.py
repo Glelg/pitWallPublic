@@ -167,16 +167,34 @@ def sync_single_session_results(session, meeting_info, target_year):
                     except Exception:
                         pass
 
+    # --- ПРОЙДЕННЫЕ КРУГИ И БЫСТРЫЙ КРУГ ИЗ ПАМЯТИ ---
     laps_raw = fetch_json(f"laps?session_key={s_key}") or []
     laps_dict = {}
+    fastest_driver_num = None
+
+    valid_lap_times = []
     for l in laps_raw:
         d_num = l.get('driver_number')
         l_num = l.get('lap_number')
+        l_dur = l.get('lap_duration')
+
         if d_num is not None and l_num is not None:
             try:
                 laps_dict[d_num] = max(laps_dict.get(d_num, 0), int(l_num))
             except Exception:
                 pass
+
+        if is_race_or_sprint and d_num is not None and l_dur is not None:
+            try:
+                dur_val = float(l_dur)
+                if dur_val > 40.0:
+                    valid_lap_times.append((d_num, dur_val))
+            except Exception:
+                pass
+
+    if valid_lap_times:
+        valid_lap_times.sort(key=lambda x: x[1])
+        fastest_driver_num = valid_lap_times[0][0]
 
     def get_sort_pos(r):
         pos = r.get('position')
@@ -222,7 +240,10 @@ def sync_single_session_results(session, meeting_info, target_year):
 
         status = r.get('status', 'FINISHED')
 
-        if is_pit_lane and (not status or status == 'FINISHED'):
+        is_dsq = bool(r.get('dsq')) or ("DSQ" in str(status).upper()) or ("DISQUALIFIED" in str(status).upper())
+        if is_dsq:
+            status = "DSQ"
+        elif is_pit_lane and (not status or status == 'FINISHED'):
             status = "PIT LANE"
 
         d_override = session_overrides.get(str(d_num))
@@ -239,6 +260,8 @@ def sync_single_session_results(session, meeting_info, target_year):
 
         gap_to_leader = format_gap_time(raw_gap, pos_int)
 
+        is_fastest = (d_num == fastest_driver_num) if (is_race_or_sprint and fastest_driver_num is not None) else bool(r.get('is_fastest_lap', False))
+
         item_dict = {
             "position": pos_int,
             "driver_number": d_num,
@@ -253,7 +276,7 @@ def sync_single_session_results(session, meeting_info, target_year):
             "gap_to_leader": gap_to_leader,
             "laps_completed": completed_laps,
             "points": float(r.get('points', 0.0)),
-            "is_fastest_lap": bool(r.get('is_fastest_lap', False)),
+            "is_fastest_lap": is_fastest,
             "status": status
         }
 

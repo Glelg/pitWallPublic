@@ -8,7 +8,7 @@
     "meeting_name": "Emilia Romagna Grand Prix",
     "circuit_name": "Imola",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T14:14:31.158338Z"
+    "last_updated": "2026-09-20T21:36:12.459447Z"
   },
   "results": [
     {
@@ -25,7 +25,7 @@
       "gap_to_leader": "LEADER",
       "laps_completed": 63,
       "points": 25.0,
-      "is_fastest_lap": false,
+      "is_fastest_lap": true,
       "status": "FINISHED"
     },
     {

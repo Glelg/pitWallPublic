@@ -8,7 +8,7 @@
     "meeting_name": "Las Vegas Grand Prix",
     "circuit_name": "Las Vegas",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T17:43:32.695829Z"
+    "last_updated": "2026-09-20T22:13:21.715635Z"
   },
   "results": [
     {
@@ -178,7 +178,7 @@
       "gap_to_leader": "+29.496s",
       "laps_completed": 50,
       "points": 2.0,
-      "is_fastest_lap": false,
+      "is_fastest_lap": true,
       "status": "FINISHED"
     },
     {

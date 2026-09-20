@@ -8,7 +8,7 @@
     "meeting_name": "Australian Grand Prix",
     "circuit_name": "Melbourne",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T17:32:13.667906Z"
+    "last_updated": "2026-09-20T22:01:17.236911Z"
   },
   "results": [
     {
@@ -93,7 +93,7 @@
       "gap_to_leader": "+3.320s",
       "laps_completed": 58,
       "points": 11.0,
-      "is_fastest_lap": false,
+      "is_fastest_lap": true,
       "status": "FINISHED"
     },
     {
