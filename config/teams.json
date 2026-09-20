@@ -10,5 +10,15 @@
   "racing bulls": { "primary_colour": "6692FF", "secondary_colour": "FFFFFF", "text_colour": "6692FF", "icon_text": "R" },
   "rb": { "primary_colour": "6692FF", "secondary_colour": "FFFFFF", "text_colour": "6692FF", "icon_text": "R" },
   "sauber": { "primary_colour": "52E252", "secondary_colour": "000000", "text_colour": "52E252", "icon_text": "S" },
-  "kick": { "primary_colour": "52E252", "secondary_colour": "000000", "text_colour": "52E252", "icon_text": "S" }
+  "kick": { "primary_colour": "52E252", "secondary_colour": "000000", "text_colour": "52E252", "icon_text": "S" },
+  "kick sauber": { "primary_colour": "52E252", "secondary_colour": "000000", "text_colour": "52E252", "icon_text": "S" },
+  "stake f1": { "primary_colour": "52E252", "secondary_colour": "000000", "text_colour": "52E252", "icon_text": "S" },
+  "alfa romeo": { "primary_colour": "C92D4B", "secondary_colour": "FFFFFF", "text_colour": "C92D4B", "icon_text": "A" },
+  "alphatauri": { "primary_colour": "2B4562", "secondary_colour": "FFFFFF", "text_colour": "2B4562", "icon_text": "A" },
+  "alpha tauri": { "primary_colour": "2B4562", "secondary_colour": "FFFFFF", "text_colour": "2B4562", "icon_text": "A" },
+  "toro rosso": { "primary_colour": "469BFF", "secondary_colour": "FFFFFF", "text_colour": "469BFF", "icon_text": "T" },
+  "racing point": { "primary_colour": "F596C8", "secondary_colour": "FFFFFF", "text_colour": "F596C8", "icon_text": "R" },
+  "renault": { "primary_colour": "FFF500", "secondary_colour": "000000", "text_colour": "FFF500", "icon_text": "R" },
+  "audi": { "primary_colour": "A6A9AA", "secondary_colour": "FF0000", "text_colour": "A6A9AA", "icon_text": "A" },
+  "cadillac": { "primary_colour": "FFFFFF", "secondary_colour": "000000", "text_colour": "FFFFFF", "icon_text": "C" }
 }
