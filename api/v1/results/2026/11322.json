@@ -8,7 +8,7 @@
     "meeting_name": "British Grand Prix",
     "circuit_name": "Silverstone",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T23:03:19.399612Z"
+    "last_updated": "2026-09-21T02:02:30.394877Z"
   },
   "results": [
     {
@@ -239,7 +239,7 @@
       "team_name": "Alpine",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 3,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",
@@ -419,7 +419,7 @@
       "team_name": "Aston Martin",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 1,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",
