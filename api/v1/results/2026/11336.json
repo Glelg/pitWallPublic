@@ -8,7 +8,7 @@
     "meeting_name": "Hungarian Grand Prix",
     "circuit_name": "Hungaroring",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-21T06:02:17.073284Z"
+    "last_updated": "2026-09-21T19:21:27.935872Z"
   },
   "results": [
     {
@@ -367,6 +367,23 @@
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
+    },
+    {
+      "position": null,
+      "driver_number": 18,
+      "full_name": "Lance STROLL",
+      "driver_acronym": "STR",
+      "team_name": "Aston Martin",
+      "country_code": "",
+      "grid_position": null,
+      "grid_penalty": null,
+      "is_pit_lane_start": false,
+      "time_or_retired": "DNS",
+      "gap_to_leader": "",
+      "laps_completed": 0,
+      "points": 0.0,
+      "is_fastest_lap": false,
+      "status": "DNS"
     }
   ]
 }

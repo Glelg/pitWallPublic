@@ -8,7 +8,7 @@
     "meeting_name": "Spanish Grand Prix",
     "circuit_name": "Madring",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-21T15:02:19.202328Z"
+    "last_updated": "2026-09-21T19:24:13.815714Z"
   },
   "results": [
     {
@@ -281,7 +281,7 @@
       "laps_completed": 56,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "PIT LANE"
+      "status": "FINISHED"
     },
     {
       "position": 17,
@@ -298,7 +298,7 @@
       "laps_completed": 55,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "PIT LANE"
+      "status": "FINISHED"
     },
     {
       "position": 18,
@@ -315,7 +315,7 @@
       "laps_completed": 54,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "PIT LANE"
+      "status": "FINISHED"
     },
     {
       "position": null,

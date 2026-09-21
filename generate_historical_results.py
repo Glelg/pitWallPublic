@@ -92,6 +92,34 @@ def format_gap_time(val, pos_int):
             return f"+{s}"
         return s
 
+def load_json_file(filepath, default=None):
+    if os.path.exists(filepath):
+        try:
+            with open(filepath, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            pass
+    return default if default is not None else {}
+
+def save_json_file(filepath, data):
+    os.makedirs(os.path.dirname(filepath), exist_ok=True)
+    with open(filepath, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+def get_season_drivers_dict(target_year, completed_sessions):
+    season_drivers = {}
+    for s in completed_sessions:
+        sk = s.get('session_key')
+        if sk:
+            d_raw = fetch_json(f"drivers?session_key={sk}") or []
+            for d in d_raw:
+                num = d.get('driver_number')
+                if num is not None and num not in season_drivers:
+                    season_drivers[num] = d
+            if len(season_drivers) >= 22:
+                break
+    return season_drivers
+
 def main():
     if len(sys.argv) > 1 and sys.argv[1].isdigit():
         target_year = int(sys.argv[1])
@@ -119,6 +147,8 @@ def main():
 
     print(f"Сессий для обработки: {len(completed_sessions)}", flush=True)
 
+    season_drivers = get_season_drivers_dict(target_year, completed_sessions)
+
     out_dir = f"api/v1/results/{target_year}"
     os.makedirs(out_dir, exist_ok=True)
 
@@ -140,6 +170,11 @@ def main():
 
         drivers_raw = fetch_json(f"drivers?session_key={s_key}") or []
         drivers_dict = { d['driver_number']: d for d in drivers_raw if 'driver_number' in d }
+
+        if season_drivers:
+            for num, d in season_drivers.items():
+                if num not in drivers_dict:
+                    drivers_dict[num] = d
 
         is_race_or_sprint = ('race' in s_type.lower() or 'race' in s_name.lower() or 'sprint' in s_name.lower()) and 'qualifying' not in s_name.lower() and 'shootout' not in s_name.lower()
         is_quali = 'qualifying' in s_type.lower() or 'qualifying' in s_name.lower() or 'shootout' in s_name.lower()
@@ -256,9 +291,20 @@ def main():
 
         results_raw.sort(key=get_sort_pos)
 
+        overrides_file = f"config/overrides/{target_year}.json"
+        if os.path.exists(overrides_file):
+            overrides = load_json_file(overrides_file)
+        else:
+            overrides = load_json_file("config/results_overrides.json")
+        session_overrides = overrides.get(str(s_key), {})
+
         formatted_results = []
+        processed_driver_nums = set()
+
         for r in results_raw:
             d_num = r.get('driver_number')
+            if d_num is not None:
+                processed_driver_nums.add(d_num)
             d_info = drivers_dict.get(d_num, {})
 
             full_name = d_info.get('full_name') or d_info.get('last_name') or f"Driver #{d_num}"
@@ -287,6 +333,13 @@ def main():
                 status = "DSQ"
             elif is_pit_lane and not status:
                 status = "PIT LANE"
+
+            d_override = session_overrides.get(str(d_num))
+            if d_override:
+                status = d_override.get('status', status)
+                pos_int = d_override.get('position', pos_int)
+                if 'is_pit_lane_start' in d_override:
+                    is_pit_lane = bool(d_override['is_pit_lane_start'])
 
             q_times = extract_time_list(raw_duration)
             q1_t = q_times[0] if len(q_times) > 0 else None
@@ -327,6 +380,54 @@ def main():
                 item_dict["q1_time"] = q1_t
                 item_dict["q2_time"] = q2_t
                 item_dict["q3_time"] = q3_t
+
+            formatted_results.append(item_dict)
+
+        # --- АВТОДЕТЕКЦИЯ НЕЗАЯВЛЕННЫХ В ПРОТОКОЛЕ ПИЛОТОВ (DNS / NO TIME) ---
+        missing_driver_nums = set(drivers_dict.keys()) - processed_driver_nums
+        for m_num in missing_driver_nums:
+            d_info = drivers_dict.get(m_num, {})
+            full_name = d_info.get('full_name') or d_info.get('last_name') or f"Driver #{m_num}"
+            acronym = d_info.get('name_acronym') or f"#{m_num}"
+            team_name = d_info.get('team_name') or "Formula 1"
+            country_code = get_country_flag(d_info.get('country_code', ''))
+
+            default_status = "NO TIME" if is_quali else "DNS"
+            status = default_status
+            pos_int = None
+            is_pit_lane = False
+
+            d_override = session_overrides.get(str(m_num))
+            if d_override:
+                status = d_override.get('status', status)
+                pos_int = d_override.get('position', pos_int)
+                if 'is_pit_lane_start' in d_override:
+                    is_pit_lane = bool(d_override['is_pit_lane_start'])
+
+            time_or_retired = status
+
+            item_dict = {
+                "position": pos_int,
+                "driver_number": m_num,
+                "full_name": full_name,
+                "driver_acronym": acronym,
+                "team_name": team_name,
+                "country_code": country_code,
+                "grid_position": grid_dict.get(m_num),
+                "grid_penalty": None,
+                "is_pit_lane_start": is_pit_lane,
+                "time_or_retired": time_or_retired,
+                "gap_to_leader": "",
+                "laps_completed": laps_dict.get(m_num, 0),
+                "points": 0.0,
+                "is_fastest_lap": False,
+                "status": status
+            }
+
+            if is_quali:
+                item_dict["q1_time"] = None
+                item_dict["q2_time"] = None
+                item_dict["q3_time"] = None
 
             formatted_results.append(item_dict)
 

@@ -8,7 +8,7 @@
     "meeting_name": "Miami Grand Prix",
     "circuit_name": "Miami",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T23:00:05.878813Z"
+    "last_updated": "2026-09-21T19:17:01.833896Z"
   },
   "results": [
     {
@@ -428,6 +428,26 @@
       "is_fastest_lap": false,
       "status": "FINISHED",
       "q1_time": "1:41.311",
+      "q2_time": null,
+      "q3_time": null
+    },
+    {
+      "position": null,
+      "driver_number": 18,
+      "full_name": "Lance STROLL",
+      "driver_acronym": "STR",
+      "team_name": "Aston Martin",
+      "country_code": "",
+      "grid_position": null,
+      "grid_penalty": null,
+      "is_pit_lane_start": false,
+      "time_or_retired": "NO TIME",
+      "gap_to_leader": "",
+      "laps_completed": 3,
+      "points": 0.0,
+      "is_fastest_lap": false,
+      "status": "NO TIME",
+      "q1_time": null,
       "q2_time": null,
       "q3_time": null
     }
