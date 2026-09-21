@@ -8,7 +8,7 @@
     "meeting_name": "Chinese Grand Prix",
     "circuit_name": "Shanghai",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-21T19:15:18.179040Z"
+    "last_updated": "2026-09-21T21:02:32.957963Z"
   },
   "results": [
     {
@@ -359,7 +359,7 @@
       "team_name": "Williams",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 4,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",

@@ -8,7 +8,7 @@
     "meeting_name": "Japanese Grand Prix",
     "circuit_name": "Suzuka",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-21T19:15:24.791878Z"
+    "last_updated": "2026-09-21T22:02:29.113031Z"
   },
   "results": [
     {
@@ -384,6 +384,23 @@
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
+    },
+    {
+      "position": null,
+      "driver_number": 14,
+      "full_name": "Fernando ALONSO",
+      "driver_acronym": "ALO",
+      "team_name": "Aston Martin",
+      "country_code": "",
+      "grid_position": null,
+      "grid_penalty": null,
+      "is_pit_lane_start": false,
+      "time_or_retired": "DNS",
+      "gap_to_leader": "",
+      "laps_completed": 0,
+      "points": 0.0,
+      "is_fastest_lap": false,
+      "status": "DNS"
     }
   ]
 }
