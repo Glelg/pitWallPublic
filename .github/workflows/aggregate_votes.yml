@@ -1,0 +1,90 @@
+name: Aggregate Fan Votes
+
+on:
+  repository_dispatch:
+    types: [user_vote]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  process_vote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Process Fan Vote Payload
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            const payload = context.payload ? context.payload.client_payload : null;
+            
+            if (!payload || !payload.meetingKey || !payload.driverNumber || !payload.clientId) {
+              console.log('No valid user_vote payload provided.');
+              return;
+            }
+
+            const meetingKey = payload.meetingKey;
+            const driverNumber = payload.driverNumber;
+            const clientId = payload.clientId;
+
+            console.log(`Processing vote for meeting: ${meetingKey}, driver: ${driverNumber}, client: ${clientId}`);
+
+            // 1. Ensure directories exist
+            const dataDir = 'data';
+            if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
+
+            const publicVotesDir = 'api/v1/votes';
+            if (!fs.existsSync(publicVotesDir)) fs.mkdirSync(publicVotesDir, { recursive: true });
+
+            // 2. Read raw votes file
+            const rawFile = `${dataDir}/votes_raw_${meetingKey}.json`;
+            let rawData = {};
+            if (fs.existsSync(rawFile)) {
+              try {
+                rawData = JSON.parse(fs.readFileSync(rawFile, 'utf8'));
+              } catch (e) {
+                console.error('Error parsing raw votes file', e);
+              }
+            }
+
+            // 3. Record or update vote (1 vote per clientId per meeting)
+            rawData[clientId] = driverNumber;
+            fs.writeFileSync(rawFile, JSON.stringify(rawData, null, 2));
+
+            // 4. Aggregate vote totals
+            const counts = {};
+            let total = 0;
+            for (const id in rawData) {
+              const driver = String(rawData[id]);
+              counts[driver] = (counts[driver] || 0) + 1;
+              total++;
+            }
+
+            const votesResponse = {
+              meeting_key: Number(meetingKey),
+              total_votes: total,
+              votes: counts
+            };
+
+            // 5. Save public aggregated votes JSON
+            const publicFile = `${publicVotesDir}/${meetingKey}.json`;
+            fs.writeFileSync(publicFile, JSON.stringify(votesResponse, null, 2));
+            console.log(`Updated ${publicFile} with total votes: ${total}`);
+
+      - name: Save and Commit Votes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/*.json
+          git add api/v1/votes/*.json
+          if ! git diff --staged --quiet; then
+            git fetch origin main || true
+            git commit -m "Auto-sync fan votes"
+            git push origin main
+          fi
