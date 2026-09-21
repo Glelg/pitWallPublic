@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-21T05:32:21.556321Z",
+    "last_updated": "2026-09-21T06:02:11.997304Z",
     "total_news": 22
   },
   "news": [
@@ -104,15 +104,6 @@
       "published_at": 1789826844000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/otmar-szafnauer-praises-toto-wolff-after-kimi-antonelli-gamble-pays-off/10857159/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Otmar Szafnauer praises Toto Wolff after Kimi Antonelli gamble pays off",
-      "snippet": "Former Alpine team principal Otmar Szafnauer says Mercedes boss Toto Wolff deserves credit for taking a gamble on Kimi Antonelli.After seven-time champion Lewis Hamilton decided to part ways with Mercedes to join Ferrari in 2025, the Brackley outfit was faced with deciding between signing another experienced driver and putting its support behind an up-and-comer.When Wolff opted to ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/otmar-szafnauer-praises-toto-wolff-after-kimi-antonelli-gamble-pays-off/10857159/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0R7wLOV2/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": 1789825145000
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/c8r60g7nrn6o?at_medium=RSS&at_campaign=rss",
       "title": "Norris takes Madrid pole with 'gorgeous' lap",
       "snippet": "Lando Norris takes a superb pole position for McLaren at the Spanish Grand Prix, beating Mercedes' Kimi Antonelli and Red Bull's Max Verstappen.",
@@ -174,6 +165,15 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-5.motorsport.com/images/amp/6DGg3jxY/s6/yuki-tsunoda-racing-bulls-2.jpg",
       "published_at": 1788724704000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/otmar-szafnauer-praises-toto-wolff-after-kimi-antonelli-gamble-pays-off/10857159/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Otmar Szafnauer praises Toto Wolff after Kimi Antonelli gamble pays off",
+      "snippet": "Former Alpine team principal Otmar Szafnauer says Mercedes boss Toto Wolff deserves credit for taking a gamble on Kimi Antonelli.After seven-time champion Lewis Hamilton decided to part ways with Mercedes to join Ferrari in 2025, the Brackley outfit was faced with deciding between signing another experienced driver and putting its support behind an up-and-comer.When Wolff opted to ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/otmar-szafnauer-praises-toto-wolff-after-kimi-antonelli-gamble-pays-off/10857159/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0R7wLOV2/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": 1789825145000
     },
     {
       "id": "https://www.motorsport.com/f1/news/rob-smedley-explains-peter-bonningtons-key-role-in-kimi-antonellis-f1-success/10857140/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
