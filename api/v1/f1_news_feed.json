@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-09-21T04:32:25.717638Z",
+    "last_updated": "2026-09-21T05:02:28.977442Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13589366/kimi-antonelli-versus-his-mind-will-decide-2026-formula-1-title-race-says-nico-rosberg-ahead-of-azerbaijan-grand-prix",
+      "title": "Rosberg: Antonelli vs his mind will decide F1 title race",
+      "snippet": "Former Formula 1 world champion Nico Rosberg believes Kimi Antonelli's biggest obstacle will be himself in this season's title race run-in.",
+      "link": "https://www.skysports.com/f1/news/12433/13589366/kimi-antonelli-versus-his-mind-will-decide-2026-formula-1-title-race-says-nico-rosberg-ahead-of-azerbaijan-grand-prix",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-f1-kimi-antonelli_7355013.jpg?20260917230134",
+      "published_at": 1789970400000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/lando-norris-tipped-to-overtake-george-russell-in-2026-f1-standings/10857563/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Lando Norris predicted to overtake George Russell in 2026 F1 standings",
@@ -104,15 +113,6 @@
       "published_at": 1789825145000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/rob-smedley-explains-peter-bonningtons-key-role-in-kimi-antonellis-f1-success/10857140/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Rob Smedley explains Peter Bonnington's key role in Kimi Antonelli's F1 success",
-      "snippet": "Former Formula 1 race engineer Rob Smedley says Peter \"Bono\" Bonnington has been essential to Kimi Antonelli's 2026 F1 title charge, though he stresses the Mercedes driver is the one ultimately responsible for delivering on track.Antonelli became the youngest driver to lead the standings after back-to-back wins at the Chinese and Japanese Grands Prix. While many assumed the pressure would ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/rob-smedley-explains-peter-bonningtons-key-role-in-kimi-antonellis-f1-success/10857140/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2wlEb8BY/s6/kimi-antonelli-peter-bonningto.jpg",
-      "published_at": 1789821611000
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/c8r60g7nrn6o?at_medium=RSS&at_campaign=rss",
       "title": "Norris takes Madrid pole with 'gorgeous' lap",
       "snippet": "Lando Norris takes a superb pole position for McLaren at the Spanish Grand Prix, beating Mercedes' Kimi Antonelli and Red Bull's Max Verstappen.",
@@ -176,6 +176,15 @@
       "published_at": 1788724704000
     },
     {
+      "id": "https://www.motorsport.com/f1/news/rob-smedley-explains-peter-bonningtons-key-role-in-kimi-antonellis-f1-success/10857140/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Rob Smedley explains Peter Bonnington's key role in Kimi Antonelli's F1 success",
+      "snippet": "Former Formula 1 race engineer Rob Smedley says Peter \"Bono\" Bonnington has been essential to Kimi Antonelli's 2026 F1 title charge, though he stresses the Mercedes driver is the one ultimately responsible for delivering on track.Antonelli became the youngest driver to lead the standings after back-to-back wins at the Chinese and Japanese Grands Prix. While many assumed the pressure would ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/rob-smedley-explains-peter-bonningtons-key-role-in-kimi-antonellis-f1-success/10857140/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/2wlEb8BY/s6/kimi-antonelli-peter-bonningto.jpg",
+      "published_at": 1789821611000
+    },
+    {
       "id": "https://www.motorsport.com/f1/news/kimi-antonelli-hailed-as-phenomenon-as-david-coulthard-rejects-luck-claims/10857078/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Kimi Antonelli hailed as \"phenomenon\" as David Coulthard rejects luck claims",
       "snippet": "Former Formula 1 driver David Coulthard has branded current championship leader Kimi Antonelli a \"phenomenon\", dismissing claims that the Mercedes driver's success is down to luck.Antonelli, who is currently in his second season in the series, took the lead of the drivers' standings after back-to-back wins at the Chinese and Japanese Grands Prix. In the first half of the season, he claimed six ...Keep reading",
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-4.motorsport.com/images/amp/2GdKjVEY/s6/carlos-sainz-williams.jpg",
       "published_at": 1789809169000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/ckeq8vj28149o?at_medium=RSS&at_campaign=rss",
-      "title": "Former Mercedes design boss Elliott joins Alpine",
-      "snippet": "Former Mercedes F1 design boss Mike Elliott joins Alpine as chief technical officer.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/ckeq8vj28149o?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a6/live/6e149aa0-b283-11f1-8096-b33a1297275a.jpg",
-      "published_at": 1789642349000
     }
   ]
 }
