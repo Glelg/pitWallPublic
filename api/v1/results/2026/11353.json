@@ -8,7 +8,7 @@
     "meeting_name": "Dutch Grand Prix",
     "circuit_name": "Zandvoort",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T23:05:21.943754Z"
+    "last_updated": "2026-09-21T10:02:31.875943Z"
   },
   "results": [
     {
@@ -264,7 +264,7 @@
       "laps_completed": 70,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "PIT LANE"
     },
     {
       "position": 16,
@@ -383,7 +383,7 @@
       "laps_completed": 1,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "PIT LANE"
     }
   ]
 }
