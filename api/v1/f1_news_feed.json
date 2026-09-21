@@ -1,16 +1,160 @@
 {
   "metadata": {
-    "last_updated": "2026-09-20T23:02:15.695024Z",
+    "last_updated": "2026-09-21T18:02:26.037063Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13590496/f1-grand-prix-distances-set-to-be-reduced-for-2027-season-along-with-introduction-of-hard-stop-time-on-race-days",
+      "title": "F1 race distances set to be reduced for 2027 season",
+      "snippet": "There is set to be a slight reduction in the length of Formula 1 races for the 2027 season, the FIA has confirmed.",
+      "link": "https://www.skysports.com/f1/news/12433/13590496/f1-grand-prix-distances-set-to-be-reduced-for-2027-season-along-with-introduction-of-hard-stop-time-on-race-days",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-kimi-antonelli-chequered_7358066.jpg?20260921173700",
+      "published_at": 1790011800000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cr15822d9vgxo?at_medium=RSS&at_campaign=rss",
+      "title": "F1 reduces maximum distance of races by 15km",
+      "snippet": "F1 announces the maximum race distance for grands prix will be reduced by 15km from 305km to 290km for the 2027 season.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cr15822d9vgxo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd9/live/ebb18450-b5df-11f1-aff1-eb6baa3fda4f.jpg",
+      "published_at": 1790010973000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13590364/azerbaijan-gp-mclaren-predict-four-way-battle-for-victory-with-rivals-in-baku-after-confirming-more-upgrades-to-mcl40",
+      "title": "McLaren predict four-way battle for Baku win after confirming more upgrades",
+      "snippet": "McLaren have confirmed they will bring more upgrades to this weekend's Azerbaijan Grand Prix, where they are expecting a four-way battle for victory with Mercedes, Ferrari and Red Bull.",
+      "link": "https://www.skysports.com/f1/news/12433/13590364/azerbaijan-gp-mclaren-predict-four-way-battle-for-victory-with-rivals-in-baku-after-confirming-more-upgrades-to-mcl40",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-lando-norris-mclaren_7358040.jpg?20260921165400",
+      "published_at": 1790010000000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857799/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "F1 approves shorter races for 2027 to fit revised power unit plan",
+      "snippet": "The Formula 1 Commission has rubber-stamped the proposed changes to reduce the lengths of races in 2027 by 15km, in line with the expected power unit changes for next season.During Monday's F1 Commission in London, the decision to reduce the standard grand prix length from 305km to 290km was agreed upon - pending approval from the FIA's World Motor Sport Council - to reduce the cost associated ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857799/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YP7rorA2/s6/rafael-nadal-waves-the-chequer-2.jpg",
+      "published_at": 1790009858000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/carlos-sainz-backs-bold-approach-for-williams-junior-will-greens-racing-future/10857759/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Carlos Sainz backs bold approach for Williams junior Will Green's racing future",
+      "snippet": "Carlos Sainz has urged Williams Formula 1 junior Will Green to prioritise finding the limits over consistency as the 13-year-old prepares to graduate from karting to single-seaters.Green was announced as a Williams Racing Academy driver in December 2024 and recently became the 2026 Karting European Championship junior champion.Speaking in an interview conducted by the teenage karting ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/carlos-sainz-backs-bold-approach-for-williams-junior-will-greens-racing-future/10857759/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2jEAV4p0/s6/carlos-sainz-williams.jpg",
+      "published_at": 1790001751000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/guenther-steiner-predicts-max-verstappen-will-go-winless-in-2026-f1-season/10857570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Guenther Steiner predicts Max Verstappen will go winless in 2026 F1 season",
+      "snippet": "Former Haas Formula 1 team principal Guenther Steiner believes four-time champion Max Verstappen will fail to win a single grand prix during the 2026 F1 season, arguing that Red Bull's package is not competitive enough.Verstappen currently sits sixth in the standings with 145 points, 147 points behind championship leader Kimi Antonelli. The Dutchman's best results so far this year have been ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/guenther-steiner-predicts-max-verstappen-will-go-winless-in-2026-f1-season/10857570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0rVP7pW0/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": 1789999202000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/why-charles-leclerc-didnt-copy-lewis-hamiltons-driving-style-amid-f1-2026-struggle/10857642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Why Leclerc didn’t copy Hamilton’s driving style amid F1 2026 struggle",
+      "snippet": "Charles Leclerc has explained why he refrained from trying to copy Lewis Hamilton’s driving style when extracting the most out of Ferrari’s 2026 Formula 1 car was tricky.As F1 switched to new regulations for this season, Leclerc sometimes struggled with the Scuderia’s SF-26. After the Monegasque noticeably outperformed team-mate Hamilton last year, their head-to-head has been a lot more ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/why-charles-leclerc-didnt-copy-lewis-hamiltons-driving-style-amid-f1-2026-struggle/10857642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/68VwoR42/s6/charles-leclerc-ferrari-lewis--2.jpg",
+      "published_at": 1789998763000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/2025-f1-academy-champion-doriane-pin-sets-timeline-for-formula-1-race-seat/10857711/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "2025 F1 Academy champion Doriane Pin sets timeline for Formula 1 race seat",
+      "snippet": "Mercedes Formula 1 development driver Doriane Pin has set a five-year target to secure a race seat on the F1 grid.Speaking in a recent Mercedes In Convo With Kids interview, the French driver confirmed her long-term career goals and her belief that female drivers can reach the championship. When asked where she sees herself in five years' time, Pin responded directly: \"In Formula 1.\"That ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/2025-f1-academy-champion-doriane-pin-sets-timeline-for-formula-1-race-seat/10857711/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6DGqrz4Y/s6/doriane-pin-mercedes.jpg",
+      "published_at": 1789991836000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/gabriel-bortoleto-opens-up-on-fernando-alonsos-personality-away-from-f1-cameras/10857688/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Gabriel Bortoleto opens up on Fernando Alonso's personality away from F1 cameras",
+      "snippet": "Audi Formula 1 driver Gabriel Bortoleto says his manager, two-time champion Fernando Alonso, is exactly the same behind the scenes as he appears in the media.Bortoleto is now in his second season in the championship, having made his F1 debut in 2025 with Sauber before Audi formally took over the Swiss team at the start of this year. During his rise through the motorsport ranks, the Brazilian ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/gabriel-bortoleto-opens-up-on-fernando-alonsos-personality-away-from-f1-cameras/10857688/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YBVoEo8Y/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": 1789987213000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/otmar-szafnauer-raises-concern-over-cadillacs-suboptimal-split-us-uk-structure/10857676/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Otmar Szafnauer raises concern over Cadillac's \"suboptimal\" split US-UK structure",
+      "snippet": "Former Alpine Formula 1 team principal Otmar Szafnauer has warned that Cadillac's operational structure is not geared towards winning a championship.Following a prolonged and highly publicised entry process, General Motors, under its Cadillac brand, joined the F1 grid at the start of the 2026 season as the 11th team.While the team opened a European facility in Silverstone to tap into the ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/otmar-szafnauer-raises-concern-over-cadillacs-suboptimal-split-us-uk-structure/10857676/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0R7BrvZ2/s6/valtteri-bottas-cadillac-racin.jpg",
+      "published_at": 1789985569000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/mclaren-releases-behind-the-scenes-look-at-lando-norriss-hypercar-test/10857661/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "McLaren releases behind-the-scenes look at Lando Norris's hypercar test",
+      "snippet": "McLaren has released behind-the-scenes video footage of Lando Norris's recent hypercar test in Portugal.Following his third-place finish at the Spanish Grand Prix at the new Madring circuit last weekend, the 2025 Formula 1 champion made his way to Portimao to test the Woking outfit's 2027 MCL-HY, which will compete in the World Endurance Championship next year.After arriving with McLaren ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/mclaren-releases-behind-the-scenes-look-at-lando-norriss-hypercar-test/10857661/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6n7Axkw0/s6/lando-norris-mclaren.jpg",
+      "published_at": 1789984019000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cdx0elx8pz8o?at_medium=RSS&at_campaign=rss",
+      "title": "How to follow Azerbaijan Grand Prix on the BBC",
+      "snippet": "All the key BBC coverage details for the Azerbaijan Grand Prix, which takes place from 24-26 September.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cdx0elx8pz8o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da16/live/195f5150-af8e-11f1-913a-7151f234deb3.jpg",
+      "published_at": 1789983446000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/mercedes-and-aston-martin-go-head-to-head-in-charity-football-match-here-are-the-results/10857645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Mercedes and Aston Martin go head-to-head in charity football match: Here are the results",
+      "snippet": "Staff from the Aston Martin and Mercedes Formula 1 teams have gone head-to-head in the annual charity football match to raise funds for two charities.The match, which is hosted at Brackley Town Football Club's St James Park and has been held since 2022, pits the neighbouring Northamptonshire squads against one another to raise funds for local and mental health charities.The Silverstone ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/mercedes-and-aston-martin-go-head-to-head-in-charity-football-match-here-are-the-results/10857645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6Al7RgGY/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": 1789982481000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/red-bull-admits-verstappens-mysterious-car-issue-cannot-be-fully-fixed-until-2027/10857621/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Red Bull admits Verstappen's mysterious car issue cannot be fully fixed until 2027",
+      "snippet": "During several weekends this season, Verstappen has complained that the Red Bull Formula 1 car gets worse over the course of a session or race. It usually happens at the rear axle, including during qualifying at Monza, where Verstappen called the RB22 \"a car made of paper\".Notably, the four-time world champion added that he has been complaining about this internally for years. According ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/red-bull-admits-verstappens-mysterious-car-issue-cannot-be-fully-fixed-until-2027/10857621/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YN7vdXJ6/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": 1789978438000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13589366/kimi-antonelli-versus-his-mind-will-decide-2026-formula-1-title-race-says-nico-rosberg-ahead-of-azerbaijan-grand-prix",
+      "title": "Rosberg: Antonelli vs his mind will decide F1 title race",
+      "snippet": "Former Formula 1 world champion Nico Rosberg believes Kimi Antonelli's biggest obstacle will be himself in this season's title race run-in.",
+      "link": "https://www.skysports.com/f1/news/12433/13589366/kimi-antonelli-versus-his-mind-will-decide-2026-formula-1-title-race-says-nico-rosberg-ahead-of-azerbaijan-grand-prix",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-f1-kimi-antonelli_7355013.jpg?20260921095849",
+      "published_at": 1789970400000
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13589225/f1-explained-why-azerbaijan-grand-prix-will-take-place-on-a-saturday",
+      "title": "Craig Slater channels Craig David to explain why Baku race is on Saturday!",
+      "snippet": "Craig Slater breaks down the Azerbaijan Grand Prix, including why the race takes place on a Saturday, while doing his best Craig David impression!",
+      "link": "https://www.skysports.com/watch/video/13589225/f1-explained-why-azerbaijan-grand-prix-will-take-place-on-a-saturday",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-craig-slater-baku_7355239.jpg?20260918110233",
+      "published_at": 1789970400000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/lando-norris-tipped-to-overtake-george-russell-in-2026-f1-standings/10857563/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Lando Norris predicted to overtake George Russell in 2026 F1 standings",
       "snippet": "Guenther Steiner has backed Lando Norris to overtake George Russell for second place in the 2026 Formula 1 drivers' championship.Following the inaugural Spanish Grand Prix at the Madring circuit, Norris sits fourth in the drivers' standings with 186 points. Mercedes' Russell is second with 211 points, and his team-mate Kimi Antonelli currently leads with 292 points. Speaking on The Red ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lando-norris-tipped-to-overtake-george-russell-in-2026-f1-standings/10857563/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6O7zxbW6/s6/lando-norris-mclaren.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6O7zxbW6/s6/lando-norris-mclaren.jpg",
       "published_at": 1789938701000
     },
     {
@@ -19,16 +163,16 @@
       "snippet": "David Coulthard has warned Formula 1 organisers that returning to the Madring circuit in 2027 without altering its layout would be \"stupidity\" following a processional first race.The race has faced criticism after it became clear that there were few overtaking opportunities around the semi-permanent circuit.After Lando Norris started from pole position, an ill-timed virtual safety car ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/david-coulthard-warns-unchanged-madring-return-in-2027-would-be-stupidity/10857135/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2y7QLqe6/s6/a-spanish-flag-flies-over-the-.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2y7QLqe6/s6/a-spanish-flag-flies-over-the-.jpg",
       "published_at": 1789927203000
     },
     {
       "id": "https://www.motorsport.com/f1/news/sebastian-vettel-weighs-in-on-f1-2026-rules-debate-we-need-to-combine-things-we-love/10857419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Sebastian Vettel weighs in on F1 2026 rules debate: 'We need to combine things we love'",
+      "title": "Sebastian Vettel: F1 must combine “things we love” with sustainable future",
       "snippet": "Four-time world champion Sebastian Vettel believes Formula 1 has the technology to pair its sustainability goals with an exciting on-track product.As a racer with a deep-rooted passion for the history of the series, Vettel wasn't the biggest proponent of the turbo hybrids coming into the series in 2014, criticising their dulled sound and the impact of their complexity on the racing ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/sebastian-vettel-weighs-in-on-f1-2026-rules-debate-we-need-to-combine-things-we-love/10857419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2wlKov3Y/s6/sebastian-vettel-drives-a-hist.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2wlKov3Y/s6/sebastian-vettel-drives-a-hist-2.jpg",
       "published_at": 1789908259000
     },
     {
@@ -37,7 +181,7 @@
       "snippet": "Former Haas Formula 1 team principal Guenther Steiner has warned that the organisers of the Spanish Grand Prix at the Madring circuit must urgently change the track's layout for 2027.The inaugural 2026 Spanish Grand Prix in Madrid drew widespread criticism from drivers, fans and pundits following a processional race that featured virtually no overtaking.While Kimi Antonelli secured his ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/guenther-steiner-compares-madring-backlash-to-las-vegas-debut-with-2027-warning/10857396/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2jX53jb6/s6/guenther-steiner-former-haas-t.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2jX53jb6/s6/guenther-steiner-former-haas-t.jpg",
       "published_at": 1789900096000
     },
     {
@@ -46,89 +190,8 @@
       "snippet": "Former Formula 1 driver David Coulthard has argued that the FIA must speed up its decision-making processes when neutralising F1 races, stating there is clear \"room for improvement\" following the Spanish Grand Prix.McLaren's Lando Norris lost a likely victory at the inaugural Spanish Grand Prix at the Madring circuit after Aston Martin's Lance Stroll stopped on track with a brake failure. When ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/david-coulthard-urges-fia-to-speed-up-safety-car-decisions/10857133/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/25dLeex0/s6/david-coulthard.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/25dLeex0/s6/david-coulthard.jpg",
       "published_at": 1789894802000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/george-russell-praised-for-honest-admission-about-kimi-antonellis-f1-form/10857086/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "George Russell praised for honest admission about Kimi Antonelli's F1 form",
-      "snippet": "Former Formula 1 driver David Coulthard has praised George Russell for admitting that his Mercedes team-mate and current championship leader Kimi Antonelli is doing a better job.Antonelli secured his eighth victory of the season at the inaugural Spanish Grand Prix at the new Madring circuit, extending his lead in the standings to 81 points over Russell, who sits second. Russell, meanwhile ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/george-russell-praised-for-honest-admission-about-kimi-antonellis-f1-form/10857086/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2wlKPGBY/s6/george-russell-mercedes.jpg",
-      "published_at": 1789837202000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/mercedes-aims-to-end-pole-drought-with-upcoming-malaysia-f1-upgrades/10857058/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Mercedes aims to end pole drought with upcoming Malaysia F1 upgrades",
-      "snippet": "Mercedes has confirmed its next big Formula 1 car upgrade will arrive at the forthcoming grand prix in Malaysia, where it hopes to get back into contention for pole.The Silver Arrows is the runaway leader of the 2026 championship with a 145-point advantage over second-placed Ferrari, despite its last major upgrade package being Montreal in May.Mercedes has instead preferred to fit minor ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/mercedes-aims-to-end-pole-drought-with-upcoming-malaysia-f1-upgrades/10857058/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/68VwKlx2/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": 1789805118000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/arvid-lindblad-nearly-flips-worlds-shortest-fiat-panda-in-bizarre-youtube-challenge/10857231/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Arvid Lindblad nearly flips world's shortest Fiat Panda in bizarre YouTube challenge",
-      "snippet": "Racing Bulls Formula 1 rookie Arvid Lindblad has used some of his time off to test the world's shortest Fiat Panda in a recent YouTube video.The 19-year-old driver featured in a video by Italian car modification channel Carmagheddon, getting behind the wheel of a heavily modified Fiat Panda.During the video, Lindblad almost rolled the Guinness World Record-holding vehicle, but managed to ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/arvid-lindblad-nearly-flips-worlds-shortest-fiat-panda-in-bizarre-youtube-challenge/10857231/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6O7z1y56/s6/arvid-lindblad-racing-bulls.jpg",
-      "published_at": 1789832632000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/james-vowles-faces-tough-moment-as-nico-rosberg-calls-williams-woes-a-shocker/10857199/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "James Vowles faces \"tough moment\" as Nico Rosberg calls Williams woes \"a shocker\"",
-      "snippet": "2016 Formula 1 champion Nico Rosberg has branded Williams's 2026 performance a \"shocker\" and argued that team principal James Vowles faces a major challenge to bring the Grove outfit back to where it needs to be.Williams entered the 2026 season already on the back foot, having missed the private testing in Barcelona in January and arrived at pre-season testing in Bahrain with an overweight ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/james-vowles-faces-tough-moment-as-nico-rosberg-calls-williams-woes-a-shocker/10857199/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2y7QDvo6/s6/carlos-sainz-williams.jpg",
-      "published_at": 1789830819000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/ferrari-reveals-special-black-race-suit-for-charles-leclerc-at-f1-singapore-gp/10857172/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Ferrari reveals special black race suit for Charles Leclerc at F1 Singapore GP",
-      "snippet": "Ferrari has unveiled a special-edition black race suit for Charles Leclerc, which the Monegasque driver will wear at next month's Singapore Grand Prix. Moving away from the traditional Ferrari red with white accents, Leclerc's bespoke race suit is almost entirely black. In addition to the race suit that \"embodies a night under the Singapore lights\", the Maranello outfit has revealed a ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/ferrari-reveals-special-black-race-suit-for-charles-leclerc-at-f1-singapore-gp/10857172/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0Zq8Wp86/s6/charles-leclerc-ferrari.jpg",
-      "published_at": 1789826844000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/otmar-szafnauer-praises-toto-wolff-after-kimi-antonelli-gamble-pays-off/10857159/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Otmar Szafnauer praises Toto Wolff after Kimi Antonelli gamble pays off",
-      "snippet": "Former Alpine team principal Otmar Szafnauer says Mercedes boss Toto Wolff deserves credit for taking a gamble on Kimi Antonelli.After seven-time champion Lewis Hamilton decided to part ways with Mercedes to join Ferrari in 2025, the Brackley outfit was faced with deciding between signing another experienced driver and putting its support behind an up-and-comer.When Wolff opted to ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/otmar-szafnauer-praises-toto-wolff-after-kimi-antonelli-gamble-pays-off/10857159/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0R7wLOV2/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": 1789825145000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/rob-smedley-explains-peter-bonningtons-key-role-in-kimi-antonellis-f1-success/10857140/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Rob Smedley explains Peter Bonnington's key role in Kimi Antonelli's F1 success",
-      "snippet": "Former Formula 1 race engineer Rob Smedley says Peter \"Bono\" Bonnington has been essential to Kimi Antonelli's 2026 F1 title charge, though he stresses the Mercedes driver is the one ultimately responsible for delivering on track.Antonelli became the youngest driver to lead the standings after back-to-back wins at the Chinese and Japanese Grands Prix. While many assumed the pressure would ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/rob-smedley-explains-peter-bonningtons-key-role-in-kimi-antonellis-f1-success/10857140/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2wlEb8BY/s6/kimi-antonelli-peter-bonningto.jpg",
-      "published_at": 1789821611000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/kimi-antonelli-hailed-as-phenomenon-as-david-coulthard-rejects-luck-claims/10857078/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Kimi Antonelli hailed as \"phenomenon\" as David Coulthard rejects luck claims",
-      "snippet": "Former Formula 1 driver David Coulthard has branded current championship leader Kimi Antonelli a \"phenomenon\", dismissing claims that the Mercedes driver's success is down to luck.Antonelli, who is currently in his second season in the series, took the lead of the drivers' standings after back-to-back wins at the Chinese and Japanese Grands Prix. In the first half of the season, he claimed six ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/kimi-antonelli-hailed-as-phenomenon-as-david-coulthard-rejects-luck-claims/10857078/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0JXRzroY/s6/kimi-antonelli-mercedes.jpg",
-      "published_at": 1789810319000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/williams-accepts-2026-f1-development-compromise-as-focus-turns-to-2027/10857074/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Williams accepts 2026 F1 development compromise as focus turns to 2027",
-      "snippet": "Williams team principal James Vowles has conceded that the Grove outfit must accept a developmental \"compromise\" for the remainder of the 2026 Formula 1 season, having already shifted its main resources towards its 2027 campaign.Speaking in his post-race Vowles Verdict debrief following a difficult Spanish Grand Prix at the brand-new Madring circuit, the Briton offered an update on the team's ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/williams-accepts-2026-f1-development-compromise-as-focus-turns-to-2027/10857074/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2GdKjVEY/s6/carlos-sainz-williams.jpg",
-      "published_at": 1789809169000
     },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/c8r60g7nrn6o?at_medium=RSS&at_campaign=rss",
@@ -138,69 +201,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ff/live/d42b5e60-aebd-11f1-ae38-d350b022f499.jpg",
       "published_at": 1789232406000
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13586066/most-dramatic-first-corner-crash-ever-relive-epic-2017-singapore-gp-start",
-      "title": "Most dramatic first corner crash ever? Relive EPIC 2017 Singapore GP start!",
-      "snippet": "On this day in 2017 at the Singapore Grand Prix, Red Bull's Max Verstappen crashed with the Ferrari pair of Sebastian Vettel and Kimi Raikkonen in one of the most dramatic starts ever.",
-      "link": "https://www.skysports.com/watch/video/13586066/most-dramatic-first-corner-crash-ever-relive-epic-2017-singapore-gp-start",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-motorsport-f1_7351999.jpg?20260915095454",
-      "published_at": 1789624800000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/lando-norris-spotted-driving-ferrari-f40-in-london-after-2025-crash/10856541/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Lando Norris spotted driving Ferrari F40 in London after 2025 crash",
-      "snippet": "2025 Formula 1 champion Lando Norris has been seen driving his Ferrari F40 in London, confirming the supercar's return to the road following a high-profile crash in early 2025.Norris's F40 was involved in an accident in January 2025 on the roads outside Monaco, while Norris was away. The vehicle, driven by a friend at the time, lost traction exiting a left-hand corner and made contact with ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/lando-norris-spotted-driving-ferrari-f40-in-london-after-2025-crash/10856541/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YWKAjNVY/s6/lando-norris-mclaren.jpg",
-      "published_at": 1789647353000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/f1-spanish-gp-norris-on-pole/10855001/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "F1 Spanish GP: Norris snatches last-gasp pole from Antonelli",
-      "snippet": "Formula 1’s reigning world champion Lando Norris has claimed his third pole position of the 2026 season at the Spanish Grand Prix, beating series leader Kimi Antonelli at the debutant Madring circuit.With a last-ditch effort Norris took a mere 0.011s out of Antonelli's benchmark to hand Mercedes its fourth consecutive qualifying defeat.It was F1's first-ever qualifying session on the ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/f1-spanish-gp-norris-on-pole/10855001/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0JXRzwpY/s6/lando-norris-mclaren-2.jpg",
-      "published_at": 1789225442000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/f1-spanish-gp-fp2-report-10854602/10854602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "F1 Spanish GP: Antonelli leads tricky second practice as Lindblad crashes",
-      "snippet": "Kimi Antonelli has topped second practice at Formula 1's Spanish Grand Prix, pipping Ferrari's Charles Leclerc on Friday afternoon at the new Madring circuit, while Arvid Lindblad crashed.Antonelli set the fastest lap around the halfway mark in the second one-hour session as drivers and teams kept chipping away at their set-ups on the extremely difficult circuit in Madrid.The 5.4km track ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/f1-spanish-gp-fp2-report-10854602/10854602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/01QNkoe0/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "published_at": 1789143284000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/george-russell-reveals-when-hell-take-his-own-f1-engine-penalty/10854419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Russell set to take F1 engine penalty after Mercedes introduces power unit upgrade",
-      "snippet": "George Russell says he will take an engine penalty when Mercedes introduces its upgraded Formula 1 power unit.Both Mercedes drivers have exceeded or are expected to exceed their power unit allowance for the 2026 season. Kimi Antonelli did so last weekend in Monza, where he took a back-of-the-grid penalty and scythed his way through the field to take a historic victory from 19th.Russell ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/george-russell-reveals-when-hell-take-his-own-f1-engine-penalty/10854419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/68VwoRV2/s6/george-russell-mercedes-2.jpg",
-      "published_at": 1789117063000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/audi-lodges-intention-to-appeal-against-yuki-tsunodas-italian-gp-verdict/10853215/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Audi signals appeal over Tsunoda’s Italian GP non-penalty",
-      "snippet": "The Audi Formula 1 team has notified the FIA of its intention to appeal against Yuki Tsunoda's non-penalty in the Italian Grand Prix.Amid confusion over where he was supposed to line up on a lap 6 restart, Tsunoda parked in his correct 14th grid slot, but at an angle towards the inside wall. Race director Rui Marques was \"not comfortable\" with Tsunoda's position, so imposed an extra formation ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/audi-lodges-intention-to-appeal-against-yuki-tsunodas-italian-gp-verdict/10853215/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6DGg3jxY/s6/yuki-tsunoda-racing-bulls-2.jpg",
-      "published_at": 1788724704000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/ckeq8vj28149o?at_medium=RSS&at_campaign=rss",
-      "title": "Former Mercedes design boss Elliott joins Alpine",
-      "snippet": "Former Mercedes F1 design boss Mike Elliott joins Alpine as chief technical officer.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/ckeq8vj28149o?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a6/live/6e149aa0-b283-11f1-8096-b33a1297275a.jpg",
-      "published_at": 1789642349000
     }
   ]
 }
