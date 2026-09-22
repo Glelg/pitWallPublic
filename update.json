@@ -1,9 +1,8 @@
         {
-          "versionCode": 25,
-          "versionName": "0.7.7",
-          "apkUrl": "https://github.com/Glelg/pitWallPublic/releases/download/v0.7.7/pitwall-0.7.7-release.apk",
-          "changelog": "- Fresh Race Data & Team Branding — Faster session results with dynamic team colors, logos, and instant status updates across the app.
-\n- Clearer Timing & Retirement Statuses — Precise gap calculations, standardized time formats, and clear reasons for driver retirements (DNF/DNS/DSQ).
-\n- News Feed Improvements — Fixed display bugs and improved news loading stability.",
+          "versionCode": 26,
+          "versionName": "0.7.8",
+          "apkUrl": "https://github.com/Glelg/pitWallPublic/releases/download/v0.7.8/pitwall-0.7.8-release.apk",
+          "changelog": "- Race Winner Predictions — Predict the upcoming Grand Prix winner on the Pitwall screen and view live fan voting statistics.
+\n- Bug Fixes & UI Improvements — General bug fixes and UI polish.",
           "isForceUpdate": false
         }
