@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-09-22T04:32:20.626514Z",
+    "last_updated": "2026-09-22T05:02:27.054871Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13589266/f1-title-race-why-azerbaijan-malaysia-singapore-triple-header-will-shape-what-rest-of-2026-championship-chase-will-look-like",
+      "title": "Why F1's intense triple header will shape title run-in",
+      "snippet": "Formula 1 embarks on its first triple header of the season this week with the Azerbaijan Grand Prix the first of three races in as many weekends.",
+      "link": "https://www.skysports.com/f1/news/12433/13589266/f1-title-race-why-azerbaijan-malaysia-singapore-triple-header-will-shape-what-rest-of-2026-championship-chase-will-look-like",
+      "source_name": "Sky Sports",
+      "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-kimi-antonelli-mercedes_7355461.jpg?20260918143814",
+      "published_at": 1790056800000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/f1-confirms-new-hot-wheels-infinite-rush-car-collection-for-2027-release/10857826/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "F1 confirms new Hot Wheels \"Infinite Rush\" car collection for 2027 release",
@@ -174,15 +183,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-2.motorsport.com/images/amp/2y7QLqe6/s6/a-spanish-flag-flies-over-the-.jpg",
       "published_at": 1789927203000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/sebastian-vettel-weighs-in-on-f1-2026-rules-debate-we-need-to-combine-things-we-love/10857419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Sebastian Vettel: F1 must combine “things we love” with sustainable future",
-      "snippet": "Four-time world champion Sebastian Vettel believes Formula 1 has the technology to pair its sustainability goals with an exciting on-track product.As a racer with a deep-rooted passion for the history of the series, Vettel wasn't the biggest proponent of the turbo hybrids coming into the series in 2014, criticising their dulled sound and the impact of their complexity on the racing ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/sebastian-vettel-weighs-in-on-f1-2026-rules-debate-we-need-to-combine-things-we-love/10857419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2wlKov3Y/s6/sebastian-vettel-drives-a-hist-2.jpg",
-      "published_at": 1789908259000
     },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/c8r60g7nrn6o?at_medium=RSS&at_campaign=rss",
