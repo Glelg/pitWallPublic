@@ -8,7 +8,7 @@
     "meeting_name": "Hungarian Grand Prix",
     "circuit_name": "Hungaroring",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-21T19:22:09.330341Z"
+    "last_updated": "2026-09-22T23:32:27.832542Z"
   },
   "results": [
     {
@@ -39,7 +39,7 @@
       "team_name": "Ferrari",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 3,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "1:17.219",
       "gap_to_leader": "+0.012s",
@@ -79,7 +79,7 @@
       "team_name": "Mercedes",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 3,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "1:17.479",
       "gap_to_leader": "+0.272s",
