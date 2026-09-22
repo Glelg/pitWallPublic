@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: votes-${{ github.event.client_payload.meetingKey }}
+  cancel-in-progress: false
+
 jobs:
   process_vote:
     runs-on: ubuntu-latest
