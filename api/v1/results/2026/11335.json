@@ -8,7 +8,7 @@
     "meeting_name": "Hungarian Grand Prix",
     "circuit_name": "Hungaroring",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-21T19:21:23.264789Z"
+    "last_updated": "2026-09-22T22:02:27.747605Z"
   },
   "results": [
     {
@@ -384,6 +384,91 @@
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
+    },
+    {
+      "position": null,
+      "driver_number": 43,
+      "full_name": "Franco COLAPINTO",
+      "driver_acronym": "COL",
+      "team_name": "Alpine",
+      "country_code": "",
+      "grid_position": null,
+      "grid_penalty": null,
+      "is_pit_lane_start": false,
+      "time_or_retired": "DNS",
+      "gap_to_leader": "",
+      "laps_completed": 0,
+      "points": 0.0,
+      "is_fastest_lap": false,
+      "status": "DNS"
+    },
+    {
+      "position": null,
+      "driver_number": 12,
+      "full_name": "Kimi ANTONELLI",
+      "driver_acronym": "ANT",
+      "team_name": "Mercedes",
+      "country_code": "",
+      "grid_position": null,
+      "grid_penalty": null,
+      "is_pit_lane_start": false,
+      "time_or_retired": "DNS",
+      "gap_to_leader": "",
+      "laps_completed": 0,
+      "points": 0.0,
+      "is_fastest_lap": false,
+      "status": "DNS"
+    },
+    {
+      "position": null,
+      "driver_number": 77,
+      "full_name": "Valtteri BOTTAS",
+      "driver_acronym": "BOT",
+      "team_name": "Cadillac",
+      "country_code": "",
+      "grid_position": null,
+      "grid_penalty": null,
+      "is_pit_lane_start": false,
+      "time_or_retired": "DNS",
+      "gap_to_leader": "",
+      "laps_completed": 0,
+      "points": 0.0,
+      "is_fastest_lap": false,
+      "status": "DNS"
+    },
+    {
+      "position": null,
+      "driver_number": 81,
+      "full_name": "Oscar PIASTRI",
+      "driver_acronym": "PIA",
+      "team_name": "McLaren",
+      "country_code": "",
+      "grid_position": null,
+      "grid_penalty": null,
+      "is_pit_lane_start": false,
+      "time_or_retired": "DNS",
+      "gap_to_leader": "",
+      "laps_completed": 0,
+      "points": 0.0,
+      "is_fastest_lap": false,
+      "status": "DNS"
+    },
+    {
+      "position": null,
+      "driver_number": 87,
+      "full_name": "Oliver BEARMAN",
+      "driver_acronym": "BEA",
+      "team_name": "Haas F1 Team",
+      "country_code": "",
+      "grid_position": null,
+      "grid_penalty": null,
+      "is_pit_lane_start": false,
+      "time_or_retired": "DNS",
+      "gap_to_leader": "",
+      "laps_completed": 0,
+      "points": 0.0,
+      "is_fastest_lap": false,
+      "status": "DNS"
     }
   ]
 }
