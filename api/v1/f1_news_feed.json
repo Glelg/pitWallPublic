@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-23T05:32:15.954543Z",
+    "last_updated": "2026-09-23T06:02:20.688729Z",
     "total_news": 22
   },
   "news": [
@@ -113,24 +113,6 @@
       "published_at": 1790001751000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/guenther-steiner-predicts-max-verstappen-will-go-winless-in-2026-f1-season/10857570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Guenther Steiner predicts Max Verstappen will go winless in 2026 F1 season",
-      "snippet": "Former Haas Formula 1 team principal Guenther Steiner believes four-time champion Max Verstappen will fail to win a single grand prix during the 2026 F1 season, arguing that Red Bull's package is not competitive enough.Verstappen currently sits sixth in the standings with 145 points, 147 points behind championship leader Kimi Antonelli. The Dutchman's best results so far this year have been ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/guenther-steiner-predicts-max-verstappen-will-go-winless-in-2026-f1-season/10857570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0rVP7pW0/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": 1789999202000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/why-charles-leclerc-didnt-copy-lewis-hamiltons-driving-style-amid-f1-2026-struggle/10857642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Why Leclerc didn’t copy Hamilton’s driving style amid F1 2026 struggle",
-      "snippet": "Charles Leclerc has explained why he refrained from trying to copy Lewis Hamilton’s driving style when extracting the most out of Ferrari’s 2026 Formula 1 car was tricky.As F1 switched to new regulations for this season, Leclerc sometimes struggled with the Scuderia’s SF-26. After the Monegasque noticeably outperformed team-mate Hamilton last year, their head-to-head has been a lot more ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/why-charles-leclerc-didnt-copy-lewis-hamiltons-driving-style-amid-f1-2026-struggle/10857642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/68VwoR42/s6/charles-leclerc-ferrari-lewis--2.jpg",
-      "published_at": 1789998763000
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/c8r60g7nrn6o?at_medium=RSS&at_campaign=rss",
       "title": "Norris takes Madrid pole with 'gorgeous' lap",
       "snippet": "Lando Norris takes a superb pole position for McLaren at the Spanish Grand Prix, beating Mercedes' Kimi Antonelli and Red Bull's Max Verstappen.",
@@ -192,6 +174,24 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-3.motorsport.com/images/amp/68VwoRV2/s6/george-russell-mercedes-2.jpg",
       "published_at": 1789117063000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/guenther-steiner-predicts-max-verstappen-will-go-winless-in-2026-f1-season/10857570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Guenther Steiner predicts Max Verstappen will go winless in 2026 F1 season",
+      "snippet": "Former Haas Formula 1 team principal Guenther Steiner believes four-time champion Max Verstappen will fail to win a single grand prix during the 2026 F1 season, arguing that Red Bull's package is not competitive enough.Verstappen currently sits sixth in the standings with 145 points, 147 points behind championship leader Kimi Antonelli. The Dutchman's best results so far this year have been ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/guenther-steiner-predicts-max-verstappen-will-go-winless-in-2026-f1-season/10857570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0rVP7pW0/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": 1789999202000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/why-charles-leclerc-didnt-copy-lewis-hamiltons-driving-style-amid-f1-2026-struggle/10857642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Why Leclerc didn’t copy Hamilton’s driving style amid F1 2026 struggle",
+      "snippet": "Charles Leclerc has explained why he refrained from trying to copy Lewis Hamilton’s driving style when extracting the most out of Ferrari’s 2026 Formula 1 car was tricky.As F1 switched to new regulations for this season, Leclerc sometimes struggled with the Scuderia’s SF-26. After the Monegasque noticeably outperformed team-mate Hamilton last year, their head-to-head has been a lot more ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/why-charles-leclerc-didnt-copy-lewis-hamiltons-driving-style-amid-f1-2026-struggle/10857642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/68VwoR42/s6/charles-leclerc-ferrari-lewis--2.jpg",
+      "published_at": 1789998763000
     },
     {
       "id": "https://www.motorsport.com/f1/news/2025-f1-academy-champion-doriane-pin-sets-timeline-for-formula-1-race-seat/10857711/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
