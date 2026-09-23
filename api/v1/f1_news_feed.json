@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-23T01:02:16.358184Z",
+    "last_updated": "2026-09-23T01:32:22.750499Z",
     "total_news": 22
   },
   "news": [
@@ -167,15 +167,6 @@
       "published_at": 1789983446000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/mercedes-and-aston-martin-go-head-to-head-in-charity-football-match-here-are-the-results/10857645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Mercedes and Aston Martin go head-to-head in charity football match: Here are the results",
-      "snippet": "Staff from the Aston Martin and Mercedes Formula 1 teams have gone head-to-head in the annual charity football match to raise funds for two charities.The match, which is hosted at Brackley Town Football Club's St James Park and has been held since 2022, pits the neighbouring Northamptonshire squads against one another to raise funds for local and mental health charities.The Silverstone ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/mercedes-and-aston-martin-go-head-to-head-in-charity-football-match-here-are-the-results/10857645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6Al7RgGY/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": 1789982481000
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/c8r60g7nrn6o?at_medium=RSS&at_campaign=rss",
       "title": "Norris takes Madrid pole with 'gorgeous' lap",
       "snippet": "Lando Norris takes a superb pole position for McLaren at the Spanish Grand Prix, beating Mercedes' Kimi Antonelli and Red Bull's Max Verstappen.",
@@ -201,6 +192,15 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-6.motorsport.com/images/amp/68VwKlx2/s6/andrea-kimi-antonelli-mercedes.jpg",
       "published_at": 1789805114000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/lando-norris-spotted-driving-ferrari-f40-in-london-after-2025-crash/10856541/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Lando Norris spotted driving Ferrari F40 in London after 2025 crash",
+      "snippet": "2025 Formula 1 champion Lando Norris has been seen driving his Ferrari F40 in London, confirming the supercar's return to the road following a high-profile crash in early 2025.Norris's F40 was involved in an accident in January 2025 on the roads outside Monaco, while Norris was away. The vehicle, driven by a friend at the time, lost traction exiting a left-hand corner and made contact with ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/lando-norris-spotted-driving-ferrari-f40-in-london-after-2025-crash/10856541/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YWKAjNVY/s6/lando-norris-mclaren.jpg",
+      "published_at": 1789647353000
     }
   ]
 }
