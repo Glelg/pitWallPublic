@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-09-23T04:32:19.102203Z",
+    "last_updated": "2026-09-23T05:02:18.926550Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13590751/ferrari-boss-frederic-vasseur-sets-goal-for-azerbaijan-gp-as-nico-rosberg-pinpoints-teams-achilles-heel",
+      "title": "Ferrari set Baku target as Rosberg pinpoints team's repeat flaw",
+      "snippet": "Ferrari boss Frederic Vasseur has stressed the importance of executing weekends more cleanly after a costly run of results for the team at recent races.",
+      "link": "https://www.skysports.com/f1/news/12433/13590751/ferrari-boss-frederic-vasseur-sets-goal-for-azerbaijan-gp-as-nico-rosberg-pinpoints-teams-achilles-heel",
+      "source_name": "Sky Sports",
+      "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-lewis-hamilton-ferrari_7358773.jpg?20260922165952",
+      "published_at": 1790143200000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/why-is-a-formula-1-race-305-kilometres-long-race-distances-from-1950-to-2027/10858004/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Why is a Formula 1 race 305 kilometres long? Race distances from 1950 to 2027",
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-5.motorsport.com/images/amp/6DGqrz4Y/s6/doriane-pin-mercedes.jpg",
       "published_at": 1789991836000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/gabriel-bortoleto-opens-up-on-fernando-alonsos-personality-away-from-f1-cameras/10857688/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Gabriel Bortoleto opens up on Fernando Alonso's personality away from F1 cameras",
-      "snippet": "Audi Formula 1 driver Gabriel Bortoleto says his manager, two-time champion Fernando Alonso, is exactly the same behind the scenes as he appears in the media.Bortoleto is now in his second season in the championship, having made his F1 debut in 2025 with Sauber before Audi formally took over the Swiss team at the start of this year. During his rise through the motorsport ranks, the Brazilian ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/gabriel-bortoleto-opens-up-on-fernando-alonsos-personality-away-from-f1-cameras/10857688/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YBVoEo8Y/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": 1789987213000
     }
   ]
 }
