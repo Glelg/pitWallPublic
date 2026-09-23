@@ -1,9 +1,45 @@
 {
   "metadata": {
-    "last_updated": "2026-09-23T14:02:17.294280Z",
+    "last_updated": "2026-09-23T14:32:23.645528Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13590907/f1-drivers-split-over-whether-monaco-sprint-makes-sense-after-2027-calendar-announcement",
+      "title": "F1 drivers split over whether Monaco Sprint 'makes sense'",
+      "snippet": "Lewis Hamilton and George Russell disagree on the Monaco Grand Prix becoming a Sprint weekend in 2027.",
+      "link": "https://www.skysports.com/f1/news/12433/13590907/f1-drivers-split-over-whether-monaco-sprint-makes-sense-after-2027-calendar-announcement",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/06/1920x1080/skysports-f1-oscar-piastri_7274966.jpg?20260616145634",
+      "published_at": 1790176500000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cmpq03x9x27ro?at_medium=RSS&at_campaign=rss",
+      "title": "The moment Antonelli knew he had been transformed as an F1 driver",
+      "snippet": "Championship leader Kimi Antonelli tells BBC Sport how he is \"still finding my way\" in F1 after a 2024 crash \"stayed in my head for a very long time\".",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cmpq03x9x27ro?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8918/live/fe3a4800-b738-11f1-aa9c-3d062fa3aea7.jpg",
+      "published_at": 1790173607000
+    },
+    {
+      "id": "https://www.autosport.com/wec/news/how-mclaren-hypercar-test-will-help-norris-in-f1/10858259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "How McLaren Hypercar test will help Norris in F1",
+      "snippet": "Lando Norris driving McLaren’s new Hypercar may seem inconsequential in the grand scheme of Formula 1 things, but the reigning world champion would disagree.Norris took the wheel of the MCL-HY at Algarve last week, completing just 38 laps – enough to get a feel for the World Endurance Championship’s top machinery and provide feedback to McLaren ahead of the brand’s 2027 debut.The ...Keep reading",
+      "link": "https://www.autosport.com/wec/news/how-mclaren-hypercar-test-will-help-norris-in-f1/10858259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2wlKg8BY/s6/lando-norris-mclaren-3.jpg",
+      "published_at": 1790172366000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/james-hinchcliffe-explains-why-ferrari-is-happy-with-lewis-hamilton-charles-leclerc-rivalry/10858182/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "James Hinchcliffe explains why Ferrari is \"happy\" with Lewis Hamilton-Charles Leclerc rivalry",
+      "snippet": "Former IndyCar Series driver and F1 TV pundit James Hinchcliffe has argued that Ferrari is \"happy\" to manage the escalating intra-team rivalry between Lewis Hamilton and Charles Leclerc, insisting it is exactly what the Maranello outfit wanted when it signed the seven-time champion.After struggling in his first season with Ferrari in 2025, Hamilton bounced back in 2026, having adjusted to the ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/james-hinchcliffe-explains-why-ferrari-is-happy-with-lewis-hamilton-charles-leclerc-rivalry/10858182/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6lmdrd10/s6/charles-leclerc-ferrari-lewis-.jpg",
+      "published_at": 1790172002000
+    },
     {
       "id": "https://www.skysports.com/f1/news/12433/13590909/lewis-hamilton-ferrari-driver-sets-sights-on-george-russell-in-f1-championship-amid-defence-of-teams-season",
       "title": "Hamilton sets sights on Russell amid defence of Ferrari's season",
@@ -12,15 +48,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-lewis-hamilton-ferrari_7359496.jpg?20260923145533",
       "published_at": 1790172000000
-    },
-    {
-      "id": "https://www.motorsport.com/wec/news/how-lando-norris-gets-better-at-f1-with-a-hypercar-test/10858246/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "How Lando Norris gets better at F1 with a Hypercar test",
-      "snippet": "Lando Norris driving McLaren’s new Hypercar may seem inconsequential in the grand scheme of Formula 1 things, but the reigning world champion would disagree.Norris took the wheel of the MCL-HY at Algarve last week, completing just 38 laps – enough to get a feel for the World Endurance Championship’s top machinery and provide feedback to McLaren ahead of the brand’s 2027 debut.The ...Keep reading",
-      "link": "https://www.motorsport.com/wec/news/how-lando-norris-gets-better-at-f1-with-a-hypercar-test/10858246/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2eZxVJ9Y/s6/lando-norris-mclaren-2.jpg",
-      "published_at": 1790171689000
     },
     {
       "id": "https://www.motorsport.com/f1/news/isack-hadjar-brings-delayed-zandvoort-helmet-to-baku-for-f1-return/10858248/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -37,7 +64,7 @@
       "snippet": "Pierre Gasly has revealed that he was the victim of social media abuse following the Spanish Grand Prix after an incident with Franco Colapinto two weeks ago at the Madring circuit.The Alpine team-mates found themselves at the centre of a tense situation at the end of the race, when Colapinto caught up with Gasly, who was on old tyres and still had to make a pitstop.Gasly remained focused ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/gasly-condemns-family-threats-says-there-was-no-request-to-swap-with-colapinto/10858210/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6grQ3XjY/s6/pierre-gasly-alpine.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6grQ3XjY/s6/pierre-gasly-alpine.jpg",
       "published_at": 1790171081000
     },
     {
@@ -46,7 +73,7 @@
       "snippet": "Max Verstappen has ruled out competing at the Le Mans 24 Hours in 2027, but the four-time Formula 1 world champion is eyeing the 24-hour races at the Nurburgring and Spa-Francorchamps.The recently revealed 2027 F1 calendar left the door ajar for F1 drivers to compete in several of the biggest endurance races on the calendar, with the 24-hour races at the Nurburgring Le Mans and Spa all held ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/max-verstappen-rules-out-2027-le-mans-24-hours-bid/10858228/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2dEoVNDY/s6/max-verstappen-red-bull-racing.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/2dEoVNDY/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1790169733000
     },
     {
@@ -55,7 +82,7 @@
       "snippet": "Given the ongoing conflict in the Middle East, for several months now it’s been assumed that the cancellation of the season-closing Qatar and Abu Dhabi Grands Prix is not just likely, but inevitable.The commercial rights holder has been making contingency plans while outwardly maintaining that these races are still on. Many in the F1 paddock have followed suit: the hotels in the Imola ...Keep reading",
       "link": "https://www.autosport.com/f1/news/whats-behind-the-delay-in-cancelling-the-qatar-and-abu-dhabi-gps/10858217/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/2Qe8m832/s6/f1-cars-lined-up-at-the-start-.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2Qe8m832/s6/f1-cars-lined-up-at-the-start-.jpg",
       "published_at": 1790167149000
     },
     {
@@ -82,7 +109,7 @@
       "snippet": "Two-time Formula 1 world champion Fernando Alonso says he is continuing to push for better regulations as he mulls over his future in the series.Alonso is expected to continue with Aston Martin for another campaign, but has been sowing seeds of doubt in public because of his continuing frustrations with the 2026 technical regulations, which emphasise counter-intuitive battery management over ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/fernando-alonso-explains-future-f-greatest-circuits-killed-by-2026-rules/10858171/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6DGgEeGY/s6/fernando-alonso-aston-martin-r.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6DGgEeGY/s6/fernando-alonso-aston-martin-r.jpg",
       "published_at": 1790160307000
     },
     {
@@ -91,7 +118,7 @@
       "snippet": "The details in a Formula 1 driver contract is highly-guarded information, but often the length of the deal is released to the wider world.Here is how long each F1 driver contract is believed to be and therefore what moves could be possible and when in the future.McLarenLando Norris – 2030The reigning F1 world champion recently announced a new four-year contract with McLaren which ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/f1-driver-contracts-how-long-is-each-driver-tied-down-for/10850679/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0Ld5LDa0/s6/drivers-group-photo.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0Ld5LDa0/s6/drivers-group-photo.jpg",
       "published_at": 1790158881000
     },
     {
@@ -100,7 +127,7 @@
       "snippet": "Esteban Ocon declared himself a \"free agent\" as Haas is yet to confirm its driver line-up for the 2027 Formula 1 season, but did not rule out potentially staying at the team. Although the Frenchman has been enjoying much improved performances of late, which have gone largely unrewarded as Haas' performance has slipped away from its early-season points-scoring form, Ocon's seat has been under ...Keep reading",
       "link": "https://www.autosport.com/f1/news/free-agent-ocon-talking-to-other-f1-teams-for-2027/10858164/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0mXy7va6/s6/esteban-ocon-haas-f1-team-2.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0mXy7va6/s6/esteban-ocon-haas-f1-team-2.jpg",
       "published_at": 1790158783000
     },
     {
@@ -109,7 +136,7 @@
       "snippet": "Mercedes Formula 1 driver Kimi Antonelli is showing \"zero sign\" of feeling the championship pressure as he closes in on his maiden title, according to former F1 driver and F1 TV pundit Jolyon Palmer.Following his eighth victory of the season at the Spanish Grand Prix, the Italian driver concluded the European leg with an impressive 81-point lead in the standings. His Mercedes team-mate George ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/kimi-antonelli-shows-zero-sign-of-championship-pressure-as-jolyon-palmer-hails-2026-turnaround/10858165/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0rVPLzP0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0rVPLzP0/s6/andrea-kimi-antonelli-mercedes.jpg",
       "published_at": 1790158566000
     },
     {
@@ -127,17 +154,8 @@
       "snippet": "Formula 1 stakeholders have reached an agreement on the main elements of the next engine rules cycle.The FIA and F1 engine manufacturers have opted against a naturally aspirated option, partly because of noise restrictions at street circuits, with a smaller and simplified electronics package.A push-to-pass overtake mode is also under consideration, along with a possible debut in ...Keep reading",
       "link": "https://www.autosport.com/f1/news/f1-engine-regulation-2030-plan/10858159/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0arKV5r2/s6/start-action-2.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0arKV5r2/s6/start-action-2.jpg",
       "published_at": 1790158329000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/lewis-hamilton-and-ferrari-2026-f1-title-hopes-are-over-says-james-hinchcliffe/10858141/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Lewis Hamilton and Ferrari 2026 F1 title hopes are \"over\", says James Hinchcliffe",
-      "snippet": "Former IndyCar Series driver and F1 TV pundit James Hinchcliffe has declared Lewis Hamilton and Ferrari's 2026 Formula 1 championship hopes \"over\" following a costly retirement at the Spanish Grand Prix.The seven-time champion suffered a brake issue at the brand-new Madring circuit. As a result, he now sits 101 points behind championship leader Kimi Antonelli in the standings and 20 points ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/lewis-hamilton-and-ferrari-2026-f1-title-hopes-are-over-says-james-hinchcliffe/10858141/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YE9EZWMY/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": 1790156181000
     },
     {
       "id": "https://www.autosport.com/f1/news/what-you-ask-emerson-fittipaldi/10858130/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -145,7 +163,7 @@
       "snippet": "On 24 September, two-time Formula 1 world champion Emerson Fittipaldi will join us in the Baku paddock to answer Autosport readers' questions ahead of the Azerbaijan Grand Prix.In a remarkable career that span across three decades with even further outings, Fittipaldi not only clinched the F1 title with Lotus and McLaren in 1972 and 1974 but also won the IndyCar championship in ...Keep reading",
       "link": "https://www.autosport.com/f1/news/what-you-ask-emerson-fittipaldi/10858130/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YvKBQRe6/s6/emerson-fittipaldi.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YvKBQRe6/s6/emerson-fittipaldi.jpg",
       "published_at": 1790155590000
     },
     {
@@ -172,7 +190,7 @@
       "snippet": "A Formula 1 Grand Prix is more than 305 kilometres long. More precisely, a race consists of the minimum number of laps required to exceed 305 kilometres. The only exception is Monaco, where the minimum distance is 260 kilometres.There is also a two-hour limit on actual racing time. If a race is suspended, the total duration including the interruption may not exceed three hours. That is what ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/why-is-a-formula-1-race-305-kilometres-long-race-distances-from-1950-to-2027/10858004/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YE9EQnLY/s6/start-action.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YE9EQnLY/s6/start-action.jpg",
       "published_at": 1790092818000
     },
     {
@@ -181,26 +199,8 @@
       "snippet": "Formula 1 returns to familiar ground this weekend as Azerbaijan celebrates its 10th anniversary of being on the calendar.The Baku street circuit first entered as the European Grand Prix in 2016 before running as the Azerbaijan Grand Prix from 2017, featuring every season bar the COVID-struck 2020 campaign.It has produced many memorable moments from Daniel Ricciardo’s mega win from 10th ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-azerbaijan-gp/10857961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/Yv87Xr70/s6/drivers-take-the-start-of-the-.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/Yv87Xr70/s6/drivers-take-the-start-of-the-.jpg",
       "published_at": 1790088590000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/doriane-pin-shares-powerful-advice-to-young-girls-hoping-to-reach-motorsport/10857714/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Doriane Pin shares powerful advice to young girls hoping to reach motorsport",
-      "snippet": "Mercedes Formula 1 development driver and 2025 F1 Academy champion Doriane Pin has urged young girls aiming for a career in motorsport to \"dare to believe\" in their ambitions.Pin began karting at the age of nine and started competing in the national championship when she was 12 in 2016. In her three years in the karting championship, she finished 10th and fifth in the junior class in the ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/doriane-pin-shares-powerful-advice-to-young-girls-hoping-to-reach-motorsport/10857714/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/68VWPGX2/s6/30-duqueine-team-oreca-07-gibs.jpg",
-      "published_at": 1790064003000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/c9vgyzm2xv3do?at_medium=RSS&at_campaign=rss",
-      "title": "Why is Monaco staging a sprint race? F1 Q&A",
-      "snippet": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Azerbaijan Grand Prix.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c9vgyzm2xv3do?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae8f/live/a407a4c0-b5d2-11f1-8c16-65d8f060d73f.jpg",
-      "published_at": 1790059086000
     }
   ]
 }
