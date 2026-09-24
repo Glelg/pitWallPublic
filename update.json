@@ -1,10 +1,9 @@
         {
-          "versionCode": 27,
-          "versionName": "0.7.11",
-          "apkUrl": "https://github.com/Glelg/pitWallPublic/releases/download/v0.7.11/pitwall-0.7.11-release.apk",
-          "changelog": "- Feedback Form — Easily share your thoughts, report issues, and suggest new features directly within the app.
-\n- Enhanced Race History — Faster loading and improved stability for past race data, along with interface fixes.
-\n- Transparent Fan Voting — Selecting a driver now reveals live voting percentages across all drivers instantly.
-\n- UI Polish & Smooth Animations — Minor interface refinements and smoother animations throughout the app.",
+          "versionCode": 28,
+          "versionName": "0.7.12",
+          "apkUrl": "https://github.com/Glelg/pitWallPublic/releases/download/v0.7.12/pitwall-0.7.12-release.apk",
+          "changelog": "- New App Icon — Updated logo with a sleek, modern design for a fresh new look.
+\n- Circuit Thumbnails — Added track thumbnails to the calendar to complement race details for most F1 circuits.
+\n- Bug Fixes & UI Polish — Minor bug fixes and interface refinements for a smoother experience.",
           "isForceUpdate": false
         }
