@@ -197,7 +197,7 @@ def main():
                         is_pit_by_s1_delta = False
                         if s1_val is not None:
                             try:
-                                if float(s1_val) > (median_s1 + 4.0):
+                                if float(s1_val) > (median_s1 + 5.0):
                                     is_pit_by_s1_delta = True
                             except Exception:
                                 pass
@@ -226,9 +226,15 @@ def main():
         quali_penalties_dict = {}
         if is_quali and m_key:
             m_sessions = [sess for sess in sessions_raw if sess.get('meeting_key') == m_key]
-            race_sess = next((sess for sess in m_sessions if 'race' in str(sess.get('session_type','')).lower() and 'sprint' not in str(sess.get('session_name','')).lower()), None)
-            if race_sess:
-                r_key = race_sess.get('session_key')
+            is_sprint_quali = 'sprint' in s_name.lower() or 'shootout' in s_name.lower()
+
+            if is_sprint_quali:
+                target_sess = next((sess for sess in m_sessions if 'sprint' in str(sess.get('session_name','')).lower() and 'qualifying' not in str(sess.get('session_name','')).lower() and 'shootout' not in str(sess.get('session_name','')).lower()), None)
+            else:
+                target_sess = next((sess for sess in m_sessions if ('race' in str(sess.get('session_type','')).lower() or 'grand prix' in str(sess.get('session_name','')).lower()) and 'sprint' not in str(sess.get('session_name','')).lower()), None)
+
+            if target_sess:
+                r_key = target_sess.get('session_key')
                 r_pos_raw = fetch_json(f"position?session_key={r_key}") or []
                 r_pos_raw.sort(key=lambda x: str(x.get('date', '')))
                 r_grid_dict = {}
@@ -248,6 +254,8 @@ def main():
                             r_grid_pos = r_grid_dict.get(d_n)
                             if r_grid_pos is not None and r_grid_pos > q_pos_int:
                                 quali_penalties_dict[d_n] = r_grid_pos - q_pos_int
+                        except Exception:
+                            pass
                         except Exception:
                             pass
 

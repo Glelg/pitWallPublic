@@ -8,7 +8,7 @@
     "meeting_name": "Canadian Grand Prix",
     "circuit_name": "Montreal",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-24T02:32:22.971580Z"
+    "last_updated": "2026-09-24T15:10:40.236823Z"
   },
   "results": [
     {
@@ -299,7 +299,7 @@
       "team_name": "Haas F1 Team",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": null,
+      "grid_penalty": 4,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",
@@ -379,7 +379,7 @@
       "team_name": "Alpine",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": null,
+      "grid_penalty": 1,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",
@@ -399,7 +399,7 @@
       "team_name": "Cadillac",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": null,
+      "grid_penalty": 1,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",

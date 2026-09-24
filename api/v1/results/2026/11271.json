@@ -8,7 +8,7 @@
     "meeting_name": "Miami Grand Prix",
     "circuit_name": "Miami",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-24T00:02:25.291034Z"
+    "last_updated": "2026-09-24T15:10:22.647929Z"
   },
   "results": [
     {
@@ -299,7 +299,7 @@
       "team_name": "Racing Bulls",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": null,
+      "grid_penalty": 7,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",

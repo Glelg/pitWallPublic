@@ -8,7 +8,7 @@
     "meeting_name": "Italian Grand Prix",
     "circuit_name": "Monza",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-23T04:32:26.222674Z"
+    "last_updated": "2026-09-24T15:16:08.179991Z"
   },
   "results": [
     {
@@ -59,7 +59,7 @@
       "team_name": "McLaren",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": null,
+      "grid_penalty": 3,
       "is_pit_lane_start": false,
       "time_or_retired": "1:21.966",
       "gap_to_leader": "+0.180s",
@@ -139,7 +139,7 @@
       "team_name": "Mercedes",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": null,
+      "grid_penalty": 12,
       "is_pit_lane_start": false,
       "time_or_retired": "1:22.093",
       "gap_to_leader": "+0.307s",
@@ -279,7 +279,7 @@
       "team_name": "Red Bull Racing",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": null,
+      "grid_penalty": 8,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",
@@ -359,7 +359,7 @@
       "team_name": "Williams",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": null,
+      "grid_penalty": 2,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",

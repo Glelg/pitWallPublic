@@ -162,7 +162,7 @@ def sync_single_session_results(session, meeting_info, target_year, season_drive
                     is_pit_by_s1_delta = False
                     if s1_val is not None:
                         try:
-                            if float(s1_val) > (median_s1 + 4.0):
+                            if float(s1_val) > (median_s1 + 5.0):
                                 is_pit_by_s1_delta = True
                         except Exception:
                             pass
@@ -183,6 +183,41 @@ def sync_single_session_results(session, meeting_info, target_year, season_drive
                 if d_n not in grid_dict:
                     try:
                         grid_dict[d_n] = int(float(p_pos))
+                    except Exception:
+                        pass
+
+    # --- КВАЛИФИКАЦИОННЫЕ ШТРАФЫ ДЛЯ КВАЛИФИКАЦИИ ---
+    quali_penalties_dict = {}
+    if is_quali and m_key:
+        meetings_sessions_raw = fetch_json(f"sessions?meeting_key={m_key}") or []
+        is_sprint_quali = 'sprint' in s_name.lower() or 'shootout' in s_name.lower()
+
+        if is_sprint_quali:
+            target_sess = next((sess for sess in meetings_sessions_raw if 'sprint' in str(sess.get('session_name','')).lower() and 'qualifying' not in str(sess.get('session_name','')).lower() and 'shootout' not in str(sess.get('session_name','')).lower()), None)
+        else:
+            target_sess = next((sess for sess in meetings_sessions_raw if ('race' in str(sess.get('session_type','')).lower() or 'grand prix' in str(sess.get('session_name','')).lower()) and 'sprint' not in str(sess.get('session_name','')).lower()), None)
+
+        if target_sess:
+            r_key = target_sess.get('session_key')
+            r_pos_raw = fetch_json(f"position?session_key={r_key}") or []
+            r_pos_raw.sort(key=lambda x: str(x.get('date', '')))
+            r_grid_dict = {}
+            for p_item in r_pos_raw:
+                d_n = p_item.get('driver_number')
+                p_pos = p_item.get('position')
+                if d_n is not None and p_pos is not None and d_n not in r_grid_dict:
+                    try: r_grid_dict[d_n] = int(float(p_pos))
+                    except Exception: pass
+
+            for r_item in results_raw:
+                d_n = r_item.get('driver_number')
+                q_pos = r_item.get('position')
+                if d_n is not None and q_pos is not None:
+                    try:
+                        q_pos_int = int(float(q_pos))
+                        r_grid_pos = r_grid_dict.get(d_n)
+                        if r_grid_pos is not None and r_grid_pos > q_pos_int:
+                            quali_penalties_dict[d_n] = r_grid_pos - q_pos_int
                     except Exception:
                         pass
 
@@ -255,7 +290,7 @@ def sync_single_session_results(session, meeting_info, target_year, season_drive
 
         is_pit_lane = (d_num in pit_lane_starters_by_telemetry)
 
-        grid_penalty = None
+        grid_penalty = quali_penalties_dict.get(d_num) if is_quali else None
 
         raw_duration = r.get('duration')
         raw_gap = r.get('gap_to_leader')
