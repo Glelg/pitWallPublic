@@ -8,7 +8,7 @@
     "meeting_name": "Italian Grand Prix",
     "circuit_name": "Monza",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-21T19:23:18.346804Z"
+    "last_updated": "2026-09-23T04:32:26.222674Z"
   },
   "results": [
     {
@@ -59,7 +59,7 @@
       "team_name": "McLaren",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 3,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "1:21.966",
       "gap_to_leader": "+0.180s",
@@ -139,7 +139,7 @@
       "team_name": "Mercedes",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 12,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "1:22.093",
       "gap_to_leader": "+0.307s",
@@ -279,7 +279,7 @@
       "team_name": "Red Bull Racing",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 8,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",
@@ -359,7 +359,7 @@
       "team_name": "Williams",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 2,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",
@@ -448,6 +448,26 @@
       "is_fastest_lap": false,
       "status": "FINISHED",
       "q1_time": "1:25.222",
+      "q2_time": null,
+      "q3_time": null
+    },
+    {
+      "position": null,
+      "driver_number": 6,
+      "full_name": "Isack HADJAR",
+      "driver_acronym": "HAD",
+      "team_name": "Red Bull Racing",
+      "country_code": "",
+      "grid_position": null,
+      "grid_penalty": null,
+      "is_pit_lane_start": false,
+      "time_or_retired": "NO TIME",
+      "gap_to_leader": "",
+      "laps_completed": 0,
+      "points": 0.0,
+      "is_fastest_lap": false,
+      "status": "NO TIME",
+      "q1_time": null,
       "q2_time": null,
       "q3_time": null
     }

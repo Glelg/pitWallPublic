@@ -8,7 +8,7 @@
     "meeting_name": "British Grand Prix",
     "circuit_name": "Silverstone",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-21T19:21:04.958684Z"
+    "last_updated": "2026-09-22T19:02:35.134628Z"
   },
   "results": [
     {
@@ -315,7 +315,7 @@
       "laps_completed": 51,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "FINISHED"
+      "status": "PIT LANE"
     },
     {
       "position": 19,

@@ -8,7 +8,7 @@
     "meeting_name": "Spanish Grand Prix",
     "circuit_name": "Madring",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-21T19:23:33.997497Z"
+    "last_updated": "2026-09-23T07:02:23.952713Z"
   },
   "results": [
     {
@@ -339,7 +339,7 @@
       "team_name": "Williams",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 3,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",
@@ -424,6 +424,26 @@
       "time_or_retired": "NO TIME",
       "gap_to_leader": "",
       "laps_completed": 2,
+      "points": 0.0,
+      "is_fastest_lap": false,
+      "status": "NO TIME",
+      "q1_time": null,
+      "q2_time": null,
+      "q3_time": null
+    },
+    {
+      "position": null,
+      "driver_number": 6,
+      "full_name": "Isack HADJAR",
+      "driver_acronym": "HAD",
+      "team_name": "Red Bull Racing",
+      "country_code": "",
+      "grid_position": null,
+      "grid_penalty": null,
+      "is_pit_lane_start": false,
+      "time_or_retired": "NO TIME",
+      "gap_to_leader": "",
+      "laps_completed": 0,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "NO TIME",

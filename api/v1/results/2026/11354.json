@@ -8,7 +8,7 @@
     "meeting_name": "Italian Grand Prix",
     "circuit_name": "Monza",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-21T19:23:08.922350Z"
+    "last_updated": "2026-09-23T03:02:26.093326Z"
   },
   "results": [
     {
@@ -384,6 +384,91 @@
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
+    },
+    {
+      "position": null,
+      "driver_number": 3,
+      "full_name": "Max VERSTAPPEN",
+      "driver_acronym": "VER",
+      "team_name": "Red Bull Racing",
+      "country_code": "",
+      "grid_position": null,
+      "grid_penalty": null,
+      "is_pit_lane_start": false,
+      "time_or_retired": "DNS",
+      "gap_to_leader": "",
+      "laps_completed": 0,
+      "points": 0.0,
+      "is_fastest_lap": false,
+      "status": "DNS"
+    },
+    {
+      "position": null,
+      "driver_number": 6,
+      "full_name": "Isack HADJAR",
+      "driver_acronym": "HAD",
+      "team_name": "Red Bull Racing",
+      "country_code": "",
+      "grid_position": null,
+      "grid_penalty": null,
+      "is_pit_lane_start": false,
+      "time_or_retired": "DNS",
+      "gap_to_leader": "",
+      "laps_completed": 0,
+      "points": 0.0,
+      "is_fastest_lap": false,
+      "status": "DNS"
+    },
+    {
+      "position": null,
+      "driver_number": 10,
+      "full_name": "Pierre GASLY",
+      "driver_acronym": "GAS",
+      "team_name": "Alpine",
+      "country_code": "",
+      "grid_position": null,
+      "grid_penalty": null,
+      "is_pit_lane_start": false,
+      "time_or_retired": "DNS",
+      "gap_to_leader": "",
+      "laps_completed": 0,
+      "points": 0.0,
+      "is_fastest_lap": false,
+      "status": "DNS"
+    },
+    {
+      "position": null,
+      "driver_number": 11,
+      "full_name": "Sergio PEREZ",
+      "driver_acronym": "PER",
+      "team_name": "Cadillac",
+      "country_code": "",
+      "grid_position": null,
+      "grid_penalty": null,
+      "is_pit_lane_start": false,
+      "time_or_retired": "DNS",
+      "gap_to_leader": "",
+      "laps_completed": 0,
+      "points": 0.0,
+      "is_fastest_lap": false,
+      "status": "DNS"
+    },
+    {
+      "position": null,
+      "driver_number": 23,
+      "full_name": "Alexander ALBON",
+      "driver_acronym": "ALB",
+      "team_name": "Williams",
+      "country_code": "",
+      "grid_position": null,
+      "grid_penalty": null,
+      "is_pit_lane_start": false,
+      "time_or_retired": "DNS",
+      "gap_to_leader": "",
+      "laps_completed": 0,
+      "points": 0.0,
+      "is_fastest_lap": false,
+      "status": "DNS"
     }
   ]
 }

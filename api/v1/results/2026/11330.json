@@ -8,7 +8,7 @@
     "meeting_name": "Belgian Grand Prix",
     "circuit_name": "Spa-Francorchamps",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-21T19:21:16.279161Z"
+    "last_updated": "2026-09-22T21:02:19.747626Z"
   },
   "results": [
     {
@@ -59,7 +59,7 @@
       "team_name": "McLaren",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 10,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "1:44.801",
       "gap_to_leader": "+0.440s",
@@ -199,7 +199,7 @@
       "team_name": "Red Bull Racing",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 11,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",
@@ -299,7 +299,7 @@
       "team_name": "Williams",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 4,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",
@@ -419,7 +419,7 @@
       "team_name": "Aston Martin",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 1,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",
