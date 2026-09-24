@@ -88,7 +88,7 @@ jobs:
           git add data/*.json
           git add api/v1/votes/*.json
           if ! git diff --staged --quiet; then
-            git fetch origin main || true
             git commit -m "Auto-sync fan votes"
+            git pull --rebase origin main || true
             git push origin main
           fi
