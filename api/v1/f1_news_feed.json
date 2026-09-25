@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-09-25T16:02:15.957101Z",
+    "last_updated": "2026-09-25T16:32:12.665748Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cqd0885k3d28o?at_medium=RSS&at_campaign=rss",
+      "title": "Antonelli 'comes back to earth' with qualifying crash",
+      "snippet": "Kimi Antonelli says he is \"very mad\" about his crash in qualifying at the Azerbaijan Grand Prix, which means he will start from 16th on the grid.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqd0885k3d28o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebce/live/3da116c0-b8fd-11f1-83cd-2998f68d9572.jpg",
+      "published_at": 1790353144000
+    },
     {
       "id": "https://www.skysports.com/f1/live-blog/12433/13591653/f1-azerbaijan-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-in-baku",
       "title": "Azerbaijan GP: Five-place penalty for Sainz ruins improved Williams display",
@@ -23,13 +32,22 @@
       "published_at": 1790350691000
     },
     {
-      "id": "https://www.autosport.com/f1/news/antonelli-angry-at-unnecessary-azerbaijan-gp-qualifying-crash/10858923/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Antonelli angry at \"unnecessary\" Azerbaijan GP qualifying crash",
-      "snippet": "Formula 1 world championship leader Kimi Antonelli says he needs to \"do a much better job\" after an \"unnecessary\" qualifying crash in Baku left him 16th on the grid.Antonelli made an unforced error in Q1 when he tagged the inside wall in Turn 1 left-hander to start his second flying lap, sustaining terminal suspension damage that forced him to park his Mercedes W17.Antonelli's first lap ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/antonelli-angry-at-unnecessary-azerbaijan-gp-qualifying-crash/10858923/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "id": "https://www.motorsport.com/f1/news/kimi-antonelli-angry-at-himself-for-baku-crash-i-need-to-do-a-much-better-job/10858914/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Kimi Antonelli angry at himself for Baku crash: \"I need to do a much better job\"",
+      "snippet": "F1 championship leader Kimi Antonelli says he needs to \"do a much better job\" after an \"unnecessary\" qualifying incident in Baku left him 16th on the grid.Antonelli made an unforced error in Q1 when he tagged the inside wall in Turn 1 left-hander to start his second flying lap, sustaining terminal suspension damage that forced him to park his Mercedes W17.Antonelli's first lap had already ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/kimi-antonelli-angry-at-himself-for-baku-crash-i-need-to-do-a-much-better-job/10858914/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/63Qapwb2/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": 1790345606000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/whats-behind-lando-norris-top-speed-problem-in-baku-and-why-mclaren-itself-is-down-on-mercedes/10859014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "What’s behind Lando Norris’ top-speed problem in Baku – and why McLaren itself is down on Mercedes",
+      "snippet": "A technical problem caused a lack of top speed on Lando Norris’ McLaren Formula 1 car in Azerbaijan Grand Prix qualifying, with the reigning world champion down in fifth.Despite having outqualified team-mate Oscar Piastri 9-1 in the 10 previous sessions, Norris found himself three tenths’ adrift in Q3 – his worst deficit of the season. A lock-up in Q3 didn’t help, but as it happens ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/whats-behind-lando-norris-top-speed-problem-in-baku-and-why-mclaren-itself-is-down-on-mercedes/10859014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6n7bLWM0/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "published_at": 1790345924000
+      "image_url": "https://cdn-6.motorsport.com/images/amp/68Vwkl42/s6/lando-norris-mclaren.jpg",
+      "published_at": 1790353572000
     },
     {
       "id": "https://www.skysports.com/f1/news/12433/13591650/lewis-hamilton-ferrari-driver-says-they-changed-the-plan-in-azerbaijan-gp-qualifying-after-tow-less-q3-leaves-him-sixth",
@@ -39,6 +57,24 @@
       "source_name": "Sky Sports",
       "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-lewis-hamilton-ferrari_7361261.jpg?20260925161040",
       "published_at": 1790353500000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sounds/play/p0pcjgv0?at_medium=RSS&at_campaign=rss",
+      "title": "F1: Chequered Flag",
+      "snippet": "The team review a mixed day for the two Mercedes drivers.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pcjgv0?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
+      "published_at": 1790352900000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/carlos-sainz-handed-azerbaijan-f1-grid-drop-for-yellow-flag-breach/10859007/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Carlos Sainz handed Azerbaijan F1 grid drop for yellow flag breach",
+      "snippet": "Williams driver Carlos Sainz has been handed a five-place grid drop for Saturday's Azerbaijan GP in Baku as a punishment for speeding under yellow flags in qualifying.At the end of Q3, Sainz was the last of three cars to be hindered by a yellow flag in Turn 3 for Lando Norris, who had gone off into the escape road. As Sainz approached the braking zone, Norris had already returned to the ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/carlos-sainz-handed-azerbaijan-f1-grid-drop-for-yellow-flag-breach/10859007/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YXyKvyK6/s6/carlos-sainz-williams.jpg",
+      "published_at": 1790352473000
     },
     {
       "id": "https://www.skysports.com/f1/news/12433/13591651/kimi-antonelli-very-mad-about-azerbaijan-gp-qualifying-crash-as-george-russell-refuses-to-discount-team-mate-from-battle-for-win",
@@ -55,7 +91,7 @@
       "snippet": "After setting the fastest time in final practice and feeling good about the upgrades, Verstappen hoped to pull off a surprise in Baku, but an engine problem threw a spanner in the works.Initially, it appeared to be related to deployment issues and therefore problems on the electrical side of the power unit, but speaking to the (very small) group of Dutch media in the Baku paddock, Verstappen ...Keep reading",
       "link": "https://www.autosport.com/f1/news/max-verstappen-reveals-why-red-bulls-engine-problem-in-baku-was-different-than-it-seemed/10858986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6VyK4R7Y/s6/max-verstappen-red-bull-racing-2.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6VyK4R7Y/s6/max-verstappen-red-bull-racing-2.jpg",
       "published_at": 1790350722000
     },
     {
@@ -73,7 +109,7 @@
       "snippet": "Formula 1 heads into Saturday in Baku with George Russell on pole and a major opportunity to cut into Kimi Antonelli championship lead after his Mercedes team-mate crashed out of qualifying.Russell dominated the final part of qualifying to take his fifth pole of the season, beating Charles Leclerc by more than eight tenths. Oscar Piastri starts third for McLaren, ahead of the returning Isack ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/f1-azerbaijan-gp-saturday-schedule-weather-forecast-and-how-to-watch/10858973/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0Zq8vDd6/s6/george-russell-mercedes.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0Zq8vDd6/s6/george-russell-mercedes.jpg",
       "published_at": 1790349773000
     },
     {
@@ -82,7 +118,7 @@
       "snippet": "Having qualified on pole position for the Azerbaijan Grand Prix, George Russell tipped Max Verstappen as his most immediate danger in the race – but joked about his Mercedes team-mate Kimi Antonelli's remarkable Monza comeback.Such a scenario could be on the cards again since Antonelli hit the wall on his second flying lap in Q1, damaging his front suspension and steering as well as the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/george-russells-biggest-threat-in-azerbaijan-gp-max-verstappen-or-kimi-antonelli/10858940/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0kZXlA86/s6/george-russell-mercedes.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0kZXlA86/s6/george-russell-mercedes.jpg",
       "published_at": 1790347934000
     },
     {
@@ -91,7 +127,7 @@
       "snippet": "Lewis Hamilton has rued Ferrari’s qualifying strategy at Formula 1’s Azerbaijan Grand Prix, explaining it left him without a slipstream.Hamilton’s performance worsened throughout qualifying on Friday in Baku, as he outpaced team-mate Charles Leclerc by exactly one tenth in Q1 before ending up 0.257s and 0.495s adrift in the following two segments respectively. As a consequence, he was ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lewis-hamilton-i-towed-charles-the-whole-time-and-ended-up-05s-slower/10858938/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6b8ZEKL2/s6/lewis-hamilton-ferrari.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6b8ZEKL2/s6/lewis-hamilton-ferrari.jpg",
       "published_at": 1790347295000
     },
     {
@@ -109,7 +145,7 @@
       "snippet": "*The Aston Martins of Fernando Alonso and Lance Stroll have been sent to the back of the grid after multiple power unit component changes 2 Charles Leclerc(Ferrari)1 George ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/2026-f1-azerbaijan-grand-prix-starting-grid/10858928/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKkNMY/s6/george-russell-mercedes-sergio.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/2wlKkNMY/s6/george-russell-mercedes-sergio.jpg",
       "published_at": 1790346218000
     },
     {
@@ -120,15 +156,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-motorsport-f1_7361132.jpg?20260925141629",
       "published_at": 1790345640000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/jamie-chadwick-points-to-old-kimi-antonelli-habits-after-baku-qualifying-error/10858909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Jamie Chadwick points to 'Kimi Antonelli of old' after Baku qualifying mistake",
-      "snippet": "Sky Sports Formula 1 pundit Jamie Chadwick has claimed that Kimi Antonelli's crash during qualifying for the Azerbaijan Grand Prix was a return to old habits, branding his Q1 shunt an unnecessary risk given Mercedes' pace.Antonelli, who currently leads the drivers' championship by 81 points over his team-mate George Russell, prematurely ended his qualifying session after clipping the wall on ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/jamie-chadwick-points-to-old-kimi-antonelli-habits-after-baku-qualifying-error/10858909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/63Qapwb2/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": 1790344945000
     },
     {
       "id": "https://www.skysports.com/watch/video/13591772/azerbaijan-gp-kimi-antonelli-out-in-q1-after-hitting-wall",
@@ -163,17 +190,8 @@
       "snippet": "Lewis Hamilton was reprimanded for impeding Liam Lawson during Thursday's second practice in FP2 but this wasn't the end of the matter.Even before a single car had turned a wheel on the Baku City Circuit, concerns had been raised about how cars running slowly to harvest or conserve electrical energy through the final corners could represent a hazard to those on a push lap. In previous ...Keep reading",
       "link": "https://www.autosport.com/f1/news/why-dangerous-hamilton-lawson-incident-in-azerbaijan-gp-practice-hasnt-led-to-change/10858789/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/Y9lNwDP2/s6/lewis-hamilton-ferrari-2.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/Y9lNwDP2/s6/lewis-hamilton-ferrari-2.jpg",
       "published_at": 1790325725000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13591255/azerbaijan-gp-lando-norris-rules-mclaren-out-of-baku-pole-fight-as-george-russell-expects-margins-to-tighten-in-qualifying",
-      "title": "'Pretty pants!' - Norris rules McLaren out of Baku pole fight",
-      "snippet": "Lando Norris says McLaren's pace in Thursday's practice sessions at the Azerbaijan Grand Prix was \"pretty pants\" and is not expecting to contend for pole position.",
-      "link": "https://www.skysports.com/f1/news/12433/13591255/azerbaijan-gp-lando-norris-rules-mclaren-out-of-baku-pole-fight-as-george-russell-expects-margins-to-tighten-in-qualifying",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-f1-lando-norris_7360408.jpg?20260924153223",
-      "published_at": 1790267400000
     },
     {
       "id": "https://www.skysports.com/watch/video/13591433/azerbaijan-grand-prix-practice-highlights",
@@ -183,24 +201,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-f1-highights_7360302.jpg?20260924141314",
       "published_at": 1790259000000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/david-coulthard-warns-heads-will-roll-if-williams-fw48-upgrade-fails/10858684/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "David Coulthard warns \"heads will roll\" if Williams FW48 upgrade fails",
-      "snippet": "Former Formula 1 driver David Coulthard has warned that \"heads will roll\" if Williams's upgraded FW48 fails to deliver an immediate step forward in performance. The Grove outfit has struggled all season with an overweight car. After 14 rounds, it sits ninth in the constructors' championship with 11 points: six points from Carlos Sainz and five points from Alex Albon.But it has now ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/david-coulthard-warns-heads-will-roll-if-williams-fw48-upgrade-fails/10858684/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2wlKQEbY/s6/carlos-sainz-williams.jpg",
-      "published_at": 1790269805000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/out-of-reach-or-not-the-real-picture-why-mercedes-thinks-it-is-so-far-ahead-in-baku/10858680/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Why Mercedes’ huge Baku practice advantage may not be the real picture",
-      "snippet": "Mercedes made a very strong statement during Thursday’s practice sessions at the Baku City Circuit. George Russell topped the times in both sessions, with the first non-Mercedes car almost a second adrift at the end of the day (Max Verstappen at 0.827s).Mercedes will introduce its long-awaited upgrade package for the W17 in Malaysia, but even without new parts on the car, rivals have been ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/out-of-reach-or-not-the-real-picture-why-mercedes-thinks-it-is-so-far-ahead-in-baku/10858680/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YE9EZRwY/s6/andrea-kimi-antonelli-mercedes-3.jpg",
-      "published_at": 1790269644000
     }
   ]
 }
