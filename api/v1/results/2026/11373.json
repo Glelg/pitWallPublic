@@ -7,8 +7,8 @@
     "session_type": "Qualifying",
     "meeting_name": "Azerbaijan Grand Prix",
     "circuit_name": "Baku",
-    "stewards_status": "PROVISIONAL",
-    "last_updated": "2026-09-26T10:02:36.014648Z"
+    "stewards_status": "FINAL",
+    "last_updated": "2026-09-26T13:32:51.176119Z"
   },
   "results": [
     {
@@ -179,7 +179,7 @@
       "team_name": "Williams",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": null,
+      "grid_penalty": 5,
       "is_pit_lane_start": false,
       "time_or_retired": "1:44.566",
       "gap_to_leader": "+2.040s",
@@ -379,7 +379,7 @@
       "team_name": "Aston Martin",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": null,
+      "grid_penalty": 2,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",
@@ -419,7 +419,7 @@
       "team_name": "Aston Martin",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": null,
+      "grid_penalty": 1,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-26T10:02:07.827808Z",
+    "last_updated": "2026-09-26T13:32:20.688533Z",
     "year": 2026,
     "total_meetings": 27
   },
@@ -1084,10 +1084,29 @@
       "circuit_name": "Baku",
       "date_start": "2026-09-24T08:30:00+00:00",
       "date_end": "2026-09-26T13:00:00+00:00",
-      "status": "LIVE",
+      "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 63,
+          "driver_acronym": "RUS",
+          "team_name": "Mercedes"
+        },
+        {
+          "position": 2,
+          "driver_number": 3,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 3,
+          "driver_number": 6,
+          "driver_acronym": "HAD",
+          "team_name": "Red Bull Racing"
+        }
+      ],
       "sessions": [
         {
           "session_key": 11370,
