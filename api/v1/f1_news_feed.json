@@ -1,16 +1,25 @@
 {
   "metadata": {
-    "last_updated": "2026-09-28T05:02:14.457654Z",
+    "last_updated": "2026-09-28T05:32:18.701250Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13592354/ferrari-boss-frederic-vasseur-says-christian-horner-looking-for-a-job-adding-to-frustrating-speculation-around-f1-team",
+      "title": "Vasseur responds after Horner's 'dream' Ferrari job comments",
+      "snippet": "Frederic Vasseur admits Ferrari are not able to work in \"perfect serenity\" amid persistent speculation about his future, which was heightened after comments from Christian Horner about Formula 1's \"dream\" job.",
+      "link": "https://www.skysports.com/f1/news/12433/13592354/ferrari-boss-frederic-vasseur-says-christian-horner-looking-for-a-job-adding-to-frustrating-speculation-around-f1-team",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-frederic-vasseur_7362459.jpg?20260927134452",
+      "published_at": 1790575200000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/arvid-lindblad-issues-apology-after-racing-bulls-team-mate-clash-in-baku/10859656/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Arvid Lindblad issues apology after Racing Bulls team-mate clash in Baku",
       "snippet": "Racing Bulls Formula 1 rookie Arvid Lindblad has issued a public apology to his team-mate Liam Lawson following their collision during the Azerbaijan Grand Prix.The British driver secured six points with a seventh-place finish around the Baku City Circuit, but the race was marred when he collided with his team-mate Lawson.During a safety car restart after Williams' Alex Albon crashed ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/arvid-lindblad-issues-apology-after-racing-bulls-team-mate-clash-in-baku/10859656/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6b8Zm532/s6/arvid-lindblad-racing-bulls.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6b8Zm532/s6/arvid-lindblad-racing-bulls.jpg",
       "published_at": 1790547941000
     },
     {
@@ -19,7 +28,7 @@
       "snippet": "McLaren Formula 1 driver Oscar Piastri has labelled his late-race Azerbaijan Grand Prix mistake as “a bit weird”, after losing the podium in Baku.Piastri was running third following the second safety-car restart and came under pressure from Red Bull’s Isack Hadjar after being overtaken by Max Verstappen at the first restart.Attempting to defend on the inside in Turn 1, the Australian ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/oscar-piastri-the-error-that-cost-me-baku-f1-podium-was-a-bit-weird/10859516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6Alvy8wY/s6/oscar-piastri-mclaren-isack-ha-2.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6Alvy8wY/s6/oscar-piastri-mclaren-isack-ha-2.jpg",
       "published_at": 1790546402000
     },
     {
@@ -37,17 +46,8 @@
       "snippet": "Saturday's Azerbaijan Grand Prix was George Russell's third victory of the 2026 Formula 1 campaign, and his first career grand slam, but leading every lap in the wind-swept streets of Baku meant much more to the Mercedes driver than just a fancy statistic.For Russell, Baku ended a character building spell of six winless weekends in which his younger team-mate Kimi Antonelli only further ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/george-russell-after-rejuvenating-baku-win-it-would-have-been-very-easy-for-me-to-lose-the-faith/10859613/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/2wlKQmKY/s6/george-russell-mercedes.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2wlKQmKY/s6/george-russell-mercedes.jpg",
       "published_at": 1790522304000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cvwyz791096jo?at_medium=RSS&at_campaign=rss",
-      "title": "Horner a distraction for Ferrari says Vasseur",
-      "snippet": "Christian Horner is proving a distraction for Ferrari by \"looking for a job\", team principal Frederic Vasseur says.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cvwyz791096jo?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b3b/live/fca26ae0-ba62-11f1-ab5a-210fdaa1dd09.jpg",
-      "published_at": 1790509465000
     },
     {
       "id": "https://www.motorsport.com/f1/news/charles-leclerc-mclaren-and-red-bull-did-a-step-forward-that-we-didnt-do/10859495/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -55,7 +55,7 @@
       "snippet": "Red Bull now has a clear advantage over Ferrari in terms of chassis performance, with McLaren having also markedly improved, Charles Leclerc believes following the Formula 1 Azerbaijan Grand Prix.Both teams brought significant upgrade packages to Baku, focusing on the sidepods, floor and diffuser – McLaren’s also included a revised engine cover, rear suspension and rear wing while Red ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/charles-leclerc-mclaren-and-red-bull-did-a-step-forward-that-we-didnt-do/10859495/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YBVj91JY/s6/charles-leclerc-ferrari-max-ve.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YBVj91JY/s6/charles-leclerc-ferrari-max-ve.jpg",
       "published_at": 1790506804000
     },
     {
@@ -73,7 +73,7 @@
       "snippet": "The 2026 Bahrain Grand Prix will not take place in Bahrain, but in Malaysia. The event will be held from 2-4 October at the Sepang International Circuit near Kuala Lumpur, with the race scheduled for Sunday 4 October. Its official name is the \"Formula 1 Gulf Air Bahrain Grand Prix in Malaysia\".The reason for the move is the war in the Middle East. The original Bahrain race in April had to be ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/why-is-the-2026-bahrain-grand-prix-taking-place-in-malaysia/10859526/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0JXRboQY/s6/daniel-ricciardo-red-bull-raci.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0JXRboQY/s6/daniel-ricciardo-red-bull-raci.jpg",
       "published_at": 1790501561000
     },
     {
@@ -82,7 +82,7 @@
       "snippet": "Mercedes driver George Russell feels a Formula 1 race ban would have been \"too harsh\" on Franco Colapinto after the Argentinian took out Alpine team-mate Pierre Gasly and McLaren's Lando Norris in the Azerbaijan Grand Prix.On a lap 36 restart, Colapinto made an error on the dusty inside approach to Turn 1 of the Baku street circuit, locking up his front tyres and slamming into the side of ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/race-ban-talk-too-harsh-on-franco-colapinto-george-russell-and-max-verstappen-say/10859522/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0kZXlKK6/s6/franco-colapinto-alpine.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0kZXlKK6/s6/franco-colapinto-alpine.jpg",
       "published_at": 1790500323000
     },
     {
@@ -118,7 +118,7 @@
       "snippet": "Kimi Antonelli was never going to perform a “Monza 2.0” in Formula 1’s Azerbaijan Grand Prix, Mercedes deputy team principal Bradley Lord said regarding his driver’s recovery.Three weeks ago, Antonelli took an engine penalty at the Italian GP and clinched a memorable home victory from 19th on the grid.This time around, a technical issue cost the Mercedes driver track time in ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/why-mercedes-didnt-expect-monza-20-from-kimi-antonelli-in-baku/10859479/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2QedpzX2/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2QedpzX2/s6/andrea-kimi-antonelli-mercedes.jpg",
       "published_at": 1790492150000
     },
     {
@@ -127,7 +127,7 @@
       "snippet": "Had anyone predicted in Abu Dhabi in 2021 that, a few years later, Lewis Hamilton would be racing in Formula 1 for Ferrari under team principal Christian Horner, few would have taken that suggestion seriously. Even as of Baku 2026, though, there is little evidence that such a scenario is taking concrete shape.In a recent interview Horner gave to The Times, he said he can comfortably afford ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-lewis-hamilton-10859438/10859438/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6O7zpWP6/s6/lewis-hamilton-ferrari-2.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6O7zpWP6/s6/lewis-hamilton-ferrari-2.jpg",
       "published_at": 1790487378000
     },
     {
@@ -136,7 +136,7 @@
       "snippet": "Liam Lawson says he ‘doesn’t understand’ Azerbaijan Grand Prix stewards took no further action against Racing Bulls team-mate Arvid Lindblad, who spun him around in today’s Formula 1 race.After Alexander Albon crashed out on lap 30 in Baku, causing a safety car intervention, Lawson and Lindblad lay 12th and 14th ahead of the restart.When the green flag was waved, Franco Colapinto ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/liam-lawson-i-dont-understand-why-arvid-lindblad-escaped-penalty-after-wrecking-my-floor/10859401/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0qgKlakY/s6/arvid-lindblad-racing-bulls-li.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0qgKlakY/s6/arvid-lindblad-racing-bulls-li.jpg",
       "published_at": 1790445073000
     },
     {
@@ -145,7 +145,7 @@
       "snippet": "Not for the first time, Baku was the epitome of a race of two halves. A flavourless main course washed down with an indulgent dessert, triggered by a mid-race pair of safety cars. With one dab of the brake pedal, the lap 36 restart melee doubled the number of candidates for the loser category, while the list of winners boasts a number of unlikely heroes.Winner: George RussellThings got a ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/winners-losers-f1-azerbaijan-grand-prix-street-brawl/10859378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6DGgjLwY/s6/franco-colapinto-alpine-lando-.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6DGgjLwY/s6/franco-colapinto-alpine-lando-.jpg",
       "published_at": 1790441918000
     },
     {
@@ -163,7 +163,7 @@
       "snippet": "Alpine driver Franco Colapinto has apologised for the \"big mistake\" that saw him knock team-mate Pierre Gasly and McLaren driver Lando Norris out of F1's Azerbaijan GP.On a lap 36 restart in the streets of Baku, Colapinto locked up his cold front tyres on the low-grip inside line into Turn 1 and clattered into the side of Gasly, with Norris also collected in the incident.The incident ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/a-big-mistake-devastated-franco-colapinto-apologises-to-pierre-gasly-and-lando-norris-for-baku-f1-c/10859264/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2eZxyNKY/s6/franco-colapinto-alpine.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2eZxyNKY/s6/franco-colapinto-alpine.jpg",
       "published_at": 1790429872000
     },
     {
