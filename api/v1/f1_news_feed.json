@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-28T22:32:13.417080Z",
+    "last_updated": "2026-09-28T23:02:26.415597Z",
     "total_news": 22
   },
   "news": [
@@ -194,13 +194,13 @@
       "published_at": 1790492700000
     },
     {
-      "id": "https://www.skysports.com/f1/news/12433/13591984/george-russell-is-mercedes-driver-really-back-after-grand-slam-azerbaijan-gp-win-cut-kimi-antonellis-f1-title-lead",
-      "title": "Is Russell really back after Baku brilliance?",
-      "snippet": "George Russell produced the most statistically complete weekend of his Formula 1 career to win the Azerbaijan Grand Prix, but did the performance confirm the Brit is back to his best?",
-      "link": "https://www.skysports.com/f1/news/12433/13591984/george-russell-is-mercedes-driver-really-back-after-grand-slam-azerbaijan-gp-win-cut-kimi-antonellis-f1-title-lead",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-george-russell-mercedes_7361960.jpg?20260926173320",
-      "published_at": 1790492400000
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cmde0wl6rk0ko?at_medium=RSS&at_campaign=rss",
+      "title": "Russell takes pole in Baku as Antonelli hits wall",
+      "snippet": "George Russell takes pole position for Mercedes at the Azerbaijan Grand Prix as his team-mate and championship leader Kimi Antonelli crashes out.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cmde0wl6rk0ko?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aee/live/c82a1a20-b8e5-11f1-ba42-19e1456ae537.jpg",
+      "published_at": 1790350691000
     }
   ]
 }
