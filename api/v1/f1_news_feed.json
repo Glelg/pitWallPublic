@@ -1,17 +1,26 @@
 {
   "metadata": {
-    "last_updated": "2026-09-28T14:02:17.436580Z",
+    "last_updated": "2026-09-28T14:32:24.396607Z",
     "total_news": 22
   },
   "news": [
     {
-      "id": "https://www.motorsport.com/f1/news/f1-pundit-slams-franco-colapintos-outrageous-baku-crash-but-rejects-lando-norriss-race-ban-call/10859752/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "F1 pundit slams Franco Colapinto's \"outrageous\" Baku crash but rejects Lando Norris's race ban call",
-      "snippet": "Former McLaren mechanic and Formula 1 pundit Marc Priestley has branded Franco Colapinto's Turn 1 collision at the Azerbaijan Grand Prix \"outrageous\", but dismissed Lando Norris's demand for the Alpine driver to face a race ban.Colapinto went for a move down the inside into Turn 1 during a safety car restart in Baku, but locked up and collided with his Alpine team-mate Pierre Gasly, who in ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/f1-pundit-slams-franco-colapintos-outrageous-baku-crash-but-rejects-lando-norriss-race-ban-call/10859752/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "id": "https://www.motorsport.com/f1/news/juan-pablo-montoya-admires-franco-colapintos-aggressive-approach-despite-baku-crash/10859834/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Juan Pablo Montoya admires Franco Colapinto's \"aggressive\" approach despite Baku crash",
+      "snippet": "Former Formula 1 driver Juan Pablo Montoya has defended Franco Colapinto's \"aggressive\" approach following a costly multi-car collision at the Azerbaijan Grand Prix.Colapinto triggered a Turn 1 pile-up during a safety car restart at the Baku City Circuit. Misjudging his braking point, the Argentinian driver locked up and collided with his Alpine team-mate Pierre Gasly, who in turn crashed into ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/juan-pablo-montoya-admires-franco-colapintos-aggressive-approach-despite-baku-crash/10859834/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0kZXlKK6/s6/franco-colapinto-alpine.jpg",
-      "published_at": 1790593203000
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2eZxyNKY/s6/franco-colapinto-alpine.jpg",
+      "published_at": 1790605289000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/flavio-briatore-apologises-to-lando-norris-after-azerbaijan-gp-crash/10859734/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Flavio Briatore apologises to Lando Norris after Azerbaijan GP crash",
+      "snippet": "Alpine's Flavio Briatore has publicly apologised to Lando Norris and McLaren following the collision at the Azerbaijan Grand Prix that brought the 2025 Formula 1 champion's race to an end.The clash happened during a safety car restart in Baku when Franco Colapinto locked up on cold tyres into Turn 1 and collided with his Alpine team-mate Pierre Gasly. The impact pushed the Frenchman into the ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/flavio-briatore-apologises-to-lando-norris-after-azerbaijan-gp-crash/10859734/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7B4jB2/s6/flavio-briatore-executive-advi.jpg",
+      "published_at": 1790586639000
     },
     {
       "id": "https://www.autosport.com/f1/news/what-made-red-bull-so-fast-in-the-azerbaijan-gp-after-verstappens-qualifying-issue/10859823/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -19,7 +28,7 @@
       "snippet": "Red Bull might consider the FIA’s assessment that it has the strongest power unit as a blessing and a curse, but at the Azerbaijan Grand Prix it was key to its first double Formula 1 podium.After fixing Max Verstappen’s ill-behaving internal combustion engine after qualifying, an issue that triggered his painful Q3 which left him eighth on the grid, both he and team-mate Isack Hadjar ...Keep reading",
       "link": "https://www.autosport.com/f1/news/what-made-red-bull-so-fast-in-the-azerbaijan-gp-after-verstappens-qualifying-issue/10859823/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6AlvyDDY/s6/max-verstappen-red-bull-racing.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6AlvyDDY/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1790603658000
     },
     {
@@ -28,8 +37,17 @@
       "snippet": "A pole-to-flag victory in the Formula 1 Azerbaijan Grand Prix provided further evidence that Mercedes is starting to unlock the best version of George Russell - but is it too little, too late?The 28-year-old took his eighth grand prix victory and his first career grand slam in Baku, by leading every lap from pole and setting the fastest lap along the way.It means he’s crept closer to ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/has-george-russell-hit-his-stride-too-late-with-this-form-i-would-have-been-in-the-fight/10859731/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0arEB4r2/s6/george-russell-mercedes.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0arEB4r2/s6/george-russell-mercedes.jpg",
       "published_at": 1790596985000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cm87vz5w4jwro?at_medium=RSS&at_campaign=rss",
+      "title": "Norris apologises to Colapinto for ban comments",
+      "snippet": "World champion Lando Norris apologises to Franco Colapinto for saying the Argentine should be banned for causing an accident at the Azerbaijan Grand Prix.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm87vz5w4jwro?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7e7/live/be510740-b9b0-11f1-bc1f-3f186ca4140c.jpg",
+      "published_at": 1790590293000
     },
     {
       "id": "https://www.autosport.com/f1/news/why-mclaren-was-so-much-slower-than-mercedes-on-bakus-straights/10859723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -37,7 +55,7 @@
       "snippet": "For all the talk of rivals catching Mercedes, which has held fire on its more significant upgrades until next weekend's Formula 1 Bahrain Grand Prix in Malaysia, the Brackley team has been able to weather the storm by excelling on some of the most power sensitive circuits like Monza and Baku, vindicating its patience. But while Mercedes' dominant power unit package helps explain its gap to ...Keep reading",
       "link": "https://www.autosport.com/f1/news/why-mclaren-was-so-much-slower-than-mercedes-on-bakus-straights/10859723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6n7blwm0/s6/lando-norris-mclaren.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6n7blwm0/s6/lando-norris-mclaren.jpg",
       "published_at": 1790584457000
     },
     {
@@ -73,7 +91,7 @@
       "snippet": "McLaren Formula 1 driver Oscar Piastri has labelled his late-race Azerbaijan Grand Prix mistake as “a bit weird”, after losing the podium in Baku.Piastri was running third following the second safety-car restart and came under pressure from Red Bull’s Isack Hadjar after being overtaken by Max Verstappen at the first restart.Attempting to defend on the inside in Turn 1, the Australian ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/oscar-piastri-the-error-that-cost-me-baku-f1-podium-was-a-bit-weird/10859516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6Alvy8wY/s6/oscar-piastri-mclaren-isack-ha-2.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6Alvy8wY/s6/oscar-piastri-mclaren-isack-ha-2.jpg",
       "published_at": 1790546402000
     },
     {
@@ -82,7 +100,7 @@
       "snippet": "The Alpine Formula 1 team has again spoken out against social media abuse following Franco Colapinto’s shunt in the Azerbaijan Grand Prix.Argentinian fans’ behaviour has been scrutinised lately following waves of hateful comments. Those were aimed at FIA stewards and the Alpine squad when Colapinto was handed a drive-through penalty for overtaking under a double yellow flag in ...Keep reading",
       "link": "https://www.autosport.com/f1/news/alpine-condemns-abuse-again-following-colapintos-azerbaijan-gp-crash/10859570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGgjLwY/s6/franco-colapinto-alpine-lando-.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6DGgjLwY/s6/franco-colapinto-alpine-lando-.jpg",
       "published_at": 1790511107000
     },
     {
@@ -91,7 +109,7 @@
       "snippet": "Red Bull now has a clear advantage over Ferrari in terms of chassis performance, with McLaren having also markedly improved, Charles Leclerc believes following the Formula 1 Azerbaijan Grand Prix.Both teams brought significant upgrade packages to Baku, focusing on the sidepods, floor and diffuser – McLaren’s also included a revised engine cover, rear suspension and rear wing while Red ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/charles-leclerc-mclaren-and-red-bull-did-a-step-forward-that-we-didnt-do/10859495/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YBVj91JY/s6/charles-leclerc-ferrari-max-ve.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YBVj91JY/s6/charles-leclerc-ferrari-max-ve.jpg",
       "published_at": 1790506804000
     },
     {
@@ -109,7 +127,7 @@
       "snippet": "The 2026 Bahrain Grand Prix will not take place in Bahrain, but in Malaysia. The event will be held from 2-4 October at the Sepang International Circuit near Kuala Lumpur, with the race scheduled for Sunday 4 October. Its official name is the \"Formula 1 Gulf Air Bahrain Grand Prix in Malaysia\".The reason for the move is the war in the Middle East. The original Bahrain race in April had to be ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/why-is-the-2026-bahrain-grand-prix-taking-place-in-malaysia/10859526/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0JXRboQY/s6/daniel-ricciardo-red-bull-raci.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0JXRboQY/s6/daniel-ricciardo-red-bull-raci.jpg",
       "published_at": 1790501561000
     },
     {
@@ -145,7 +163,7 @@
       "snippet": "Kimi Antonelli was never going to perform a “Monza 2.0” in Formula 1’s Azerbaijan Grand Prix, Mercedes deputy team principal Bradley Lord said regarding his driver’s recovery.Three weeks ago, Antonelli took an engine penalty at the Italian GP and clinched a memorable home victory from 19th on the grid.This time around, a technical issue cost the Mercedes driver track time in ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/why-mercedes-didnt-expect-monza-20-from-kimi-antonelli-in-baku/10859479/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/2QedpzX2/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/2QedpzX2/s6/andrea-kimi-antonelli-mercedes.jpg",
       "published_at": 1790492150000
     },
     {
@@ -154,7 +172,7 @@
       "snippet": "Had anyone predicted in Abu Dhabi in 2021 that, a few years later, Lewis Hamilton would be racing in Formula 1 for Ferrari under team principal Christian Horner, few would have taken that suggestion seriously. Even as of Baku 2026, though, there is little evidence that such a scenario is taking concrete shape.In a recent interview Horner gave to The Times, he said he can comfortably afford ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-lewis-hamilton-10859438/10859438/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6O7zpWP6/s6/lewis-hamilton-ferrari-2.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6O7zpWP6/s6/lewis-hamilton-ferrari-2.jpg",
       "published_at": 1790487378000
     },
     {
@@ -163,7 +181,7 @@
       "snippet": "Liam Lawson says he ‘doesn’t understand’ Azerbaijan Grand Prix stewards took no further action against Racing Bulls team-mate Arvid Lindblad, who spun him around in today’s Formula 1 race.After Alexander Albon crashed out on lap 30 in Baku, causing a safety car intervention, Lawson and Lindblad lay 12th and 14th ahead of the restart.When the green flag was waved, Franco Colapinto ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/liam-lawson-i-dont-understand-why-arvid-lindblad-escaped-penalty-after-wrecking-my-floor/10859401/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0qgKlakY/s6/arvid-lindblad-racing-bulls-li.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0qgKlakY/s6/arvid-lindblad-racing-bulls-li.jpg",
       "published_at": 1790445073000
     },
     {
@@ -172,7 +190,7 @@
       "snippet": "Not for the first time, Baku was the epitome of a race of two halves. A flavourless main course washed down with an indulgent dessert, triggered by a mid-race pair of safety cars. With one dab of the brake pedal, the lap 36 restart melee doubled the number of candidates for the loser category, while the list of winners boasts a number of unlikely heroes.Winner: George RussellThings got a ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/winners-losers-f1-azerbaijan-grand-prix-street-brawl/10859378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6DGgjLwY/s6/franco-colapinto-alpine-lando-.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6DGgjLwY/s6/franco-colapinto-alpine-lando-.jpg",
       "published_at": 1790441918000
     },
     {
@@ -183,24 +201,6 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-4.motorsport.com/images/amp/0kZXlKK6/s6/franco-colapinto-alpine.jpg",
       "published_at": 1790440089000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cmde0wl6rk0ko?at_medium=RSS&at_campaign=rss",
-      "title": "Russell takes pole in Baku as Antonelli hits wall",
-      "snippet": "George Russell takes pole position for Mercedes at the Azerbaijan Grand Prix as his team-mate and championship leader Kimi Antonelli crashes out.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cmde0wl6rk0ko?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aee/live/c82a1a20-b8e5-11f1-ba42-19e1456ae537.jpg",
-      "published_at": 1790350691000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cqd0885k3d28o?at_medium=RSS&at_campaign=rss",
-      "title": "Antonelli 'comes back to earth' with qualifying crash",
-      "snippet": "Kimi Antonelli says he is \"very mad\" about his crash in qualifying at the Azerbaijan Grand Prix, which means he will start from 16th on the grid.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqd0885k3d28o?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebce/live/3da116c0-b8fd-11f1-83cd-2998f68d9572.jpg",
-      "published_at": 1790353144000
     }
   ]
 }
