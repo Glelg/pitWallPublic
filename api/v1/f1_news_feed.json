@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-29T06:02:12.907068Z",
+    "last_updated": "2026-09-29T06:32:21.136954Z",
     "total_news": 22
   },
   "news": [
@@ -12,6 +12,15 @@
       "source_name": "Sky Sports",
       "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-kimi-antonelli-george_7363421.jpg?20260928154754",
       "published_at": 1790665200000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/ckp84426lmggo?at_medium=RSS&at_campaign=rss",
+      "title": "Does Horner have a chance of Ferrari job? F1 Q&A",
+      "snippet": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Azerbaijan Grand Prix.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/ckp84426lmggo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/498f/live/cba618f0-bb3f-11f1-8cd3-d12549a04493.jpg",
+      "published_at": 1790662174000
     },
     {
       "id": "https://www.motorsport.com/f1/news/juan-pablo-montoya-admires-franco-colapintos-aggressive-approach-despite-baku-crash/10859834/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -129,15 +138,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4137/live/ae657170-b9bc-11f1-bc1f-3f186ca4140c.jpg",
       "published_at": 1790577200000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13592354/ferrari-boss-frederic-vasseur-says-christian-horner-looking-for-a-job-adding-to-frustrating-speculation-around-f1-team",
-      "title": "'Everybody knows he's looking for a job' - Vasseur dismisses Horner's Ferrari 'dream'",
-      "snippet": "Frederic Vasseur admits Ferrari are not able to work in \"perfect serenity\" amid persistent speculation about his future, which was heightened after comments from Christian Horner about Formula 1's \"dream\" job.",
-      "link": "https://www.skysports.com/f1/news/12433/13592354/ferrari-boss-frederic-vasseur-says-christian-horner-looking-for-a-job-adding-to-frustrating-speculation-around-f1-team",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-frederic-vasseur_7362459.jpg?20260927134452",
-      "published_at": 1790575200000
     },
     {
       "id": "https://www.motorsport.com/f1/news/arvid-lindblad-issues-apology-after-racing-bulls-team-mate-clash-in-baku/10859656/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
