@@ -7,7 +7,7 @@ import time
 from datetime import datetime
 
 # Импортируем наш общий модуль флагов
-from utils.flags import get_country_flag
+from utils.flags import get_country_flag, get_driver_country_code
 
 BASE_URL = "https://api.openf1.org/v1"
 
@@ -126,7 +126,7 @@ def main():
         points_current = float(standing.get('points_current', 0.0))
         points_start = float(standing.get('points_start', points_current))
 
-        country_code = get_country_flag(driver_profile.get('country_code', ''))
+        country_code = get_driver_country_code(full_name, driver_profile.get('country_code', ''))
 
         enriched_drivers.append({
             "position": position_current,

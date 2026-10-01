@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-01T18:32:17.596026Z",
+    "last_updated": "2026-10-01T18:47:28.740877Z",
     "session_key": 11377,
     "year": 2026
   },
@@ -14,7 +14,7 @@
       "points": 302.0,
       "last_points_gained": 10.0,
       "position_change": 0,
-      "country_code": "",
+      "country_code": "it",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -27,7 +27,7 @@
       "points": 236.0,
       "last_points_gained": 25.0,
       "position_change": 0,
-      "country_code": "",
+      "country_code": "gb",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -40,7 +40,7 @@
       "points": 199.0,
       "last_points_gained": 8.0,
       "position_change": 0,
-      "country_code": "",
+      "country_code": "gb",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -53,7 +53,7 @@
       "points": 186.0,
       "last_points_gained": 0.0,
       "position_change": 0,
-      "country_code": "",
+      "country_code": "gb",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -66,7 +66,7 @@
       "points": 179.0,
       "last_points_gained": 12.0,
       "position_change": 0,
-      "country_code": "",
+      "country_code": "mc",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -79,7 +79,7 @@
       "points": 163.0,
       "last_points_gained": 18.0,
       "position_change": 0,
-      "country_code": "",
+      "country_code": "nl",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -92,7 +92,7 @@
       "points": 120.0,
       "last_points_gained": 0.0,
       "position_change": 0,
-      "country_code": "",
+      "country_code": "au",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -105,7 +105,7 @@
       "points": 86.0,
       "last_points_gained": 15.0,
       "position_change": 0,
-      "country_code": "",
+      "country_code": "fr",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -118,7 +118,7 @@
       "points": 59.0,
       "last_points_gained": 0.0,
       "position_change": 0,
-      "country_code": "",
+      "country_code": "nz",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -131,7 +131,7 @@
       "points": 41.0,
       "last_points_gained": 0.0,
       "position_change": 0,
-      "country_code": "",
+      "country_code": "fr",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -144,7 +144,7 @@
       "points": 37.0,
       "last_points_gained": 6.0,
       "position_change": 0,
-      "country_code": "",
+      "country_code": "gb",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -157,7 +157,7 @@
       "points": 27.0,
       "last_points_gained": 0.0,
       "position_change": 0,
-      "country_code": "",
+      "country_code": "ar",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -170,7 +170,7 @@
       "points": 20.0,
       "last_points_gained": 2.0,
       "position_change": 0,
-      "country_code": "",
+      "country_code": "gb",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -183,7 +183,7 @@
       "points": 10.0,
       "last_points_gained": 0.0,
       "position_change": 0,
-      "country_code": "",
+      "country_code": "br",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -196,7 +196,7 @@
       "points": 7.0,
       "last_points_gained": 0.0,
       "position_change": 0,
-      "country_code": "",
+      "country_code": "de",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -209,7 +209,7 @@
       "points": 7.0,
       "last_points_gained": 4.0,
       "position_change": 2,
-      "country_code": "",
+      "country_code": "fr",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -222,7 +222,7 @@
       "points": 7.0,
       "last_points_gained": 1.0,
       "position_change": -1,
-      "country_code": "",
+      "country_code": "es",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -235,7 +235,7 @@
       "points": 5.0,
       "last_points_gained": 0.0,
       "position_change": -1,
-      "country_code": "",
+      "country_code": "th",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -248,7 +248,7 @@
       "points": 3.0,
       "last_points_gained": 0.0,
       "position_change": 0,
-      "country_code": "",
+      "country_code": "es",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -274,7 +274,7 @@
       "points": 0.0,
       "last_points_gained": 0.0,
       "position_change": 0,
-      "country_code": "",
+      "country_code": "ca",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -287,7 +287,7 @@
       "points": 0.0,
       "last_points_gained": 0.0,
       "position_change": 0,
-      "country_code": "",
+      "country_code": "fi",
       "is_inactive": false,
       "previous_team_name": null
     },
@@ -300,7 +300,7 @@
       "points": 0.0,
       "last_points_gained": 0.0,
       "position_change": 0,
-      "country_code": "",
+      "country_code": "mx",
       "is_inactive": false,
       "previous_team_name": null
     }
