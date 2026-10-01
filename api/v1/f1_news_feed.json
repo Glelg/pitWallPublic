@@ -1,9 +1,36 @@
 {
   "metadata": {
-    "last_updated": "2026-10-01T09:02:17.861635Z",
+    "last_updated": "2026-10-01T09:32:18.778749Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13593821/lewis-hamilton-ferrari-driver-makes-impassioned-frederic-vasseur-defence-but-wants-other-structural-leadership-change",
+      "title": "'Point fingers somewhere else!' - Hamilton backs Vasseur but calls for other Ferrari change",
+      "snippet": "Lewis Hamilton has launched an impassioned defence of Frederic Vasseur as Ferrari's team principal and suggested he would like to instead see other structural changes at the team.",
+      "link": "https://www.skysports.com/f1/news/12433/13593821/lewis-hamilton-ferrari-driver-makes-impassioned-frederic-vasseur-defence-but-wants-other-structural-leadership-change",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-lewis-hamilton-ferrari_7361261.jpg?20260925161040",
+      "published_at": 1790848800000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/why-alonso-is-staying-in-f1/10860518/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "The reasons behind Alonso renewing F1 contract with Aston Martin",
+      "snippet": "It had been on the cards for a long time, but ahead of the Bahrain Grand Prix in Malaysia it was finally officially announced: Fernando Alonso will add another year to his illustrious Formula 1 career, which will make 2027 his 24th season at the pinnacle of motorsport.Almost everyone in the paddock already knew that Alonso would stay, which also explains why Mike Krack repeatedly said he was ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/why-alonso-is-staying-in-f1/10860518/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6lmAlbj0/s6/fernando-alonso-aston-martin-r-2.jpg",
+      "published_at": 1790846643000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/whenever-i-watch-tv-i-think-i-would-do-better-the-real-reason-fernando-alonso-stays-in-f1/10860510/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "\"Whenever I watch TV, I think I would do better\" – The real reason Fernando Alonso stays in F1",
+      "snippet": "It had been on the cards for a long time, but ahead of the Bahrain Grand Prix in Malaysia it was finally officially announced: Fernando Alonso will add another year to his illustrious Formula 1 career, which will make 2027 his 24th season at the pinnacle of motorsport.Almost everyone in the paddock already knew that Alonso would stay, which also explains why Mike Krack repeatedly said he was ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/whenever-i-watch-tv-i-think-i-would-do-better-the-real-reason-fernando-alonso-stays-in-f1/10860510/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2jEAl1p0/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": 1790846589000
+    },
     {
       "id": "https://www.autosport.com/f1/news/verstappen-to-make-gt3-return/10860497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "title": "Verstappen adds Portimao GT3 race in the middle of hectic F1 schedule",
@@ -19,7 +46,7 @@
       "snippet": "Franco Colapinto appears to have survived the wrath of Alpine Formula 1 boss Flavio Briatore after he triggered a late-race accident in the Azerbaijan Grand Prix - which cost the team a double points finish. Colapinto locked his brakes during a safety car restart and took out both team-mate Pierre Gasly and McLaren's Lando NorrisBriatore's post-race statement triggered speculation that he ...Keep reading",
       "link": "https://www.autosport.com/f1/news/colapinto-has-support-of-alpine-and-briatore/10860495/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YBVj9OlY/s6/franco-colapinto-alpine-2.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YBVj9OlY/s6/franco-colapinto-alpine-2.jpg",
       "published_at": 1790843935000
     },
     {
@@ -46,7 +73,7 @@
       "snippet": "Formula 1 broadcaster Will Buxton believes team principal Laurent Mekies has removed Red Bull's second seat \"curse\" by replacing the Milton Keynes outfit's historically ruthless environment with a more supportive team culture.Red Bull has struggled to find a team-mate for four-time champion Max Verstappen for some time. Sergio Perez, who now drives for Cadillac, was replaced in the second ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/laurent-mekies-credited-with-ending-red-bulls-second-seat-curse/10860345/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/25dLGkJ0/s6/laurent-mekies-red-bull-racing.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/25dLGkJ0/s6/laurent-mekies-red-bull-racing.jpg",
       "published_at": 1790838003000
     },
     {
@@ -55,7 +82,7 @@
       "snippet": "Valtteri Bottas has offered theories behind his off-colour Azerbaijan Grand Prix performance, suggesting that damper degradation was giving his Cadillac increasingly poor ride characteristics through the race.The Finn endured a struggle through the weekend at Baku, largely cemented to the bottom of the timesheets. This was magnified by team-mate Sergio Perez enjoying a characteristically ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/bottas-degrading-suspension-old-ferrari-engine-causes-of-azerbaijan-f1-horror-show/10860401/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6zoDm1k0/s6/valtteri-bottas-cadillac-racin-3.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6zoDm1k0/s6/valtteri-bottas-cadillac-racin-3.jpg",
       "published_at": 1790834642000
     },
     {
@@ -73,7 +100,7 @@
       "snippet": "Esteban Ocon’s Formula 1 options are gradually running out, and Toyota will not provide one in the WEC.After Haas officially announced this week that it will end its partnership with the 30-year-old Frenchman at the conclusion of the 2026 season, media speculation has been rife over where Ocon’s career might take him next.With Aston Martin having confirmed that it will continue ...Keep reading",
       "link": "https://www.motorsport.com/wec/news/toyota-denies-2027-wec-deal-with-esteban-ocon/10860368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6lmAlmK0/s6/esteban-ocon-haas-f1-team.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6lmAlmK0/s6/esteban-ocon-haas-f1-team.jpg",
       "published_at": 1790828788000
     },
     {
@@ -82,7 +109,7 @@
       "snippet": "Honda Racing Corporation president Koji Watanabe has revealed that Honda actually introduced its second ADUO (Additional Development and Upgrade Opportunities) upgrade as early as Formula 1’s Spanish Grand Prix, with the upgrade focused on the power unit's turbocharger.Aston Martin and Honda struggled from the start of the season, but their performance slightly improved after a major chassis ...Keep reading",
       "link": "https://www.autosport.com/f1/news/why-honda-secretly-introduced-its-second-f1-aduo-upgrade-in-madrid/10860367/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/Y9lNBgG2/s6/fernando-alonso-aston-martin-r.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/Y9lNBgG2/s6/fernando-alonso-aston-martin-r.jpg",
       "published_at": 1790827007000
     },
     {
@@ -91,7 +118,7 @@
       "snippet": "Former Haas Formula 1 team principal Guenther Steiner has dismissed the possibility of Christian Horner and Fred Vasseur working alongside each other at Ferrari.Speculation regarding Horner's future intensified after he told The Times he would consider a leadership role at the Maranello outfit. Horner described working with Ferrari as \"the dream\" and indicated it is the only team at which he ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/guenther-steiner-jokes-christian-horner-ferrari-talk-is-good-book-publicity/10860349/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0Ld5ynN0/s6/christian-horner-red-bull-raci.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0Ld5ynN0/s6/christian-horner-red-bull-raci.jpg",
       "published_at": 1790804234000
     },
     {
@@ -100,7 +127,7 @@
       "snippet": "Championship leader Kimi Antonelli has \"spooked himself\" and must \"get out of his head\" to avoid crumbling under the pressure of the Formula 1 fight, according to pundit Naomi Schiff.The Mercedes driver arrived at the Azerbaijan Grand Prix with a commanding 81-point lead. But that advantage was reduced to 66 points after team-mate George Russell successfully converted pole position to a race ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/kimi-antonelli-has-spooked-himself-amid-f1-title-pressure-says-naomi-schiff/10860343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0arEBjr2/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0arEBjr2/s6/andrea-kimi-antonelli-mercedes.jpg",
       "published_at": 1790799647000
     },
     {
@@ -127,7 +154,7 @@
       "snippet": "Formula 1 broadcaster Will Buxton says drivers who fail to publicly condemn toxic online abuse from their supporters are \"complicit\" in the behaviour.2025 F1 champion Lando Norris's heat-of-the-moment comments following the Azerbaijan Grand Prix led to a wave of backlash online from Alpine driver Franco Colapinto's passionate Argentine fanbase.Colapinto locked up and triggered a multi-car ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/f1-pundit-says-drivers-are-complicit-if-they-stay-silent-on-fan-abuse/10860316/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/68VwyNx2/s6/start-action.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/68VwyNx2/s6/start-action.jpg",
       "published_at": 1790784256000
     },
     {
@@ -136,7 +163,7 @@
       "snippet": "Formula 1 heads to the middle point of its current triple header this weekend with the Bahrain Grand Prix in Malaysia serving as round 16 of the 2026 season.It marks the first time that F1 will race in the country since 2017 as a result of the ongoing Middle Eastern conflict, which forced Bahrain to cancel its grand prix earlier in the year.But that is not the only talking point, so here ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-bahrain-gp-in-malaysia/10860309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YEQLzZMY/s6/sepang-circuit-aerial-view.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YEQLzZMY/s6/sepang-circuit-aerial-view.jpg",
       "published_at": 1790783388000
     },
     {
@@ -145,7 +172,7 @@
       "snippet": "With \"Schumacher '94 – The Birth of a Legend\", streaming provider Netflix is releasing its second \"Schumi\" documentary on October 2, 2026, following \"Schumacher\" (2021). We were able to watch the new film ahead of its worldwide release. Here is what Formula 1 fans can expect from \"Schumacher '94\".\"Spoiler\" warning: This article describes certain scenes and content from the documentary ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/review-what-formula-1-fans-can-expect-from-schumacher-94/10860303/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6grQRZVY/s6/schumacher-netflix.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6grQRZVY/s6/schumacher-netflix.jpg",
       "published_at": 1790779764000
     },
     {
@@ -154,7 +181,7 @@
       "snippet": "F1 TV pundit Alex Brundle has questioned whether McLaren's latest Formula 1 upgrade package is already destined for the \"bin\".The Woking outfit arrived at the Azerbaijan Grand Prix with a big upgrade package. But the reigning champion suffered a pointless weekend.2025 Formula 1 champion Lando Norris crashed in a Turn 1 incident at a safety car restart when Alpine's Franco Colapinto locked ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/alex-brundle-questions-mclaren-f1-upgrade-after-azerbaijan-gp-disappointment/10860292/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/Y9lNXjx2/s6/lando-norris-mclaren.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/Y9lNXjx2/s6/lando-norris-mclaren.jpg",
       "published_at": 1790777787000
     },
     {
@@ -163,7 +190,7 @@
       "snippet": "The details in a Formula 1 driver contract is highly-guarded information, but often the length of the deal is released to the wider world.Here is how long each F1 driver contract is believed to be and therefore what moves could be possible and when in the future.McLarenLando Norris – 2030The reigning F1 world champion recently announced a new four-year contract with McLaren which ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/f1-driver-contracts-how-long-is-each-driver-tied-down-for/10850679/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0Ld5LDa0/s6/drivers-group-photo.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0Ld5LDa0/s6/drivers-group-photo.jpg",
       "published_at": 1790773100000
     },
     {
@@ -172,35 +199,8 @@
       "snippet": "Mercedes will have to thread the needle keeping its strategy calls fair to both drivers amid George Russell's title resurgence, team boss Toto Wolff has acknowledged.After having to adapt his driving style to the new cars for 2026, Russell has been edging back towards his best form in recent races, accentuated by a dominant pole-to-flag victory in Baku.His win cut team-mate Kimi ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/mercedes-braced-for-tougher-strategy-calls-as-russell-closes-on-antonelli/10860271/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YXyKvOo6/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YXyKvOo6/s6/andrea-kimi-antonelli-mercedes.jpg",
       "published_at": 1790772464000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/five-contenders-to-replace-esteban-ocon-at-haas-for-f1-2027/10860261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "The five contenders to replace Ocon at Haas for F1 2027",
-      "snippet": "The news is finally out that Esteban Ocon will leave Haas at the end of the 2026 Formula 1 campaign following a disappointing time with the American outfit.He joined for 2025 and considering his then eight seasons of experience, including four podiums and a victory in Hungary, Ocon was viewed as a real coup for Haas.The Frenchman became its first grand prix-winning driver and, lining up ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/five-contenders-to-replace-esteban-ocon-at-haas-for-f1-2027/10860261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YvKBobG6/s6/esteban-ocon-haas-f1-team-2.jpg",
-      "published_at": 1790770026000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/c9e8e5k21ge5o?at_medium=RSS&at_campaign=rss",
-      "title": "Ocon to leave Haas putting F1 future in doubt",
-      "snippet": "Esteban Ocon is fighting to save his Formula 1 career after the Haas team announcement that they are splitting with the Frenchman at the end of the year.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c9e8e5k21ge5o?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e9e/live/83101dd0-bcb5-11f1-a3e9-bbda6f9b9e25.jpg",
-      "published_at": 1790763842000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/cadillac-fix-cooled-f1-brakes-by-100c-valtteri-bottas/10859891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Cadillac fix cooled F1 brakes by 100C – Valtteri Bottas",
-      "snippet": "Cadillac has reduced its front brake temperature by 100C, Valtteri Bottas has revealed, curing one of the nascent Formula 1 team’s Achilles’ heels.Brake overheating has been a major issue with the MAC-26, forcing Bottas into retirement in Hungary, Monaco and Austria, with the problem also taking Sergio Perez out of the Red Bull Ring race.On top of this, the overheating meant Cadillac ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/cadillac-fix-cooled-f1-brakes-by-100c-valtteri-bottas/10859891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0qgKL8kY/s6/valtteri-bottas-cadillac-racin.jpg",
-      "published_at": 1790761430000
     }
   ]
 }
