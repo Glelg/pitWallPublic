@@ -31,12 +31,6 @@ def fetch_json(endpoint):
         print(f"  -> [Сетевая ошибка]: {e}")
         return None
 
-def get_country_flag(country_code_str: str) -> str:
-    if not country_code_str:
-        return ""
-    code = country_code_str.upper().strip()
-    return ISO_ALPHA3_TO_ALPHA2.get(code, code.lower()[:2])
-
 def main():
     print("=== Мягкая сборка с защитой от ошибок сервера ===")
 
@@ -81,6 +75,20 @@ def main():
 
     first_key = gp_races[0]['session_key'] if gp_races else latest_key
 
+    # 3.5 Кэш из предыдущей версии standings.json для сохранения профилей неактивных пилотов
+    previous_drivers_cache = {}
+    if os.path.exists("api/v1/standings.json"):
+        try:
+            with open("api/v1/standings.json", "r", encoding="utf-8") as f:
+                old_standings_data = json.load(f)
+                for d in old_standings_data.get("driver_standings", []):
+                    num = d.get("driver_number")
+                    fname = d.get("full_name", "")
+                    if num and fname and not fname.startswith("Driver #"):
+                        previous_drivers_cache[num] = d
+        except Exception as e:
+            print(f"  -> [Предупреждение]: Не удалось прочитать прошлый standings.json: {e}")
+
     # 4. Составы пилотов
     latest_drivers_raw = fetch_json(f"drivers?session_key={latest_key}") or []
     first_drivers_raw = fetch_json(f"drivers?session_key={first_key}") if first_key != latest_key else latest_drivers_raw
@@ -96,8 +104,9 @@ def main():
 
         latest_driver = latest_drivers.get(driver_num)
         first_driver = first_drivers.get(driver_num)
+        prev_cached_driver = previous_drivers_cache.get(driver_num)
 
-        driver_profile = latest_driver or first_driver or {}
+        driver_profile = latest_driver or first_driver or prev_cached_driver or {}
         is_inactive = (latest_driver is None)
 
         full_name = driver_profile.get('full_name') or f"Driver #{driver_num}"

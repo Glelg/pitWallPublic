@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-01T11:31:03.516435Z",
+    "last_updated": "2026-10-01T18:32:17.596026Z",
     "session_key": 11377,
     "year": 2026
   },
@@ -255,13 +255,13 @@
     {
       "position": 20,
       "driver_number": 22,
-      "full_name": "Driver #22",
-      "name_acronym": "DRI",
-      "team_name": "Formula 1",
+      "full_name": "Yuki TSUNODA",
+      "name_acronym": "TSU",
+      "team_name": "Racing Bulls",
       "points": 1.0,
       "last_points_gained": 0.0,
       "position_change": 0,
-      "country_code": "",
+      "country_code": "jp",
       "is_inactive": true,
       "previous_team_name": null
     },
