@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-01T18:42:11.571448Z",
+    "last_updated": "2026-10-02T12:09:08.500679Z",
     "year": 2026,
     "total_meetings": 27
   },
@@ -1149,7 +1149,7 @@
       "circuit_name": "Kuala Lumpur",
       "date_start": "2026-10-02T04:30:00+00:00",
       "date_end": "2026-10-04T09:00:00+00:00",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "is_cancelled": false,
       "is_testing": false,
       "top_results": null,
