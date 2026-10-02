@@ -1,9 +1,11 @@
         {
-          "versionCode": 28,
-          "versionName": "0.7.12",
-          "apkUrl": "https://github.com/Glelg/pitWallPublic/releases/download/v0.7.12/pitwall-0.7.12-release.apk",
-          "changelog": "- New App Icon — Updated logo with a sleek, modern design for a fresh new look.
-\n- Circuit Thumbnails — Added track thumbnails to the calendar to complement race details for most F1 circuits.
-\n- Bug Fixes & UI Polish — Minor bug fixes and interface refinements for a smoother experience.",
+          "versionCode": 29,
+          "versionName": "0.7.17",
+          "apkUrl": "https://github.com/Glelg/pitWallPublic/releases/download/v0.7.17/pitwall-0.7.17-release.apk",
+          "changelog": "- History Section Polish — Smooth chart transitions to the latest race and refined dual-color team branding lines for improved readability.
+\n- Session Results Layout — Aligned race times and points with driver names, and fixed expanded result lists collapsing when scrolling.
+\n- Pitwall Screen Stability — Added smooth loading shimmers for voting and standings cards to prevent disappearance on launch.
+\n- Standings & Driver Updates — Restored driver country flags in championship standings, fixed standings sync, and resolved missing driver profiles (Yuki Tsunoda).
+\n- Track Weather Forecasts — Restored weather forecasts for historic circuits.",
           "isForceUpdate": false
         }
