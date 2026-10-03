@@ -1,26 +1,53 @@
 {
   "metadata": {
-    "last_updated": "2026-10-03T12:02:12.833613Z",
+    "last_updated": "2026-10-03T12:32:18.055879Z",
     "total_news": 22
   },
   "news": [
     {
-      "id": "https://www.motorsport.com/f1/news/from-paper-car-to-pole-in-malaysia-whats-behind-max-verstappen-and-red-bulls-pace/10861525/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "From \"paper car\" to pole in Malaysia – What's behind Max Verstappen and Red Bull's pace?",
+      "id": "https://www.autosport.com/f1/news/from-paper-car-to-pole-what-changed-for-verstappen-and-red-bull/10861532/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "From \"paper car\" to pole – What changed for Verstappen and Red Bull?",
       "snippet": "It is less than a month since Max Verstappen qualified sixth at Monza and afterwards spoke about a Red Bull car \"made of paper\". Admittedly, that comment specifically concerned the \"car degradation\" issue – components that sometimes deteriorate over the course of a race – and according to Verstappen and team principal Laurent Mekies, that issue can no longer be fully resolved in 2026.But ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/from-paper-car-to-pole-in-malaysia-whats-behind-max-verstappen-and-red-bulls-pace/10861525/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6DGgDqJY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": 1791028561000
+      "link": "https://www.autosport.com/f1/news/from-paper-car-to-pole-what-changed-for-verstappen-and-red-bull/10861532/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YP74ekB2/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": 1791029121000
     },
     {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cm1j3l9867jwo?at_medium=RSS&at_campaign=rss",
-      "title": "Verstappen takes first 2026 pole ahead of Hamilton",
-      "snippet": "Max Verstappen takes his and Red Bull's first pole position of 2026 with an imperious performance in qualifying at the Bahrain Grand Prix in Malaysia.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm1j3l9867jwo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.skysports.com/f1/news/12433/13594547/bahrain-gp-in-malaysia-max-verstappen-beats-lewis-hamilton-to-pole-position-to-claim-first-red-bull-pole-of-2026-formula-1-season",
+      "title": "Verstappen beats Hamilton to pole in Malaysia",
+      "snippet": "Max Verstappen claimed Red Bull's first pole position of the season as he beat Lewis Hamilton in qualifying for the Bahrain Grand Prix in Malaysia.",
+      "link": "https://www.skysports.com/f1/news/12433/13594547/bahrain-gp-in-malaysia-max-verstappen-beats-lewis-hamilton-to-pole-position-to-claim-first-red-bull-pole-of-2026-formula-1-season",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-max-verstappen-pole_7367194.jpg?20261003125239",
+      "published_at": 1791022560000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13594549/mercedes-boss-toto-wolff-admits-confusion-over-lack-of-qualifying-pace-following-upgrades-at-bahrain-gp-in-malaysia",
+      "title": "'Three tenths backwards' - Wolff admits confusion over Mercedes upgrades",
+      "snippet": "Toto Wolff has admitted his surprise at Mercedes' major upgrade package for the Bahrain Grand Prix having appeared to take the team backwards, following an underwhelming qualifying display.",
+      "link": "https://www.skysports.com/f1/news/12433/13594549/mercedes-boss-toto-wolff-admits-confusion-over-lack-of-qualifying-pace-following-upgrades-at-bahrain-gp-in-malaysia",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-toto-wolff-mercedes_7367192.jpg?20261003122623",
+      "published_at": 1791030600000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/c5vgj31224kmo?at_medium=RSS&at_campaign=rss",
+      "title": "'Incredible' Red Bull upgrade enlivens F1 in 'roasting hot' Malaysia",
+      "snippet": "Even Lewis Hamilton fears Max Verstappen will be tough to beat in Sunday's Bahrain Grand Prix in Malaysia.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c5vgj31224kmo?at_medium=RSS&at_campaign=rss",
       "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b21/live/83dbbbf0-bf0a-11f1-8a3a-81429ed63d84.jpg",
-      "published_at": 1791018825000
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a27/live/05ca5f80-bf25-11f1-b10d-f956452c9061.jpg",
+      "published_at": 1791030357000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/lewis-hamilton-labels-sepang-qualifying-as-best-lap-of-his-2026-f1-season-/10861539/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Lewis Hamilton labels Sepang qualifying as \"best lap\" of his 2026 F1 season",
+      "snippet": "Lewis Hamilton reckons he produced the “best lap” of his 2026 Formula 1 season to take a front row start alongside Max Verstappen at the Bahrain Grand Prix in Malaysia.The Ferrari driver set a 1m35.428s at Sepang and that put him 0.298s off polesitter Verstappen, whose Red Bull team-mate Isack Hadjar completed the top three on Saturday.It certainly came as a surprise to Hamilton, as he ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/lewis-hamilton-labels-sepang-qualifying-as-best-lap-of-his-2026-f1-season-/10861539/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0o5ApxDY/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": 1791029453000
     },
     {
       "id": "https://www.skysports.com/f1/live-blog/12433/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
@@ -37,7 +64,7 @@
       "snippet": "The Mercedes team has taken a big swing by introducing a substantial aerodynamic update package at a circuit Formula 1 hasn't visited since 2017. Has it missed?Probably not – but, because the upgrade is a major one, Mercedes has committed to it on both cars so it has been unable to run back-to-back comparisons between old and new in identical conditions. This has added to the challenges of ...Keep reading",
       "link": "https://www.autosport.com/f1/news/why-mercedes-upgrade-is-still-a-big-question-mark/10861516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6VyKezLY/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6VyKezLY/s6/andrea-kimi-antonelli-mercedes-2.jpg",
       "published_at": 1791027041000
     },
     {
@@ -55,7 +82,7 @@
       "snippet": "Mika Hakkinen returns to the Formula 1 cockpit today at the Allwyn x McLaren Racing: Live in Athens event outside the Olympic Athletic Center (OAKA).The two-time champion will drive around a bespoke track layout in Ayrton Senna's iconic McLaren MP4/6, and fans will have the opportunity to see the 2025 constructors' championship-winning MCL39.\"We are here with a great event with McLaren ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/mika-hakkinen-returns-to-f1-cockpit-in-ayrton-sennas-title-winning-mclaren-mp4-6/10861512/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6zoDEQl0/s6/untitled-design-20-2.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6zoDEQl0/s6/untitled-design-20-2.jpg",
       "published_at": 1791026681000
     },
     {
@@ -64,7 +91,7 @@
       "snippet": "Kimi Antonelli will start third on the Bahrain Grand Prix grid thanks to Isack Hadjar's five-place grid penalty, but after Mercedes introduced a seven-piece upgrade package at Sepang, the driver's expectations were much higher before he started driving. He now places his hopes on using the powerful undercut this circuit may have to offer.Antonelli looked like the man to beat after what ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/kimi-antonelli-eyes-aggressive-undercut-attack-in-f1-malaysia/10861499/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2GdKRmQY/s6/untitled-design-20-2.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/2GdKRmQY/s6/untitled-design-20-2.jpg",
       "published_at": 1791025409000
     },
     {
@@ -82,7 +109,7 @@
       "snippet": "Lando Norris was left frustrated by a power unit problem that left him just sixth on the grid for the Formula 1 Bahrain Grand Prix in Malaysia.The McLaren driver was six tenths off Red Bull’s polesitter Max Verstappen at Sepang on Saturday, setting a 1m35.757s that put Norris just 0.005s ahead of team-mate Oscar Piastri in seventh.Norris reckons his deficit came via a lack of speed on ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lando-norris-frustrated-by-engine-issue-that-cost-him-in-sepang-qualifying/10861468/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YBVjyLKY/s6/lando-norris-mclaren.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YBVjyLKY/s6/lando-norris-mclaren.jpg",
       "published_at": 1791024263000
     },
     {
@@ -100,7 +127,7 @@
       "snippet": "Isack Hadjar (Red Bull) is handed a 5-place penalty for using a new power unit element outside his allocation.Franco Colapinto (Alpine) is handed a 15-place penalty: 5 for the collision he caused in Baku, 10 for using a new V6 outside his allocation.Arvid Lindblad (Racing Bulls) is handed a 30-place penalty for using several new power unit elements outside his ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/2026-f1-bahrain-grand-prix-starting-grid/10861443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7BDBB2/s6/lewis-hamilton-ferrari-max-ver-2.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0R7BDBB2/s6/lewis-hamilton-ferrari-max-ver-2.jpg",
       "published_at": 1791022189000
     },
     {
@@ -109,7 +136,7 @@
       "snippet": "Mercedes brought a substantial upgrade package to Sepang for the 2026 Bahrain Grand Prix, and pace was supposed to be strong for the Silver Arrows. Kimi Antonelli teased something special after he topped FP3, but qualifying proved to be difficult. Toto Wolff believes there is \"something else is going on\" that is hindering his team's pace.Championship leader Antonelli qualified on the second ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/toto-wolff-something-else-is-going-on-after-bahrain-qualifying-troubles/10861419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0arEyEw2/s6/untitled-design-19-4.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0arEyEw2/s6/untitled-design-19-4.jpg",
       "published_at": 1791021508000
     },
     {
@@ -127,7 +154,7 @@
       "snippet": "Formula 1 will race in conditions hot enough to force the FIA to declare this weekend in Malaysia a heat hazard. For that reason, drivers can choose to use a cooling vest during sessions - a tool that helps regulate their body temperature. But George Russell won't be doing that, as he blames the cost cap for Mercedes not having the funds to develop it under the restrictions. The Bahrain Grand ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/george-russell-forced-to-suffer-in-malaysia-as-cost-cap-bites/10861368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0R7BMXE2/s6/untitled-design-17-2.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7BMXE2/s6/untitled-design-17-2.jpg",
       "published_at": 1791016883000
     },
     {
@@ -136,7 +163,7 @@
       "snippet": "As Formula 1 descends on Malaysia for the Bahrain Grand Prix this Saturday, the grid's watch game was on full display. Richard Mille, TAG Heuer, IWC, Tudor, Audemars Piguet, Breitling, and H. Moser & Cie. all had skin in the game trackside, and with prices ranging from high four figures to $2.2million for Lewis Hamilton's, there's plenty to love.Lewis Hamilton's watch sits at the very top as ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lewis-hamiltons-22million-watch-leads-incredible-f1-grid-collection-in-malaysia/10861333/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YWKAbnKY/s6/untitled-design-16-2.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YWKAbnKY/s6/untitled-design-16-2.jpg",
       "published_at": 1791015128000
     },
     {
@@ -145,7 +172,7 @@
       "snippet": "Seven-time Formula 1 champion Lewis Hamilton says a secluded trip to the mountains with his dogs Roscoe and Coco during the COVID-19 pandemic is the single day of his life he would most like to relive.In a recent social media video, the 41-year-old Ferrari driver was asked to choose one day from his past to experience again. Bypassing his 106 grand prix victories and seven drivers' ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lewis-hamilton-reflects-on-treasured-roscoe-and-coco-memory/10861346/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YXyKNP76/s6/untitled-design-15.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YXyKNP76/s6/untitled-design-15.jpg",
       "published_at": 1791014646000
     },
     {
@@ -174,33 +201,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-red-flag_7366955.jpg?20261003062747",
       "published_at": 1791008460000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/f1-bahrain-gp-in-malaysia-antonelli-recovers-from-tough-friday-to-top-fp3/10861282/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "F1 Bahrain GP in Malaysia: Antonelli recovers from tough Friday to top FP3",
-      "snippet": "Kimi Antonelli topped final practice at the Bahrain Grand Prix in Malaysia to recover from a disappointing Friday for the championship-leading Mercedes outfit.The Silver Arrows brought a heavily upgraded W17 to Sepang, but only managed second and fifth in FP1 and seventh and eighth in FP2 with other teams looking stronger.But the dominant outfit of 2026 responded perfectly on Saturday with ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/f1-bahrain-gp-in-malaysia-antonelli-recovers-from-tough-friday-to-top-fp3/10861282/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwjX42/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "published_at": 1791006131000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/lewis-hamiltons-custom-monza-outfit-revealed-after-iconic-ferrari-f40-photoshoot/10861185/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Lewis Hamilton's custom Monza outfit revealed after iconic Ferrari F40 photoshoot",
-      "snippet": "Details about the outfit Lewis Hamilton wore during his iconic arrival at the Italian Grand Prix in September have been revealed.The seven-time champion immediately turned heads at the Monza circuit as he rolled up in his restored Ferrari F40 and stepped out in a black suit with a tan overcoat. He later posed in a custom-made Khaite look.While Khaite does not produce a dedicated menswear ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/lewis-hamiltons-custom-monza-outfit-revealed-after-iconic-ferrari-f40-photoshoot/10861185/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2dEobnnY/s6/untitled-design-14.jpg",
-      "published_at": 1790977511000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/lewis-hamilton-goes-viral-with-fernando-alonso-verdict-as-fans-hail-legend/10861182/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Lewis Hamilton goes viral with Fernando Alonso verdict as fans hail \"legend\"",
-      "snippet": "Seven-time Formula 1 champion Lewis Hamilton has drawn widespread praise across social media for his comments about Fernando Alonso's contract extension with Aston Martin.Ahead of the Bahrain Grand Prix, held in Malaysia, the Spaniard signed a contract extension with the Silverstone outfit that will keep him with the team until at least the end of 2027.Naturally, the two-time champion's ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/lewis-hamilton-goes-viral-with-fernando-alonso-verdict-as-fans-hail-legend/10861182/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YBVjybBY/s6/untitled-design-13.jpg",
-      "published_at": 1790975166000
     }
   ]
 }
