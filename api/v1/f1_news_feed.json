@@ -1,17 +1,44 @@
 {
   "metadata": {
-    "last_updated": "2026-10-04T14:02:21.310362Z",
+    "last_updated": "2026-10-04T14:32:20.758034Z",
     "total_news": 22
   },
   "news": [
     {
-      "id": "https://www.autosport.com/f1/news/how-fia-software-bug-caused-chaos-in-bahrain-gp-in-malaysia-and-the-emergency-fix-that-saved-the-ra/10861989/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "How FIA software bug caused chaos in Bahrain GP in Malaysia – and the emergency fix that saved the race",
-      "snippet": "The start of the first wet-weather race of the 2026 Formula 1 season descended into chaos. Leader Max Verstappen was the first to suffer from a lack of power while driving slowly during the formation laps behind the safety car, after which Lewis Hamilton came to a standstill and several other cars followed.Race control was forced to stop the formation lap with a red flag, after which there was ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/how-fia-software-bug-caused-chaos-in-bahrain-gp-in-malaysia-and-the-emergency-fix-that-saved-the-ra/10861989/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6O7zBNP6/s6/max-verstappen-red-bull-racing-3.jpg",
-      "published_at": 1791121848000
+      "id": "https://www.skysports.com/f1/news/12433/13594863/lewis-hamilton-ferrari-driver-reveals-debate-that-preceded-disastrous-tyre-choice-at-start-of-bahrain-gp-in-malaysia",
+      "title": "'I said it was wet!' - Hamilton reveals debate over disastrous Ferrari tyre choice",
+      "snippet": "Lewis Hamilton said he was pushing to start on intermediate tyres before the choice of a slick compound led to a disastrous beginning to the Bahrain Grand Prix for Ferrari.",
+      "link": "https://www.skysports.com/f1/news/12433/13594863/lewis-hamilton-ferrari-driver-reveals-debate-that-preceded-disastrous-tyre-choice-at-start-of-bahrain-gp-in-malaysia",
+      "source_name": "Sky Sports",
+      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7368007.jpg?20261004144621",
+      "published_at": 1791125400000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13594864/fia-explain-unprecedented-glitch-that-caused-bahrain-gp-in-malaysia-start-chaos-on-formation-laps",
+      "title": "FIA explain 'unprecedented' glitch that caused Bahrain GP start chaos",
+      "snippet": "The FIA revealed an &#8220;unprecedented&#8221; glitch caused several cars to stop in the chaotic start to the Bahrain Grand Prix in Malaysia.",
+      "link": "https://www.skysports.com/f1/news/12433/13594864/fia-explain-unprecedented-glitch-that-caused-bahrain-gp-in-malaysia-start-chaos-on-formation-laps",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7368017.jpg?20261004145715",
+      "published_at": 1791126600000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/its-a-joke-isack-hadjar-rues-disastrous-race-in-horrible-car-with-no-battery/10861996/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "“It’s a joke” – Isack Hadjar rues ‘disastrous’ race in “horrible” car with “no battery”",
+      "snippet": "Isack Hadjar has labelled his Bahrain Grand Prix in Malaysia struggles as a “joke”, having experienced curious struggles with his Red Bull Formula 1 car on Sunday.Starting from eighth on the grid due to an engine penalty, Hadjar’s day was tricky from the get-go as he suffered a trip through the gravel on the initial formation lap, on a wet track.The Frenchman made the most of ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/its-a-joke-isack-hadjar-rues-disastrous-race-in-horrible-car-with-no-battery/10861996/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/Y9lNRpX2/s6/isack-hadjar-red-bull-racing.jpg",
+      "published_at": 1791122428000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/explained-what-was-really-going-on-with-the-fia-software-bug-causing-f1-chaos-in-malaysia/10861977/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Explained: What was really going on with the FIA software bug causing F1 chaos in Malaysia",
+      "snippet": "The start of the first wet-weather race of the 2026 Formula 1 season descended into chaos. Leader Max Verstappen was the first to suffer from a lack of power while driving slowly during the formation laps behind the safety car, after which Lewis Hamilton came to a standstill and several other cars followed.Race control was forced to stop the race with a red flag, after which there was a ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/explained-what-was-really-going-on-with-the-fia-software-bug-causing-f1-chaos-in-malaysia/10861977/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6DGgDk7Y/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": 1791121732000
     },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cqkgjnrjr3l5o?at_medium=RSS&at_campaign=rss",
@@ -28,7 +55,7 @@
       "snippet": "Leading F1 drivers are despairing at power unit software glitches that derailed the start of the Bahrain GP in Malaysia, with Lando Norris calling the electronic glitches \"horrible\" and further proof that F1 should move away from hybrids.The start at a wet Sepang circuit was aborted after a large number of cars suffered crippling software issues. With the event being the first wet weather ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/68Vw9aB2/s6/max-verstappen-red-bull-racing.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/68Vw9aB2/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1791120935000
     },
     {
@@ -37,7 +64,7 @@
       "snippet": "When the Bahrain Grand Prix in Malaysia eventually got going after an hour and 33 minutes of delays, it became apparent that the intermediate was the tyre to be on among the opening laps - even if the Sepang circuit had looked like it was drying out.At the front of the field, Ferrari and McLaren chose to go all-in on the dry tyres for the restart; Ferrari opted for the soft compound, while ...Keep reading",
       "link": "https://www.autosport.com/f1/news/the-slick-tyre-gamble-that-hurt-mclaren-and-ferraris-bahrain-f1-chances/10861972/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6zoDEk70/s6/lando-norris-mclaren-2.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6zoDEk70/s6/lando-norris-mclaren-2.jpg",
       "published_at": 1791119694000
     },
     {
@@ -50,12 +77,21 @@
       "published_at": 1791119123000
     },
     {
+      "id": "https://www.motorsport.com/f1/news/fia-reveals-why-f1-cars-stopped-in-rain-at-bahrain-gp-in-malaysia/10861947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "FIA reveals why F1 cars stopped in rain at Bahrain GP in Malaysia",
+      "snippet": "The FIA has given insight into why Formula 1 cars experienced technical issues ahead of Sunday’s Bahrain Grand Prix in Malaysia.The start of the Sepang race was delayed by 40 minutes due to a downpour; then a chaotic formation lap saw the likes front-row starters Max Verstappen and Lewis Hamilton suffer from a glitch which rendered throttle input ineffective, with numerous cars coming to a ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/fia-reveals-why-f1-cars-stopped-in-rain-at-bahrain-gp-in-malaysia/10861947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/2y7QBvy6/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": 1791117196000
+    },
+    {
       "id": "https://www.motorsport.com/f1/news/mclaren-fans-can-now-get-an-f1-inspired-sim-setup-for-900/10861783/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "McLaren fans can now get an F1-inspired sim setup for $900",
       "snippet": "Formula 1's move into your home is going rather well, with Drive to Survive being watched in lounges across the world for several years now and the F1 movie replacing it between seasons. Gaming has been a large part of this push, too. The EA Sports F1 game is growing, and McLaren and partner Logitech haven't let this go unnoticed. At its G PLAY 2026 event, the RS50 McLaren Racing Bundle was ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/mclaren-fans-can-now-get-an-f1-inspired-sim-setup-for-900/10861783/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YMXbrrm2/s6/untitled-design-23.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YMXbrrm2/s6/untitled-design-23.jpg",
       "published_at": 1791117003000
     },
     {
@@ -64,7 +100,7 @@
       "snippet": "Lando Norris has revealed McLaren's ongoing straightline speed deficit is costing him almost two-tenths of a second per lap, labelling the situation \"painful as hell\".The British driver endured a compromised Bahrain Grand Prix at Malaysia. After starting from fifth on the grid, Norris dropped to 16th on medium tyres as it became apparent that the intermediate tyres were the optimum ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lando-norris-reveals-painful-mclaren-deficit-after-bahrain-gp/10861928/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YpbAq7M0/s6/untitled-design-26.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YpbAq7M0/s6/untitled-design-26.jpg",
       "published_at": 1791115060000
     },
     {
@@ -73,8 +109,17 @@
       "snippet": "Kimi Antonelli did not win the Bahrain Grand Prix, but his second place may be worth more than a victory at Sepang. With another 18 points on the board, the championship leader pulls clear again by taking advantage of another misfortune to hit his team-mate George Russell, who suffered an engine failure. Before heading to Singapore, the gap between the two men grows to 84 points!Photos from F1 ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/championship-a-crushing-blow-for-russell/10861930/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/2jEApoP0/s6/george-russell-mercedes.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2jEApoP0/s6/george-russell-mercedes.jpg",
       "published_at": 1791115019000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13594862/george-russell-mercedes-boss-toto-wolff-massively-annoyed-by-bahrain-gp-unreliability-with-driver-now-beyond-disappointment",
+      "title": "Russell 'beyond disappointment' as Wolff 'massively annoyed' by engine failure",
+      "snippet": "Mercedes boss Toto Wolff said he was \"massively annoyed\" after the late unreliability that delivered a potentially knock-out blow to George Russell's title hopes in the Bahrain Grand Prix.",
+      "link": "https://www.skysports.com/f1/news/12433/13594862/george-russell-mercedes-boss-toto-wolff-massively-annoyed-by-bahrain-gp-unreliability-with-driver-now-beyond-disappointment",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-george-russell_7367102.jpg?20261004144736",
+      "published_at": 1791114600000
     },
     {
       "id": "https://www.autosport.com/f1/news/russell-youve-got-to-laugh-at-bad-luck-as-f1-title-drifts-away/10861919/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -82,17 +127,8 @@
       "snippet": "Mercedes driver George Russell labelled his misfortune as laughable following Formula 1’s Bahrain Grand Prix in Malaysia, where a power unit failure cost him a podium finish late on.Russell was a lowly seventh on the grid at Sepang, but the correct choice of intermediate tyres on a damp track and a lightning getaway saw him surge to second into Turn 1, behind team-mate Kimi ...Keep reading",
       "link": "https://www.autosport.com/f1/news/russell-youve-got-to-laugh-at-bad-luck-as-f1-title-drifts-away/10861919/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2jEApoP0/s6/george-russell-mercedes.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/2jEApoP0/s6/george-russell-mercedes.jpg",
       "published_at": 1791114527000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/toto-wolff-massively-annoyed-after-george-russell-bahrain-gp-retirement-not-in-a-happy-place/10861895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Toto Wolff \"massively annoyed\" after George Russell Bahrain GP retirement: \"Not in a happy place\"",
-      "snippet": "Mercedes Formula 1 team principal Toto Wolff says he has been left \"massively annoyed and not in a happy place\" following a chaotic Bahrain Grand Prix in Malaysia that ended with a late power unit failure for George Russell.After starting from third and seventh, Kimi Antonelli and Russell made? incredible starts to take first and second, capitalising on polesitter Max Verstappen and ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/toto-wolff-massively-annoyed-after-george-russell-bahrain-gp-retirement-not-in-a-happy-place/10861895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YWKA53KY/s6/untitled-design-25.jpg",
-      "published_at": 1791112974000
     },
     {
       "id": "https://www.motorsport.com/f1/news/max-verstappen-explains-hectic-bahrain-gp-start-after-first-red-bull-win-of-2026/10861881/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -100,7 +136,7 @@
       "snippet": "Four-time Formula 1 champion Max Verstappen has opened up about the \"very hectic\" start to the Bahrain Grand Prix in Malaysia, revealing that a temporary loss of power derailed his getaway.The Dutchman started the race from pole position but quickly dropped back as Mercedes drivers Kimi Antonelli and George Russell overtook him at the race start. While his start was compromised, Verstappen ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/max-verstappen-explains-hectic-bahrain-gp-start-after-first-red-bull-win-of-2026/10861881/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0kZXp9V6/s6/untitled-design-24.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0kZXp9V6/s6/untitled-design-24.jpg",
       "published_at": 1791111410000
     },
     {
@@ -109,7 +145,7 @@
       "snippet": "Max Verstappen takes his and Red Bull's first win of the year with a dominant drive in a dramatic Bahrain Grand Prix in Malaysia that started amid chaotic and unprecedented scenes.",
       "link": "https://www.bbc.co.uk/sport/formula1/articles/c5n49zx3zlvwo?at_medium=RSS&at_campaign=rss",
       "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a41d/live/f39b9590-bfe2-11f1-b4e6-d96c2bf27b65.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f49/live/2354bb70-bffe-11f1-bc2e-018d645d8d21.jpg",
       "published_at": 1791109957000
     },
     {
@@ -118,13 +154,13 @@
       "snippet": "Verstappen and Red Bull avoid first winless year since 2015During the Dutch media session in Baku, Max Verstappen said Red Bull had “done a great job messing up” its best chance to win a race in 2026. A day later, however, he already came extremely close, and a week on they have finally done it.Red Bull’s progress with its final upgrade package of the year has not been limited to the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-bahrain-gp-in-malaysia/10861841/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YBVjERMY/s6/andrea-kimi-antonelli-mercedes-4.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YBVjERMY/s6/andrea-kimi-antonelli-mercedes-4.jpg",
       "published_at": 1791109490000
     },
     {
       "id": "https://www.skysports.com/f1/news/12433/13594860/bahrain-gp-in-malaysia-max-verstappen-wins-first-race-of-2026-f1-season-in-wild-rain-hit-grand-prix-as-lewis-hamilton-surges-back",
       "title": "Verstappen wins 'absolutely wild' Bahrain GP",
-      "snippet": "Max Verstappen overcame a truly chaotic, twice-delayed, rain-affected race to claim his first win of the 2026 season at the Bahrain Grand Prix in Malaysia, while Kimi Antonelli strengthened his title bid with second place as George Russell retired late on.",
+      "snippet": "Max Verstappen overcame a chaotic, twice-delayed, rain-affected race to claim his first win of the 2026 season at the Bahrain Grand Prix in Malaysia, while Kimi Antonelli strengthened his title bid with second place as George Russell retired late on.",
       "link": "https://www.skysports.com/f1/news/12433/13594860/bahrain-gp-in-malaysia-max-verstappen-wins-first-race-of-2026-f1-season-in-wild-rain-hit-grand-prix-as-lewis-hamilton-surges-back",
       "source_name": "Sky Sports",
       "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-max-verstappen-red-bull_7367864.jpg?20261004115616",
@@ -136,7 +172,7 @@
       "snippet": "Formula 1 drivers may be at peak fitness and drive 200mph in cars that most of us would be too scared to apply full throttle in, but this doesn't stop them from being human. Ollie Bearman, the Haas F1 driver who's pegged for a possible future at Ferrari, has the same fears as the majority of us: spiders.During a fan event at the Bahrain Grand Prix in Malaysia, the young driver described the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/ollie-bearman-says-terrifying-spider-forced-him-to-change-hotels-in-malaysia/10861832/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2QedZ4m2/s6/untitled-design-25-2.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2QedZ4m2/s6/untitled-design-25-2.jpg",
       "published_at": 1791104077000
     },
     {
@@ -145,7 +181,7 @@
       "snippet": "Your Ferrari drivers don't usually disappoint us with what they drive to race weekends. Whether it be a classic Ferrari supercar or a Ducati superbike, it usually leaves us fans drooling with jealousy. This weekend in Malaysia was no different as Lewis Hamilton and Charles Leclerc arrived in matching sports saloons from Alfa Romeo.The Scuderia pair was spotted driving Alfa Romeo Giulia ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lewis-hamilton-and-charles-leclerc-arrive-at-sepang-in-matching-sports-saloons/10861812/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0R7BDNo2/s6/untitled-design-24-2.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0R7BDNo2/s6/untitled-design-24-2.jpg",
       "published_at": 1791101608000
     },
     {
@@ -154,53 +190,17 @@
       "snippet": "The start of the Bahrain Grand Prix was suspended after severe rain hit the Sepang International Circuit. As Race Control monitored the weather, a local marshal stole the show.Conditions deteriorated ahead of the scheduled race start in Malaysia, prompting delays. While the marshals worked to remove some of the standing water from the track, one caught the attention of fans as he pretended to ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/sepang-f1-marshal-steals-the-show-during-bahrain-gp-delay-absolute-icon/10861809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/Y9lNRgb2/s6/untitled-design-23.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/Y9lNRgb2/s6/untitled-design-23.jpg",
       "published_at": 1791101021000
     },
     {
-      "id": "https://www.autosport.com/f1/news/f1-bahrain-gp-in-malaysia-start-delayed-as-thunderstorms-hit-sepang/10861780/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "F1 Bahrain GP in Malaysia start delayed as thunderstorms hit Sepang",
-      "snippet": "The start of Formula 1's Bahrain Grand Prix in Malaysia has been delayed due to heaving thunderstorms hitting the Sepang circuit.As teams formed on the starting grid for the pre-race procedure, a small drizzle turned into a full-blown tropical thunderstorm and a downpour and lightning hit the circuit outside Kuala Lumpur. The sudden torrential rain was so severe that FIA race control had no ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/f1-bahrain-gp-in-malaysia-start-delayed-as-thunderstorms-hit-sepang/10861780/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "id": "https://www.autosport.com/f1/news/f1-bahrain-gp-in-malaysia-descends-into-chaos-as-car-trouble-prompts-red-flag/10861807/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "F1 Bahrain GP in Malaysia descends into chaos as car trouble prompts red flag",
+      "snippet": "The Formula 1 Bahrain Grand Prix in Malaysia has been red-flagged after several cars suffered power unit gremlins during a wet set of formation laps.After a heavy tropical thunderstorm, the action at Malaysian Sepang was set to get underway with a number of laps behind the safety car followed by a standing start.But ahead of F1's first-ever wet event under the 2026 regulations, a number ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/f1-bahrain-gp-in-malaysia-descends-into-chaos-as-car-trouble-prompts-red-flag/10861807/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/01QNrBx0/s6/rain-is-seen-on-the-grid-2.jpg",
-      "published_at": 1791097635000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13594547/bahrain-gp-in-malaysia-max-verstappen-beats-lewis-hamilton-to-pole-position-to-claim-first-red-bull-pole-of-2026-formula-1-season",
-      "title": "Verstappen beats Hamilton to pole in Malaysia",
-      "snippet": "Max Verstappen claimed Red Bull's first pole position of the season as he beat Lewis Hamilton in qualifying for the Bahrain Grand Prix in Malaysia.",
-      "link": "https://www.skysports.com/f1/news/12433/13594547/bahrain-gp-in-malaysia-max-verstappen-beats-lewis-hamilton-to-pole-position-to-claim-first-red-bull-pole-of-2026-formula-1-season",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-max-verstappen-pole_7367194.jpg?20261003125239",
-      "published_at": 1791022560000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/why-malaysia-would-be-the-best-place-for-f1s-first-wet-weather-race-in-2026/10861394/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Why Malaysia would be the best place for F1’s first wet-weather race in 2026",
-      "snippet": "While Formula 1 has already reached the 16th round of the 2026 season, fans have still not been treated to a wet-weather race under the new regulations – or even a wet session. Rain has threatened on several occasions, but the on-track action has consistently remained unaffected.Following initial concerns about safety in wet conditions, the FIA has made several changes to this year’s ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/why-malaysia-would-be-the-best-place-for-f1s-first-wet-weather-race-in-2026/10861394/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6grQOm7Y/s6/charles-leclerc-ferrari.jpg",
-      "published_at": 1791042303000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/max-verstappen-reveals-valentino-rossi-wish-ahead-of-portimao-gt3-season-finale/10861597/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Max Verstappen reveals Valentino Rossi wish ahead of Portimao GT3 season finale",
-      "snippet": "Four-time Formula 1 champion Max Verstappen says he hopes to avoid an on-track battle with Valentino Rossi when the pair share the GT3 starting grid for the first time at Portimao.Heading into the F1 race weekend at the Sepang International Circuit, Verstappen confirmed that he would be competing in the season finale of the GT World Challenge Europe Cup at Portimao in Portugal. Sandwiched ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/max-verstappen-reveals-valentino-rossi-wish-ahead-of-portimao-gt3-season-finale/10861597/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2dEojqpY/s6/untitled-design-22.jpg",
-      "published_at": 1791038422000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/f1-ferraris-vigna-on-vasseur-rumours-and-fake-news-there-is-only-one-reality/10861589/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Ferrari’s Vigna on Vasseur and fake news: “There is only one reality”",
-      "snippet": "The Ferrari CEO reflects on the rash of rumours and the need to distinguish facts from speculation. He recalls reading about alleged tensions with Fred Vasseur while having dinner with him and explains why, in a scenario amplified by social media, it is sometimes necessary to intervene publicly to stop the noise. As for the situation on track, no excuses: “Our rivals have done a better ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/f1-ferraris-vigna-on-vasseur-rumours-and-fake-news-there-is-only-one-reality/10861589/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0kZA5qv6/s6/scuderia-ferrari-christmas-lun-2.jpg",
-      "published_at": 1791038083000
+      "image_url": "https://cdn-8.motorsport.com/images/amp/68Vw9aB2/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": 1791100727000
     }
   ]
 }
