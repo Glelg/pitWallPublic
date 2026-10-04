@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-04T21:32:29.838625Z",
+    "last_updated": "2026-10-04T22:02:31.524985Z",
     "total_news": 22
   },
   "news": [
@@ -158,6 +158,15 @@
       "published_at": 1791115019000
     },
     {
+      "id": "https://www.skysports.com/watch/video/13594974/bahrain-grand-prix-in-malaysia-race-highlights",
+      "title": "Bahrain Grand Prix in Malaysia - Race highlights",
+      "snippet": "Highlights of the Bahrain Grand Prix in Malaysia at the Sepang International Circuit.",
+      "link": "https://www.skysports.com/watch/video/13594974/bahrain-grand-prix-in-malaysia-race-highlights",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-race-highlights_7367837.jpg?20261004113004",
+      "published_at": 1791114840000
+    },
+    {
       "id": "https://www.skysports.com/f1/news/12433/13594862/george-russell-mercedes-boss-toto-wolff-massively-annoyed-by-bahrain-gp-unreliability-with-driver-now-beyond-disappointment",
       "title": "Russell 'beyond disappointment' as Wolff 'massively annoyed' by engine failure",
       "snippet": "Mercedes boss Toto Wolff said he was \"massively annoyed\" after the late unreliability that delivered a potentially knock-out blow to George Russell's title hopes in the Bahrain Grand Prix.",
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/YBVjERMY/s6/andrea-kimi-antonelli-mercedes-4.jpg",
       "published_at": 1791109490000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13594860/bahrain-gp-in-malaysia-max-verstappen-wins-first-race-of-2026-f1-season-in-wild-rain-hit-grand-prix-as-lewis-hamilton-surges-back",
-      "title": "Verstappen wins 'absolutely wild' Bahrain GP",
-      "snippet": "Max Verstappen overcame a chaotic, twice-delayed, rain-affected race to claim his first win of the 2026 season at the Bahrain Grand Prix in Malaysia, while Kimi Antonelli strengthened his title bid with second place as George Russell retired late on.",
-      "link": "https://www.skysports.com/f1/news/12433/13594860/bahrain-gp-in-malaysia-max-verstappen-wins-first-race-of-2026-f1-season-in-wild-rain-hit-grand-prix-as-lewis-hamilton-surges-back",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-max-verstappen-red-bull_7367864.jpg?20261004115616",
-      "published_at": 1791107100000
     }
   ]
 }
