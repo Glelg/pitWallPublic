@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-04T10:07:11.391800Z",
+    "last_updated": "2026-10-04T11:02:08.896204Z",
     "year": 2026,
     "total_meetings": 27
   },
@@ -441,20 +441,20 @@
         {
           "position": 1,
           "driver_number": 12,
-          "driver_acronym": "#12",
-          "team_name": "Formula 1"
+          "driver_acronym": "ANT",
+          "team_name": "Mercedes"
         },
         {
           "position": 2,
           "driver_number": 44,
-          "driver_acronym": "#44",
-          "team_name": "Formula 1"
+          "driver_acronym": "HAM",
+          "team_name": "Ferrari"
         },
         {
           "position": 3,
           "driver_number": 3,
-          "driver_acronym": "#3",
-          "team_name": "Formula 1"
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
         }
       ],
       "sessions": [
@@ -766,20 +766,20 @@
         {
           "position": 1,
           "driver_number": 12,
-          "driver_acronym": "#12",
-          "team_name": "Formula 1"
+          "driver_acronym": "ANT",
+          "team_name": "Mercedes"
         },
         {
           "position": 2,
           "driver_number": 16,
-          "driver_acronym": "#16",
-          "team_name": "Formula 1"
+          "driver_acronym": "LEC",
+          "team_name": "Ferrari"
         },
         {
           "position": 3,
           "driver_number": 3,
-          "driver_acronym": "#3",
-          "team_name": "Formula 1"
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
         }
       ],
       "sessions": [
@@ -831,20 +831,20 @@
         {
           "position": 1,
           "driver_number": 1,
-          "driver_acronym": "#1",
-          "team_name": "Formula 1"
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
         },
         {
           "position": 2,
           "driver_number": 3,
-          "driver_acronym": "#3",
-          "team_name": "Formula 1"
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
         },
         {
           "position": 3,
           "driver_number": 12,
-          "driver_acronym": "#12",
-          "team_name": "Formula 1"
+          "driver_acronym": "ANT",
+          "team_name": "Mercedes"
         }
       ],
       "sessions": [
@@ -961,20 +961,20 @@
         {
           "position": 1,
           "driver_number": 12,
-          "driver_acronym": "#12",
-          "team_name": "Formula 1"
+          "driver_acronym": "ANT",
+          "team_name": "Mercedes"
         },
         {
           "position": 2,
           "driver_number": 63,
-          "driver_acronym": "#63",
-          "team_name": "Formula 1"
+          "driver_acronym": "RUS",
+          "team_name": "Mercedes"
         },
         {
           "position": 3,
           "driver_number": 3,
-          "driver_acronym": "#3",
-          "team_name": "Formula 1"
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
         }
       ],
       "sessions": [
@@ -1087,7 +1087,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 63,
+          "driver_acronym": "RUS",
+          "team_name": "Mercedes"
+        },
+        {
+          "position": 2,
+          "driver_number": 3,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 3,
+          "driver_number": 6,
+          "driver_acronym": "HAD",
+          "team_name": "Red Bull Racing"
+        }
+      ],
       "sessions": [
         {
           "session_key": 11370,
@@ -1133,7 +1152,26 @@
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 3,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 2,
+          "driver_number": 12,
+          "driver_acronym": "ANT",
+          "team_name": "Mercedes"
+        },
+        {
+          "position": 3,
+          "driver_number": 44,
+          "driver_acronym": "HAM",
+          "team_name": "Ferrari"
+        }
+      ],
       "sessions": [
         {
           "session_key": 11727,
