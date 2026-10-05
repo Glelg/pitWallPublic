@@ -4,7 +4,7 @@ on:
   # 1. Точный запуск от внешнего будильника cron-job.org каждые 30 минут
   repository_dispatch:
     types: [cron_trigger]
-  # 2. Автоматический запуск при твоих пушах в главный репозиторий
+  # 2. Автоматический запуск при пушах в главный репозиторий
   push:
     branches: [ "main", "master" ]
   # 3. Возможность принудительного запуска кнопкой в интерфейсе GitHub
@@ -25,6 +25,11 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
+      - name: Установка зависимостей
+        run: |
+          python -m pip install --upgrade pip
+          pip install beautifulsoup4
 
       - name: Запуск скрипта обновления турнирной таблицы
         run: python fetch_standings.py
