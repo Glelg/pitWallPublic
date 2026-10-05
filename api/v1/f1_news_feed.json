@@ -1,16 +1,25 @@
 {
   "metadata": {
-    "last_updated": "2026-10-05T18:32:31.771082Z",
+    "last_updated": "2026-10-05T19:02:22.948109Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cv2d6p9en7wdo?at_medium=RSS&at_campaign=rss",
+      "title": "Bottas cycling from Malaysia to Singapore Grand Prix",
+      "snippet": "Cadillac driver Valtteri Bottas switches four wheels for two and opts to travel to the Singapore Grand Prix by bike.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cv2d6p9en7wdo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8968/live/52792810-c0ed-11f1-ac9b-4d871a6ff8ee.jpg",
+      "published_at": 1791226823000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/andrea-stella-concedes-mclaren-made-incorrect-judgment-on-bahrain-gp-strategy/10862366/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Andrea Stella concedes McLaren made \"incorrect judgment\" on Bahrain GP Strategy",
       "snippet": "Lando Norris qualified sixth for the Bahrain Grand Prix, but a misjudgement of the water on the Sepang circuit meant within a lap he was fighting from the back of the pack. McLaren team principal Andrea Stella has admitted that this mistake came from a single miscalculation that turned what could have been an interesting race into an exercise of damage control for both Norris and team-mate Oscar ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/andrea-stella-concedes-mclaren-made-incorrect-judgment-on-bahrain-gp-strategy/10862366/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/25dLZNJ0/s6/untitled-design-31-2.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/25dLZNJ0/s6/untitled-design-31-2.jpg",
       "published_at": 1791223447000
     },
     {
@@ -28,7 +37,7 @@
       "snippet": "The Sepang International Circuit recorded the largest crowd in its history as 261,000 fans attended the Formula 1 Bahrain Grand Prix weekend, with 103,000 visitors on race day.After the Bahrain Grand Prix was postponed in April due to the ongoing conflict in the Middle East, it was rescheduled for 4 October, with Malaysia hosting the event.The race weekend was the first time Formula 1 had ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/bahrain-grand-prix-breaks-sepang-attendance-record-with-261000-fans/10862215/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YXyKVJ56/s6/untitled-design-30.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YXyKVJ56/s6/untitled-design-30.jpg",
       "published_at": 1791193890000
     },
     {
@@ -37,7 +46,7 @@
       "snippet": "Current Formula 1 championship leader Kimi Antonelli has detailed the lessons he is learning from racing alongside champions Lewis Hamilton and Max Verstappen.The Italian driver joined race winner Verstappen and third-placed Hamilton on the podium at the Bahrain Grand Prix in Malaysia after crossing the line in second. Speaking during the post-race press conference at the Sepang ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/kimi-antonelli-details-lessons-learned-from-f1-champions-lewis-hamilton-and-max-verstappen/10862344/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2y7QBXy6/s6/untitled-design-34.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/2y7QBXy6/s6/untitled-design-34.jpg",
       "published_at": 1791219348000
     },
     {
@@ -55,17 +64,8 @@
       "snippet": "Laurent Mekies says Red Bull Racing's first win of 2026 in Formula 1 is the culmination of the squad's gradual upturn in form, but felt it's too early to tell if it can now be in the mix everywhere.From being over a second behind the frontrunners at the start of the campaign, Red Bull has gradually chipped away at its deficit with a relentless stream of upgrades. Its last such package of the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/can-red-bull-now-fight-for-wins-everywhere-its-difficult-to-be-on-par-with-mercedes-consistently/10862272/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YN7v8Ja6/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YN7v8Ja6/s6/andrea-kimi-antonelli-mercedes.jpg",
       "published_at": 1791212050000
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13595420/formula-1-valtteri-bottas-cycling-250-miles-from-sepang-to-marina-bay-ahead-of-singapore-gp",
-      "title": "Bottas cycling 250 miles from Sepang to Marina Bay ahead of Singapore GP",
-      "snippet": "Cadillac's Valtteri Bottas is cycling 250 miles from Sepang to Marina Bay ahead of Singapore GP.",
-      "link": "https://www.skysports.com/watch/video/13595420/formula-1-valtteri-bottas-cycling-250-miles-from-sepang-to-marina-bay-ahead-of-singapore-gp",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-bottas-cadillac_7368897.jpg?20261005145624",
-      "published_at": 1791211020000
     },
     {
       "id": "https://www.motorsport.com/f1/news/isack-hadjar-left-stunned-by-lewis-hamilton-after-malaysian-gp-battery-issue/10862304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -73,7 +73,7 @@
       "snippet": "Isack Hadjar had a podium in his pocket at the Bahrain Grand Prix, but battery issues thwarted his attempt to defend against the chasing Ferraris of Lewis Hamilton and Charles Leclerc. He finished his race in fifth place after he clawed his way back up the pack after a five-place grid penalty saw him start eighth on the grid.\"No pace,\" he admitted after the race when asked why he didn't look ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/isack-hadjar-left-stunned-by-lewis-hamilton-after-malaysian-gp-battery-issue/10862304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6O7zBR56/s6/untitled-design-29-2.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6O7zBR56/s6/untitled-design-29-2.jpg",
       "published_at": 1791206309000
     },
     {
@@ -91,7 +91,7 @@
       "snippet": "McLaren F1 chief Andrea Stella says he \"accepts\" crippling software bugs as seen at Sunday's Bahrain GP in Malaysia are a possibility with the current regulations, but hoped the FIA could avoid a repeat.The start at a wet Sepang circuit was aborted after a large number of cars suffered a crippling software bug that left them coasting with no throttle input on the formation laps. The bug was ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/andrea-stella-f1-must-avoid-sepang-repeat-but-accept-occasional-glitches/10862197/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0R7BZwO2/s6/andrea-stella-mclaren.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0R7BZwO2/s6/andrea-stella-mclaren.jpg",
       "published_at": 1791204037000
     },
     {
@@ -100,7 +100,7 @@
       "snippet": "Already running late because of the rain, the Bahrain Grand Prix in Malaysia was pushed back further due to several cars crawling and stalling their way through the formation lap before the race had even started. The Sepang race was delayed by more than 90 minutes, leaving Formula fans watching an empty circuit as the FIA scrambled to send a software fix. Mercedes deputy team principal Bradley ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/mercedes-calls-for-f1-simplification-after-fiendishly-complex-cars-cause-malaysia-chaos/10862269/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6lmAxnk0/s6/untitled-design-28-2.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6lmAxnk0/s6/untitled-design-28-2.jpg",
       "published_at": 1791202801000
     },
     {
@@ -154,7 +154,7 @@
       "snippet": "Max Verstappen delivered the first win for Red Bull of the 2026 Formula 1 season in Malaysia at the Bahrain Grand Prix, extending his win tally to an incredible 72. While it was a triumphant return to the top of the podium for the Dutchman, it was a huge moment for the team's partnership with Ford. Christian Horner, the man who set this chapter in motion, has now reacted to the win.Horner, who ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/christian-horner-responds-to-red-bull-ford-malaysia-win/10862224/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YMXbrPv2/s6/untitled-design-27.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YMXbrPv2/s6/untitled-design-27.jpg",
       "published_at": 1791195276000
     },
     {
@@ -163,7 +163,7 @@
       "snippet": "Fernando Alonso scored Aston Martin’s best result of the 2026 Formula 1 season in the Bahrain Grand Prix in Malaysia, beating Lando Norris to eighth position.The Adrian Newey-designed, Honda-powered AMR26 was more competitive than ever before, following its earlier struggles, at Sepang; Alonso and team-mate Lance Stroll both reached Q2, taking the 12th and 14th spots on the grid.Starting ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/even-faster-than-ferrari-fernando-alonso-grabs-aston-martins-best-result-of-f1-2026/10862029/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YvKBzEe6/s6/fernando-alonso-aston-martin-r-2.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YvKBzEe6/s6/fernando-alonso-aston-martin-r-2.jpg",
       "published_at": 1791194583000
     },
     {
@@ -190,7 +190,7 @@
       "snippet": "Max Verstappen's victory at Sepang was an historic one. Twenty years from now, when a new generation of Formula 1 fans flicks through the history books, they may well wonder what a bizarre season 2026 must have been for the Bahrain Grand Prix to be hit by so much rain that the start had to be delayed.But that's not what I mean.It has been a very long time since a Ford engine last won an ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/who-slept-best-last-night-christian-horner/10862143/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0Ld5ynN0/s6/christian-horner-red-bull-raci.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0Ld5ynN0/s6/christian-horner-red-bull-raci.jpg",
       "published_at": 1791180398000
     },
     {
