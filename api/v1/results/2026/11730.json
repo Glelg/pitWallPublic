@@ -8,7 +8,7 @@
     "meeting_name": "Bahrain Grand Prix",
     "circuit_name": "Kuala Lumpur",
     "stewards_status": "FINAL",
-    "last_updated": "2026-10-05T17:02:37.637847Z"
+    "last_updated": "2026-10-05T17:14:29.102400Z"
   },
   "results": [
     {
@@ -59,7 +59,7 @@
       "team_name": "Red Bull Racing",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 5,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "1:35.558",
       "gap_to_leader": "+0.428s",
@@ -299,7 +299,7 @@
       "team_name": "Alpine",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 6,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",
@@ -319,7 +319,7 @@
       "team_name": "Racing Bulls",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 6,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",
