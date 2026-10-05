@@ -8,7 +8,7 @@
     "meeting_name": "Monaco Grand Prix",
     "circuit_name": "Monte Carlo",
     "stewards_status": "FINAL",
-    "last_updated": "2026-10-03T13:32:38.666647Z"
+    "last_updated": "2026-10-05T17:33:06.478766Z"
   },
   "results": [
     {
@@ -190,7 +190,7 @@
       "country_code": "",
       "grid_position": 16,
       "grid_penalty": null,
-      "is_pit_lane_start": false,
+      "is_pit_lane_start": true,
       "time_or_retired": "144:13.991",
       "gap_to_leader": "+42.748s",
       "laps_completed": 78,
@@ -377,13 +377,13 @@
       "country_code": "",
       "grid_position": 2,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "",
       "gap_to_leader": "",
       "laps_completed": 1,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "PIT LANE"
+      "status": "FINISHED"
     }
   ]
 }

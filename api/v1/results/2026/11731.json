@@ -8,7 +8,7 @@
     "meeting_name": "Bahrain Grand Prix",
     "circuit_name": "Kuala Lumpur",
     "stewards_status": "FINAL",
-    "last_updated": "2026-10-05T17:03:18.243141Z"
+    "last_updated": "2026-10-05T20:38:04.511433Z"
   },
   "results": [
     {
@@ -173,13 +173,13 @@
       "country_code": "",
       "grid_position": 22,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "107:30.736",
       "gap_to_leader": "+15.928s",
       "laps_completed": 55,
       "points": 1.0,
       "is_fastest_lap": false,
-      "status": "PIT LANE"
+      "status": "FINISHED"
     },
     {
       "position": 11,
@@ -190,13 +190,13 @@
       "country_code": "",
       "grid_position": 15,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "107:32.212",
       "gap_to_leader": "+17.404s",
       "laps_completed": 55,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "PIT LANE"
+      "status": "FINISHED"
     },
     {
       "position": 12,
@@ -207,13 +207,13 @@
       "country_code": "",
       "grid_position": 14,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "107:32.860",
       "gap_to_leader": "+18.052s",
       "laps_completed": 55,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "PIT LANE"
+      "status": "FINISHED"
     },
     {
       "position": 13,
@@ -224,13 +224,13 @@
       "country_code": "",
       "grid_position": 21,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "107:33.805",
       "gap_to_leader": "+18.997s",
       "laps_completed": 55,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "PIT LANE"
+      "status": "FINISHED"
     },
     {
       "position": 14,
@@ -241,13 +241,13 @@
       "country_code": "",
       "grid_position": 16,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "107:37.113",
       "gap_to_leader": "+22.305s",
       "laps_completed": 55,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "PIT LANE"
+      "status": "FINISHED"
     },
     {
       "position": 15,
@@ -258,13 +258,13 @@
       "country_code": "",
       "grid_position": 17,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "107:37.340",
       "gap_to_leader": "+22.532s",
       "laps_completed": 55,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "PIT LANE"
+      "status": "FINISHED"
     },
     {
       "position": 16,
@@ -326,13 +326,13 @@
       "country_code": "",
       "grid_position": 20,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "107:44.118",
       "gap_to_leader": "+29.310s",
       "laps_completed": 55,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "PIT LANE"
+      "status": "FINISHED"
     },
     {
       "position": 20,
@@ -360,13 +360,13 @@
       "country_code": "",
       "grid_position": 18,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "",
       "gap_to_leader": "",
       "laps_completed": 42,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "PIT LANE"
+      "status": "FINISHED"
     },
     {
       "position": null,
@@ -377,13 +377,13 @@
       "country_code": "",
       "grid_position": 19,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "",
       "gap_to_leader": "",
       "laps_completed": 8,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "PIT LANE"
+      "status": "FINISHED"
     }
   ]
 }
