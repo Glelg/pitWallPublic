@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-01T18:42:11.571448Z",
+    "last_updated": "2026-10-05T17:02:13.081154Z",
     "year": 2026,
     "total_meetings": 27
   },
@@ -1149,10 +1149,29 @@
       "circuit_name": "Kuala Lumpur",
       "date_start": "2026-10-02T04:30:00+00:00",
       "date_end": "2026-10-04T09:00:00+00:00",
-      "status": "UPCOMING",
+      "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 3,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 2,
+          "driver_number": 12,
+          "driver_acronym": "ANT",
+          "team_name": "Mercedes"
+        },
+        {
+          "position": 3,
+          "driver_number": 44,
+          "driver_acronym": "HAM",
+          "team_name": "Ferrari"
+        }
+      ],
       "sessions": [
         {
           "session_key": 11727,
