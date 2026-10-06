@@ -8,7 +8,7 @@
     "meeting_name": "Austrian Grand Prix",
     "circuit_name": "Spielberg",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T21:38:22.783497Z"
+    "last_updated": "2026-10-05T20:45:07.755637Z"
   },
   "results": [
     {
@@ -309,7 +309,7 @@
       "country_code": "",
       "grid_position": 7,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "",
       "gap_to_leader": "",
       "laps_completed": 1,
@@ -326,7 +326,7 @@
       "country_code": "",
       "grid_position": 9,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "",
       "gap_to_leader": "",
       "laps_completed": 1,

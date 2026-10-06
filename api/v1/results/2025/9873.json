@@ -8,7 +8,7 @@
     "meeting_name": "Mexico City Grand Prix",
     "circuit_name": "Mexico City",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T21:44:05.482955Z"
+    "last_updated": "2026-10-05T20:49:56.880279Z"
   },
   "results": [
     {
@@ -139,7 +139,7 @@
       "team_name": "Williams",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 5,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "1:16.172",
       "gap_to_leader": "+0.586s",

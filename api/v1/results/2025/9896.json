@@ -8,7 +8,7 @@
     "meeting_name": "Singapore Grand Prix",
     "circuit_name": "Singapore",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T21:42:27.513847Z"
+    "last_updated": "2026-10-05T20:48:56.202254Z"
   },
   "results": [
     {
@@ -241,7 +241,7 @@
       "country_code": "",
       "grid_position": 20,
       "grid_penalty": null,
-      "is_pit_lane_start": false,
+      "is_pit_lane_start": true,
       "time_or_retired": "",
       "gap_to_leader": "+1 LAP",
       "laps_completed": 61,
@@ -326,7 +326,7 @@
       "country_code": "",
       "grid_position": 19,
       "grid_penalty": null,
-      "is_pit_lane_start": false,
+      "is_pit_lane_start": true,
       "time_or_retired": "",
       "gap_to_leader": "+1 LAP",
       "laps_completed": 61,

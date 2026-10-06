@@ -8,7 +8,7 @@
     "meeting_name": "Belgian Grand Prix",
     "circuit_name": "Spa-Francorchamps",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T21:39:21.774414Z"
+    "last_updated": "2026-10-05T20:46:08.281160Z"
   },
   "results": [
     {
@@ -326,7 +326,7 @@
       "country_code": "",
       "grid_position": 20,
       "grid_penalty": null,
-      "is_pit_lane_start": false,
+      "is_pit_lane_start": true,
       "time_or_retired": "27:16.069",
       "gap_to_leader": "+38.072s",
       "laps_completed": 15,

@@ -8,7 +8,7 @@
     "meeting_name": "Dutch Grand Prix",
     "circuit_name": "Zandvoort",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T21:41:04.343418Z"
+    "last_updated": "2026-10-05T20:46:58.014800Z"
   },
   "results": [
     {
@@ -379,7 +379,7 @@
       "team_name": "Haas F1 Team",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 1,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",

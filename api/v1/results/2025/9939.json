@@ -8,7 +8,7 @@
     "meeting_name": "Belgian Grand Prix",
     "circuit_name": "Spa-Francorchamps",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T21:39:28.933572Z"
+    "last_updated": "2026-10-05T20:46:15.333738Z"
   },
   "results": [
     {
@@ -173,7 +173,7 @@
       "country_code": "",
       "grid_position": 13,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "86:35.315",
       "gap_to_leader": "+72.714s",
       "laps_completed": 44,
@@ -207,7 +207,7 @@
       "country_code": "",
       "grid_position": 14,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "86:36.229",
       "gap_to_leader": "+73.628s",
       "laps_completed": 44,
@@ -241,7 +241,7 @@
       "country_code": "",
       "grid_position": 16,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "86:42.432",
       "gap_to_leader": "+79.831s",
       "laps_completed": 44,
@@ -326,7 +326,7 @@
       "country_code": "",
       "grid_position": 15,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "86:57.851",
       "gap_to_leader": "+95.250s",
       "laps_completed": 44,

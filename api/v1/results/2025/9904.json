@@ -8,7 +8,7 @@
     "meeting_name": "Azerbaijan Grand Prix",
     "circuit_name": "Baku",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T21:42:12.886053Z"
+    "last_updated": "2026-10-05T20:48:08.596833Z"
   },
   "results": [
     {
@@ -343,7 +343,7 @@
       "country_code": "",
       "grid_position": 9,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "",
       "gap_to_leader": "",
       "laps_completed": 1,

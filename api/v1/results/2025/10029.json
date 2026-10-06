@@ -8,7 +8,7 @@
     "meeting_name": "Miami Grand Prix",
     "circuit_name": "Miami",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T21:35:17.298169Z"
+    "last_updated": "2026-10-05T20:42:08.244096Z"
   },
   "results": [
     {
@@ -359,7 +359,7 @@
       "team_name": "Alpine",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 2,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",

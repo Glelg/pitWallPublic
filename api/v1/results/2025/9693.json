@@ -8,7 +8,7 @@
     "meeting_name": "Australian Grand Prix",
     "circuit_name": "Melbourne",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T21:32:11.194838Z"
+    "last_updated": "2026-10-05T20:39:34.686535Z"
   },
   "results": [
     {
@@ -224,7 +224,7 @@
       "country_code": "",
       "grid_position": 19,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "102:39.465",
       "gap_to_leader": "+33.161s",
       "laps_completed": 57,
@@ -309,7 +309,7 @@
       "country_code": "",
       "grid_position": 10,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "",
       "gap_to_leader": "",
       "laps_completed": 1,

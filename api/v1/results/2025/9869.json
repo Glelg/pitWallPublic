@@ -8,7 +8,7 @@
     "meeting_name": "São Paulo Grand Prix",
     "circuit_name": "Interlagos",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T21:44:27.037669Z"
+    "last_updated": "2026-10-05T20:50:16.802975Z"
   },
   "results": [
     {
@@ -343,7 +343,7 @@
       "country_code": "",
       "grid_position": 18,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "",
       "gap_to_leader": "",
       "laps_completed": 1,

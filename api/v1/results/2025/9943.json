@@ -8,7 +8,7 @@
     "meeting_name": "British Grand Prix",
     "circuit_name": "Silverstone",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T21:39:08.245037Z"
+    "last_updated": "2026-10-05T20:45:16.303094Z"
   },
   "results": [
     {
@@ -139,7 +139,7 @@
       "team_name": "Mercedes",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 3,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "1:25.374",
       "gap_to_leader": "+0.482s",
@@ -159,7 +159,7 @@
       "team_name": "Haas F1 Team",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 10,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "1:25.471",
       "gap_to_leader": "+0.579s",

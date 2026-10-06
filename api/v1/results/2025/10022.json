@@ -8,7 +8,7 @@
     "meeting_name": "Saudi Arabian Grand Prix",
     "circuit_name": "Jeddah",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T21:34:28.973753Z"
+    "last_updated": "2026-10-05T20:41:54.521013Z"
   },
   "results": [
     {
@@ -326,7 +326,7 @@
       "country_code": "",
       "grid_position": 8,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "",
       "gap_to_leader": "",
       "laps_completed": 2,

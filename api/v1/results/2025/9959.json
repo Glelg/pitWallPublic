@@ -8,7 +8,7 @@
     "meeting_name": "Canadian Grand Prix",
     "circuit_name": "Montreal",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T21:37:28.496780Z"
+    "last_updated": "2026-10-05T20:44:11.393298Z"
   },
   "results": [
     {
@@ -179,7 +179,7 @@
       "team_name": "Racing Bulls",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 3,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "1:11.867",
       "gap_to_leader": "+0.968s",
@@ -219,7 +219,7 @@
       "team_name": "Red Bull Racing",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 7,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",

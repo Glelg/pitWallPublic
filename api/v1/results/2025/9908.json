@@ -8,7 +8,7 @@
     "meeting_name": "Italian Grand Prix",
     "circuit_name": "Monza",
     "stewards_status": "FINAL",
-    "last_updated": "2026-09-20T21:41:19.148616Z"
+    "last_updated": "2026-10-05T20:47:11.066045Z"
   },
   "results": [
     {
@@ -99,7 +99,7 @@
       "team_name": "Ferrari",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 5,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "1:19.124",
       "gap_to_leader": "+0.332s",
@@ -319,7 +319,7 @@
       "team_name": "Racing Bulls",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 3,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",
@@ -379,7 +379,7 @@
       "team_name": "Alpine",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 1,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",
