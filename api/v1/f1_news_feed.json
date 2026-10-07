@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-10-07T05:32:27.361724Z",
+    "last_updated": "2026-10-07T06:02:27.829568Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13595500/lewis-hamilton-insists-ferrari-must-catch-up-with-rivals-on-power-unit-performance-for-2027-f1-season",
+      "title": "Hamilton: Ferrari have to catch up with rivals on power",
+      "snippet": "Lewis Hamilton is urging Ferrari to improve the performance of their power unit for the 2027 Formula 1 season as the 41-year-old eyes a shot at a record eighth world championship next year.",
+      "link": "https://www.skysports.com/f1/news/12433/13595500/lewis-hamilton-insists-ferrari-must-catch-up-with-rivals-on-power-unit-performance-for-2027-f1-season",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7369058.jpg?20261005170935",
+      "published_at": 1791356400000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/naomi-schiff-raises-mercedes-concern-that-could-cost-kimi-antonelli-more-victories/10862602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Naomi Schiff raises Mercedes concern that 'could cost Kimi Antonelli more victories'",
@@ -192,15 +201,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-bahrain-gp-malaysia_7369100.jpg?20261005181611",
       "published_at": 1791223200000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/bahrain-grand-prix-breaks-sepang-attendance-record-with-261000-fans/10862215/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Bahrain Grand Prix draws record-breaking crowd in Sepang",
-      "snippet": "The Sepang International Circuit recorded the largest crowd in its history as 261,000 fans attended the Formula 1 Bahrain Grand Prix weekend, with 103,000 visitors on race day.After the Bahrain Grand Prix was postponed in April due to the ongoing conflict in the Middle East, it was rescheduled for 4 October, with Malaysia hosting the event.The race weekend was the first time Formula 1 had ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/bahrain-grand-prix-breaks-sepang-attendance-record-with-261000-fans/10862215/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YXyKVJ56/s6/untitled-design-30.jpg",
-      "published_at": 1791193890000
     }
   ]
 }
