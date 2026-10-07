@@ -8,7 +8,7 @@
     "meeting_name": "Dutch Grand Prix",
     "circuit_name": "Zandvoort",
     "stewards_status": "FINAL",
-    "last_updated": "2026-10-04T05:03:09.812041Z"
+    "last_updated": "2026-10-07T11:33:10.588632Z"
   },
   "results": [
     {
@@ -258,13 +258,13 @@
       "country_code": "",
       "grid_position": 22,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "",
       "gap_to_leader": "+2 LAPS",
       "laps_completed": 70,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "PIT LANE"
+      "status": "FINISHED"
     },
     {
       "position": 16,
@@ -377,30 +377,13 @@
       "country_code": "",
       "grid_position": 7,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "",
       "gap_to_leader": "",
       "laps_completed": 1,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "PIT LANE"
-    },
-    {
-      "position": null,
-      "driver_number": 6,
-      "full_name": "Isack HADJAR",
-      "driver_acronym": "HAD",
-      "team_name": "Red Bull Racing",
-      "country_code": "",
-      "grid_position": null,
-      "grid_penalty": null,
-      "is_pit_lane_start": false,
-      "time_or_retired": "DNS",
-      "gap_to_leader": "",
-      "laps_completed": 0,
-      "points": 0.0,
-      "is_fastest_lap": false,
-      "status": "DNS"
+      "status": "FINISHED"
     }
   ]
 }
