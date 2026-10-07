@@ -8,7 +8,7 @@
     "meeting_name": "Hungarian Grand Prix",
     "circuit_name": "Hungaroring",
     "stewards_status": "FINAL",
-    "last_updated": "2026-10-04T02:32:46.588002Z"
+    "last_updated": "2026-10-07T09:03:12.924226Z"
   },
   "results": [
     {
@@ -360,13 +360,13 @@
       "country_code": "",
       "grid_position": 22,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "",
       "gap_to_leader": "",
       "laps_completed": 49,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "PIT LANE"
+      "status": "FINISHED"
     },
     {
       "position": null,
