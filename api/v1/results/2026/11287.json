@@ -8,7 +8,7 @@
     "meeting_name": "Canadian Grand Prix",
     "circuit_name": "Montreal",
     "stewards_status": "FINAL",
-    "last_updated": "2026-10-05T15:03:25.348680Z"
+    "last_updated": "2026-10-08T17:32:48.979395Z"
   },
   "results": [
     {
@@ -419,7 +419,7 @@
       "team_name": "Aston Martin",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 1,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",
