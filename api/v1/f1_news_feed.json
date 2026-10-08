@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "last_updated": "2026-10-08T10:32:17.631933Z",
+    "last_updated": "2026-10-08T11:02:23.758873Z",
     "total_news": 22
   },
   "news": [
     {
       "id": "https://www.skysports.com/f1/news/12433/13596390/fia-reveals-bahrain-gp-software-bug-findings-and-planned-changes-after-glitch-caused-issues-before-rain-hit-malaysia-race",
-      "title": "FIA refutes lack of testing claims as 'software bug' fix measures confirmed",
+      "title": "FIA introducing measures to avoid ‘software bug’ chaos repeat",
       "snippet": "The FIA will introduce further changes to wet-weather engine software from the United States Grand Prix after completing a review into the \"software bug\" that further delayed the start of last week's rain-hit race in Malaysia.",
       "link": "https://www.skysports.com/f1/news/12433/13596390/fia-reveals-bahrain-gp-software-bug-findings-and-planned-changes-after-glitch-caused-issues-before-rain-hit-malaysia-race",
       "source_name": "Sky Sports",
@@ -14,8 +14,35 @@
       "published_at": 1791456600000
     },
     {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cjr4yr3lv24lo?at_medium=RSS&at_campaign=rss",
+      "title": "Snakes and jungle mind games as F1's Bottas cycles to Singapore GP",
+      "snippet": "Cadillac driver Valtteri Bottas says he was chased by dogs, saw snakes and leapt over a lizard as he cycled from Malaysia to Singapore for this weekend's Grand Prix.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cjr4yr3lv24lo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8042/live/069800b0-c2ff-11f1-9955-5d2e13ff2bea.png",
+      "published_at": 1791455659000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/c4g236r9npyo?at_medium=RSS&at_campaign=rss",
+      "title": "What is the format for F1 sprint races in 2026?",
+      "snippet": "There are six sprint races in the 2026 season and here is all you need to know about how the format works.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c4g236r9npyo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51ff/live/ee0014b0-9e24-11f1-8c7d-f12be985a317.jpg",
+      "published_at": 1791455622000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/oscar-piastri-leaves-f1-fans-in-stitches-with-unexpected-singapore-gp-answer/10862989/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Oscar Piastri leaves F1 Fans in stitches with unexpected Singapore GP answer",
+      "snippet": "Singapore has a reputation of punishing even the best Formula 1 drivers. But talking to fans ahead of the sprint weekend, Oscar Piastri offered a more personal and hilarious answer as to why this weekend could be difficult.During McLaren Racing Live at Singapore's Sands Theatre yesterday, the McLaren driver was asked what makes the Singapore race so difficult. A standard answer would focus on ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/oscar-piastri-leaves-f1-fans-in-stitches-with-unexpected-singapore-gp-answer/10862989/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6AlvbvkY/s6/untitled-design-60-2.jpg",
+      "published_at": 1791455558000
+    },
+    {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cm2d6p4e3y93o?at_medium=RSS&at_campaign=rss",
-      "title": "How to follow the Singapore Grand Prix on the BBC",
+      "title": "How to follow Singapore Grand Prix on the BBC",
       "snippet": "All the key BBC coverage details for the Singapore Grand Prix, the sixth and final sprint event of the season, which takes place from 9-11 October.",
       "link": "https://www.bbc.co.uk/sport/formula1/articles/cm2d6p4e3y93o?at_medium=RSS&at_campaign=rss",
       "source_name": "BBC Sport",
@@ -28,7 +55,7 @@
       "snippet": "Former Red Bull Racing CEO and team principal Christian Horner received a combined £100.482million in compensation for loss of office following his departure from the Milton Keynes outfit in July 2025, according to newly published UK Companies House documents.The Briton was replaced in the role on 9 July 2025 by former Racing Bulls team principal Laurent Mekies, before officially leaving the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/christian-horners-nine-figure-red-bull-exit-payout-revealed-in-financial-filings/10862962/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YK15N5w0/s6/untitled-design-39.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YK15N5w0/s6/untitled-design-39.jpg",
       "published_at": 1791452635000
     },
     {
@@ -37,7 +64,7 @@
       "snippet": "Formula 1 seems to be growing in popularity every minute, so it's no surprise that the sponsor pool is getting deeper and deeper. Today, the McLaren Formula 1 team has confirmed a new partnership with Procter & Gamble, a company behind some of the largest household brands in the world.The announcement arrives ahead of the Singapore Grand Prix sprint weekend, with the partnership boasting a ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/mclaren-f1-announces-deal-with-major-company-behind-household-brands/10862954/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2GdKNKoY/s6/untitled-design-59-2.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/2GdKNKoY/s6/untitled-design-59-2.jpg",
       "published_at": 1791451801000
     },
     {
@@ -48,15 +75,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f2/live/0f9cb910-c2e3-11f1-89a3-9b445bfcfe23.jpg",
       "published_at": 1791451680000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/valtteri-bottas-completes-three-day-jungle-ride-to-singapore-gp-your-mind-starts-to-play-games-at-n/10862924/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Valtteri Bottas completes three-day jungle ride to Singapore GP: \"Your mind starts to play games at night\"",
-      "snippet": "The one-off double header of Malaysia and Singapore, to recover the Bahrain Grand Prix at a guest venue, made sense from a logistical and financial point of view, but it also offered the F1 community an opportunity to explore one of the more interesting parts of the calendar.Most sensible people would take the one-hour hop along the Malacca strait to cover the 360km distance between the two ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/valtteri-bottas-completes-three-day-jungle-ride-to-singapore-gp-your-mind-starts-to-play-games-at-n/10862924/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0qgKvK4Y/s6/screenshot-2026-10-08-at-16-56.jpg",
-      "published_at": 1791450782000
     },
     {
       "id": "https://www.motorsport.com/f1/news/mercedes-confirms-which-driver-is-forced-to-run-the-older-f1-spec/10862893/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -86,13 +104,13 @@
       "published_at": 1791447137000
     },
     {
-      "id": "https://www.autosport.com/f1/news/fia-completes-investigation-into-f1-chaos-in-malaysia-and-reveals-next-steps/10862890/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "FIA completes investigation into F1 chaos in Malaysia and announces measures",
+      "id": "https://www.motorsport.com/f1/news/fia-completes-investigation-into-f1-chaos-in-malaysia-and-reveals-next-steps/10862887/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "FIA completes investigation into F1 chaos in Malaysia – and reveals next steps",
       "snippet": "Ahead of the Singapore Grand Prix, the FIA has issued a statement following the events at Sepang. The opening phase of the Bahrain Grand Prix in Malaysia descended into chaos when half the field came to a standstill behind the safety car.The issue turned out to be a software bug linked to the 250kW restrictions imposed by the FIA for wet-weather races. Nikolas Tombazis immediately provided an ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/fia-completes-investigation-into-f1-chaos-in-malaysia-and-reveals-next-steps/10862890/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/68VWnDB2/s6/nikolas-tombazis-fia.jpg",
-      "published_at": 1791447108000
+      "link": "https://www.motorsport.com/f1/news/fia-completes-investigation-into-f1-chaos-in-malaysia-and-reveals-next-steps/10862887/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/68VWnDB2/s6/nikolas-tombazis-fia.jpg",
+      "published_at": 1791446965000
     },
     {
       "id": "https://www.motorsport.com/f1/news/apple-tv-announces-major-f1-broadcast-upgrade-for-united-states-grand-prix/10862810/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -109,7 +127,7 @@
       "snippet": "Max Verstappen has admitted that he doesn't miss the friction that was created when Christian Horner was leading the Red Bull Formula 1 team. Speaking to the Press Association, the four-time champion admitted that the team is less stressful now his former boss has left the championship.Conflict sells. Arguments between and within teams create plots that shape the likes of Drive to Survive and ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/max-verstappen-on-life-after-christian-horner-its-less-stressful/10862804/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/27NoydK0/s6/untitled-design-53-2.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/27NoydK0/s6/untitled-design-53-2.jpg",
       "published_at": 1791413278000
     },
     {
@@ -118,7 +136,7 @@
       "snippet": "Following Red Bull Racing's monumental victory at the rain-delayed 2026 Bahrain Grand Prix in Sepang, Malaysia, former team adviser Helmut Marko is already looking ahead to the next historic milestone. The Marina Bay Street Circuit remains the ultimate white whale for Max Verstappen. While the Dutch driver has dominated almost every other venue on the modern calendar, a victory on the bumpy ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/verstappen-believes-he-can-finally-end-his-singapore-f1-drought-says-marko/10862737/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGgDJ9Y/s6/untitled-design-50-3.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6DGgDJ9Y/s6/untitled-design-50-3.jpg",
       "published_at": 1791411308000
     },
     {
@@ -145,7 +163,7 @@
       "snippet": "Formula 1 cars have essentially evolved into 200-mph rolling computers under the new 2026 regulations, and the entire system just crashed in front of a global audience at the relocated Bahrain Grand Prix in Sepang, Malaysia.With the cars demanding massive amounts of background coding to safely manage the controversial 50/50 power split between the internal combustion engine and the electrical ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/helmut-marko-brands-f1-malaysia-software-failure-shameful/10862743/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2y7QBjX6/s6/untitled-design-51-3.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/2y7QBjX6/s6/untitled-design-51-3.jpg",
       "published_at": 1791387608000
     },
     {
@@ -154,7 +172,7 @@
       "snippet": "Formula 1 remains in the south east of Asia for this weekend’s Singapore Grand Prix, which hosts round 17 of the 2026 campaign.It is the final race of the current triple-header that started with Baku, won by George Russell, before Sepang ended its nine-year hiatus last weekend on behalf of Bahrain.Max Verstappen took his first victory of 2026 in Malaysia and now he will head to a track ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-f1-singapore-gp/10862755/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/01WV3LrY/s6/lando-norris-mclaren-oscar-pia.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/01WV3LrY/s6/lando-norris-mclaren-oscar-pia.jpg",
       "published_at": 1791384525000
     },
     {
@@ -163,7 +181,7 @@
       "snippet": "Following the chaotic relocated 2026 Bahrain Grand Prix in Sepang, Malaysia, McLaren team principal Andrea Stella is trying to make sense of the team's bizarre performance dip.While Mercedes, Ferrari and Red Bull Racing showcased massive pace on the Sepang asphalt, reigning 2025 World Champion Lando Norris and McLaren seemingly struggled to match their development leaps. But Stella is refusing ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/andrea-stella-drops-major-hint-about-mclarens-true-pace-ahead-of-singapore/10862695/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YWKA5xkY/s6/untitled-design-49-4.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YWKA5xkY/s6/untitled-design-49-4.jpg",
       "published_at": 1791383092000
     },
     {
@@ -181,26 +199,8 @@
       "snippet": "With the extreme heat and humidity of the Southeast Asian double-header taking a brutal physical toll on the 2026 grid, driver cooling systems have become a massive talking point. While the FIA specifically created a financial allowance for teams to develop liquid-cooled driver vests to prevent heat exhaustion, Mercedes shocked the paddock by confirming they opted out of the program ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/mercedes-defends-its-controversial-decision-to-reject-a-crucial-fia-driver-upgrade/10862732/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YvKBzy16/s6/untitled-design-47-3.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YvKBzy16/s6/untitled-design-47-3.jpg",
       "published_at": 1791378275000
-    },
-    {
-      "id": "https://www.autosport.com/dakar/news/inside-alonsos-decision-to-contest-dakar-rally-with-aston-martin/10862720/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Inside Alonso's decision to contest the 2027 Dakar Rally with Aston Martin",
-      "snippet": "Great speculation has accompanied Fernando Alonso in recent months as he held back on confirming his future in Formula 1. Now it appears that not only has he been able to agree favourable terms with Aston Martin to stay on in F1 for 2027, but also persuaded the car manufacturer to back him in another assault on the Dakar Rally, Autosport understands.The deal was agreed as far back as August ...Keep reading",
-      "link": "https://www.autosport.com/dakar/news/inside-alonsos-decision-to-contest-dakar-rally-with-aston-martin/10862720/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YWKA5GxY/s6/fernando-alonso-aston-martin-r-2.jpg",
-      "published_at": 1791374911000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/marko-backs-ralf-schumachers-absolute-lie-response-to-christian-horners-claim/10862687/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Helmut Marko backs Ralf Schumacher’s 'absolute lie' comment on Christian Horner",
-      "snippet": "Christian Horner's upcoming autobiography, Drive, is already causing massive shockwaves ahead of its 22 October release. The former Red Bull Racing team principal, who departed the Milton Keynes squad in 2025, used his book to drop several bombshells about his time at the top of Formula 1.One of Christian Horner's most controversial claims centres around the signing of four-time World Champion ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/marko-backs-ralf-schumachers-absolute-lie-response-to-christian-horners-claim/10862687/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YpbAqrN0/s6/untitled-design-44-3.jpg",
-      "published_at": 1791372690000
     }
   ]
 }
