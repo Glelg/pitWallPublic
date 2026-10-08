@@ -1,9 +1,36 @@
 {
   "metadata": {
-    "last_updated": "2026-10-08T09:32:24.241576Z",
+    "last_updated": "2026-10-08T10:02:16.293776Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13596390/fia-reveals-bahrain-gp-software-bug-findings-and-planned-changes-after-glitch-caused-issues-before-rain-hit-malaysia-race",
+      "title": "FIA refutes lack of testing claims as 'software bug' fix measures confirmed",
+      "snippet": "The FIA will introduce further changes to wet-weather engine software from the United States Grand Prix after completing a review into the \"software bug\" that further delayed the start of last week's rain-hit race in Malaysia.",
+      "link": "https://www.skysports.com/f1/news/12433/13596390/fia-reveals-bahrain-gp-software-bug-findings-and-planned-changes-after-glitch-caused-issues-before-rain-hit-malaysia-race",
+      "source_name": "Sky Sports",
+      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-f1-2026-bahrain-gp_7367708.jpg?20261004084949",
+      "published_at": 1791456600000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/christian-horners-nine-figure-red-bull-exit-payout-revealed-in-financial-filings/10862962/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Christian Horner's nine-figure Red Bull exit payout revealed in financial filings",
+      "snippet": "Former Red Bull Racing CEO and team principal Christian Horner received a combined £100.482million in compensation for loss of office following his departure from the Milton Keynes outfit in July 2025, according to newly published UK Companies House documents.The Briton was replaced in the role on 9 July 2025 by former Racing Bulls team principal Laurent Mekies, before officially leaving the ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/christian-horners-nine-figure-red-bull-exit-payout-revealed-in-financial-filings/10862962/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YK15N5w0/s6/untitled-design-39.jpg",
+      "published_at": 1791452635000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/mclaren-f1-announces-deal-with-major-company-behind-household-brands/10862954/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "McLaren F1 announces deal with major company behind household brands",
+      "snippet": "Formula 1 seems to be growing in popularity every minute, so it's no surprise that the sponsor pool is getting deeper and deeper. Today, the McLaren Formula 1 team has confirmed a new partnership with Procter & Gamble, a company behind some of the largest household brands in the world.The announcement arrives ahead of the Singapore Grand Prix sprint weekend, with the partnership boasting a ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/mclaren-f1-announces-deal-with-major-company-behind-household-brands/10862954/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/2GdKNKoY/s6/untitled-design-59-2.jpg",
+      "published_at": 1791451801000
+    },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cm5yng71qpngo?at_medium=RSS&at_campaign=rss",
       "title": "F1 heat hazard declared for fourth time this season",
@@ -19,7 +46,7 @@
       "snippet": "The one-off double header of Malaysia and Singapore, to recover the Bahrain Grand Prix at a guest venue, made sense from a logistical and financial point of view, but it also offered the F1 community an opportunity to explore one of the more interesting parts of the calendar.Most sensible people would take the one-hour hop along the Malacca strait to cover the 360km distance between the two ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/valtteri-bottas-completes-three-day-jungle-ride-to-singapore-gp-your-mind-starts-to-play-games-at-n/10862924/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0qgKvK4Y/s6/screenshot-2026-10-08-at-16-56.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0qgKvK4Y/s6/screenshot-2026-10-08-at-16-56.jpg",
       "published_at": 1791450782000
     },
     {
@@ -28,7 +55,7 @@
       "snippet": "After Mercedes team principal Toto Wolff recently confirmed that the team would run a drastic split-specification comparison test to troubleshoot their troubled aerodynamic updates, the exact garage assignments remained a complete mystery.Now, with the paddock setting up for the highly anticipated Singapore Grand Prix sprint weekend, Mercedes has officially defined its strategy.The split ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/mercedes-confirms-which-driver-is-forced-to-run-the-older-f1-spec/10862893/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2wlKvK8Y/s6/untitled-design-58-3.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2wlKvK8Y/s6/untitled-design-58-3.jpg",
       "published_at": 1791448723000
     },
     {
@@ -37,7 +64,7 @@
       "snippet": "An unusual legal fight is currently unfolding in London's High Court. According to a new report from the Daily Mail, Williams Racing has officially launched extreme legal action against a local garage owner after a priceless piece of the team's Formula 1 heritage disappeared without a single explanation.The missing FW23 chassisThe legal dispute revolves around an incredibly rare 2001 ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/williams-racing-is-suing-a-local-garage-owner-for-1-million/10862840/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YN7v4vj6/s6/untitled-design-57-2.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YN7v4vj6/s6/untitled-design-57-2.jpg",
       "published_at": 1791447643000
     },
     {
@@ -46,7 +73,7 @@
       "snippet": "When Formula 1 teams bring massive aerodynamic packages to the grid, the expectation is some level of quantifiable improvement. But for Mercedes, their heavily hyped updates at the relocated Bahrain Grand Prix in Malaysia completely backfired, leaving the team baffled by their sudden drop in pace. Now, rather than blindly committing to the new parts, team principal Toto Wolff is forcing his ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/mercedes-is-considering-a-massive-step-backward-ahead-of-the-singapore-gp/10862838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXyKyk6/s6/untitled-design-56-2.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0mXyKyk6/s6/untitled-design-56-2.jpg",
       "published_at": 1791447137000
     },
     {
@@ -64,17 +91,8 @@
       "snippet": "Formula 1 is about to become a little bit louder in the best way. Dolby Laboratories and Apple have announced that, from the United States Grand Prix race weekend that stars on the 23 October, Apple TV subscribers will have access to Dolby Atmos as well as Dolby Vision in their F1 coverage.Both audio formats will be available to viewers who have compatible Apple devices as well as ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/apple-tv-announces-major-f1-broadcast-upgrade-for-united-states-grand-prix/10862810/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2dEojkDY/s6/untitled-design-55-2.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2dEojkDY/s6/untitled-design-55-2.jpg",
       "published_at": 1791416325000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/mclaren-ceo-drops-major-update-on-gianpiero-lambiases-red-bull-exit/10862808/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "McLaren CEO drops major update on Gianpiero Lambiase's Red Bull exit",
-      "snippet": "If McLaren Racing CEO Zak Brown is to be believed, Red Bull's Gianpiero Lambiase may be leaving the papaya team for Milton Keynes as soon as 2027. The American told Sky Sports that he is feeling optimistic that Max Verstappen's current race engineer will be moving to Woking much sooner than expected.“I’m optimistic we’ll see him in papaya at some point next year,\" he told the ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/mclaren-ceo-drops-major-update-on-gianpiero-lambiases-red-bull-exit/10862808/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YN7v8em6/s6/untitled-design-54-2.jpg",
-      "published_at": 1791415141000
     },
     {
       "id": "https://www.motorsport.com/f1/news/max-verstappen-on-life-after-christian-horner-its-less-stressful/10862804/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -82,7 +100,7 @@
       "snippet": "Max Verstappen has admitted that he doesn't miss the friction that was created when Christian Horner was leading the Red Bull Formula 1 team. Speaking to the Press Association, the four-time champion admitted that the team is less stressful now his former boss has left the championship.Conflict sells. Arguments between and within teams create plots that shape the likes of Drive to Survive and ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/max-verstappen-on-life-after-christian-horner-its-less-stressful/10862804/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/27NoydK0/s6/untitled-design-53-2.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/27NoydK0/s6/untitled-design-53-2.jpg",
       "published_at": 1791413278000
     },
     {
@@ -91,7 +109,7 @@
       "snippet": "Following Red Bull Racing's monumental victory at the rain-delayed 2026 Bahrain Grand Prix in Sepang, Malaysia, former team adviser Helmut Marko is already looking ahead to the next historic milestone. The Marina Bay Street Circuit remains the ultimate white whale for Max Verstappen. While the Dutch driver has dominated almost every other venue on the modern calendar, a victory on the bumpy ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/verstappen-believes-he-can-finally-end-his-singapore-f1-drought-says-marko/10862737/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6DGgDJ9Y/s6/untitled-design-50-3.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6DGgDJ9Y/s6/untitled-design-50-3.jpg",
       "published_at": 1791411308000
     },
     {
@@ -118,7 +136,7 @@
       "snippet": "Formula 1 cars have essentially evolved into 200-mph rolling computers under the new 2026 regulations, and the entire system just crashed in front of a global audience at the relocated Bahrain Grand Prix in Sepang, Malaysia.With the cars demanding massive amounts of background coding to safely manage the controversial 50/50 power split between the internal combustion engine and the electrical ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/helmut-marko-brands-f1-malaysia-software-failure-shameful/10862743/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/2y7QBjX6/s6/untitled-design-51-3.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2y7QBjX6/s6/untitled-design-51-3.jpg",
       "published_at": 1791387608000
     },
     {
@@ -127,8 +145,17 @@
       "snippet": "Formula 1 remains in the south east of Asia for this weekend’s Singapore Grand Prix, which hosts round 17 of the 2026 campaign.It is the final race of the current triple-header that started with Baku, won by George Russell, before Sepang ended its nine-year hiatus last weekend on behalf of Bahrain.Max Verstappen took his first victory of 2026 in Malaysia and now he will head to a track ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-f1-singapore-gp/10862755/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/01WV3LrY/s6/lando-norris-mclaren-oscar-pia.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/01WV3LrY/s6/lando-norris-mclaren-oscar-pia.jpg",
       "published_at": 1791384525000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/andrea-stella-drops-major-hint-about-mclarens-true-pace-ahead-of-singapore/10862695/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Andrea Stella drops major hint about McLaren’s true pace ahead of Singapore GP",
+      "snippet": "Following the chaotic relocated 2026 Bahrain Grand Prix in Sepang, Malaysia, McLaren team principal Andrea Stella is trying to make sense of the team's bizarre performance dip.While Mercedes, Ferrari and Red Bull Racing showcased massive pace on the Sepang asphalt, reigning 2025 World Champion Lando Norris and McLaren seemingly struggled to match their development leaps. But Stella is refusing ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/andrea-stella-drops-major-hint-about-mclarens-true-pace-ahead-of-singapore/10862695/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YWKA5xkY/s6/untitled-design-49-4.jpg",
+      "published_at": 1791383092000
     },
     {
       "id": "https://www.motorsport.com/f1/news/helmut-marko-says-f1s-return-to-turbo-v8-engines-in-2030-is-a-done-deal/10862682/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -136,7 +163,7 @@
       "snippet": "The relocated 2026 Bahrain Grand Prix in Sepang, Malaysia, will go down in history for its record-breaking 261,000 fan attendance - and its incredibly embarrassing technical failures. Between a massive rain delay and a highly controversial software glitch stemming from the complex 2026 regulations, the weekend was a chaotic mess for Formula 1 executives.For retired Red Bull adviser Helmut ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/helmut-marko-says-f1s-return-to-turbo-v8-engines-in-2030-is-a-done-deal/10862682/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YMXbr9g2/s6/untitled-design-45-2.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YMXbr9g2/s6/untitled-design-45-2.jpg",
       "published_at": 1791381602000
     },
     {
@@ -145,7 +172,7 @@
       "snippet": "With the extreme heat and humidity of the Southeast Asian double-header taking a brutal physical toll on the 2026 grid, driver cooling systems have become a massive talking point. While the FIA specifically created a financial allowance for teams to develop liquid-cooled driver vests to prevent heat exhaustion, Mercedes shocked the paddock by confirming they opted out of the program ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/mercedes-defends-its-controversial-decision-to-reject-a-crucial-fia-driver-upgrade/10862732/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YvKBzy16/s6/untitled-design-47-3.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YvKBzy16/s6/untitled-design-47-3.jpg",
       "published_at": 1791378275000
     },
     {
@@ -174,33 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-2.motorsport.com/images/amp/Y9lNRD82/s6/untitled-design-42-2.jpg",
       "published_at": 1791364891000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/nike-could-return-to-formula-1-for-first-time-since-michael-schumacher-era/10862604/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Nike could return to Formula 1 for first time since Michael Schumacher era",
-      "snippet": "It's been a long time since the Nike Swoosh has sat beside the Formula 1 logo. In fact, you'd have to go back to the Michael Schumacher era of the championship to see Nike anywhere near it in a major way. If recent reports are to be believed, this drought could be ending.The sportswear behemoth recently added a board member with connections to LVMH, the luxury conglomerate that boasts a ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/nike-could-return-to-formula-1-for-first-time-since-michael-schumacher-era/10862604/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0Zq8zLM6/s6/untitled-design-41-2.jpg",
-      "published_at": 1791362818000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/how-williams-wants-to-avoid-a-repeat-of-its-2026-disaster-next-year/10862630/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "How Williams wants to avoid a repeat of its 2026 “disaster” next year",
-      "snippet": "There are several reasons why Williams’ 2026 “disaster” won’t reoccur in the next Formula 1 season, team principal James Vowles believes.As F1 switched to new technical regulations this year, Williams started the campaign on the back foot. The team missed the Barcelona pre-season ‘shakedown’, and its FW48 initially was 28kg overweight. It took more than six months to reach the ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/how-williams-wants-to-avoid-a-repeat-of-its-2026-disaster-next-year/10862630/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/63QaBQg2/s6/carlos-sainz-williams.jpg",
-      "published_at": 1791361035000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13595500/lewis-hamilton-insists-ferrari-must-catch-up-with-rivals-on-power-unit-performance-for-2027-f1-season",
-      "title": "Hamilton: Ferrari have to catch up with rivals on power",
-      "snippet": "Lewis Hamilton is urging Ferrari to improve the performance of their power unit for the 2027 Formula 1 season as the 41-year-old eyes a shot at a record eighth world championship next year.",
-      "link": "https://www.skysports.com/f1/news/12433/13595500/lewis-hamilton-insists-ferrari-must-catch-up-with-rivals-on-power-unit-performance-for-2027-f1-season",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7369058.jpg?20261005170935",
-      "published_at": 1791356400000
     }
   ]
 }
