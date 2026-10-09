@@ -1,26 +1,35 @@
 {
   "metadata": {
-    "last_updated": "2026-10-09T13:03:28.395735Z",
+    "last_updated": "2026-10-09T13:33:17.764832Z",
     "total_news": 22
   },
   "news": [
     {
       "id": "https://www.skysports.com/f1/live-blog/12433/13596383/f1-singapore-gp-live-sprint-qualifying-practice-updates-results-stream-highlights-from-marina-bay-race-weekend",
-      "title": "Singapore GP: Verstappen tops first part of Sprint Qualy but faces investigation LIVE!",
+      "title": "Singapore GP: Leclerc, Hamilton ahead into final Sprint Qualifying pole battle LIVE!",
       "snippet": "",
       "link": "https://www.skysports.com/f1/live-blog/12433/13596383/f1-singapore-gp-live-sprint-qualifying-practice-updates-results-stream-highlights-from-marina-bay-race-weekend",
       "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-sergio-perez-cadillac_7372119.png?20261009134226",
+      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-f1-charles-leclerc_7371862.jpg?20261009094852",
       "published_at": 1791550320000
     },
     {
-      "id": "https://www.skysports.com/f1/news/12433/13596711/mercedes-boss-toto-wolff-says-people-who-think-team-favour-kimi-antonelli-over-george-russell-are-brainless-and-should-watch-teletubbies",
-      "title": "Wolff: People who think Mercedes favour Antonelli should watch Teletubbies",
-      "snippet": "Mercedes chief Toto Wolff says people who believe the team have favoured Kimi Antonelli over George Russell this season are \"brainless\" and should watch Teletubbies and Mickey Mouse instead of Formula 1.",
-      "link": "https://www.skysports.com/f1/news/12433/13596711/mercedes-boss-toto-wolff-says-people-who-think-team-favour-kimi-antonelli-over-george-russell-are-brainless-and-should-watch-teletubbies",
-      "source_name": "Sky Sports",
-      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-toto-wolff-mercedes_7372074.jpg?20261009123851",
-      "published_at": 1791549000000
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cmje5x0enkxqo?at_medium=RSS&at_campaign=rss",
+      "title": "Mercedes critics think I'm Satan - Wolff",
+      "snippet": "Mercedes Formula 1 boss Toto Wolff rejects accusations of team of bias against George Russell, calling critics \"brainless\".",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cmje5x0enkxqo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc98/live/71cbc180-c3e2-11f1-badc-154546719036.jpg",
+      "published_at": 1791552252000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/max-verstappen-to-be-investigated-for-yellow-flag-infringement-at-f1-singapore-gp/10863449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Max Verstappen to be investigated for yellow flag infringement at F1 Singapore GP",
+      "snippet": "Max Verstappen is set to be investigated after sprint qualifying for the Formula 1 Singapore Grand Prix following an alleged yellow flag infringement.The Red Bull driver was reported to have overtaken Ferrari driver Lewis Hamilton during a yellow flag zone that was caused by Sergio Perez’s damaged Cadillac.Perez went straight into the Turn 5 barrier and subsequently broke his front wing ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/max-verstappen-to-be-investigated-for-yellow-flag-infringement-at-f1-singapore-gp/10863449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6grQGGbY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": 1791551361000
     },
     {
       "id": "https://www.motorsport.com/f1/news/why-kimi-antonelli-and-george-russell-are-test-pilots-for-mercedes-at-singapore-gp/10863412/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -28,8 +37,17 @@
       "snippet": "Mercedes Formula 1 boss Toto Wolff has labelled his drivers Kimi Antonelli and George Russell as “two test pilots” as they run different car specifications at this weekend’s Singapore Grand Prix.The Silver Arrows has been the dominant team of 2026 by winning 11 of 16 grands prix, but its authority was challenged by Red Bull at Sepang last time out as Max Verstappen won from ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/why-kimi-antonelli-and-george-russell-are-test-pilots-for-mercedes-at-singapore-gp/10863412/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6lmAGlm0/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6lmAGlm0/s6/andrea-kimi-antonelli-mercedes-2.jpg",
       "published_at": 1791548685000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/toto-wolff-hits-back-at-brainless-george-russell-conspiracy-theory/10863399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Is Antonelli favoured by Mercedes? Wolff responds to latest claims",
+      "snippet": "Mercedes Formula 1 team principal Toto Wolff says people who suggest Kimi Antonelli is being favoured over George Russell are “brainless” and should stick to ‘watching Teletubbies’.Conspiracy theories stemmed from Russell’s engine failure in Malaysia, which forced the Briton into an early power unit change and grid penalty, as it was previously hoped he would benefit from the ADUO ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/toto-wolff-hits-back-at-brainless-george-russell-conspiracy-theory/10863399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6lmdBRj0/s6/andrea-kimi-antonelli-mercedes-3.jpg",
+      "published_at": 1791546409000
     },
     {
       "id": "https://www.motorsport.com/f1/news/is-george-russell-a-number-two-driver-at-mercedes-theyre-brainless-whoever-thinks-that-retorts-toto/10863392/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -37,7 +55,7 @@
       "snippet": "Mercedes Formula 1 team principal Toto Wolff says people who suggest Kimi Antonelli is being favoured over George Russell are “brainless” and should stick to ‘watching Teletubbies’.Conspiracy theories stemmed from Russell’s engine failure in Malaysia, which forced the Briton into an early power unit change and grid penalty, as it was previously hoped he would benefit from the ADUO ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/is-george-russell-a-number-two-driver-at-mercedes-theyre-brainless-whoever-thinks-that-retorts-toto/10863392/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6O7zpGJ6/s6/george-russell-mercedes-andrea-2.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6O7zpGJ6/s6/george-russell-mercedes-andrea-2.jpg",
       "published_at": 1791546063000
     },
     {
@@ -46,7 +64,7 @@
       "snippet": "Entering the Bahrain Grand Prix, the McLaren Formula 1 team expected to aggressively challenge Mercedes and Scuderia Ferrari at the front of the grid. Instead, the team suffered a massive reality check. After a failed opening-lap tyre strategy and a shocking lack of overall pace, Oscar Piastri barely salvaged a sixth-place finish at the Sepang International Circuit.With McLaren currently ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/oscar-piastri-exposes-the-reality-behind-mclarens-massive-drop-in-pace/10863290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/25dLQZN0/s6/untitled-design-63-3.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/25dLQZN0/s6/untitled-design-63-3.jpg",
       "published_at": 1791545462000
     },
     {
@@ -55,7 +73,7 @@
       "snippet": "Racing Bulls F1 team principal Alan Permane says his team's 2027 driver line-up decision is due in \"a couple of weeks\" as the organisation decides between Liam Lawson and Nikola Tsolov for the final VCARB seat.Red Bull has a decision to make on the identity of Arvid Lindblad's team-mate for 2027, as the rookie has proven his worth during a strong rookie campaign and remains in the long-term ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/racing-bulls-not-in-a-rush-to-decide-between-three-fantastic-drivers-for-f1-2027/10863389/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YWKAEqxY/s6/arvid-lindblad-racing-bulls-li.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YWKAEqxY/s6/arvid-lindblad-racing-bulls-li.jpg",
       "published_at": 1791545347000
     },
     {
@@ -73,7 +91,7 @@
       "snippet": "Charles Leclerc is widely considered one of the fastest natural qualifiers in modern Formula 1 history, but the radical 2026 engine regulations are actively punishing his greatest strength. With Scuderia Ferrari currently sitting a distant second in the constructors' championship - trailing a dominant Mercedes outfit by over 150 points - the Maranello squad is desperately searching for ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/leclerc-confesses-the-2026-f1-rules-are-actively-punishing-his-instincts/10863261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6O7zNBG6/s6/untitled-design-65-2.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6O7zNBG6/s6/untitled-design-65-2.jpg",
       "published_at": 1791542932000
     },
     {
@@ -82,7 +100,7 @@
       "snippet": "F1 drivers are split over the use and importance of cooling vests as the series is set for its fourth \"heat hazard\" race of 2026.Driver comfort in hot climates has been a point of conversation since the 2023 Qatar Grand Prix, when several drivers experienced heat exhaustion symptoms. In response, the FIA and all F1 teams commissioned extensive research, ending up with a standard cooling vest ...Keep reading",
       "link": "https://www.autosport.com/f1/news/it-should-be-banned-f1-drivers-still-divided-over-cooling-vests/10863347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0R7BDqv2/s6/george-russell-mercedes.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0R7BDqv2/s6/george-russell-mercedes.jpg",
       "published_at": 1791542539000
     },
     {
@@ -100,7 +118,7 @@
       "snippet": "The 2026 Formula 1 season has been an absolute nightmare for Mercedes AMG Petronas F1 Team driver George Russell. Coming off a devastating mechanical failure that robbed him of a guaranteed podium finish at the relocated Bahrain Grand Prix in Malaysia, the 28-year-old British driver is currently trailing his team-mate Andrea Kimi Antonelli by a massive 84 points in the drivers' ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/russell-refuses-to-blame-bad-luck-for-his-massive-deficit-to-antonelli/10863254/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6b8Zooj2/s6/untitled-design-66-2.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6b8Zooj2/s6/untitled-design-66-2.jpg",
       "published_at": 1791540789000
     },
     {
@@ -109,7 +127,7 @@
       "snippet": "The victory in Malaysia was not only Red Bull's first triumph of the 2026 Formula 1 season, but also the first win with its own power unit. Former key figures Christian Horner, Helmut Marko, and above all, Dietrich Mateschitz deserve credit for the success, with Horner stressing that five years ago, the Powertrains project was still just “a hole in the ground”.Red Bull's internal combustion ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/isack-hadjar-reveals-surprising-reaction-after-first-lap-with-red-bulls-own-f1-engine/10863284/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YpbAdgZ0/s6/isack-hadjar-red-bull-racing.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YpbAdgZ0/s6/isack-hadjar-red-bull-racing.jpg",
       "published_at": 1791540276000
     },
     {
@@ -118,7 +136,7 @@
       "snippet": "Williams team principal James Vowles has clarified his suggestions that Formula 1's cost cap should be revisited, stating that rules on capital expenditure continue to lock in a competitive advantage for the top teams.On joining Williams ahead of 2023, Vowles was one of those who lobbied for extended capital expenditure breaks for the lower-ranked teams in the championship under the old ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/vowles-explains-request-for-review-of-f1-cost-cap/10863259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0JXRjkNY/s6/james-vowles-williams.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0JXRjkNY/s6/james-vowles-williams.jpg",
       "published_at": 1791533268000
     },
     {
@@ -127,7 +145,7 @@
       "snippet": "Formula 1 broadcaster Will Buxton has raised concerns over Mercedes' latest upgrade package, claiming team boss Toto Wolff suspects their major floor and sidepod changes may have cost them as much as half a second in lap time.The Brackley outfit introduced major upgrades at the Bahrain Grand Prix in Malaysia. The upgrades, which resulted in modifications to almost every body surface, were ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/will-buxton-raises-alarm-over-mercedes-f1-upgrades-ahead-of-singapore-gp/10863178/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YXyKZwR6/s6/untitled-design-45.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YXyKZwR6/s6/untitled-design-45.jpg",
       "published_at": 1791501908000
     },
     {
@@ -136,7 +154,7 @@
       "snippet": "The Ferrari Formula 1 team has issued a light-hearted 'unofficial' statement on social media after drivers Lewis Hamilton and Charles Leclerc temporarily took control of the Italian team's Instagram page.The Maranello outfit's social media accounts took a chaotic turn ahead of the Singapore Grand Prix weekend when Hamilton and Leclerc replaced its iconic prancing horse profile photo with a ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/ferrari-issues-unofficial-statement-after-lewis-hamilton-and-charles-leclerc-social-media-chaos/10863100/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6grQGrVY/s6/untitled-design-42.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6grQGrVY/s6/untitled-design-42.jpg",
       "published_at": 1791470614000
     },
     {
@@ -163,7 +181,7 @@
       "snippet": "Oscar Piastri now views Red Bull as “the class of the field” alongside Mercedes, as McLaren loses ground in Formula 1’s 2026 pecking order.Red Bull brought a significant upgrade to its RB22 at the Azerbaijan Grand Prix, with revamped sidepods, floor, mirrors, halo and diffuser.This led to the team’s best two results of the season so far, with Max Verstappen hounding George Russell ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/oscar-piastri-red-bull-has-become-the-class-of-the-field-in-f1-2026/10863147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/Y9lNq172/s6/max-verstappen-red-bull-racing.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/Y9lNq172/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1791489902000
     },
     {
@@ -172,7 +190,7 @@
       "snippet": "Formula 1 remains in south-east Asia this weekend for the Singapore Grand Prix, the final race of the current triple-header and round 17 of the 2026 season.Kimi Antonelli arrives at Marina Bay with an 84-point championship lead over Mercedes team-mate George Russell after the Briton suffered another engine failure in Malaysia. Russell will also take a grid penalty in Singapore after exceeding ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/f1-singapore-gp-friday-schedule-weather-forecast-and-how-to-watch/10863120/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0arE15X2/s6/the-audi-f1-team-pit-crew-prac.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0arE15X2/s6/the-audi-f1-team-pit-crew-prac.jpg",
       "published_at": 1791487314000
     },
     {
@@ -183,24 +201,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c0b/live/198c3cd0-c35a-11f1-bc2e-018d645d8d21.jpg",
       "published_at": 1791485833000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sounds/play/p0pfrs29?at_medium=RSS&at_campaign=rss",
-      "title": "F1: Chequered Flag",
-      "snippet": "Software bugs, Russell’s penalty & a sprint weekend dominate the build-up in Singapore.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pfrs29?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
-      "published_at": 1791481800000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13596355/rwanda-gp-lewis-hamilton-among-drivers-excited-by-speculation-f1-is-set-to-add-africa-race-to-calendar",
-      "title": "'It's about time!' - F1 drivers excited amid Rwanda GP rumours",
-      "snippet": "Lewis Hamilton, Max Verstappen and George Russell have expressed their excitement at the possibility of Rwanda hosting a Formula 1 race amid speculation the African nation could soon be added to the sport's calendar.",
-      "link": "https://www.skysports.com/f1/news/12433/13596355/rwanda-gp-lewis-hamilton-among-drivers-excited-by-speculation-f1-is-set-to-add-africa-race-to-calendar",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-max-verstappen-lewis_7371431.jpg?20261008155651",
-      "published_at": 1791475200000
     }
   ]
 }
