@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-09T07:32:16.537223Z",
+    "last_updated": "2026-10-09T10:02:14.476264Z",
     "year": 2026,
     "total_meetings": 27
   },
@@ -1214,7 +1214,7 @@
       "circuit_name": "Singapore",
       "date_start": "2026-10-09T08:30:00+00:00",
       "date_end": "2026-10-11T14:00:00+00:00",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "is_cancelled": false,
       "is_testing": false,
       "top_results": null,
