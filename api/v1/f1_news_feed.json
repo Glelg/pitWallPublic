@@ -1,22 +1,31 @@
 {
   "metadata": {
-    "last_updated": "2026-10-10T16:02:27.981441Z",
+    "last_updated": "2026-10-10T16:32:20.381570Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13597104/singapore-gp-mclaren-will-be-furious-at-lando-norris-oscar-piastri-crash-during-sprint-says-martin-brundle",
+      "title": "Norris 'told off' as McLaren lament 'unacceptable' crash with Piastri",
+      "snippet": "Lando Norris has revealed he was \"told off\" by McLaren following a collision with team-mate Oscar Piastri during the Singapore Grand Prix Sprint that team principal Andrea Stella said was \"not acceptable\".",
+      "link": "https://www.skysports.com/f1/news/12433/13597104/singapore-gp-mclaren-will-be-furious-at-lando-norris-oscar-piastri-crash-during-sprint-says-martin-brundle",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-mclaren-norris-piastri_7372857.png?20261010122848",
+      "published_at": 1791651900000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/george-russell-owns-up-to-singapore-f1-crash-a-very-bad-day-because-of-my-own-mistake/10863974/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "George Russell owns up to Singapore F1 crash: ‘A very bad day because of my own mistake’",
       "snippet": "Mercedes Formula 1 driver George Russell conceded it was his own mistake that led to him crashing out of the Singapore Grand Prix sprint race – an accident which may have hindered his performance in qualifying.Front-row starter Russell surged into the lead on a wet Marina Bay track with a much better getaway than polesitter Max Verstappen, but lost control as he ran ever so slightly wide on ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/george-russell-owns-up-to-singapore-f1-crash-a-very-bad-day-because-of-my-own-mistake/10863974/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/24QGlVqY/s6/george-russell-mercedes.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/24QGlVqY/s6/george-russell-mercedes.jpg",
       "published_at": 1791647338000
     },
     {
       "id": "https://www.skysports.com/f1/news/12433/13597102/singapore-gp-qualifying-max-verstappen-claims-pole-position-again-as-charles-leclerc-pips-lewis-hamilton-to-second-on-grid",
       "title": "Verstappen surge continues with Singapore pole ahead of Ferraris",
-      "snippet": "Max Verstappen claimed his second pole position of the Singapore Grand Prix weekend to put himself at the head of the grid for Sunday's main race as Ferrari's wait for a first full pole of 2026 continued.",
+      "snippet": "Max Verstappen claimed his second pole position of the Singapore Grand Prix weekend to put himself at the head of the grid for Sunday's race and prolong Ferrari's wait for a first full pole of the season.",
       "link": "https://www.skysports.com/f1/news/12433/13597102/singapore-gp-qualifying-max-verstappen-claims-pole-position-again-as-charles-leclerc-pips-lewis-hamilton-to-second-on-grid",
       "source_name": "Sky Sports",
       "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-max-verstappen-lewis-hamilton_7373173.jpg?20261010161125",
@@ -28,7 +37,7 @@
       "snippet": "Red Bull Racing is experiencing massively contrasting fortunes at the 2026 Singapore Grand Prix. While Max Verstappen successfully secured pole position for Sunday's main event, his team-mate, Isack Hadjar, endured an absolute mechanical nightmare under the floodlights of the Marina Bay Street Circuit.After suffering a terminal power unit failure that forced him to retire from Saturday's ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/isack-hadjar-demands-massive-red-bull-engine-changes-everything-is-breaking-apart/10863966/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/27Nogzv0/s6/untitled-design-78-2.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/27Nogzv0/s6/untitled-design-78-2.jpg",
       "published_at": 1791647051000
     },
     {
@@ -41,13 +50,13 @@
       "published_at": 1791639827000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/oscar-piastri-speaks-out-on-the-teams-embarrassing-final-lap-f1-crash/10863832/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Oscar Piastri speaks out after McLaren's final-lap F1 crash",
-      "snippet": "The Formula 1 Singapore Grand Prix sprint race ended in absolute disaster for the McLaren team. Following a 30-minute delay due to torrential downpours, Lando Norris and Oscar Piastri were running comfortably in fifth and fourth place, respectively, during the closing moments of the 100-kilometer dash. However, on the very last lap of the race, a desperate overtaking attempt completely ruined the ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/oscar-piastri-speaks-out-on-the-teams-embarrassing-final-lap-f1-crash/10863832/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YN7v4La6/s6/untitled-design-74-3.jpg",
-      "published_at": 1791637389000
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cm2d6p4e3y93o?at_medium=RSS&at_campaign=rss",
+      "title": "How to follow Singapore Grand Prix on the BBC",
+      "snippet": "All the key BBC coverage details for the Singapore Grand Prix, the sixth and final sprint event of the season, which takes place from 9-11 October.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm2d6p4e3y93o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dc6/live/b3ef3060-c4c3-11f1-a64c-550be9e3c66b.jpg",
+      "published_at": 1791648945000
     },
     {
       "id": "https://www.skysports.com/watch/video/13597344/singapore-gp-sprint-collision-not-acceptable-stella-team-interest-is-far-bigger-than-anyones-ego",
@@ -57,6 +66,24 @@
       "source_name": "Sky Sports",
       "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-formula-one-stella_7373218.jpg?20261010162523",
       "published_at": 1791648840000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/how-hamilton-tipped-it-over-the-edge-with-a-setup-change-too-far-in-singapore-gp-qualifying/10863998/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "How Hamilton \"tipped it over the edge\" with a setup change too far in Singapore GP qualifying",
+      "snippet": "Ferrari will be pondering whether both its cars should have been on the front row for the Singapore Grand Prix. Lewis Hamilton set an impressive pace through the opening segments of qualifying and team-mate Charles Leclerc said \"I think the car had potential for pole\".But ultimately Leclerc came up 0.054s short of beating Max Verstappen's Red Bull to pole, with Hamilton a further 0.069s off ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/how-hamilton-tipped-it-over-the-edge-with-a-setup-change-too-far-in-singapore-gp-qualifying/10863998/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0mXyKrX6/s6/lewis-hamilton-ferrari.jpg",
+      "published_at": 1791648645000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sounds/play/p0pg23b2?at_medium=RSS&at_campaign=rss",
+      "title": "F1: Chequered Flag",
+      "snippet": "Could Max Verstappen continue his fine form and take victory in the Singapore sprint?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pg23b2?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
+      "published_at": 1791647820000
     },
     {
       "id": "https://www.skysports.com/watch/video/13597321/singapore-grand-prix-qualifying-highlights",
@@ -73,7 +100,7 @@
       "snippet": "When an A-list celebrity’s personal aircraft makes a massive intercontinental trip during a Formula 1 race weekend, the paddock immediately starts talking.According to the sports and culture Instagram account pulsesports.hq, Kim Kardashian’s private Gulfstream G650ER—officially registered as N1980K—departed Honolulu, Hawaii, on Friday, 9 October. The aircraft completed a gruelling ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/hamilton-gets-massive-6700-mile-boost-as-kim-kardashian-touches-down-for-singapore-gp/10863940/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YMXbNmV2/s6/untitled-design-79-4.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YMXbNmV2/s6/untitled-design-79-4.jpg",
       "published_at": 1791646081000
     },
     {
@@ -82,7 +109,7 @@
       "snippet": "...Keep reading",
       "link": "https://www.motorsport.com/f1/news/2026-f1-singapore-grand-prix-starting-grid/10863947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6AlvbNkY/s6/max-verstappen-red-bull-racing.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6AlvbNkY/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1791644445000
     },
     {
@@ -91,7 +118,7 @@
       "snippet": "Max Verstappen officially secured his first-ever victory at the Marina Bay Street Circuit during Saturday's rain-delayed Singapore Grand Prix Sprint, but the four-time world champion is far from happy. After a 30-minute weather delay forced the grid to start on intermediate tyres, Verstappen suffered a terrible launch off the pole position, allowing Mercedes driver George Russell to instantly ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/max-verstappen-warns-of-a-massive-qualifying-battle-after-singapore-sprint-win/10863886/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2dEoGLZY/s6/untitled-design-75-3.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2dEoGLZY/s6/untitled-design-75-3.jpg",
       "published_at": 1791637716000
     },
     {
@@ -109,7 +136,7 @@
       "snippet": "Lando Norris has brushed off his collision with Oscar Piastri at F1's Singapore GP sprint, and escaped a penalty for taking his team-mate out of the race.On the final lap of the 20-lap sprint, which was held in mixed conditions, Norris made a lunge on Piastri on the inside of Turn 5, unsuccessfully backing out of a closing gap and striking Piastri's right-rear corner.The collision sent ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lando-norris-summoned-for-oscar-piastri-clash-it-was-a-big-gap-so-i-went-for-it/10863862/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/27NogpX0/s6/lando-norris-mclaren-oscar-pia.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/27NogpX0/s6/lando-norris-mclaren-oscar-pia.jpg",
       "published_at": 1791633136000
     },
     {
@@ -131,21 +158,12 @@
       "published_at": 1791631020000
     },
     {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cm2d6p4e3y93o?at_medium=RSS&at_campaign=rss",
-      "title": "How to follow Singapore Grand Prix on the BBC",
-      "snippet": "All the key BBC coverage details for the Singapore Grand Prix, the sixth and final sprint event of the season, which takes place from 9-11 October.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm2d6p4e3y93o?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/579a/live/05f38890-c49a-11f1-bc2e-018d645d8d21.jpg",
-      "published_at": 1791630861000
-    },
-    {
       "id": "https://www.motorsport.com/f1/news/lewis-hamilton-finally-gets-his-wish-as-f1-secures-a-shocking-african-grand-prix/10863816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Lewis Hamilton celebrates breakthrough in push for African Grand Prix",
       "snippet": "Formula 1 is officially heading back to the African continent for the first time since 1993, but the exact location has caught the global motorsport community completely off guard. Bypassing the historic Kyalami Grand Prix Circuit in South Africa, Formula 1 is actively finalizing a massive deal to bring a race to Rwanda by the 2030 season.For Scuderia Ferrari driver Lewis Hamilton, the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lewis-hamilton-finally-gets-his-wish-as-f1-secures-a-shocking-african-grand-prix/10863816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/68VwaAl2/s6/untitled-design-73-2.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/68VwaAl2/s6/untitled-design-73-2.jpg",
       "published_at": 1791630229000
     },
     {
@@ -154,7 +172,7 @@
       "snippet": "Qualifying for Formula 1’s Singapore Grand Prix will be delayed after rain disrupted Saturday’s sprint race, the FIA has announced.A downpour soaked part of the Marina Bay Street Circuit some 15 minutes before the sprint was scheduled to get under way, meaning the race was delayed by half an hour in order to clear some of the standing water from the track.The sprint started at 5:30pm ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/qualifying-delayed-at-f1-singapore-gp-after-rain-disrupts-sprint-race/10863814/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0Zq8yx56/s6/fia-safety-car-2.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0Zq8yx56/s6/fia-safety-car-2.jpg",
       "published_at": 1791628868000
     },
     {
@@ -163,7 +181,7 @@
       "snippet": "Williams team principal James Vowles has spent the last month aggressively lobbying the Formula 1 paddock for a massive overhaul to the sport's financial regulations. Claiming that the newly combined $215million CapEx/OpEx budget cap has created a \"two-tier championship\" where the top four teams hoard 83% of the points, Vowles is pushing for a sliding scale allowance based on championship ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/toto-wolff-slams-red-mist-f1-rule-proposal-but-warns-of-a-massive-talent-crisis/10863727/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6DGgNL4Y/s6/untitled-design-72-2.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6DGgNL4Y/s6/untitled-design-72-2.jpg",
       "published_at": 1791624732000
     },
     {
@@ -181,26 +199,8 @@
       "snippet": "The Mercedes-AMG Petronas F1 Team is currently navigating one of the most bizarre internal storylines of the 2026 Formula 1 season. During Friday's Sprint qualifying shootout at the Marina Bay Street Circuit, the factory deliberately split their aerodynamic packages to gather comparative data on a failing upgrade.The on-track results were completely polarising. George Russell, driving the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/mercedes-drivers-speak-out-after-a-bitterly-divided-f1-qualifying-session-in-singapore/10863711/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6AlvbM9Y/s6/untitled-design-70-3.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6AlvbM9Y/s6/untitled-design-70-3.jpg",
       "published_at": 1791621189000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/mercedes-boss-admits-the-team-is-completely-baffled-by-their-failed-2026-f1-upgrades/10863705/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Mercedes boss admits team is baffled by failed 2026 F1 upgrades",
-      "snippet": "When the Mercedes opted to run an aggressively divided garage for the Singapore Grand Prix Sprint weekend, the goal was simple: gather enough side-by-side data to finally understand why their highly anticipated aerodynamic upgrade failed in Malaysia. Instead, the radical split-specification test has only plunged the factory deeper into utter confusion.Following Friday’s Sprint qualifying ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/mercedes-boss-admits-the-team-is-completely-baffled-by-their-failed-2026-f1-upgrades/10863705/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0o5AvMwY/s6/untitled-design-69-3.jpg",
-      "published_at": 1791620944000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/ck62y7jz1qqro?at_medium=RSS&at_campaign=rss",
-      "title": "Verstappen on sprint pole after another settings issue",
-      "snippet": "Red Bull's Max Verstappen beats Mercedes driver George Russell to sprint pole at the Singapore Grand Prix.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/ck62y7jz1qqro?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98e4/live/d4af98b0-c3e9-11f1-badc-154546719036.jpg",
-      "published_at": 1791560908000
     }
   ]
 }
