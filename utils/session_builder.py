@@ -14,6 +14,14 @@ from utils.openf1_client import (
 from utils.wiki_client import fetch_wiki_pit_lane_starters
 from utils.flags import get_country_flag
 
+def safe_int(val):
+    if val is None:
+        return None
+    try:
+        return int(float(val))
+    except (ValueError, TypeError):
+        return None
+
 def format_lap_time(val):
     if val is None or val == "":
         return ""
@@ -179,9 +187,9 @@ def build_session_result_dto(session, meeting_info, target_year, season_drivers=
         country_code = get_country_flag(d_info.get('country_code', ''))
 
         pos = r.get('position')
-        pos_int = int(float(pos)) if pos is not None else None
-        grid_pos = grid_dict.get(d_num) or r.get('grid_position')
-        completed_laps = laps_dict.get(d_num) or r.get('laps_completed')
+        pos_int = safe_int(pos)
+        grid_pos = safe_int(grid_dict.get(d_num) or r.get('grid_position'))
+        completed_laps = safe_int(laps_dict.get(d_num) or r.get('laps_completed'))
 
         is_pit_lane = (d_num in wiki_pit_numbers)
 
