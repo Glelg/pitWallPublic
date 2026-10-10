@@ -49,17 +49,32 @@ def main():
         print("[ВНИМАНИЕ] Не удалось получить сессии. Сохраняем текущие данные.")
         sys.exit(0)
 
-    latest_session = max(sessions, key=lambda s: s['session_key'])
-    latest_key = latest_session['session_key']
-    actual_year = latest_session.get('year', current_year)
-
-    print(f"Актуальный сезон: {actual_year}, Последняя сессия: {latest_key}")
+    now_utc = datetime.utcnow().isoformat()
+    completed_sessions = [s for s in sessions if s.get('date_start', '') <= now_utc and s.get('session_key')]
+    completed_map = { s['session_key']: s for s in completed_sessions }
 
     # 2. Запрашиваем таблицы
     all_driver_standings = fetch_json("championship_drivers")
     if not all_driver_standings:
         print("[ВНИМАНИЕ] Таблица пилотов недоступна в данный момент. Сохраняем текущий файл.")
         sys.exit(0)
+
+    valid_standings_sessions = [
+        completed_map[s['session_key']]
+        for s in all_driver_standings
+        if s.get('session_key') in completed_map
+    ]
+
+    if valid_standings_sessions:
+        latest_session = max(valid_standings_sessions, key=lambda s: s.get('date_start', ''))
+        latest_key = latest_session['session_key']
+        actual_year = latest_session.get('year', current_year)
+    else:
+        latest_key = max(s['session_key'] for s in all_driver_standings if 'session_key' in s)
+        latest_session = next((s for s in sessions if s.get('session_key') == latest_key), None)
+        actual_year = latest_session.get('year', current_year) if latest_session else current_year
+
+    print(f"Актуальный сезон: {actual_year}, Последняя сессия: {latest_key} ({latest_session.get('session_name') if latest_session else ''})")
 
     latest_driver_standings = [s for s in all_driver_standings if s.get('session_key') == latest_key]
     if not latest_driver_standings:
