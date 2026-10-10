@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-10T12:32:28.087641Z",
+    "last_updated": "2026-10-10T13:03:26.672004Z",
     "total_news": 22
   },
   "news": [
@@ -10,7 +10,7 @@
       "snippet": "Max Verstappen won a rain-affected Singapore Grand Prix Sprint after George Russell dramatically crashed out from the lead.",
       "link": "https://www.skysports.com/f1/news/12433/13597101/singapore-gp-sprint-max-verstappen-beats-lewis-hamilton-after-george-russell-crashes-out-from-lead",
       "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-max-verstappen_7372816.jpg?20261010114435",
+      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-max-verstappen_7372816.jpg?20261010133221",
       "published_at": 1791631800000
     },
     {
@@ -19,8 +19,17 @@
       "snippet": "",
       "link": "https://www.skysports.com/f1/live-blog/12433/13597107/f1-singapore-gp-live-sprint-qualifying-updates-results-stream-highlights-video-from-marina-bay-circuit-race-weekend",
       "source_name": "Sky Sports",
-      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7371348.jpg?20261008144731",
+      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7371348.jpg?20261010135415",
       "published_at": 1791622200000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/lewis-hamilton-calls-for-singapore-track-changes-would-have-been-the-most-boring-race-without-rain/10863895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Lewis Hamilton calls for Singapore track changes: “Would have been the most boring race without rain”",
+      "snippet": "The final sprint race of the 2026 Formula 1 season produced plenty of chaos. Only 13 of the 22 cars reached the finish line, with George Russell's crash and the collision between the two McLaren drivers in particular providing plenty of talking points in the paddock.The first of two races at the Marina Bay Street Circuit may have been less boring than feared, but drivers stress that overtaking ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/lewis-hamilton-calls-for-singapore-track-changes-would-have-been-the-most-boring-race-without-rain/10863895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0Zq8ynL6/s6/lewis-hamilton-ferrari.jpg",
+      "published_at": 1791636928000
     },
     {
       "id": "https://www.skysports.com/f1/news/12433/13597104/singapore-gp-mclaren-will-be-furious-at-lando-norris-oscar-piastri-crash-during-sprint-says-martin-brundle",
@@ -46,17 +55,8 @@
       "snippet": "Lando Norris has brushed off his collision with Oscar Piastri at F1's Singapore GP sprint, but risks a penalty for taking his team-mate out of the race.On the final lap of the 20-lap sprint, which was held in mixed conditions, Norris made a lunge on Piastri on the inside of Turn 5, unsuccessfully backing out of a closing gap and striking Piastri's right-rear corner.The collision sent both ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lando-norris-summoned-for-oscar-piastri-clash-it-was-a-big-gap-so-i-went-for-it/10863862/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/27NogpX0/s6/lando-norris-mclaren-oscar-pia.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/27NogpX0/s6/lando-norris-mclaren-oscar-pia.jpg",
       "published_at": 1791633136000
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13597191/singapore-grand-prix-sprint-highlights",
-      "title": "NINE DNFs as rain causes chaos in Singapore Sprint race!",
-      "snippet": "Highlights of the 2026 Singapore Grand Prix Sprint race.",
-      "link": "https://www.skysports.com/watch/video/13597191/singapore-grand-prix-sprint-highlights",
-      "source_name": "Sky Sports",
-      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-nine-spirnt_7372815.jpg?20261010114016",
-      "published_at": 1791632220000
     },
     {
       "id": "https://www.skysports.com/watch/video/13597178/singapore-gp-lando-norris-and-oscar-piastri-make-contact-on-last-lap-of-the-sprint",
@@ -82,7 +82,7 @@
       "snippet": "Formula 1 is officially heading back to the African continent for the first time since 1993, but the exact location has caught the global motorsport community completely off guard. Bypassing the historic Kyalami Grand Prix Circuit in South Africa, Formula 1 is actively finalizing a massive deal to bring a race to Rwanda by the 2030 season.For Scuderia Ferrari driver Lewis Hamilton, the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lewis-hamilton-finally-gets-his-wish-as-f1-secures-a-shocking-african-grand-prix/10863816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwaAl2/s6/untitled-design-73-2.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/68VwaAl2/s6/untitled-design-73-2.jpg",
       "published_at": 1791630229000
     },
     {
@@ -91,7 +91,7 @@
       "snippet": "Qualifying for Formula 1’s Singapore Grand Prix will be delayed after rain disrupted Saturday’s sprint race, the FIA has announced.A downpour soaked part of the Marina Bay Street Circuit some 15 minutes before the sprint was scheduled to get under way, meaning the race was delayed by half an hour in order to clear some of the standing water from the track.The sprint started at 5:30pm ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/qualifying-delayed-at-f1-singapore-gp-after-rain-disrupts-sprint-race/10863814/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0Zq8yx56/s6/fia-safety-car-2.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0Zq8yx56/s6/fia-safety-car-2.jpg",
       "published_at": 1791628868000
     },
     {
@@ -109,7 +109,7 @@
       "snippet": "Following a chaotic and highly contested Sprint qualifying shootout at the Marina Bay Street Circuit, the 2026 Formula 1 championship battle appears closer than ever. Red Bull Racing's Max Verstappen ultimately secured the sprint pole position, but he was closely followed by Mercedes driver George Russell in second, Scuderia Ferrari's Charles Leclerc in third, and McLaren's Oscar Piastri in ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/mclaren-team-principal-says-the-2026-f1-grid-is-finally-back-to-pre-baku-form/10863714/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6lmAGpK0/s6/untitled-design-71-3.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6lmAGpK0/s6/untitled-design-71-3.jpg",
       "published_at": 1791621439000
     },
     {
@@ -118,7 +118,7 @@
       "snippet": "The Mercedes-AMG Petronas F1 Team is currently navigating one of the most bizarre internal storylines of the 2026 Formula 1 season. During Friday's Sprint qualifying shootout at the Marina Bay Street Circuit, the factory deliberately split their aerodynamic packages to gather comparative data on a failing upgrade.The on-track results were completely polarising. George Russell, driving the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/mercedes-drivers-speak-out-after-a-bitterly-divided-f1-qualifying-session-in-singapore/10863711/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6AlvbM9Y/s6/untitled-design-70-3.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6AlvbM9Y/s6/untitled-design-70-3.jpg",
       "published_at": 1791621189000
     },
     {
@@ -127,7 +127,7 @@
       "snippet": "When the Mercedes opted to run an aggressively divided garage for the Singapore Grand Prix Sprint weekend, the goal was simple: gather enough side-by-side data to finally understand why their highly anticipated aerodynamic upgrade failed in Malaysia. Instead, the radical split-specification test has only plunged the factory deeper into utter confusion.Following Friday’s Sprint qualifying ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/mercedes-boss-admits-the-team-is-completely-baffled-by-their-failed-2026-f1-upgrades/10863705/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0o5AvMwY/s6/untitled-design-69-3.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0o5AvMwY/s6/untitled-design-69-3.jpg",
       "published_at": 1791620944000
     },
     {
@@ -163,7 +163,7 @@
       "snippet": "Formula 1 heads into Saturday with Max Verstappen on pole for the Singapore GP sprint after topping sprint qualifying for the first time at the Marina Bay circuit.The Red Bull driver produced a 1m31.156s on his only SQ3 attempt to beat George Russell by 0.120s, with Charles Leclerc third for Ferrari. Oscar Piastri starts fourth ahead of McLaren team-mate Lando Norris and Lewis ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/f1-singapore-gp-saturday-schedule-weather-forecast-and-how-to-watch/10863600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0arE1142/s6/oscar-piastri-mclaren.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0arE1142/s6/oscar-piastri-mclaren.jpg",
       "published_at": 1791569213000
     },
     {
@@ -181,17 +181,8 @@
       "snippet": "For two successive weekends now the previously dominant Mercedes has looked vulnerable, a fact demonstrated by the team going back to an older specification on George Russell's car for the Singapore Grand Prix weekend.Russell qualified second for the sprint race while championship leader Kimi Antonelli laboured to seventh place, half a second off his team-mate. But Russell only scraped through ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/were-stuck-with-what-weve-got-why-antonelli-cant-revert-to-previous-mercedes-spec-in-singapore/10863572/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2eZxlnjY/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/2eZxlnjY/s6/andrea-kimi-antonelli-mercedes.jpg",
       "published_at": 1791565084000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/lewis-hamilton-owns-up-to-wrong-call-as-ferrari-struggles-in-singapore-sq3/10863533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Lewis Hamilton owns up to wrong call as Ferrari struggles in Singapore SQ3",
-      "snippet": "Lewis Hamilton has conceded he made the ‘wrong choice’ when deciding on the SQ3 run plan at Formula 1’s Singapore Grand Prix.Ferrari took a 1-2 in the second phase of qualifying with Charles Leclerc on top and Hamilton three tenths adrift, and the Scuderia went for a different strategy to its rivals in the top-10 shootout, as all cars switched from medium to soft tyres as per the ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/lewis-hamilton-owns-up-to-wrong-call-as-ferrari-struggles-in-singapore-sq3/10863533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YWKAENOY/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": 1791561968000
     },
     {
       "id": "https://www.skysports.com/watch/video/13596966/singapore-gp-mercedes-drivers-bemoan-new-upgrades-after-sprint-qualyfying-struggles",
@@ -201,6 +192,15 @@
       "source_name": "Sky Sports",
       "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-kimi-mercredes_7372286.jpg?20261009155331",
       "published_at": 1791560640000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/its-just-weird-isack-hadjar-confused-by-undriveable-red-bull-f1-car/10863516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "“It’s just weird” – Isack Hadjar confused by ‘undriveable’ Red Bull F1 car",
+      "snippet": "Isack Hadjar was left dumbfounded by his Red Bull car in sprint qualifying at Formula 1’s Singapore Grand Prix, unable to explain his lack of performance.Hadjar complained that his RB22 was bottoming out too much in the only free practice session, where he was fourth-fastest on hard rubber – quicker than Max Verstappen – but seven tenths down on the Dutchman when they switched to the ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/its-just-weird-isack-hadjar-confused-by-undriveable-red-bull-f1-car/10863516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0R7BNMV2/s6/isack-hadjar-red-bull-racing.jpg",
+      "published_at": 1791558815000
     }
   ]
 }
