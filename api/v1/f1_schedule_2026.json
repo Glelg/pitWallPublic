@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-10T11:02:17.642903Z",
+    "last_updated": "2026-10-10T11:31:19.202334Z",
     "year": 2026,
     "total_meetings": 27
   },
@@ -1241,7 +1241,7 @@
           "session_key": 11384,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2026-10-10T13:00:00+00:00"
+          "date_start": "2026-10-10T13:30:00+00:00"
         },
         {
           "session_key": 11388,
