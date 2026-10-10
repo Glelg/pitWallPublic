@@ -8,7 +8,7 @@
     "meeting_name": "Chinese Grand Prix",
     "circuit_name": "Shanghai",
     "stewards_status": "FINAL",
-    "last_updated": "2026-10-05T02:03:14.319660Z"
+    "last_updated": "2026-10-10T11:32:24.749892Z"
   },
   "results": [
     {
@@ -275,7 +275,7 @@
       "country_code": "",
       "grid_position": 22,
       "grid_penalty": null,
-      "is_pit_lane_start": false,
+      "is_pit_lane_start": true,
       "time_or_retired": "33:59.012",
       "gap_to_leader": "+20.014s",
       "laps_completed": 19,

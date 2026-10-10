@@ -8,7 +8,7 @@
     "meeting_name": "Australian Grand Prix",
     "circuit_name": "Melbourne",
     "stewards_status": "FINAL",
-    "last_updated": "2026-10-04T23:32:41.343115Z"
+    "last_updated": "2026-10-10T07:03:12.494820Z"
   },
   "results": [
     {
@@ -367,23 +367,6 @@
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
-    },
-    {
-      "position": null,
-      "driver_number": 18,
-      "full_name": "Lance STROLL",
-      "driver_acronym": "STR",
-      "team_name": "Aston Martin",
-      "country_code": "",
-      "grid_position": null,
-      "grid_penalty": null,
-      "is_pit_lane_start": false,
-      "time_or_retired": "DNS",
-      "gap_to_leader": "",
-      "laps_completed": 0,
-      "points": 0.0,
-      "is_fastest_lap": false,
-      "status": "DNS"
     }
   ]
 }

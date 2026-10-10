@@ -1,7 +1,8 @@
 {
   "meeting_key": 1296,
-  "total_votes": 1,
+  "total_votes": 2,
   "votes": {
+    "3": 1,
     "55": 1
   }
 }

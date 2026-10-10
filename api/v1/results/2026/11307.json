@@ -8,7 +8,7 @@
     "meeting_name": "Barcelona Grand Prix",
     "circuit_name": "Catalunya",
     "stewards_status": "FINAL",
-    "last_updated": "2026-10-03T16:03:03.518025Z"
+    "last_updated": "2026-10-08T23:03:14.133826Z"
   },
   "results": [
     {
@@ -326,13 +326,13 @@
       "country_code": "",
       "grid_position": 22,
       "grid_penalty": null,
-      "is_pit_lane_start": true,
+      "is_pit_lane_start": false,
       "time_or_retired": "",
       "gap_to_leader": "",
       "laps_completed": 38,
       "points": 0.0,
       "is_fastest_lap": false,
-      "status": "PIT LANE"
+      "status": "FINISHED"
     },
     {
       "position": null,

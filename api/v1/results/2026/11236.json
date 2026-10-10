@@ -8,7 +8,7 @@
     "meeting_name": "Chinese Grand Prix",
     "circuit_name": "Shanghai",
     "stewards_status": "FINAL",
-    "last_updated": "2026-10-05T01:33:07.986898Z"
+    "last_updated": "2026-10-10T11:03:06.657802Z"
   },
   "results": [
     {
@@ -359,7 +359,7 @@
       "team_name": "Williams",
       "country_code": "",
       "grid_position": null,
-      "grid_penalty": 4,
+      "grid_penalty": null,
       "is_pit_lane_start": false,
       "time_or_retired": "None",
       "gap_to_leader": "",
@@ -428,26 +428,6 @@
       "is_fastest_lap": false,
       "status": "FINISHED",
       "q1_time": "1:37.378",
-      "q2_time": null,
-      "q3_time": null
-    },
-    {
-      "position": null,
-      "driver_number": 11,
-      "full_name": "Sergio PEREZ",
-      "driver_acronym": "PER",
-      "team_name": "Cadillac",
-      "country_code": "",
-      "grid_position": null,
-      "grid_penalty": null,
-      "is_pit_lane_start": false,
-      "time_or_retired": "NO TIME",
-      "gap_to_leader": "",
-      "laps_completed": 0,
-      "points": 0.0,
-      "is_fastest_lap": false,
-      "status": "NO TIME",
-      "q1_time": null,
       "q2_time": null,
       "q3_time": null
     }
