@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-11T19:32:30.487542Z",
+    "last_updated": "2026-10-11T20:02:23.698678Z",
     "total_news": 22
   },
   "news": [
@@ -68,10 +68,10 @@
       "published_at": 1791743539000
     },
     {
-      "id": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/sounds/play/m0032wcr?at_medium=RSS&at_campaign=rss",
       "title": "F1: Chequered Flag",
       "snippet": "Could Verstappen convert pole to victory & would Antonelli edge closer to the title?",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/m0032wcr?at_medium=RSS&at_campaign=rss",
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
       "published_at": 1791742620000
