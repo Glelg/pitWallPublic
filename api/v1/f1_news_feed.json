@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-11T19:02:29.887096Z",
+    "last_updated": "2026-10-11T19:32:30.487542Z",
     "total_news": 22
   },
   "news": [
@@ -23,13 +23,13 @@
       "published_at": 1791729235000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/george-russell-handed-another-20-place-penalty-before-the-singapore-grand-prix/10864262/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "George Russell handed another 20-place penalty before the Singapore Grand Prix",
-      "snippet": "The Mercedes AMG Petronas F1 Team’s weekend at the Marina Bay Street Circuit has officially gone from bad to worse.A 60-place demotion for RussellAccording to the official FIA ruling, George Russell has been slapped with an additional 20-place grid penalty just hours before the start of the 2026 Singapore Grand Prix. The penalty was handed down by the race stewards after the FIA ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/george-russell-handed-another-20-place-penalty-before-the-singapore-grand-prix/10864262/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YBVjpo8Y/s6/untitled-design-46-2.jpg",
-      "published_at": 1791716936000
+      "id": "https://www.bbc.co.uk/sport/formula1/videos/crx23gny12n2o?at_medium=RSS&at_campaign=rss",
+      "title": "Do things change for 'Mr Consistent' Antonelli as he nears title?",
+      "snippet": "The Chequered Flag's Harry Benjamin, Alice Powell and Alisha Palmowski discuss whether anything changes for Kimi Antonelli as the championship leader closes in on the title.",
+      "link": "https://www.bbc.co.uk/sport/formula1/videos/crx23gny12n2o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fe3/live/5080e910-c5a4-11f1-9a39-31b474234113.jpg",
+      "published_at": 1791746526000
     },
     {
       "id": "https://www.skysports.com/f1/news/12433/13597654/kimi-antonelli-f1-title-permutations-how-mercedes-driver-could-clinch-world-championship-at-united-states-gp",
@@ -39,6 +39,15 @@
       "source_name": "Sky Sports",
       "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-kimi-antonelli-mercedes_7374560.jpg?20261011191233",
       "published_at": 1791746400000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/george-russell-handed-another-20-place-penalty-before-the-singapore-grand-prix/10864262/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "George Russell handed another 20-place penalty before the Singapore Grand Prix",
+      "snippet": "The Mercedes AMG Petronas F1 Team’s weekend at the Marina Bay Street Circuit has officially gone from bad to worse.A 60-place demotion for RussellAccording to the official FIA ruling, George Russell has been slapped with an additional 20-place grid penalty just hours before the start of the 2026 Singapore Grand Prix. The penalty was handed down by the race stewards after the FIA ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/george-russell-handed-another-20-place-penalty-before-the-singapore-grand-prix/10864262/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YBVjpo8Y/s6/untitled-design-46-2.jpg",
+      "published_at": 1791716936000
     },
     {
       "id": "https://www.motorsport.com/f1/news/gasly-questions-fia-stewards-decision-not-to-penalise-norris-after-singapore-crash/10864257/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -59,10 +68,10 @@
       "published_at": 1791743539000
     },
     {
-      "id": "https://www.bbc.co.uk/sounds/play/m0032wcr?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
       "title": "F1: Chequered Flag",
       "snippet": "Could Verstappen convert pole to victory & would Antonelli edge closer to the title?",
-      "link": "https://www.bbc.co.uk/sounds/play/m0032wcr?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
       "published_at": 1791742620000
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-9.motorsport.com/images/amp/2eZxn91Y/s6/untitled-design-87-2.jpg",
       "published_at": 1791731165000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/lewis-hamilton-takes-blame-for-poor-singapore-gp-strategy/10864343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Hamilton takes blame for poor Singapore GP strategy call",
-      "snippet": "Lewis Hamilton has taken responsibility for his strategy in Formula 1’s Singapore Grand Prix, after a decision not to pit under a virtual safety car cost him dear.The VSC was called into action by race control on lap 39 when Lance Stroll pulled aside due to a suspected clutch issue in his Aston Martin.At that stage of the race, Hamilton had already done 21 laps on softs, while Leclerc ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/lewis-hamilton-takes-blame-for-poor-singapore-gp-strategy/10864343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6b8Zode2/s6/lewis-hamilton-ferrari-2.jpg",
-      "published_at": 1791728642000
     }
   ]
 }
