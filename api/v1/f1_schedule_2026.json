@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-11T11:02:18.374195Z",
+    "last_updated": "2026-10-11T14:32:19.315087Z",
     "year": 2026,
     "total_meetings": 27
   },
@@ -1214,10 +1214,29 @@
       "circuit_name": "Singapore",
       "date_start": "2026-10-09T08:30:00+00:00",
       "date_end": "2026-10-11T14:00:00+00:00",
-      "status": "LIVE",
+      "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 3,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 2,
+          "driver_number": 16,
+          "driver_acronym": "LEC",
+          "team_name": "Ferrari"
+        },
+        {
+          "position": 3,
+          "driver_number": 12,
+          "driver_acronym": "ANT",
+          "team_name": "Mercedes"
+        }
+      ],
       "sessions": [
         {
           "session_key": 11378,
@@ -1241,7 +1260,7 @@
           "session_key": 11384,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2026-10-10T13:30:00+00:00"
+          "date_start": "2026-10-10T13:00:00+00:00"
         },
         {
           "session_key": 11388,
