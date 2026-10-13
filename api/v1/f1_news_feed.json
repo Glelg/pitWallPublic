@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-13T13:02:31.012407Z",
+    "last_updated": "2026-10-13T13:32:28.550223Z",
     "total_news": 22
   },
   "news": [
@@ -14,12 +14,39 @@
       "published_at": 1791874453000
     },
     {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo?at_medium=RSS&at_campaign=rss",
+      "title": "Rwanda to host F1's first race in Africa since 1993",
+      "snippet": "Rwanda signs a 10-year deal with Formula 1 to host races in the African country, starting \"in the early 2030s\".",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca3/live/0fc085e0-c6e2-11f1-bf38-57dc5cd42af2.jpg",
+      "published_at": 1791897662000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/why-mclaren-cannot-fix-its-f1-car-handling-for-its-driver-until-2027/10864907/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Why McLaren cannot fix its F1 car handling until 2027",
+      "snippet": "McLaren team principal Andrea Stella has conceded it cannot improve its Formula 1 car handling characteristics ‘without fundamental changes’ that will not be possible until 2027.While every F1 driver has needed to adapt to the new generation of cars and engines in order to extract the maximum performance, often applying unnatural or unusual techniques never used in their entire ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/why-mclaren-cannot-fix-its-f1-car-handling-for-its-driver-until-2027/10864907/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2GdKNrKY/s6/oscar-piastri-mclaren.jpg",
+      "published_at": 1791897111000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/kim-kardashian-revives-hilarious-f1-towel-drama-with-mercedes-star-kimi-antonelli/10864866/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Kim Kardashian revives hilarious F1 towel drama with Mercedes' Kimi Antonelli",
+      "snippet": "The Formula 1 paddock is a massive magnet for high-profile celebrities, but few A-list appearances have generated as much hilarious viral drama as Kim Kardashian's ongoing saga with Mercedes' Andrea Kimi Antonelli.While attending the 2026 Singapore Grand Prix to support Scuderia Ferrari's Lewis Hamilton, the reality TV billionaire ran into the young championship leader on the Singapore ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/kim-kardashian-revives-hilarious-f1-towel-drama-with-mercedes-star-kimi-antonelli/10864866/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0Zq83bL6/s6/untitled-design-2026-10-13t140-3.jpg",
+      "published_at": 1791896786000
+    },
+    {
       "id": "https://www.motorsport.com/f1/news/christian-horner-clears-air-on-dream-job-ferrari-rumors-and-sets-return-terms/10864851/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Christian Horner clears air on “dream job” Ferrari rumours and sets return terms",
       "snippet": "Every time a team principal looks mildly stressed on television, Formula 1 fans immediately open Photoshop and start pasting Christian Horner into their team kit.Over the last few months, the Maranello rumour mill has gone into overdrive. Between Ferrari's messy strategy calls and Horner casually calling the Scuderia a \"dream job\" in an earlier interview, half the paddock seemed convinced he ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/christian-horner-clears-air-on-dream-job-ferrari-rumors-and-sets-return-terms/10864851/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YE9Eqj1Y/s6/untitled-design-2026-10-13t135-2.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YE9Eqj1Y/s6/untitled-design-2026-10-13t135-2.jpg",
       "published_at": 1791895907000
     },
     {
@@ -28,7 +55,7 @@
       "snippet": "Managing the immense pressure of a Formula 1 championship battle requires finding ways to disconnect between race weekends. For Mercedes team principal Toto Wolff, unwinding ahead of the United States Grand Prix apparently involves taking one of the rarest, most expensive, and most aggressive road cars ever built for a casual drive through Casino Square.Just days after a gruelling ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/toto-wolff-spotted-cruising-monaco-in-a-10-million-mercedes-unicorn/10864881/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/24QGgDAY/s6/untitled-design-2026-10-13t123-3.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/24QGgDAY/s6/untitled-design-2026-10-13t123-3.jpg",
       "published_at": 1791891171000
     },
     {
@@ -41,22 +68,22 @@
       "published_at": 1791890954000
     },
     {
-      "id": "https://www.skysports.com/f1/news/12433/13598721/formula-1-rwanda-to-join-calendar-in-the-early-2030s-as-african-grand-prix-host-after-10-year-agreement-for-return-to-continent",
-      "title": "Formula 1 to return to Africa as 10-year deal for Rwanda race signed",
-      "snippet": "Formula 1 will return to Africa after it was confirmed Rwanda will host races from the early 2030s.",
-      "link": "https://www.skysports.com/f1/news/12433/13598721/formula-1-rwanda-to-join-calendar-in-the-early-2030s-as-african-grand-prix-host-after-10-year-agreement-for-return-to-continent",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-formula-1-formula-one_7375658.jpg?20261013090128",
-      "published_at": 1791886620000
-    },
-    {
       "id": "https://www.motorsport.com/f1/news/christian-horner-blames-dietrich-mateschitzs-death-for-the-painful-end-of-his-f1-reign/10864830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Chrisitan Horner “wasn’t given a reason” for his “painful” Red Bull exit after Dietrich Mateschitz’s death",
       "snippet": "More than a year after his abrupt and highly controversial exit from the Red Bull Racing pitwall in July 2025, former team principal Christian Horner is finally shedding light on the exact circumstances surrounding his dismissal.In an interview with The Guardian, the 52-year-old executive stripped away the paddock rumours and placed the blame for his exit squarely on a massive corporate power ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/christian-horner-blames-dietrich-mateschitzs-death-for-the-painful-end-of-his-f1-reign/10864830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6lmAoO40/s6/untitled-design-2026-10-13t105-2.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6lmAoO40/s6/untitled-design-2026-10-13t105-2.jpg",
       "published_at": 1791885284000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/f1-signs-historic-10-year-rwanda-deal-to-host-african-grand-prix/10864835/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "F1 signs historic 10-year Rwanda deal to host African Grand Prix",
+      "snippet": "The government of Rwanda and Formula 1 have announced a 10-year deal for a new African Grand Prix in the capital Kigali, which will first be held in 2030 at the earliest.F1 will head to a yet-to-be-built natural road course 40km south of Kigali, next to the Rwandan capital's under-construction Bugesera international airport. The first edition of the race, which is officially billed as 'Formula ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/f1-signs-historic-10-year-rwanda-deal-to-host-african-grand-prix/10864835/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0qgKodEY/s6/kigali-track-2.jpg",
+      "published_at": 1791883213000
     },
     {
       "id": "https://www.motorsport.com/f1/news/fred-vasseur-not-sure-if-red-bull-is-currently-f1s-best-team/10864684/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -64,7 +91,7 @@
       "snippet": "Ferrari boss Fred Vasseur has refused to label Red Bull as the current best team in Formula 1 despite Max Verstappen winning the last two grands prix from pole.The four-time world champion took his first victory of 2026 with a dominant performance in Malaysia, before winning both the Singapore sprint and grand prix just one week later.It comes after Red Bull brought a large upgrade to Baku ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/fred-vasseur-not-sure-if-red-bull-is-currently-f1s-best-team/10864684/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YpbAoQZ0/s6/max-verstappen-red-bull-racing.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YpbAoQZ0/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1791878875000
     },
     {
@@ -82,7 +109,7 @@
       "snippet": "Climbing from 19th to ninth on a street circuit sounds like a decent Sunday's work, and for George Russell it was. It also fell short of what Mercedes had pencilled in, and Toto Wolff has now laid out why. Wolff's argument is that Marina Bay punishes anyone who gets close to the car ahead.\"I think it's so difficult here to overtake. The moment you catch the car in front, you have such a ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/toto-wolff-reveals-the-problem-behind-george-russells-singapore-gp-recovery/10864793/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6zoDkLp0/s6/untitled-design-2026-10-13t003-2.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6zoDkLp0/s6/untitled-design-2026-10-13t003-2.jpg",
       "published_at": 1791855302000
     },
     {
@@ -91,17 +118,8 @@
       "snippet": "McLaren is hoping its upgrade plan can do two things at once: close the gap to the front of the grid while also forming an understanding of which aerodynamic concept it should be targeting for next year's Formula 1 season. Team principal Andrea Stella has laid out his thinking on the team's upgrade plan following the Singapore race.Reigning champion Lando Norris said that he believed the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/mclaren-to-phase-upgrades-for-2026-fight-and-next-years-f1-development/10864787/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/25dL7Gx0/s6/untitled-design-2026-10-12t234-2.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/25dL7Gx0/s6/untitled-design-2026-10-12t234-2.jpg",
       "published_at": 1791851703000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/why-kimi-antonelli-was-left-fighting-his-mercedes-brakes-during-the-singapore-gp/10864784/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Why Kimi Antonelli was left fighting his Mercedes brakes during the Singapore GP",
-      "snippet": "Kimi Antonelli left the Marina Bay Circuit with another podium finish and a 102-point lead over team-mate George Russell. He is indeed in control of the drivers' championship with another great race under his belt. But he left the track and almost put his Mercedes into a barrier because the brake pedal started misbehaving.The third-place finish behind Red Bull's Max Verstappen and Ferrari's ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/why-kimi-antonelli-was-left-fighting-his-mercedes-brakes-during-the-singapore-gp/10864784/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0R7BqJg2/s6/untitled-design-2026-10-12t230-2.jpg",
-      "published_at": 1791844502000
     },
     {
       "id": "https://www.motorsport.com/f1/news/lewis-hamilton-sends-message-to-fans-after-singapore-gp-mistake/10864782/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -109,8 +127,17 @@
       "snippet": "Lewis Hamilton spent his time following the difficult Singapore Grand Prix pointing his finger not at his team, but at himself. The Ferrari driver finished sixth at the Marina Bay Circuit after he chose to disobey his team's strategy and not pit when he was called to. While he didn't attend post-race interviews due to him feeling unwell, he has now sent a message to fans via his ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lewis-hamilton-sends-message-to-fans-after-singapore-gp-mistake/10864782/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/Y9lNGXA2/s6/untitled-design-2026-10-12t223-2.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/Y9lNGXA2/s6/untitled-design-2026-10-12t223-2.jpg",
       "published_at": 1791840732000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/why-kimi-antonelli-escaped-a-singapore-gp-track-limits-penalty-despite-four-violations/10864634/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "How Kimi Antonelli escaped a Singapore GP track limits penalty despite four violations",
+      "snippet": "Following the chequered flag at the 2026 Singapore Grand Prix, Formula 1 fans and paddock observers were left deeply divided when official timing graphics confirmed that championship leader Andrea Kimi Antonelli had accumulated four separate track limit violations during the 62-lap race. Under the FIA’s established penalty guidelines, reaching four strikes in a Grand Prix is supposed to ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/why-kimi-antonelli-escaped-a-singapore-gp-track-limits-penalty-despite-four-violations/10864634/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6n7bolo0/s6/untitled-design-99-2.jpg",
+      "published_at": 1791808941000
     },
     {
       "id": "https://www.motorsport.com/f1/news/oscar-piastri-on-his-singapore-puncture-ironically-it-probably-helped/10864632/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -118,17 +145,8 @@
       "snippet": "Oscar Piastri believes his Singapore Grand Prix puncture actually helped him overtake Lewis Hamilton for fifth place in Sunday’s Formula 1 race.Piastri lay a lonely sixth – 20 seconds down on third-placed Hamilton and seven seconds adrift of team-mate Lando Norris – when the virtual safety car was called into action on lap 39 at the Marina Bay Street Circuit, as Lance Stroll pulled aside ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/oscar-piastri-on-his-singapore-puncture-ironically-it-probably-helped/10864632/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YN7vqve6/s6/oscar-piastri-mclaren.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YN7vqve6/s6/oscar-piastri-mclaren.jpg",
       "published_at": 1791831903000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/why-antonelli-avoided-a-penalty-despite-four-track-limits-incidents-in-singapore-gp/10864591/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Why Antonelli avoided a penalty despite four track limits incidents in Singapore GP",
-      "snippet": "Kimi Antonelli committed what appeared to be four track limits violations during the Formula 1 Singapore Grand Prix but avoided a penalty.This left many onlookers puzzled post-race, although the usual five-second penalty would not have changed the result: Antonelli finished third, 15.9 seconds ahead of fourth-placed Lando Norris.An immediate post-race assumption was that his fourth ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/why-antonelli-avoided-a-penalty-despite-four-track-limits-incidents-in-singapore-gp/10864591/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0Zq8yKV6/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": 1791795195000
     },
     {
       "id": "https://www.motorsport.com/f1/news/how-to-watch-max-verstappen-race-gt-world-challenge-portimao-free-live-stream-start-time-and-schedu/10864757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -136,7 +154,7 @@
       "snippet": "After a successful weekend in Singapore, Max Verstappen is now spending a rare week outside of Formula 1 behind the wheel of a Mercedes-AMG GT3. Apparently, the F1 schedule isn't punishing enough for the Dutchman, who will be racing Portimao, Portugal, in the season-concluding 2026 GT World Challenge round. This is how and where you can watch it.The Red Bull driver will be coming off not just ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/how-to-watch-max-verstappen-race-gt-world-challenge-portimao-free-live-stream-start-time-and-schedu/10864757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0Zq83vo6/s6/untitled-design-100-2.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0Zq83vo6/s6/untitled-design-100-2.jpg",
       "published_at": 1791822575000
     },
     {
@@ -145,7 +163,7 @@
       "snippet": "When Charles Leclerc had a better start than Max Verstappen and claimed the inside line for Turn 1, many in the media centre thought the Monegasque should have held his ground to take the lead.However, Verstappen was on the outside, on the normal racing line that offered slightly more grip, and the Dutchman was prepared to take every risk. Verstappen had already told Autosport a day earlier ...Keep reading",
       "link": "https://www.autosport.com/f1/news/charles-leclerc-admits-he-missed-a-chance-against-max-verstappen-but-not-the-obvious-one/10864639/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/25dL7LJ0/s6/charles-leclerc-ferrari-max-ve.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/25dL7LJ0/s6/charles-leclerc-ferrari-max-ve.jpg",
       "published_at": 1791820437000
     },
     {
@@ -158,21 +176,12 @@
       "published_at": 1791813600000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/formula-1-prepares-to-trigger-imola-season-finale-amid-escalating-regional-security-threats/10864677/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Kimi Antonelli’s title hopes boosted by proposed F1 calendar overhaul",
-      "snippet": "The final stretch of the 2026 Formula 1 World Championship is facing a massive, unprecedented logistical overhaul. Following severe security escalations across the Middle East - specifically punctuated by reports of consecutive bombings at Riyadh airport today - the sport's governing body is rapidly moving to scrap the season-ending Qatar and Abu Dhabi Grands Prix.While Formula 1 CEO Stefano ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/formula-1-prepares-to-trigger-imola-season-finale-amid-escalating-regional-security-threats/10864677/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6lmAolx0/s6/untitled-design-98-3.jpg",
-      "published_at": 1791807244000
-    },
-    {
       "id": "https://www.motorsport.com/f1/news/the-hidden-factor-that-gives-max-verstappen-and-red-bull-extra-hope-for-2027/10864675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "The hidden factor that gives Max Verstappen and Red Bull extra hope for 2027",
       "snippet": "With two victories in the last three Grands Prix and a deficit of just 0.196 seconds in Baku, Verstappen and Red Bull are firmly back at the front in Formula 1. The resurgence has understandably come too late to play a meaningful role in the title fight, although Verstappen now has a top-three finish in the drivers' championship in his sights.Verstappen trails Lewis Hamilton by just eight ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/the-hidden-factor-that-gives-max-verstappen-and-red-bull-extra-hope-for-2027/10864675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YpbAG3d0/s6/max-verstappen-red-bull-racing.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YpbAG3d0/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1791806477000
     },
     {
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-4.motorsport.com/images/amp/0rVPoG50/s6/lando-norris-mclaren.jpg",
       "published_at": 1791801107000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/why-charles-leclerc-failed-to-outbrake-max-verstappen-in-turn-1-at-singapore-gp/10864594/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Why Charles Leclerc failed to outbrake Max Verstappen in Turn 1 at Singapore GP",
-      "snippet": "Charles Leclerc and Max Verstappen have explained what happened at the start of Formula 1’s Singapore Grand Prix, where the Ferrari driver had the best launch but failed to outdo his rival.Despite starting from the dirty side of the track – which admittedly wasn’t as dirty as usual given it had rained the day before – Leclerc had his front axle nearly alongside Verstappen’s within ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/why-charles-leclerc-failed-to-outbrake-max-verstappen-in-turn-1-at-singapore-gp/10864594/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/25dL7LJ0/s6/charles-leclerc-ferrari-max-ve-3.jpg",
-      "published_at": 1791797431000
     }
   ]
 }
