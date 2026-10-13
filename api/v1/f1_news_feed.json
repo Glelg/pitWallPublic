@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-10-13T20:32:21.101444Z",
+    "last_updated": "2026-10-13T21:02:31.796430Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/watch/video/13598992/an-absolute-delight-nqobile-khwezi-thrilled-to-have-african-grand-prix-in-rwanda",
+      "title": "'An absolute delight' - Nqobile Khwezi thrilled to have African GP in Rwanda",
+      "snippet": "South African Formula 1 presenter and content creator Nqobile Khwezi says it's an 'absolute delight' for Rwanda to be chosen to host a brand-new African Grand Prix from the early 2030s.",
+      "link": "https://www.skysports.com/watch/video/13598992/an-absolute-delight-nqobile-khwezi-thrilled-to-have-african-grand-prix-in-rwanda",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-rwanda-f1_7376260.jpg?20261013213105",
+      "published_at": 1791926820000
+    },
     {
       "id": "https://www.autosport.com/f1/news/five-key-takeaways-from-f1s-big-african-grand-prix-reveal-in-rwanda/10865014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "title": "Five key takeaways from F1's big African Grand Prix reveal in Rwanda",
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-5.motorsport.com/images/amp/YN7vqve6/s6/oscar-piastri-mclaren.jpg",
       "published_at": 1791831903000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/charles-leclerc-admits-he-missed-a-chance-against-max-verstappen-but-not-the-obvious-one/10864639/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "The not-so-obvious chance Leclerc missed to usurp Verstappen",
-      "snippet": "When Charles Leclerc had a better start than Max Verstappen and claimed the inside line for Turn 1, many in the media centre thought the Monegasque should have held his ground to take the lead.However, Verstappen was on the outside, on the normal racing line that offered slightly more grip, and the Dutchman was prepared to take every risk. Verstappen had already told Autosport a day earlier ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/charles-leclerc-admits-he-missed-a-chance-against-max-verstappen-but-not-the-obvious-one/10864639/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/25dL7LJ0/s6/charles-leclerc-ferrari-max-ve.jpg",
-      "published_at": 1791820437000
     }
   ]
 }
