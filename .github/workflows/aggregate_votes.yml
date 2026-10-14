@@ -19,6 +19,14 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Ensure Up to Date
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main || true
 
       - name: Process Fan Vote Payload
         uses: actions/github-script@v7
@@ -28,7 +36,7 @@ jobs:
             const path = require('path');
             const payload = context.payload ? context.payload.client_payload : null;
             
-            if (!payload || !payload.meetingKey || !payload.driverNumber || !payload.clientId) {
+            if (!payload || payload.meetingKey === undefined || payload.meetingKey === null || !payload.clientId) {
               console.log('No valid user_vote payload provided.');
               return;
             }
@@ -36,8 +44,9 @@ jobs:
             const meetingKey = payload.meetingKey;
             const driverNumber = payload.driverNumber;
             const clientId = payload.clientId;
+            const action = payload.action || (driverNumber === 0 ? 'remove' : 'vote');
 
-            console.log(`Processing vote for meeting: ${meetingKey}, driver: ${driverNumber}, client: ${clientId}`);
+            console.log(`Processing ${action} for meeting: ${meetingKey}, driver: ${driverNumber}, client: ${clientId}`);
 
             // 1. Ensure directories exist
             const dataDir = 'data';
@@ -57,8 +66,12 @@ jobs:
               }
             }
 
-            // 3. Record or update vote (1 vote per clientId per meeting)
-            rawData[clientId] = driverNumber;
+            // 3. Record or remove vote (1 vote per clientId per meeting)
+            if (action === 'remove' || driverNumber === 0) {
+              delete rawData[clientId];
+            } else if (driverNumber) {
+              rawData[clientId] = driverNumber;
+            }
             fs.writeFileSync(rawFile, JSON.stringify(rawData, null, 2));
 
             // 4. Aggregate vote totals
@@ -83,12 +96,22 @@ jobs:
 
       - name: Save and Commit Votes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/*.json
           git add api/v1/votes/*.json
-          if ! git diff --staged --quiet; then
-            git commit -m "Auto-sync fan votes"
-            git pull --rebase origin main || true
-            git push origin main
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
           fi
+          git commit -m "Auto-sync fan votes [meeting ${{ github.event.client_payload.meetingKey }}]"
+          
+          for i in {1..5}; do
+            if git push origin main; then
+              echo "Successfully pushed votes."
+              exit 0
+            fi
+            echo "Push failed, pulling with rebase (attempt $i)..."
+            git pull --rebase origin main || true
+            sleep 2
+          done
+          echo "Failed to push votes after retries."
+          exit 1
