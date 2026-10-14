@@ -1,18 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-10-14T06:32:28.641355Z",
+    "last_updated": "2026-10-14T07:02:28.242470Z",
     "total_news": 22
   },
   "news": [
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13598097/george-russell-mercedes-driver-planning-to-take-another-grid-penalty-for-upgraded-power-unit-element-at-las-vegas-grand-prix",
-      "title": "Russell plans to take grid penalty at Las Vegas GP",
-      "snippet": "Mercedes' George Russell is set to take another grid penalty in November's Las Vegas Grand Prix.",
-      "link": "https://www.skysports.com/f1/news/12433/13598097/george-russell-mercedes-driver-planning-to-take-another-grid-penalty-for-upgraded-power-unit-element-at-las-vegas-grand-prix",
-      "source_name": "Sky Sports",
-      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-f1-george-russell_7374947.jpg?20261012112424",
-      "published_at": 1791957600000
-    },
     {
       "id": "https://www.motorsport.com/f1/news/red-bull-sends-warning-to-f1-rivals-with-engine-development-admission/10865049/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Red Bull sends warning to F1 rivals with engine development admission",
@@ -201,6 +192,15 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-2.motorsport.com/images/amp/YpbAoQZ0/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1791878875000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13598247/lando-norris-mclaren-driver-accepts-blame-for-collision-with-oscar-piastri-in-singapore-grand-prix-sprint",
+      "title": "'I let the team down' - Norris accepts blame for Piastri collision",
+      "snippet": "Lando Norris says he let McLaren down and has taken responsibility for his collision with Oscar Piastri in the Sprint at the Singapore Grand Prix.",
+      "link": "https://www.skysports.com/f1/news/12433/13598247/lando-norris-mclaren-driver-accepts-blame-for-collision-with-oscar-piastri-in-singapore-grand-prix-sprint",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-lando-norris_7375223.jpg?20261012165323",
+      "published_at": 1791871200000
     }
   ]
 }
