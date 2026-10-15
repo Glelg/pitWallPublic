@@ -1,7 +1,7 @@
         {
           "versionCode": 31,
-          "versionName": "0.8.2",
-          "apkUrl": "https://github.com/Glelg/pitWallPublic/releases/download/v0.8.2/pitwall-0.8.2-release.apk",
+          "versionName": "0.7.22",
+          "apkUrl": "https://github.com/Glelg/pitWallPublic/releases/download/v0.7.22/pitwall-0.7.22-release.apk",
           "changelog": "- Telemetry — Multi-driver lap comparison, interactive track layout with zoom/pan, and playback controls with gear shift animations.
 \n- Weather & Schedule — Updated weather data source for accurate Grand Prix session forecasts.
 \n- Notifications & Settings — Customizable reminder preferences for F1 sessions, app updates, and added a Telegram channel link.

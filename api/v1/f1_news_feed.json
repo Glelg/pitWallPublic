@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-15T14:10:19.033444Z",
+    "last_updated": "2026-10-15T15:43:27.586398Z",
     "total_news": 22
   },
   "news": [
@@ -10,17 +10,44 @@
       "snippet": "George Russell’s 2026 Singapore Grand Prix was already a certified nightmare on paper. We already knew he had to swallow a massive 60-place engine penalty, fought a brake pedal that decided to go squishy, and spent two hours baking in the cockpit while a ruptured drink bottle leaked mystery fluid all over him.But thanks to some fresh intel from the German paddock insiders, it turns out his ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/george-russells-singapore-sprint-crash-forced-mercedes-to-use-second-hand-parts/10865313/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7BqAO2/s6/untitled-design-25-3.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0R7BqAO2/s6/untitled-design-25-3.jpg",
       "published_at": 1792058702000
     },
     {
-      "id": "https://www.skysports.com/f1/news/12433/13599318/rafael-camara-haas-sign-brazilian-ferrari-academy-driver-to-team-for-2027-formula-1-season-on-multi-year-deal",
-      "title": "Haas sign Brazilian Camara as Ocon replacement",
-      "snippet": "Formula 2 championship leader Rafael Camara will join Haas on a multi-year deal from the 2027 season as the Brazilian driver steps up to Formula 1.",
-      "link": "https://www.skysports.com/f1/news/12433/13599318/rafael-camara-haas-sign-brazilian-ferrari-academy-driver-to-team-for-2027-formula-1-season-on-multi-year-deal",
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cr15jn74l0pdo?at_medium=RSS&at_campaign=rss",
+      "title": "Brazilian Camara to join Haas for F1 debut in 2027",
+      "snippet": "Brazilian Rafael Camara will join the US-based Haas team for his debut Formula 1 season in 2027.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cr15jn74l0pdo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ea0/live/2edf3e60-c874-11f1-971b-634f423608e9.jpg",
+      "published_at": 1792078887000
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13599662/rafael-camara-signs-multi-year-deal-with-haas-as-esteban-ocons-replacement",
+      "title": "Rafael Camara signs multi-year deal with Haas as Ocon replacement",
+      "snippet": "Rafael Camara has signed a multi-year deal with Haas as Esteban Ocon's replacement.",
+      "link": "https://www.skysports.com/watch/video/13599662/rafael-camara-signs-multi-year-deal-with-haas-as-esteban-ocons-replacement",
       "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-rafael-camara-f1_7377614.jpg?20261015144342",
-      "published_at": 1792076400000
+      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-camera-f1-haas_7377653.jpg?20261015154443",
+      "published_at": 1792078200000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/bernie-collins-on-what-max-verstappens-singapore-radio-failure-revealed-about-him/10865430/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Bernie Collins on what Max Verstappen's Singapore radio failure revealed about him",
+      "snippet": "Former Formula 1 chief strategist and Sky Sports pundit Bernie Collins has praised Max Verstappen's ability to dominate the Singapore Grand Prix despite a one-way radio failure.After winning the sprint race from pole at the Marina Bay Street Circuit, Verstappen went on to claim pole position for the grand prix. But after successfully defending against Charles Leclerc at the race start, the ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/bernie-collins-on-what-max-verstappens-singapore-radio-failure-revealed-about-him/10865430/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0R7BqRO2/s6/untitled-design-50.jpg",
+      "published_at": 1792076760000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/avengers-doomsday-is-coming-to-the-united-states-grand-prix/10865428/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "\"Avengers: Doomsday\" is coming to the United States Grand Prix",
+      "snippet": "Williams is bringing its Marvel livery to the 2026 United States Grand Prix, but Alex Albon and Carlos Sainz won't be racing in it.The Williams F1 team will be putting a painted show car in the team's Fan Zone in Austin. While the livery received a round of compliments from fans, it will purely be a display piece rather than anything that actually drives a lap at the Circuit of the Americas ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/avengers-doomsday-is-coming-to-the-united-states-grand-prix/10865428/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/Y9lNG4x2/s6/untitled-design-30-2.jpg",
+      "published_at": 1792076698000
     },
     {
       "id": "https://www.motorsport.com/f1/news/lando-norriss-business-empire-explained-quadrant-ln4-fusion-and-seat-unique/10865417/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -28,17 +55,8 @@
       "snippet": "Lando Norris's business portfolio now includes a gaming brand born in lockdown, a junior racing team and a stake in a ticketing platform. Each venture puts confidence in a very different industry. One has been partly sold, one is a race team he co-founded, and one is purely an investment. Put them in a list and you can see that Norris is looking to build his future after he hangs up the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lando-norriss-business-empire-explained-quadrant-ln4-fusion-and-seat-unique/10865417/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0JXRqrMY/s6/untitled-design-29-2.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0JXRqrMY/s6/untitled-design-29-2.jpg",
       "published_at": 1792072518000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/max-verstappen-reflects-on-very-special-singapore-gp-moment-with-gianpiero-lambiase/10865394/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Max Verstappen reflects on \"very special\" Singapore GP moment with Gianpiero Lambiase",
-      "snippet": "Four-time Formula 1 champion Max Verstappen has described sharing his first Singapore Grand Prix victory with his departing race engineer Gianpiero Lambiase as \"very special\".The Dutchman secured his second grand prix victory of the season during a dominant weekend at the Marina Bay Street Circuit. He claimed pole position for both the sprint race and grand prix and won both races.The ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/max-verstappen-reflects-on-very-special-singapore-gp-moment-with-gianpiero-lambiase/10865394/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0qgKo38Y/s6/untitled-design-49.jpg",
-      "published_at": 1792069701000
     },
     {
       "id": "https://www.motorsport.com/f1/news/christian-horner-takes-cheeky-swipe-at-guenther-steiner-he-never-achieved-an-f1-podium/10865132/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -46,7 +64,7 @@
       "snippet": "Christian Horner has taken a cheeky swipe at Guenther Steiner for shooting to fame thanks to Netflix hit Drive to Survive, despite his lack of success in Formula 1.Steiner was team boss of minnow squad Haas from 2014 to 2023, overseeing two last-place finishes in the championship with a best result of fifth in 2018 before his removal.The obvious highlight was Kevin Magnussen’s shock pole ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/christian-horner-takes-cheeky-swipe-at-guenther-steiner-he-never-achieved-an-f1-podium/10865132/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0a9eqzk0/s6/guenther-steiner-team-principa.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0a9eqzk0/s6/guenther-steiner-team-principa.jpg",
       "published_at": 1792068393000
     },
     {
@@ -64,7 +82,7 @@
       "snippet": "Former Haas Formula 1 team principal Guenther Steiner says 2025 champion Lando Norris's crash with his McLaren team-mate during the Singapore Grand Prix sprint race was \"not a world champion move\".Norris and Piastri made contact on the last lap of the sprint race. While running in fourth and fifth, Norris went for a move down the inside of his team-mate but ended up clipping Piastri, sending ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lando-norris-slammed-by-guenther-steiner-for-not-a-world-champion-move/10865380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0mXyo356/s6/untitled-design-48.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0mXyo356/s6/untitled-design-48.jpg",
       "published_at": 1792067079000
     },
     {
@@ -91,7 +109,7 @@
       "snippet": "Max Verstappen's Mercedes-AMG and Valentino Rossi's BMW is very different cars with a different number of turbos and a totally different soundtrack. But the rulebook is designed to make them equally fast. The two drivers will race this Saturday at Portimao in the final round of the GT World Challenge Europe Endurance Cup, but how do their weapons of choice compare?It's a 61-car grid this ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/max-verstappen-vs-valentino-rossi-how-their-gt3-cars-compare/10865344/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YpbAo3g0/s6/untitled-design-26-3.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YpbAo3g0/s6/untitled-design-26-3.jpg",
       "published_at": 1792062950000
     },
     {
@@ -100,7 +118,7 @@
       "snippet": "Four-time Formula 1 world champion Max Verstappen is set to make his debut in the GT World Challenge Europe during this weekend's season finale in Portimao.Following his strong performances on the Nurburgring Nordschleife, where only a technical problem prevented an overall victory in the Nurburgring 24 Hours on debut, the Red Bull driver returns to the cockpit of the Mercedes-AMG GT3.The ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/max-verstappen-faq-on-his-gtwc-europe-debut/10865181/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/n6g414b0/s6/max-verstappen-faq-zu-seinem-start-in-der-gtwc-europe-26101402.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/n6g414b0/s6/max-verstappen-faq-zu-seinem-start-in-der-gtwc-europe-26101402.jpg",
       "published_at": 1792058971000
     },
     {
@@ -109,7 +127,7 @@
       "snippet": "Red Bull has unveiled all-white race suits for the upcoming Formula 1 United States Grand Prix in Austin, hinting that a matching one-off livery could also be introduced for the race at the Circuit of the Americas.Four-time champion Max Verstappen and his team-mate Isack Hadjar showed off the new race suits in a video shared on the team's social media platforms. The white design features bold ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/red-bull-reveals-striking-white-f1-race-suits-for-us-gp-as-fans-call-for-matching-livery/10865331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/25dL7mn0/s6/untitled-design-47.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/25dL7mn0/s6/untitled-design-47.jpg",
       "published_at": 1792057089000
     },
     {
@@ -118,7 +136,7 @@
       "snippet": "If there's one thing we know about modern Formula 1 drivers, it's that they hate losing. It doesn't matter if it's the Monaco Grand Prix, a round of F1 on their sim rigs, or a dirt buggy race against a MotoGP rider - they are going to absolutely send it.That competitive streak was on full display when Quad Lock decided to reunite McLaren's Oscar Piastri and MotoGP sensation Pedro Acosta for ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/mclarens-oscar-piastri-conquers-the-dirt-in-high-stakes-f1-and-motogp-crossover/10865289/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/Y9lNGWx2/s6/untitled-design-24.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/Y9lNGWx2/s6/untitled-design-24.jpg",
       "published_at": 1792056902000
     },
     {
@@ -145,7 +163,7 @@
       "snippet": "Red Bull's 2025 seat could have gone to Fernando Alonso or Charles Leclerc, and, according to Christian Horner, he wanted both equally.Horner's upcoming book Drive discusses how the former team chief found himself up against a wall when he tried to find a new driver to sit alongside Max Verstappen. Horner, who ran Red Bull for two decades before his exit in July 2025, says that wall was Helmut ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/christian-horner-wanted-fernando-alonso-and-charles-leclerc-at-red-bull/10865251/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6AlvppoY/s6/untitled-design-22-2.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6AlvppoY/s6/untitled-design-22-2.jpg",
       "published_at": 1792003570000
     },
     {
@@ -172,7 +190,7 @@
       "snippet": "Most racing memoirs begin with a story of a childhood moment or an experience that opened up a life to the world of motorsport. But Christian Horner's Drive skips the foreplay and goes straight to the good bit: the 2021 Abu Dhabi Grand Prix. The now-legendary race confirmed Max Verstappen's first Formula 1 world title, albeit while being a little divisive.The former Red Bull chief explained ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/christian-horner-reveals-why-he-chose-2021-abu-dhabi-gp-to-open-his-memoir/10865209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2wlKwwWY/s6/untitled-design-21-2.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/2wlKwwWY/s6/untitled-design-21-2.jpg",
       "published_at": 1791992179000
     },
     {
@@ -181,26 +199,8 @@
       "snippet": "Lewis Hamilton's sixth place finish at the 2026 Singapore Grand Prix was disappointing for the Ferrari team. After the driver chose not to pit when he was called in, he struggled with tyres towards the end of the race and lost a potential podium finish alongside his team-mate Charles Leclerc. Martin Brundle has now given his verdict on what he called a \"bizarre\" strategy.Writing for Sky ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/martin-brundle-reacts-to-bizarre-lewis-hamilton-singapore-gp-strategy-choice/10865194/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXyooa6/s6/untitled-design-20-3.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0mXyooa6/s6/untitled-design-20-3.jpg",
       "published_at": 1791987745000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13598097/george-russell-mercedes-driver-planning-to-take-another-grid-penalty-for-upgraded-power-unit-element-at-las-vegas-grand-prix",
-      "title": "Russell plans to take grid penalty at Las Vegas GP",
-      "snippet": "Mercedes' George Russell is set to take another grid penalty in November's Las Vegas Grand Prix.",
-      "link": "https://www.skysports.com/f1/news/12433/13598097/george-russell-mercedes-driver-planning-to-take-another-grid-penalty-for-upgraded-power-unit-element-at-las-vegas-grand-prix",
-      "source_name": "Sky Sports",
-      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-f1-george-russell_7374947.jpg?20261014223457",
-      "published_at": 1791957600000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/im-sideways-all-the-time-how-alpines-feral-f1-car-plagued-pierre-gasly-in-singapore/10864744/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "‘I’m sideways all the time’ – How Alpine’s feral F1 car plagued Pierre Gasly in Singapore",
-      "snippet": "Pierre Gasly has delved into the behavioural issues he encountered with Alpine’s Formula 1 car in the Singapore Grand Prix, where he surprisingly failed to score points.Gasly beat his midfield rivals to take the seventh spot on the Marina Bay grid, courtesy of Isack Hadjar’s technical woes and George Russell’s grid penalty; the Frenchman actually was significantly slower than Racing ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/im-sideways-all-the-time-how-alpines-feral-f1-car-plagued-pierre-gasly-in-singapore/10864744/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6grQGV7Y/s6/pierre-gasly-alpine.jpg",
-      "published_at": 1791969540000
     }
   ]
 }
