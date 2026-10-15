@@ -190,14 +190,32 @@ def main():
 
         is_testing = "testing" in m.get('meeting_name', '').lower() or "test" in m.get('meeting_name', '').lower()
 
+        # Загружаем существующую погоду из локального файла расписания, чтобы не терять её при пересборке
+        existing_weather_by_session_key = {}
+        target_file = f"api/v1/f1_schedule_{target_year}.json"
+        if os.path.exists(target_file):
+            try:
+                with open(target_file, "r", encoding="utf-8") as f_old:
+                    old_data = json.load(f_old)
+                    for old_m in old_data.get("meetings", []):
+                        for old_s in old_m.get("sessions", []):
+                            if old_s.get("session_key") and old_s.get("weather"):
+                                existing_weather_by_session_key[old_s["session_key"]] = old_s["weather"]
+            except Exception:
+                pass
+
         formatted_sessions = []
         for s in m_sessions:
-            formatted_sessions.append({
-                "session_key": s.get('session_key'),
+            sess_key = s.get('session_key')
+            sess_obj = {
+                "session_key": sess_key,
                 "session_name": s.get('session_name', 'Session'),
                 "session_type": s.get('session_type', 'Practice'),
                 "date_start": s.get('date_start', '')
-            })
+            }
+            if sess_key in existing_weather_by_session_key:
+                sess_obj["weather"] = existing_weather_by_session_key[sess_key]
+            formatted_sessions.append(sess_obj)
 
         # Привязываем подиум СТРОГО от Главной воскресной гонки
         top_results = None
@@ -246,6 +264,12 @@ def main():
             json.dump(final_data, f, ensure_ascii=False, indent=2)
 
     update_schedule_status_file("OK", success=True)
+    try:
+        from fill_season_weather import fill_season_weather
+        fill_season_weather(target_year)
+    except Exception as e:
+        print(f"Не удалось заполнить погоду: {e}")
+
     print(f"=== Полный успех! Подиумы Главных гонок сохранены: {file_path_year} ===")
 
 if __name__ == "__main__":
