@@ -23,19 +23,31 @@
           "session_key": 9683,
           "session_name": "Day 1",
           "session_type": "Practice",
-          "date_start": "2025-02-26T07:00:00+00:00"
+          "date_start": "2025-02-26T07:00:00+00:00",
+          "weather": {
+            "temp": 15.4,
+            "weather_code": 2
+          }
         },
         {
           "session_key": 9684,
           "session_name": "Day 2",
           "session_type": "Practice",
-          "date_start": "2025-02-27T07:00:00+00:00"
+          "date_start": "2025-02-27T07:00:00+00:00",
+          "weather": {
+            "temp": 14.6,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 9685,
           "session_name": "Day 3",
           "session_type": "Practice",
-          "date_start": "2025-02-28T07:00:00+00:00"
+          "date_start": "2025-02-28T07:00:00+00:00",
+          "weather": {
+            "temp": 17.6,
+            "weather_code": 3
+          }
         }
       ]
     },
@@ -76,31 +88,51 @@
           "session_key": 9686,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-03-14T01:30:00+00:00"
+          "date_start": "2025-03-14T01:30:00+00:00",
+          "weather": {
+            "temp": 22.2,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9687,
           "session_name": "Practice 2",
           "session_type": "Practice",
-          "date_start": "2025-03-14T05:00:00+00:00"
+          "date_start": "2025-03-14T05:00:00+00:00",
+          "weather": {
+            "temp": 24.3,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 9688,
           "session_name": "Practice 3",
           "session_type": "Practice",
-          "date_start": "2025-03-15T01:30:00+00:00"
+          "date_start": "2025-03-15T01:30:00+00:00",
+          "weather": {
+            "temp": 30.5,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 9689,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-03-15T05:00:00+00:00"
+          "date_start": "2025-03-15T05:00:00+00:00",
+          "weather": {
+            "temp": 36.4,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 9693,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-03-16T04:00:00+00:00"
+          "date_start": "2025-03-16T04:00:00+00:00",
+          "weather": {
+            "temp": 16.6,
+            "weather_code": 61
+          }
         }
       ]
     },
@@ -141,31 +173,51 @@
           "session_key": 9988,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-03-21T03:30:00+00:00"
+          "date_start": "2025-03-21T03:30:00+00:00",
+          "weather": {
+            "temp": 20.6,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9989,
           "session_name": "Sprint Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-03-21T07:30:00+00:00"
+          "date_start": "2025-03-21T07:30:00+00:00",
+          "weather": {
+            "temp": 23.5,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9993,
           "session_name": "Sprint",
           "session_type": "Race",
-          "date_start": "2025-03-22T03:00:00+00:00"
+          "date_start": "2025-03-22T03:00:00+00:00",
+          "weather": {
+            "temp": 23.7,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9994,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-03-22T07:00:00+00:00"
+          "date_start": "2025-03-22T07:00:00+00:00",
+          "weather": {
+            "temp": 25.9,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9998,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-03-23T07:00:00+00:00"
+          "date_start": "2025-03-23T07:00:00+00:00",
+          "weather": {
+            "temp": 27.8,
+            "weather_code": 1
+          }
         }
       ]
     },
@@ -206,31 +258,51 @@
           "session_key": 9999,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-04-04T02:30:00+00:00"
+          "date_start": "2025-04-04T02:30:00+00:00",
+          "weather": {
+            "temp": 14.0,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 10000,
           "session_name": "Practice 2",
           "session_type": "Practice",
-          "date_start": "2025-04-04T06:00:00+00:00"
+          "date_start": "2025-04-04T06:00:00+00:00",
+          "weather": {
+            "temp": 14.2,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 10001,
           "session_name": "Practice 3",
           "session_type": "Practice",
-          "date_start": "2025-04-05T02:30:00+00:00"
+          "date_start": "2025-04-05T02:30:00+00:00",
+          "weather": {
+            "temp": 14.4,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 10002,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-04-05T06:00:00+00:00"
+          "date_start": "2025-04-05T06:00:00+00:00",
+          "weather": {
+            "temp": 14.7,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 10006,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-04-06T05:00:00+00:00"
+          "date_start": "2025-04-06T05:00:00+00:00",
+          "weather": {
+            "temp": 14.7,
+            "weather_code": 53
+          }
         }
       ]
     },
@@ -271,31 +343,51 @@
           "session_key": 10007,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-04-11T11:30:00+00:00"
+          "date_start": "2025-04-11T11:30:00+00:00",
+          "weather": {
+            "temp": 33.9,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 10008,
           "session_name": "Practice 2",
           "session_type": "Practice",
-          "date_start": "2025-04-11T15:00:00+00:00"
+          "date_start": "2025-04-11T15:00:00+00:00",
+          "weather": {
+            "temp": 29.0,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 10009,
           "session_name": "Practice 3",
           "session_type": "Practice",
-          "date_start": "2025-04-12T12:30:00+00:00"
+          "date_start": "2025-04-12T12:30:00+00:00",
+          "weather": {
+            "temp": 34.0,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 10010,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-04-12T16:00:00+00:00"
+          "date_start": "2025-04-12T16:00:00+00:00",
+          "weather": {
+            "temp": 25.4,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 10014,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-04-13T15:00:00+00:00"
+          "date_start": "2025-04-13T15:00:00+00:00",
+          "weather": {
+            "temp": 25.2,
+            "weather_code": 0
+          }
         }
       ]
     },
@@ -336,31 +428,51 @@
           "session_key": 10015,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-04-18T13:30:00+00:00"
+          "date_start": "2025-04-18T13:30:00+00:00",
+          "weather": {
+            "temp": 30.6,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 10016,
           "session_name": "Practice 2",
           "session_type": "Practice",
-          "date_start": "2025-04-18T17:00:00+00:00"
+          "date_start": "2025-04-18T17:00:00+00:00",
+          "weather": {
+            "temp": 28.3,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 10017,
           "session_name": "Practice 3",
           "session_type": "Practice",
-          "date_start": "2025-04-19T13:30:00+00:00"
+          "date_start": "2025-04-19T13:30:00+00:00",
+          "weather": {
+            "temp": 31.9,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 10018,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-04-19T17:00:00+00:00"
+          "date_start": "2025-04-19T17:00:00+00:00",
+          "weather": {
+            "temp": 29.1,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 10022,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-04-20T17:00:00+00:00"
+          "date_start": "2025-04-20T17:00:00+00:00",
+          "weather": {
+            "temp": 28.8,
+            "weather_code": 0
+          }
         }
       ]
     },
@@ -401,31 +513,51 @@
           "session_key": 10023,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-05-02T16:30:00+00:00"
+          "date_start": "2025-05-02T16:30:00+00:00",
+          "weather": {
+            "temp": 27.9,
+            "weather_code": 51
+          }
         },
         {
           "session_key": 10024,
           "session_name": "Sprint Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-05-02T20:30:00+00:00"
+          "date_start": "2025-05-02T20:30:00+00:00",
+          "weather": {
+            "temp": 28.8,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 10028,
           "session_name": "Sprint",
           "session_type": "Race",
-          "date_start": "2025-05-03T16:00:00+00:00"
+          "date_start": "2025-05-03T16:00:00+00:00",
+          "weather": {
+            "temp": 28.3,
+            "weather_code": 51
+          }
         },
         {
           "session_key": 10029,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-05-03T20:00:00+00:00"
+          "date_start": "2025-05-03T20:00:00+00:00",
+          "weather": {
+            "temp": 28.6,
+            "weather_code": 53
+          }
         },
         {
           "session_key": 10033,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-05-04T20:00:00+00:00"
+          "date_start": "2025-05-04T20:00:00+00:00",
+          "weather": {
+            "temp": 27.0,
+            "weather_code": 2
+          }
         }
       ]
     },
@@ -466,31 +598,51 @@
           "session_key": 9980,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-05-16T11:30:00+00:00"
+          "date_start": "2025-05-16T11:30:00+00:00",
+          "weather": {
+            "temp": 17.7,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9981,
           "session_name": "Practice 2",
           "session_type": "Practice",
-          "date_start": "2025-05-16T15:00:00+00:00"
+          "date_start": "2025-05-16T15:00:00+00:00",
+          "weather": {
+            "temp": 17.7,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9982,
           "session_name": "Practice 3",
           "session_type": "Practice",
-          "date_start": "2025-05-17T10:30:00+00:00"
+          "date_start": "2025-05-17T10:30:00+00:00",
+          "weather": {
+            "temp": 19.7,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9983,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-05-17T14:00:00+00:00"
+          "date_start": "2025-05-17T14:00:00+00:00",
+          "weather": {
+            "temp": 20.4,
+            "weather_code": 1
+          }
         },
         {
           "session_key": 9987,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-05-18T13:00:00+00:00"
+          "date_start": "2025-05-18T13:00:00+00:00",
+          "weather": {
+            "temp": 21.8,
+            "weather_code": 1
+          }
         }
       ]
     },
@@ -531,31 +683,51 @@
           "session_key": 9972,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-05-23T11:30:00+00:00"
+          "date_start": "2025-05-23T11:30:00+00:00",
+          "weather": {
+            "temp": 20.6,
+            "weather_code": 1
+          }
         },
         {
           "session_key": 9973,
           "session_name": "Practice 2",
           "session_type": "Practice",
-          "date_start": "2025-05-23T15:00:00+00:00"
+          "date_start": "2025-05-23T15:00:00+00:00",
+          "weather": {
+            "temp": 20.9,
+            "weather_code": 1
+          }
         },
         {
           "session_key": 9974,
           "session_name": "Practice 3",
           "session_type": "Practice",
-          "date_start": "2025-05-24T10:30:00+00:00"
+          "date_start": "2025-05-24T10:30:00+00:00",
+          "weather": {
+            "temp": 19.7,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9975,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-05-24T14:00:00+00:00"
+          "date_start": "2025-05-24T14:00:00+00:00",
+          "weather": {
+            "temp": 20.8,
+            "weather_code": 51
+          }
         },
         {
           "session_key": 9979,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-05-25T13:00:00+00:00"
+          "date_start": "2025-05-25T13:00:00+00:00",
+          "weather": {
+            "temp": 22.0,
+            "weather_code": 1
+          }
         }
       ]
     },
@@ -596,31 +768,51 @@
           "session_key": 9964,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-05-30T11:30:00+00:00"
+          "date_start": "2025-05-30T11:30:00+00:00",
+          "weather": {
+            "temp": 28.8,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9965,
           "session_name": "Practice 2",
           "session_type": "Practice",
-          "date_start": "2025-05-30T15:00:00+00:00"
+          "date_start": "2025-05-30T15:00:00+00:00",
+          "weather": {
+            "temp": 29.4,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9966,
           "session_name": "Practice 3",
           "session_type": "Practice",
-          "date_start": "2025-05-31T10:30:00+00:00"
+          "date_start": "2025-05-31T10:30:00+00:00",
+          "weather": {
+            "temp": 26.8,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9967,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-05-31T14:00:00+00:00"
+          "date_start": "2025-05-31T14:00:00+00:00",
+          "weather": {
+            "temp": 27.4,
+            "weather_code": 2
+          }
         },
         {
           "session_key": 9971,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-06-01T13:00:00+00:00"
+          "date_start": "2025-06-01T13:00:00+00:00",
+          "weather": {
+            "temp": 28.9,
+            "weather_code": 3
+          }
         }
       ]
     },
@@ -661,31 +853,51 @@
           "session_key": 9956,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-06-13T17:30:00+00:00"
+          "date_start": "2025-06-13T17:30:00+00:00",
+          "weather": {
+            "temp": 18.4,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 9957,
           "session_name": "Practice 2",
           "session_type": "Practice",
-          "date_start": "2025-06-13T21:00:00+00:00"
+          "date_start": "2025-06-13T21:00:00+00:00",
+          "weather": {
+            "temp": 19.3,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 9958,
           "session_name": "Practice 3",
           "session_type": "Practice",
-          "date_start": "2025-06-14T16:30:00+00:00"
+          "date_start": "2025-06-14T16:30:00+00:00",
+          "weather": {
+            "temp": 20.9,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9959,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-06-14T20:00:00+00:00"
+          "date_start": "2025-06-14T20:00:00+00:00",
+          "weather": {
+            "temp": 22.6,
+            "weather_code": 2
+          }
         },
         {
           "session_key": 9963,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-06-15T18:00:00+00:00"
+          "date_start": "2025-06-15T18:00:00+00:00",
+          "weather": {
+            "temp": 25.4,
+            "weather_code": 0
+          }
         }
       ]
     },
@@ -726,31 +938,51 @@
           "session_key": 9948,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-06-27T11:30:00+00:00"
+          "date_start": "2025-06-27T11:30:00+00:00",
+          "weather": {
+            "temp": 25.4,
+            "weather_code": 51
+          }
         },
         {
           "session_key": 9949,
           "session_name": "Practice 2",
           "session_type": "Practice",
-          "date_start": "2025-06-27T15:00:00+00:00"
+          "date_start": "2025-06-27T15:00:00+00:00",
+          "weather": {
+            "temp": 26.0,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 9950,
           "session_name": "Practice 3",
           "session_type": "Practice",
-          "date_start": "2025-06-28T10:30:00+00:00"
+          "date_start": "2025-06-28T10:30:00+00:00",
+          "weather": {
+            "temp": 25.4,
+            "weather_code": 1
+          }
         },
         {
           "session_key": 9951,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-06-28T14:00:00+00:00"
+          "date_start": "2025-06-28T14:00:00+00:00",
+          "weather": {
+            "temp": 28.0,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9955,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-06-29T13:00:00+00:00"
+          "date_start": "2025-06-29T13:00:00+00:00",
+          "weather": {
+            "temp": 31.6,
+            "weather_code": 2
+          }
         }
       ]
     },
@@ -791,31 +1023,51 @@
           "session_key": 9940,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-07-04T11:30:00+00:00"
+          "date_start": "2025-07-04T11:30:00+00:00",
+          "weather": {
+            "temp": 22.0,
+            "weather_code": 1
+          }
         },
         {
           "session_key": 9941,
           "session_name": "Practice 2",
           "session_type": "Practice",
-          "date_start": "2025-07-04T15:00:00+00:00"
+          "date_start": "2025-07-04T15:00:00+00:00",
+          "weather": {
+            "temp": 23.6,
+            "weather_code": 2
+          }
         },
         {
           "session_key": 9942,
           "session_name": "Practice 3",
           "session_type": "Practice",
-          "date_start": "2025-07-05T10:30:00+00:00"
+          "date_start": "2025-07-05T10:30:00+00:00",
+          "weather": {
+            "temp": 19.1,
+            "weather_code": 51
+          }
         },
         {
           "session_key": 9943,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-07-05T14:00:00+00:00"
+          "date_start": "2025-07-05T14:00:00+00:00",
+          "weather": {
+            "temp": 21.0,
+            "weather_code": 51
+          }
         },
         {
           "session_key": 9947,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-07-06T14:00:00+00:00"
+          "date_start": "2025-07-06T14:00:00+00:00",
+          "weather": {
+            "temp": 19.4,
+            "weather_code": 61
+          }
         }
       ]
     },
@@ -856,31 +1108,51 @@
           "session_key": 9929,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-07-25T10:30:00+00:00"
+          "date_start": "2025-07-25T10:30:00+00:00",
+          "weather": {
+            "temp": 20.1,
+            "weather_code": 51
+          }
         },
         {
           "session_key": 9930,
           "session_name": "Sprint Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-07-25T14:30:00+00:00"
+          "date_start": "2025-07-25T14:30:00+00:00",
+          "weather": {
+            "temp": 21.5,
+            "weather_code": 1
+          }
         },
         {
           "session_key": 9934,
           "session_name": "Sprint",
           "session_type": "Race",
-          "date_start": "2025-07-26T10:00:00+00:00"
+          "date_start": "2025-07-26T10:00:00+00:00",
+          "weather": {
+            "temp": 20.2,
+            "weather_code": 2
+          }
         },
         {
           "session_key": 9935,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-07-26T14:00:00+00:00"
+          "date_start": "2025-07-26T14:00:00+00:00",
+          "weather": {
+            "temp": 22.2,
+            "weather_code": 2
+          }
         },
         {
           "session_key": 9939,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-07-27T13:00:00+00:00"
+          "date_start": "2025-07-27T13:00:00+00:00",
+          "weather": {
+            "temp": 17.3,
+            "weather_code": 51
+          }
         }
       ]
     },
@@ -921,31 +1193,51 @@
           "session_key": 9921,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-08-01T11:30:00+00:00"
+          "date_start": "2025-08-01T11:30:00+00:00",
+          "weather": {
+            "temp": 27.5,
+            "weather_code": 51
+          }
         },
         {
           "session_key": 9922,
           "session_name": "Practice 2",
           "session_type": "Practice",
-          "date_start": "2025-08-01T15:00:00+00:00"
+          "date_start": "2025-08-01T15:00:00+00:00",
+          "weather": {
+            "temp": 28.5,
+            "weather_code": 1
+          }
         },
         {
           "session_key": 9923,
           "session_name": "Practice 3",
           "session_type": "Practice",
-          "date_start": "2025-08-02T10:30:00+00:00"
+          "date_start": "2025-08-02T10:30:00+00:00",
+          "weather": {
+            "temp": 28.0,
+            "weather_code": 1
+          }
         },
         {
           "session_key": 9924,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-08-02T14:00:00+00:00"
+          "date_start": "2025-08-02T14:00:00+00:00",
+          "weather": {
+            "temp": 24.1,
+            "weather_code": 61
+          }
         },
         {
           "session_key": 9928,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-08-03T13:00:00+00:00"
+          "date_start": "2025-08-03T13:00:00+00:00",
+          "weather": {
+            "temp": 24.1,
+            "weather_code": 3
+          }
         }
       ]
     },
@@ -986,31 +1278,51 @@
           "session_key": 9913,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-08-29T10:30:00+00:00"
+          "date_start": "2025-08-29T10:30:00+00:00",
+          "weather": {
+            "temp": 18.6,
+            "weather_code": 2
+          }
         },
         {
           "session_key": 9914,
           "session_name": "Practice 2",
           "session_type": "Practice",
-          "date_start": "2025-08-29T14:00:00+00:00"
+          "date_start": "2025-08-29T14:00:00+00:00",
+          "weather": {
+            "temp": 19.4,
+            "weather_code": 51
+          }
         },
         {
           "session_key": 9915,
           "session_name": "Practice 3",
           "session_type": "Practice",
-          "date_start": "2025-08-30T09:30:00+00:00"
+          "date_start": "2025-08-30T09:30:00+00:00",
+          "weather": {
+            "temp": 18.4,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9916,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-08-30T13:00:00+00:00"
+          "date_start": "2025-08-30T13:00:00+00:00",
+          "weather": {
+            "temp": 19.3,
+            "weather_code": 2
+          }
         },
         {
           "session_key": 9920,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-08-31T13:00:00+00:00"
+          "date_start": "2025-08-31T13:00:00+00:00",
+          "weather": {
+            "temp": 20.4,
+            "weather_code": 3
+          }
         }
       ]
     },
@@ -1051,31 +1363,51 @@
           "session_key": 9905,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-09-05T11:30:00+00:00"
+          "date_start": "2025-09-05T11:30:00+00:00",
+          "weather": {
+            "temp": 23.5,
+            "weather_code": 51
+          }
         },
         {
           "session_key": 9906,
           "session_name": "Practice 2",
           "session_type": "Practice",
-          "date_start": "2025-09-05T15:00:00+00:00"
+          "date_start": "2025-09-05T15:00:00+00:00",
+          "weather": {
+            "temp": 25.4,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9907,
           "session_name": "Practice 3",
           "session_type": "Practice",
-          "date_start": "2025-09-06T10:30:00+00:00"
+          "date_start": "2025-09-06T10:30:00+00:00",
+          "weather": {
+            "temp": 23.0,
+            "weather_code": 1
+          }
         },
         {
           "session_key": 9908,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-09-06T14:00:00+00:00"
+          "date_start": "2025-09-06T14:00:00+00:00",
+          "weather": {
+            "temp": 25.2,
+            "weather_code": 2
+          }
         },
         {
           "session_key": 9912,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-09-07T13:00:00+00:00"
+          "date_start": "2025-09-07T13:00:00+00:00",
+          "weather": {
+            "temp": 25.2,
+            "weather_code": 2
+          }
         }
       ]
     },
@@ -1116,31 +1448,51 @@
           "session_key": 9897,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-09-19T08:30:00+00:00"
+          "date_start": "2025-09-19T08:30:00+00:00",
+          "weather": {
+            "temp": 24.2,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9898,
           "session_name": "Practice 2",
           "session_type": "Practice",
-          "date_start": "2025-09-19T12:00:00+00:00"
+          "date_start": "2025-09-19T12:00:00+00:00",
+          "weather": {
+            "temp": 25.0,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9899,
           "session_name": "Practice 3",
           "session_type": "Practice",
-          "date_start": "2025-09-20T08:30:00+00:00"
+          "date_start": "2025-09-20T08:30:00+00:00",
+          "weather": {
+            "temp": 19.0,
+            "weather_code": 51
+          }
         },
         {
           "session_key": 9900,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-09-20T12:00:00+00:00"
+          "date_start": "2025-09-20T12:00:00+00:00",
+          "weather": {
+            "temp": 19.1,
+            "weather_code": 2
+          }
         },
         {
           "session_key": 9904,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-09-21T11:00:00+00:00"
+          "date_start": "2025-09-21T11:00:00+00:00",
+          "weather": {
+            "temp": 18.8,
+            "weather_code": 3
+          }
         }
       ]
     },
@@ -1181,31 +1533,51 @@
           "session_key": 9889,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-10-03T09:30:00+00:00"
+          "date_start": "2025-10-03T09:30:00+00:00",
+          "weather": {
+            "temp": 28.8,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 9890,
           "session_name": "Practice 2",
           "session_type": "Practice",
-          "date_start": "2025-10-03T13:00:00+00:00"
+          "date_start": "2025-10-03T13:00:00+00:00",
+          "weather": {
+            "temp": 25.9,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 9891,
           "session_name": "Practice 3",
           "session_type": "Practice",
-          "date_start": "2025-10-04T09:30:00+00:00"
+          "date_start": "2025-10-04T09:30:00+00:00",
+          "weather": {
+            "temp": 29.8,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 9892,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-10-04T13:00:00+00:00"
+          "date_start": "2025-10-04T13:00:00+00:00",
+          "weather": {
+            "temp": 28.1,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 9896,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-10-05T12:00:00+00:00"
+          "date_start": "2025-10-05T12:00:00+00:00",
+          "weather": {
+            "temp": 27.8,
+            "weather_code": 3
+          }
         }
       ]
     },
@@ -1246,31 +1618,51 @@
           "session_key": 9878,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-10-17T17:30:00+00:00"
+          "date_start": "2025-10-17T17:30:00+00:00",
+          "weather": {
+            "temp": 29.2,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9879,
           "session_name": "Sprint Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-10-17T21:30:00+00:00"
+          "date_start": "2025-10-17T21:30:00+00:00",
+          "weather": {
+            "temp": 33.1,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9883,
           "session_name": "Sprint",
           "session_type": "Race",
-          "date_start": "2025-10-18T17:00:00+00:00"
+          "date_start": "2025-10-18T17:00:00+00:00",
+          "weather": {
+            "temp": 30.6,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9884,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-10-18T21:00:00+00:00"
+          "date_start": "2025-10-18T21:00:00+00:00",
+          "weather": {
+            "temp": 34.7,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 9888,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-10-19T19:00:00+00:00"
+          "date_start": "2025-10-19T19:00:00+00:00",
+          "weather": {
+            "temp": 28.7,
+            "weather_code": 0
+          }
         }
       ]
     },
@@ -1311,31 +1703,51 @@
           "session_key": 9870,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-10-24T18:30:00+00:00"
+          "date_start": "2025-10-24T18:30:00+00:00",
+          "weather": {
+            "temp": 23.0,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 9871,
           "session_name": "Practice 2",
           "session_type": "Practice",
-          "date_start": "2025-10-24T22:00:00+00:00"
+          "date_start": "2025-10-24T22:00:00+00:00",
+          "weather": {
+            "temp": 25.8,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 9872,
           "session_name": "Practice 3",
           "session_type": "Practice",
-          "date_start": "2025-10-25T17:30:00+00:00"
+          "date_start": "2025-10-25T17:30:00+00:00",
+          "weather": {
+            "temp": 22.0,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9873,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-10-25T21:00:00+00:00"
+          "date_start": "2025-10-25T21:00:00+00:00",
+          "weather": {
+            "temp": 26.4,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9877,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-10-26T20:00:00+00:00"
+          "date_start": "2025-10-26T20:00:00+00:00",
+          "weather": {
+            "temp": 26.8,
+            "weather_code": 0
+          }
         }
       ]
     },
@@ -1376,31 +1788,51 @@
           "session_key": 9859,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-11-07T14:30:00+00:00"
+          "date_start": "2025-11-07T14:30:00+00:00",
+          "weather": {
+            "temp": 23.3,
+            "weather_code": 1
+          }
         },
         {
           "session_key": 9860,
           "session_name": "Sprint Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-11-07T18:30:00+00:00"
+          "date_start": "2025-11-07T18:30:00+00:00",
+          "weather": {
+            "temp": 20.9,
+            "weather_code": 1
+          }
         },
         {
           "session_key": 9864,
           "session_name": "Sprint",
           "session_type": "Race",
-          "date_start": "2025-11-08T14:00:00+00:00"
+          "date_start": "2025-11-08T14:00:00+00:00",
+          "weather": {
+            "temp": 23.0,
+            "weather_code": 51
+          }
         },
         {
           "session_key": 9865,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-11-08T18:00:00+00:00"
+          "date_start": "2025-11-08T18:00:00+00:00",
+          "weather": {
+            "temp": 24.8,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 9869,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-11-09T17:00:00+00:00"
+          "date_start": "2025-11-09T17:00:00+00:00",
+          "weather": {
+            "temp": 18.9,
+            "weather_code": 2
+          }
         }
       ]
     },
@@ -1441,31 +1873,51 @@
           "session_key": 9851,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-11-21T00:30:00+00:00"
+          "date_start": "2025-11-21T00:30:00+00:00",
+          "weather": {
+            "temp": 13.6,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 9852,
           "session_name": "Practice 2",
           "session_type": "Practice",
-          "date_start": "2025-11-21T04:00:00+00:00"
+          "date_start": "2025-11-21T04:00:00+00:00",
+          "weather": {
+            "temp": 10.8,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 9853,
           "session_name": "Practice 3",
           "session_type": "Practice",
-          "date_start": "2025-11-22T00:30:00+00:00"
+          "date_start": "2025-11-22T00:30:00+00:00",
+          "weather": {
+            "temp": 12.6,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 9854,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-11-22T04:00:00+00:00"
+          "date_start": "2025-11-22T04:00:00+00:00",
+          "weather": {
+            "temp": 10.1,
+            "weather_code": 51
+          }
         },
         {
           "session_key": 9858,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-11-23T04:00:00+00:00"
+          "date_start": "2025-11-23T04:00:00+00:00",
+          "weather": {
+            "temp": 12.3,
+            "weather_code": 3
+          }
         }
       ]
     },
@@ -1506,31 +1958,51 @@
           "session_key": 9840,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-11-28T13:30:00+00:00"
+          "date_start": "2025-11-28T13:30:00+00:00",
+          "weather": {
+            "temp": 27.0,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9841,
           "session_name": "Sprint Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-11-28T17:30:00+00:00"
+          "date_start": "2025-11-28T17:30:00+00:00",
+          "weather": {
+            "temp": 21.8,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9845,
           "session_name": "Sprint",
           "session_type": "Race",
-          "date_start": "2025-11-29T14:00:00+00:00"
+          "date_start": "2025-11-29T14:00:00+00:00",
+          "weather": {
+            "temp": 24.0,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9846,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-11-29T18:00:00+00:00"
+          "date_start": "2025-11-29T18:00:00+00:00",
+          "weather": {
+            "temp": 20.5,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9850,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-11-30T16:00:00+00:00"
+          "date_start": "2025-11-30T16:00:00+00:00",
+          "weather": {
+            "temp": 22.3,
+            "weather_code": 0
+          }
         }
       ]
     },
@@ -1571,31 +2043,51 @@
           "session_key": 9832,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2025-12-05T09:30:00+00:00"
+          "date_start": "2025-12-05T09:30:00+00:00",
+          "weather": {
+            "temp": 28.1,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 9833,
           "session_name": "Practice 2",
           "session_type": "Practice",
-          "date_start": "2025-12-05T13:00:00+00:00"
+          "date_start": "2025-12-05T13:00:00+00:00",
+          "weather": {
+            "temp": 25.6,
+            "weather_code": 1
+          }
         },
         {
           "session_key": 9834,
           "session_name": "Practice 3",
           "session_type": "Practice",
-          "date_start": "2025-12-06T10:30:00+00:00"
+          "date_start": "2025-12-06T10:30:00+00:00",
+          "weather": {
+            "temp": 28.0,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9835,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2025-12-06T14:00:00+00:00"
+          "date_start": "2025-12-06T14:00:00+00:00",
+          "weather": {
+            "temp": 24.5,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 9839,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2025-12-07T13:00:00+00:00"
+          "date_start": "2025-12-07T13:00:00+00:00",
+          "weather": {
+            "temp": 26.4,
+            "weather_code": 0
+          }
         }
       ]
     }
