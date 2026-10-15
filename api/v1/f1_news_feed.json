@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-15T05:02:28.036954Z",
+    "last_updated": "2026-10-15T05:32:22.369767Z",
     "total_news": 22
   },
   "news": [
@@ -176,31 +176,31 @@
       "published_at": 1791901690000
     },
     {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo?at_medium=RSS&at_campaign=rss",
-      "title": "Rwanda to host F1's first race in Africa since 1993",
-      "snippet": "Rwanda signs a 10-year deal with Formula 1 to host races in the African country, starting \"in the early 2030s\".",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cvj6j5kyx2p1o?at_medium=RSS&at_campaign=rss",
+      "title": "Verstappen beats Ferraris to Singapore pole",
+      "snippet": "Red Bull's Max Verstappen beats the Ferraris of Charles Leclerc and Lewis Hamilton to pole position in qualifying at the Singapore Grand Prix.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cvj6j5kyx2p1o?at_medium=RSS&at_campaign=rss",
       "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca3/live/0fc085e0-c6e2-11f1-bf38-57dc5cd42af2.jpg",
-      "published_at": 1791897662000
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2084/live/95f182b0-c4ba-11f1-9ce9-55293bd7f0d9.jpg",
+      "published_at": 1791646152000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/why-mclaren-cannot-fix-its-f1-car-handling-for-its-driver-until-2027/10864907/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Why McLaren cannot fix its F1 car handling until 2027",
-      "snippet": "McLaren team principal Andrea Stella has conceded it cannot improve its Formula 1 car handling characteristics ‘without fundamental changes’ that will not be possible until 2027.While every F1 driver has needed to adapt to the new generation of cars and engines in order to extract the maximum performance, often applying unnatural or unusual techniques never used in their entire ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/why-mclaren-cannot-fix-its-f1-car-handling-for-its-driver-until-2027/10864907/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2GdKNrKY/s6/oscar-piastri-mclaren.jpg",
-      "published_at": 1791897111000
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cwn73gmz78reo?at_medium=RSS&at_campaign=rss",
+      "title": "Verstappen wins sprint after Russell crashes out",
+      "snippet": "Red Bull's Max Verstappen wins an incident-packed sprint race at the Singapore Grand Prix after George Russell crashes out of the lead.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cwn73gmz78reo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e8/live/97e81b00-c498-11f1-b094-cb5c335b015a.jpg",
+      "published_at": 1791639827000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/kim-kardashian-revives-hilarious-f1-towel-drama-with-mercedes-star-kimi-antonelli/10864866/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Kim Kardashian revives hilarious F1 towel drama with Mercedes' Kimi Antonelli",
-      "snippet": "The Formula 1 paddock is a massive magnet for high-profile celebrities, but few A-list appearances have generated as much hilarious viral drama as Kim Kardashian's ongoing saga with Mercedes' Andrea Kimi Antonelli.While attending the 2026 Singapore Grand Prix to support Scuderia Ferrari's Lewis Hamilton, the reality TV billionaire ran into the young championship leader on the Singapore ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/kim-kardashian-revives-hilarious-f1-towel-drama-with-mercedes-star-kimi-antonelli/10864866/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0Zq83bL6/s6/untitled-design-2026-10-13t140-3.jpg",
-      "published_at": 1791896786000
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/ck62y7jz1qqro?at_medium=RSS&at_campaign=rss",
+      "title": "Verstappen on sprint pole after another settings issue",
+      "snippet": "Red Bull's Max Verstappen beats Mercedes driver George Russell to sprint pole at the Singapore Grand Prix.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/ck62y7jz1qqro?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98e4/live/d4af98b0-c3e9-11f1-badc-154546719036.jpg",
+      "published_at": 1791560908000
     }
   ]
 }
