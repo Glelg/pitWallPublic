@@ -2,8 +2,9 @@
           "versionCode": 30,
           "versionName": "0.7.22",
           "apkUrl": "https://github.com/Glelg/pitWallPublic/releases/download/v0.7.22/pitwall-0.7.22-release.apk",
-          "changelog": "- History Screen — Smooth season transitions, updated team colors, and improved chart visuals.
-\n- Results & Standings — Placed points and session times inside right-aligned pill badges for a cleaner, balanced layout.
-\n- Interface & Performance — Unified loading indicators, general UI polish, and smoother scrolling.",
+          "changelog": "- Telemetry — Multi-driver lap comparison, interactive track layout with zoom/pan, and playback controls with gear shift animations.
+\n- Weather & Schedule — Updated weather data source for accurate Grand Prix session forecasts.
+\n- Notifications & Settings — Customizable reminder preferences for F1 sessions, app updates, and added a Telegram channel link.
+\n- News & Usability — Faster news synchronization, image preloading, refined scroll haptics, and cleaner driver voting cards.",
           "isForceUpdate": false
         }
