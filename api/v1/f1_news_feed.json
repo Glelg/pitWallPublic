@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-10-16T04:32:24.364722Z",
+    "last_updated": "2026-10-16T05:02:31.178912Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13599493/mercedes-boss-toto-wolff-reveals-latest-verdict-on-car-upgrades-after-unusual-specification-split-at-singapore-gp",
+      "title": "Wolff: Mercedes still need 'crucial' answers about car upgrade",
+      "snippet": "Toto Wolff says it is \"crucial\" for the development of Mercedes' 2027 car that they understand the full extent of their recent upgrade's potential after a \"step in the right direction\" at the Singapore Grand Prix.",
+      "link": "https://www.skysports.com/f1/news/12433/13599493/mercedes-boss-toto-wolff-reveals-latest-verdict-on-car-upgrades-after-unusual-specification-split-at-singapore-gp",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-kimi-antonelli-mercedes_7377615.jpg?20261015145049",
+      "published_at": 1792130400000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/valtteri-bottas-makes-surprising-mercedes-comparison-as-cadillac-builds-f1-future/10865491/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Valtteri Bottas makes surprising Mercedes comparison as Cadillac builds F1 future",
@@ -192,15 +201,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-laurent-mekies-red-bull_7376996.jpg?20261014174721",
       "published_at": 1791998220000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13599164/lewis-hamilton-has-trust-broken-down-between-ferrari-driver-and-teams-pit-wall-after-singapore-gp-issues",
-      "title": "'They need a reset' - Has trust broken down between Hamilton, Ferrari pit wall?",
-      "snippet": "Ferrari's strategy decisions and communication with their drivers came under fresh scrutiny at the Singapore Grand Prix after Lewis Hamilton overrode a call to pit.",
-      "link": "https://www.skysports.com/f1/news/12433/13599164/lewis-hamilton-has-trust-broken-down-between-ferrari-driver-and-teams-pit-wall-after-singapore-gp-issues",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7376936.jpg?20261014162410",
-      "published_at": 1791997200000
     }
   ]
 }
