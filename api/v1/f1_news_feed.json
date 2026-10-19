@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-10-19T06:32:14.163787Z",
+    "last_updated": "2026-10-19T07:02:33.573604Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cm0qk189q5dgo?at_medium=RSS&at_campaign=rss",
+      "title": "How to follow US Grand Prix on the BBC",
+      "snippet": "All the key BBC coverage details for the United States Grand Prix, which takes place from 23-25 October.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm0qk189q5dgo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ff/live/30ae1920-c58e-11f1-a64c-550be9e3c66b.jpg",
+      "published_at": 1792392178000
+    },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cqm24nezmy23o?at_medium=RSS&at_campaign=rss",
       "title": "Best images of F1 in the US through the years",
@@ -192,15 +201,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94a7/live/d5f814c0-c319-11f1-bd97-fbe5a3482cde.jpg",
       "published_at": 1791467297000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/why-antonelli-avoided-a-penalty-despite-four-track-limits-incidents-in-singapore-gp/10864591/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Why Antonelli avoided a penalty despite four track limits incidents in Singapore GP",
-      "snippet": "Kimi Antonelli committed what appeared to be four track limits violations during the Formula 1 Singapore Grand Prix but avoided a penalty.This left many onlookers puzzled post-race, although the usual five-second penalty would not have changed the result: Antonelli finished third, 15.9 seconds ahead of fourth-placed Lando Norris.An immediate post-race assumption was that his fourth ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/why-antonelli-avoided-a-penalty-despite-four-track-limits-incidents-in-singapore-gp/10864591/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0Zq8yKV6/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": 1791795195000
     }
   ]
 }
