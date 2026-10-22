@@ -1,16 +1,52 @@
 {
   "metadata": {
-    "last_updated": "2026-10-22T20:32:24.318894Z",
+    "last_updated": "2026-10-22T21:02:19.833630Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13602364/lewis-hamilton-ferrari-driver-explains-taking-strategy-into-own-hands-in-singapore-ahead-of-united-states-gp",
+      "title": "'That's not enough for me' - Hamilton explains taking strategy into own hands",
+      "snippet": "Lewis Hamilton has explained the reasons why he overrode Ferrari's call to pit in the Singapore Grand Prix, a mistake he says he \"owned up to\" and will work not to repeat - but which would not prevent him from continuing \"challenging the norms\".",
+      "link": "https://www.skysports.com/f1/news/12433/13602364/lewis-hamilton-ferrari-driver-explains-taking-strategy-into-own-hands-in-singapore-ahead-of-united-states-gp",
+      "source_name": "Sky Sports",
+      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7384150.jpg?20261022213730",
+      "published_at": 1792705200000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cjr4y3y9zy2zo?at_medium=RSS&at_campaign=rss",
+      "title": "Antonelli to 'just have fun' as he aims for title",
+      "snippet": "Kimi Antonelli says he intends to \"just have fun\" at the United States Grand Prix as he stands on the brink of the Formula 1 World Championship.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cjr4y3y9zy2zo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/795b/live/b07ecd20-ce58-11f1-a166-e30097724580.jpg",
+      "published_at": 1792702540000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/kimi-antonelli-opens-up-on-fathers-fears-over-his-f1-racing-career/10867151/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Kimi Antonelli opens up on father's fears over his F1 racing career",
+      "snippet": "Current Formula 1 championship leader Kimi Antonelli has revealed that his father did not want him to become a racing driver after seeing his own career end because of a lack of money.The Mercedes driver arrives in Austin for the United States Grand Prix 102 points clear in the championship and could become the youngest champion in the history of F1 on Sunday. His father, Marco, a former ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/kimi-antonelli-opens-up-on-fathers-fears-over-his-f1-racing-career/10867151/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/68Vwmkx2/s6/72945935-15.jpg",
+      "published_at": 1792701859000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/why-colapinto-spoke-out-against-online-abuse/10867150/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Why Colapinto spoke out against abuse targeting his own F1 team",
+      "snippet": "It has become a recurring topic during Franco Colapinto's media sessions throughout the 2026 Formula 1 season: the Argentine feeling the need to speak out against abuse on social media.Colapinto discussed the issue at length during an exclusive interview with Autosport in Monaco, as well as during many of the race weekends that have followed since.After the Singapore Grand Prix last ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/why-colapinto-spoke-out-against-online-abuse/10867150/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YP74eaj2/s6/franco-colapinto-alpine-3.jpg",
+      "published_at": 1792701849000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/lewis-hamilton-forced-to-stay-a-lot-longer-in-f1-after-african-grand-prix-announcement/10867142/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Lewis Hamilton “forced to stay a lot longer” in F1 amid African Grand Prix hopes",
       "snippet": "It’s always an exciting time when Formula 1 plans a new race, but Ferrari’s Lewis Hamilton is over the moon with the news that the championship is heading to Rwanda on a ten-year deal for an African Grand Prix. He’s so excited, in fact, that he’s hoping he can hold on and compete there when the time comes.The race is expected to take place in the early 2030s, which would put the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lewis-hamilton-forced-to-stay-a-lot-longer-in-f1-after-african-grand-prix-announcement/10867142/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6zoDqm70/s6/72945935-33-2.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6zoDqm70/s6/72945935-33-2.jpg",
       "published_at": 1792700883000
     },
     {
@@ -28,7 +64,7 @@
       "snippet": "Isack Hadjar has argued that Red Bull did not have the fastest car at the Singapore Grand Prix, and believes his team-mate Max Verstappen would have won by a bigger margin had he been driving a Ferrari.Verstappen heads into this weekend's United States Grand Prix on the back of two consecutive wins at the Bahrain Grand Prix in Malaysia and the Singapore Grand Prix. The Dutchman dominated the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/isack-hadjar-max-verstappen-would-have-won-singapore-gp-by-more-in-a-ferrari/10867119/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6Alvq59Y/s6/72945935-14.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6Alvq59Y/s6/72945935-14.jpg",
       "published_at": 1792697668000
     },
     {
@@ -37,7 +73,7 @@
       "snippet": "Carlos Sainz has admitted that it's \"difficult\" to be convinced by Formula 1's chiefs that its final rounds in Qatar and Abu Dhabi can go ahead as planned despite the ongoing Middle Eastern conflict.Both F1 management and governing body the FIA have maintained the position that the final two rounds of 2026 in Qatar and Abu Dhabi, scheduled back-to-back at the end of November and first weekend ...Keep reading",
       "link": "https://www.autosport.com/f1/news/sainz-not-convinced-f1-2026-will-finish-in-middle-east/10867117/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6zoDgL70/s6/carlos-sainz-williams-2.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6zoDgL70/s6/carlos-sainz-williams-2.jpg",
       "published_at": 1792697300000
     },
     {
@@ -55,7 +91,7 @@
       "snippet": "Jim Beam says its partnership with the Cadillac Formula 1 team has already led to a rise in sales.The Kentucky bourbon brand, owned by Suntory Global Spirits, is a founding partner of Cadillac F1, which joined the grid as the championship's 11th team in 2026.Speaking on a panel at the Autosport Business Exchange in New York on Wednesday, KK Hall, global brand vice president of Jim Beam ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/jim-beam-reveals-sales-impact-of-cadillac-f1-partnership/10867093/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YK15Ar80/s6/72945935-13.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YK15Ar80/s6/72945935-13.jpg",
       "published_at": 1792696322000
     },
     {
@@ -73,7 +109,7 @@
       "snippet": "From its vast heritage collection, McLaren is selling five Formula 1 cars, including two from Ayrton Senna's final title-winning season and the car that Brad Pitt drove during the filming of the successful F1 movie.The cars will be sold through specialist dealer Tom Hartley Jnr - the same organisation that sold Bernie Ecclestone’s grand prix collection of cars - with them being under the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/mclaren-opens-its-vault-to-sell-five-extraordinary-formula-1-cars/10867087/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YE9EmOLY/s6/72945935-30.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YE9EmOLY/s6/72945935-30.jpg",
       "published_at": 1792695287000
     },
     {
@@ -82,7 +118,7 @@
       "snippet": "Former F1 driver and Sky Sports commentator Martin Brundle has teamed up with his daughter Charlie on an 860hp air-cooled sports car, built by Californian company Gunther Werks - and it's a pretty special machine.The Brundle Edition Turbo is based on Gunther Werks’ reworked Porsche 911 Turbo, and only five will ever be built.Charlie Brundle, a car designer whose CV includes stints at ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/martin-brundle-unveils-incredible-860hp-porsche-911-creation-with-daughter-charlie/10867079/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/68VwmKx2/s6/72945935-29.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/68VwmKx2/s6/72945935-29.jpg",
       "published_at": 1792693562000
     },
     {
@@ -91,7 +127,7 @@
       "snippet": "Esteban Ocon agrees that his Haas replacement Rafael Camara deserves his chance to be in Formula 1, but feels he does not deserve to be without a seat for 2027.Camara's signing was confirmed last week as the Brazilian steps up from F2 - where he is currently the championship leader. Although Oliver Bearman is yet to be officially announced by Haas as staying at the team, the American outfit is ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/esteban-ocon-responds-to-rafael-camara-signing/10867069/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YN7vAde6/s6/esteban-ocon-haas-f1-team.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YN7vAde6/s6/esteban-ocon-haas-f1-team.jpg",
       "published_at": 1792692493000
     },
     {
@@ -100,7 +136,7 @@
       "snippet": "Former Formula 1 CEO Chase Carey has revealed New York was one of only three places F1 considered for new races in the United States after Liberty Media bought the championship, alongside Miami and Las Vegas.Carey ran F1 as CEO from 2017 until Stefano Domenicali took over at the start of 2021. The 72-year-old joined an impressive line-up of panellists at the Autosport Business Exchange in New ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/former-f1-ceo-reveals-third-us-city-targeted-alongside-miami-and-las-vegas/10867067/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0rVPq750/s6/72945935-12.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0rVPq750/s6/72945935-12.jpg",
       "published_at": 1792692109000
     },
     {
@@ -109,7 +145,7 @@
       "snippet": "Christian Horner says his exit from Red Bull was \"pretty abrupt and quite brutal\".The Briton was removed as Red Bull Racing CEO and team principal in July 2025 after 20 years in the job and replaced by Laurent Mekies.Horner headlined the Autosport Business Exchange in New York, which returned to the city for its second edition. The 52-year-old joined a line-up of panellists, including ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/christian-horner-reveals-what-led-up-to-his-abrupt-and-brutal-red-bull-f1-exit/10867047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6Alvql1Y/s6/72945935-11.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6Alvql1Y/s6/72945935-11.jpg",
       "published_at": 1792688874000
     },
     {
@@ -118,7 +154,7 @@
       "snippet": "Max Verstappen's 2024 title-winning Red Bull is one of the most popular Formula 1 cars LEGO has ever made. While the real car was not quite as dominant as the RB19, it did propel Max Verstappen to his fourth F1 championship title. It is still on sale if you fancy yourself a bit of F1 history on your mantel.What is it?The LEGO Technic Oracle Red Bull Racing RB20 F1 Car is a large-scale ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/this-1639-piece-lego-red-bull-rb20-is-packed-with-working-f1-technology/10867049/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0o5AN5bY/s6/72945935-27-2.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0o5AN5bY/s6/72945935-27-2.jpg",
       "published_at": 1792687802000
     },
     {
@@ -127,7 +163,7 @@
       "snippet": "Cadillac has revealed its Formula 1 engine factory will open on 18 December.General Motors was approved by the FIA in 2025 as a power unit supplier from the 2029 season onwards, hence the construction of new F1 engine facilities at the manufacturer’s base in Charlotte, North Carolina.“We're opening our whole engine factory, if you will, in Charlotte, North Carolina on 18 December,” ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/cadillac-reveals-date-for-f1-engine-factory-debut-thanks-drivers-for-being-patient/10867013/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6zoJmJk0/s6/general-motors-president-mark-.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6zoJmJk0/s6/general-motors-president-mark-.jpg",
       "published_at": 1792684891000
     },
     {
@@ -145,7 +181,7 @@
       "snippet": "On 22 October 2006, Fernando Alonso beat Michael Schumacher to the world title in the Brazilian Grand Prix, as the seven-time champion retired from Formula 1.In truth, there was little doubt Alonso was going to clinch a second crown that day. Schumacher’s engine failure and retirement from the lead of the Suzuka race had turned a potential two-point lead into a 10-point deficit, meaning the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/2006-brazilian-gp-alonso-wins-title-schumacher-retires-f1/10866737/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6DGgoX7Y/s6/fernando-alonso-renault-michae.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6DGgoX7Y/s6/fernando-alonso-renault-michae.jpg",
       "published_at": 1792676338000
     },
     {
@@ -163,44 +199,8 @@
       "snippet": "Liberty Media director Chase Carey believes MotoGP “can’t just copy” Netflix’s Formula 1 docuseries Drive to Survive to gain widespread recognition.Liberty acquired F1 in January 2017, and one of the major events under the American company was the release of the Netflix show’s opening season two years later, which substantially contributed to the world championship’s increased ...Keep reading",
       "link": "https://www.autosport.com/motogp/news/motogp-cant-simply-copy-f1s-drive-to-survive-success-chase-carey/10866969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6DGgmVKY/s6/liz-claman-and-chase-carey.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6DGgmVKY/s6/liz-claman-and-chase-carey.jpg",
       "published_at": 1792671111000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/cadillac-unveils-222500-sergio-perez-special-edition-ahead-of-300th-f1-start/10866891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Cadillac unveils $222,500 Sergio Perez special-edition ahead of 300th F1 start",
-      "snippet": "Car manufacturer Cadillac has launched a special edition Escalade-V in the name of its Formula 1 driver Sergio Perez. Just 11 will be made, in celebration of the driver's race number.Aptly named the Escalade-V Checo Perez Edition, the SUV is now on sale in dealers throughout Mexico with a purchase rice of 4,099,000 pesos - or around $222,500. This is roughly 250,000 pesos more than the ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/cadillac-unveils-222500-sergio-perez-special-edition-ahead-of-300th-f1-start/10866891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2wlK3PpY/s6/2027-cadillac-escalade-v-sergi.jpg",
-      "published_at": 1792661219000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13601944/united-states-gp-mclaren-with-upgrades-for-austin-race-as-reigning-f1-champions-bid-to-ward-off-red-bull-threat",
-      "title": "Can McLaren 'up their game' to respond to Red Bull threat?",
-      "snippet": "McLaren will introduce further upgrades at the United States Grand Prix as they bid to improve their car's performance and stave off a resurgent Red Bull in the standings over the remainder of the season.",
-      "link": "https://www.skysports.com/f1/news/12433/13601944/united-states-gp-mclaren-with-upgrades-for-austin-race-as-reigning-f1-champions-bid-to-ward-off-red-bull-threat",
-      "source_name": "Sky Sports",
-      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-mclaren-f1-2026-oscar-piastri_7383025.jpg?20261021172442",
-      "published_at": 1792648800000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/f1s-arrival-in-austin-could-trigger-staggering-1-billion-economic-boost/10866804/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "F1's arrival in Austin could trigger staggering $1 billion economic boost",
-      "snippet": "Austin is in for a big weekend, and the city's tourism chief says the United States Grand Prix could be worth around $1billion to the area as the Formula 1 circus arrives in Texas. Tom Noonan, president and chief executive of Visit Austin, is excited for the cars to arrive on track. But the fun starts much earlier than that.“These [F1] teams get in town like seven to nine days in advance,” ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/f1s-arrival-in-austin-could-trigger-staggering-1-billion-economic-boost/10866804/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YWKAN8BY/s6/72945935-22.jpg",
-      "published_at": 1792625702000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/f1-unveils-limited-edition-leica-camera-with-eye-watering-9950-price-tag/10866811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "F1 unveils limited-edition Leica camera with eye-watering $9,950 price tag",
-      "snippet": "Formula 1 had a busy few days. The championship finalised licensing partnership agreement with Leica Camera, resulting in a carbon-accented model priced at an eye-watering $9,950. It's a luxury toy for people who like F1 and photography enough to warrant an almost-five-figure purchase.The model is a limited production variant of the Q3 43 line, pairing a 60-megapixel full-frame imaging sensor ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/f1-unveils-limited-edition-leica-camera-with-eye-watering-9950-price-tag/10866811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0JXRq3MY/s6/72945935-26.jpg",
-      "published_at": 1792624391000
     }
   ]
 }
