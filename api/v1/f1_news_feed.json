@@ -1,16 +1,34 @@
 {
   "metadata": {
-    "last_updated": "2026-10-23T17:33:19.069270Z",
+    "last_updated": "2026-10-23T18:03:36.272977Z",
     "total_news": 22
   },
   "news": [
     {
+      "id": "https://www.motorsport.com/f1/news/norris-issues-brutal-warning-to-mclaren-one-of-the-hardest-cars-ive-ever-had-to-drive/10867466/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Norris issues brutal warning to McLaren: “One of the hardest cars I’ve ever had to drive”",
+      "snippet": "When a Formula 1 driver strings together a streak of pole positions and commanding race victories, the natural assumption is that their car is perfectly dialled in and driving like it's on rails. But Lando Norris is completely shattering that illusion for McLaren fans as the grid prepares for the United States Grand Prix.Despite an incredibly strong run over the summer that saw him ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/norris-issues-brutal-warning-to-mclaren-one-of-the-hardest-cars-ive-ever-had-to-drive/10867466/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6x7LorrY/s6/motorsport-com-graphics-4-2.jpg",
+      "published_at": 1792778168000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/george-russell-reveals-he-lost-sleep-over-his-own-driving-not-the-f1-championship/10867451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "George Russell reveals he lost sleep over his own driving, not the F1 championship",
+      "snippet": "It is no secret that the 2026 Formula 1 season has been an absolute nightmare for George Russell. While his 19-year-old team-mate Andrea Kimi Antonelli is currently cruising toward a potential Drivers' Championship title, Russell has been plagued by a brutal mix of mechanical failures, bad luck, and a car that simply doesn't suit his driving style.When things get this bad, most drivers start ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/george-russell-reveals-he-lost-sleep-over-his-own-driving-not-the-f1-championship/10867451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/27Noe3X0/s6/motorsport-com-graphics-3-2.jpg",
+      "published_at": 1792777754000
+    },
+    {
       "id": "https://www.skysports.com/f1/live-blog/12433/13601266/f1-united-states-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-austin",
-      "title": "United States GP: Mercedes rivals with upgrades in first Austin practice LIVE!",
+      "title": "United States GP: Upgraded Ferraris setting early practice pace LIVE!",
       "snippet": "",
       "link": "https://www.skysports.com/f1/live-blog/12433/13601266/f1-united-states-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-austin",
       "source_name": "Sky Sports",
-      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-max-verstappen-red-bull_7384823.jpg?20261023174654",
+      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-charles-leclerc-ferrari_7384909.jpg?20261023185809",
       "published_at": 1792777200000
     },
     {
@@ -19,7 +37,7 @@
       "snippet": "When your team-mate is on the verge of sealing the Formula 1 World Championship, the absolute last thing you want to admit is that your team’s latest multi-million-dollar upgrade package is a bit of a dud. But as the F1 paddock descends on the Circuit of the Americas for the United States Grand Prix, George Russell is keeping things brutally honest about the current state of Mercedes.During ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/george-russell-admits-mercedes-still-needs-time-to-fine-tune-problematic-upgrade-package/10867446/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0LdeAlJ0/s6/motorsport-com-graphics-2-2.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0LdeAlJ0/s6/motorsport-com-graphics-2-2.jpg",
       "published_at": 1792775891000
     },
     {
@@ -28,7 +46,7 @@
       "snippet": "Lewis Hamilton says Kimi Antonelli has been “massively impressive” and “deserves to be the champion”, with the Formula 1 world title within reach of the Mercedes driver in Austin.Going into the United States Grand Prix, Antonelli enjoys a 102-point lead on team-mate George Russell, with Hamilton 111 points adrift, meaning the sophomore can be crowned as early as this weekend if he ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lewis-hamilton-kimi-antonelli-deserves-to-be-the-champion/10867431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6n7AJ7X0/s6/lewis-hamilton-ferrari-andrea-.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6n7AJ7X0/s6/lewis-hamilton-ferrari-andrea-.jpg",
       "published_at": 1792768761000
     },
     {
@@ -37,7 +55,7 @@
       "snippet": "Two-time Formula 1 world champion Fernando Alonso has welcomed IndyCar’s decision to race in Barcelona in 2027, though he warns the American series against overextending itself internationally.IndyCar announced Friday that North America’s premier open-wheel championship will head to Spain July 16-18, 2027, for the inaugural IndyCar Grand Prix of Barcelona at Circuit de Barcelona-Catalunya ...Keep reading",
       "link": "https://www.motorsport.com/indycar/news/fernando-alonso-backs-indycar-barcelona-race-but-warns-against-wider-global-expansion/10867420/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YE9EmmGY/s6/fernando-alonso-aston-martin-r.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YE9EmmGY/s6/fernando-alonso-aston-martin-r.jpg",
       "published_at": 1792765684000
     },
     {
@@ -46,7 +64,7 @@
       "snippet": "George Russell feels that the 2026 Formula 1 season has been a test of his resolve as his championship hopes have all but slipped away, but feels his soul-searching across the year has led him to a breakthrough in how to drive with the current cars.Although Russell opened the year with victory, having been marked as the early championship favourite as Mercedes started the season with the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/russell-f1-2026-season-a-test-of-character-and-resilience/10867173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/63QaLW72/s6/george-russell-mercedes.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/63QaLW72/s6/george-russell-mercedes.jpg",
       "published_at": 1792753579000
     },
     {
@@ -55,7 +73,7 @@
       "snippet": "Renault has agreed to sell its Viry-Chatillon engine facility to Belgian company Dumarey Group.According to an official statement, the Dumarey Group, which specialises in technology and development of powertrains and engineering components for mass-produced vehicles, is prepared to take control of the French site.The acquisition proposal has already been submitted to Alpine Racing. Both ...Keep reading",
       "link": "https://www.autosport.com/f1/news/renault-to-sell-former-f1-engine-facility-in-viry/10867332/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0L19edW2/s6/aerial-view-of-the-renault-fac-3.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0L19edW2/s6/aerial-view-of-the-renault-fac-3.jpg",
       "published_at": 1792748358000
     },
     {
@@ -73,7 +91,7 @@
       "snippet": "Succession planning is one of the more subtle arts of the Formula 1 team boss. All the top teams maintain junior-driver programmes with the explicit intention of developing talent for when a race seat falls vacant.Often the timing doesn't work in favour of the driver waiting for that vacancy.As a member of the Ferrari Driver Academy, Oliver Bearman was placed at Haas in 2025 to prepare him ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/oliver-bearman-versus-rafael-camara-for-the-next-ferrari-vacancy/10867132/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0R7BN3v2/s6/oliver-bearman-haas-f1-team.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0R7BN3v2/s6/oliver-bearman-haas-f1-team.jpg",
       "published_at": 1792741734000
     },
     {
@@ -109,7 +127,7 @@
       "snippet": "George Russell believes Formula 1 circuits should be resurfaced every couple of years after Max Verstappen made critical comments about the bumps at the Circuit of the Americas and how they could leave him needing “a new spine”.COTA has for a long time been known as one of the bumpier circuits on the Formula 1 calendar. But the Dutchman was alarmed when he saw what the cars and drivers ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/george-russell-calls-for-f1-track-changes-after-max-verstappens-cota-complaints/10867193/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0mXy3lk6/s6/72945935-36.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0mXy3lk6/s6/72945935-36.jpg",
       "published_at": 1792710161000
     },
     {
@@ -127,7 +145,7 @@
       "snippet": "Fighting for a maiden Formula 1 world championship can be an excruciating experience. The history books are rife with nerve-wracking title deciders, from Lewis Hamilton's last lap pass on Timo Glock in Brazil 2008 to Fernando Alonso being lured into a strategic trap in Abu Dhabi 2010. Little more needs to be said about Abu Dhabi 2021.Kimi Antonelli won't need to go through any of that as he ...Keep reading",
       "link": "https://www.autosport.com/f1/news/how-antonelli-will-manage-the-pressure-as-f1-coronation-looms/10867178/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6grQoqmY/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6grQoqmY/s6/andrea-kimi-antonelli-mercedes.jpg",
       "published_at": 1792707625000
     },
     {
@@ -136,7 +154,7 @@
       "snippet": "While the majority of us are looking forward to the upcoming United States Grand Prix, Lando Norris was asked to reminisce about a moment that went viral over the weekend of the Spanish Grand Prix. In the cooldown room following the Madrid race, Norris was seemingly asked to put down the Coca-Cola he was drinking and his response flooded social media. He's now discussed the moment further ahead of ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lando-norris-on-madrid-coca-cola-drama-i-can-drink-whatever-i-like/10867181/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2y7Q4mX6/s6/72945935-34.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2y7Q4mX6/s6/72945935-34.jpg",
       "published_at": 1792707326000
     },
     {
@@ -172,7 +190,7 @@
       "snippet": "Formula 1’s runaway leader Kimi Antonelli says he will try to \"finish the job properly\" as he gets a first opportunity to become the series' youngest ever world champion.The 20-year-old can clinch the 2026 title as early as this weekend's United States Grand Prix at Circuit of the Americas, though this scenario would involve getting some outside help.Antonelli will win the title if he ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/kimi-antonelli-ready-to-finish-the-job-as-first-f1-title-chance-beckons-at-us-gp/10867163/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0LdeAdv0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0LdeAdv0/s6/andrea-kimi-antonelli-mercedes.jpg",
       "published_at": 1792703716000
     },
     {
@@ -183,24 +201,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/795b/live/b07ecd20-ce58-11f1-a166-e30097724580.jpg",
       "published_at": 1792702540000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/kimi-antonelli-opens-up-on-fathers-fears-over-his-f1-racing-career/10867151/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Kimi Antonelli opens up on father's fears over his F1 racing career",
-      "snippet": "Current Formula 1 championship leader Kimi Antonelli has revealed that his father did not want him to become a racing driver after seeing his own career end because of a lack of money.The Mercedes driver arrives in Austin for the United States Grand Prix 102 points clear in the championship and could become the youngest champion in the history of F1 on Sunday. His father, Marco, a former ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/kimi-antonelli-opens-up-on-fathers-fears-over-his-f1-racing-career/10867151/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/68Vwmkx2/s6/72945935-15.jpg",
-      "published_at": 1792701859000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/why-colapinto-spoke-out-against-online-abuse/10867150/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Why Colapinto spoke out against abuse targeting his own F1 team",
-      "snippet": "It has become a recurring topic during Franco Colapinto's media sessions throughout the 2026 Formula 1 season: the Argentine feeling the need to speak out against abuse on social media.Colapinto discussed the issue at length during an exclusive interview with Autosport in Monaco, as well as during many of the race weekends that have followed since.After the Singapore Grand Prix last ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/why-colapinto-spoke-out-against-online-abuse/10867150/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YP74eaj2/s6/franco-colapinto-alpine-3.jpg",
-      "published_at": 1792701849000
     }
   ]
 }
