@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-22T23:32:23.326607Z",
+    "last_updated": "2026-10-23T00:02:20.104894Z",
     "total_news": 22
   },
   "news": [
@@ -14,15 +14,6 @@
       "published_at": 1792711500000
     },
     {
-      "id": "https://www.skysports.com/f1/news/12433/13602369/kimi-antonelli-lando-norris-lewis-hamilton-praise-mercedes-driver-ahead-of-first-f1-2026-title-win-chance-at-united-states-gp",
-      "title": "Norris: 'Incredible' Antonelli two levels above Russell all season",
-      "snippet": "Lando Norris believes Kimi Antonelli has done an \"incredible job\" to perform \"two levels above\" Mercedes team-mate George Russell this season, in form which has taken the Italian to the brink of a record-breaking world championship triumph.",
-      "link": "https://www.skysports.com/f1/news/12433/13602369/kimi-antonelli-lando-norris-lewis-hamilton-praise-mercedes-driver-ahead-of-first-f1-2026-title-win-chance-at-united-states-gp",
-      "source_name": "Sky Sports",
-      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-kimi-antonelli-lando-norris_7384209.jpg?20261022234513",
-      "published_at": 1792713000000
-    },
-    {
       "id": "https://www.skysports.com/f1/news/12433/13602372/max-verstappen-red-bull-driver-hits-out-at-unacceptable-bumpy-united-states-gp-surface-at-cota-amid-safety-concerns",
       "title": "Verstappen criticises 'unacceptable' COTA surface amid concerns over injury",
       "snippet": "Max Verstappen revealed concerns over the state of his spine as he unleashed a scathing criticism of the \"out of control\" bumpy track surface at Circuit of The Americas.",
@@ -32,12 +23,21 @@
       "published_at": 1792713600000
     },
     {
+      "id": "https://www.skysports.com/f1/news/12433/13602369/kimi-antonelli-lando-norris-lewis-hamilton-praise-mercedes-driver-ahead-of-first-f1-2026-title-win-chance-at-united-states-gp",
+      "title": "Norris: 'Incredible' Antonelli two levels above Russell all season",
+      "snippet": "Lando Norris believes Kimi Antonelli has done an \"incredible job\" and performed \"two levels above\" Mercedes team-mate George Russell this season, in form which has taken the Italian to the brink of a record-breaking world championship triumph.",
+      "link": "https://www.skysports.com/f1/news/12433/13602369/kimi-antonelli-lando-norris-lewis-hamilton-praise-mercedes-driver-ahead-of-first-f1-2026-title-win-chance-at-united-states-gp",
+      "source_name": "Sky Sports",
+      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-kimi-antonelli-lando-norris_7384209.jpg?20261022234513",
+      "published_at": 1792713000000
+    },
+    {
       "id": "https://www.motorsport.com/f1/news/george-russell-calls-for-f1-track-changes-after-max-verstappens-cota-complaints/10867193/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "George Russell calls for F1 track changes after Max Verstappen's COTA complaints",
       "snippet": "George Russell believes Formula 1 circuits should be resurfaced every couple of years after Max Verstappen made critical comments about the bumps at the Circuit of the Americas and how they could leave him needing “a new spine”.COTA has for a long time been known as one of the bumpier circuits on the Formula 1 calendar. But the Dutchman was alarmed when he saw what the cars and drivers ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/george-russell-calls-for-f1-track-changes-after-max-verstappens-cota-complaints/10867193/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXy3lk6/s6/72945935-36.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0mXy3lk6/s6/72945935-36.jpg",
       "published_at": 1792710161000
     },
     {
@@ -73,7 +73,7 @@
       "snippet": "While the majority of us are looking forward to the upcoming United States Grand Prix, Lando Norris was asked to reminisce about a moment that went viral over the weekend of the Spanish Grand Prix. In the cooldown room following the Madrid race, Norris was seemingly asked to put down the Coca-Cola he was drinking and his response flooded social media. He's now discussed the moment further ahead of ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lando-norris-on-madrid-coca-cola-drama-i-can-drink-whatever-i-like/10867181/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2y7Q4mX6/s6/72945935-34.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2y7Q4mX6/s6/72945935-34.jpg",
       "published_at": 1792707326000
     },
     {
@@ -109,7 +109,7 @@
       "snippet": "Formula 1’s runaway leader Kimi Antonelli says he will try to \"finish the job properly\" as he gets a first opportunity to become the series' youngest ever world champion.The 20-year-old can clinch the 2026 title as early as this weekend's United States Grand Prix at Circuit of the Americas, though this scenario would involve getting some outside help.Antonelli will win the title if he ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/kimi-antonelli-ready-to-finish-the-job-as-first-f1-title-chance-beckons-at-us-gp/10867163/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0LdeAdv0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0LdeAdv0/s6/andrea-kimi-antonelli-mercedes.jpg",
       "published_at": 1792703716000
     },
     {
@@ -127,7 +127,7 @@
       "snippet": "Current Formula 1 championship leader Kimi Antonelli has revealed that his father did not want him to become a racing driver after seeing his own career end because of a lack of money.The Mercedes driver arrives in Austin for the United States Grand Prix 102 points clear in the championship and could become the youngest champion in the history of F1 on Sunday. His father, Marco, a former ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/kimi-antonelli-opens-up-on-fathers-fears-over-his-f1-racing-career/10867151/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/68Vwmkx2/s6/72945935-15.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/68Vwmkx2/s6/72945935-15.jpg",
       "published_at": 1792701859000
     },
     {
@@ -145,7 +145,7 @@
       "snippet": "It’s always an exciting time when Formula 1 plans a new race, but Ferrari’s Lewis Hamilton is over the moon with the news that the championship is heading to Rwanda on a ten-year deal for an African Grand Prix. He’s so excited, in fact, that he’s hoping he can hold on and compete there when the time comes.The race is expected to take place in the early 2030s, which would put the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lewis-hamilton-forced-to-stay-a-lot-longer-in-f1-after-african-grand-prix-announcement/10867142/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6zoDqm70/s6/72945935-33-2.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6zoDqm70/s6/72945935-33-2.jpg",
       "published_at": 1792700883000
     },
     {
@@ -154,7 +154,7 @@
       "snippet": "After what was a very successful couple of weekends from Max Verstappen, McLaren's Oscar Piastri believes that Red Bull is now the most consistently fast team on the Formula 1 grid after its recent upgrades rocketed it to the top of the timesheets.The Milton Keynes outfit now arrives in Austin for the United States Grand Prix just seven points behind the papaya-coloured cars in the battle for ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/red-bull-is-now-f1s-most-consistently-quick-car-says-oscar-piastri/10867135/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0arEdgp2/s6/72945935-32.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0arEdgp2/s6/72945935-32.jpg",
       "published_at": 1792699429000
     },
     {
@@ -190,7 +190,7 @@
       "snippet": "Formula 1 heads to Austin this weekend for the United States Grand Prix, with Kimi Antonelli arriving at the Circuit of the Americas with his first opportunity to clinch the 2026 world championship.The Mercedes driver holds a 102-point advantage over team-mate George Russell with six grands prix remaining. Antonelli needs to outscore Russell by 23 points in Austin to secure his first Formula 1 ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/f1-united-states-gp-friday-schedule-weather-forecast-and-how-to-watch/10867077/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/Y9lNWab2/s6/pierre-gasly-alpine.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/Y9lNWab2/s6/pierre-gasly-alpine.jpg",
       "published_at": 1792695896000
     },
     {
@@ -199,7 +199,7 @@
       "snippet": "From its vast heritage collection, McLaren is selling five Formula 1 cars, including two from Ayrton Senna's final title-winning season and the car that Brad Pitt drove during the filming of the successful F1 movie.The cars will be sold through specialist dealer Tom Hartley Jnr - the same organisation that sold Bernie Ecclestone’s grand prix collection of cars - with them being under the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/mclaren-opens-its-vault-to-sell-five-extraordinary-formula-1-cars/10867087/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YE9EmOLY/s6/72945935-30.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YE9EmOLY/s6/72945935-30.jpg",
       "published_at": 1792695287000
     }
   ]
