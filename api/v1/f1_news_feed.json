@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-23T18:33:16.776353Z",
+    "last_updated": "2026-10-23T19:02:18.539448Z",
     "total_news": 22
   },
   "news": [
@@ -10,8 +10,53 @@
       "snippet": "If anyone ever doubted whether Jack Wolff inherited the relentless racing spirit of his parents - Mercedes F1 team principal Toto Wolff and F1 Academy Managing Director Susie Wolff - those doubts were completely erased today.The nine-year-old karting prodigy was involved in a massive, scary crash during the IAME Warrior Final (IWF26), but instead of being shaken up, he is already demanding to ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/toto-wolffs-9-year-old-son-walks-away-from-a-terrifying-go-kart-crash-and-demands-to-race-tomorrow/10867498/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0JXRA5MY/s6/motorsport-com-graphics-6-2.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0JXRA5MY/s6/motorsport-com-graphics-6-2.jpg",
       "published_at": 1792780287000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13602755/united-states-gp-charles-leclerc-fastest-in-upgraded-ferrari-in-first-practice-in-austin-as-mercedes-rivals-introduce-updates",
+      "title": "Leclerc tops first USA practice as upgraded Ferrari shows early promise",
+      "snippet": "Charles Leclerc showed early promise in an upgraded Ferrari car to pip Red Bull's in-form Max Verstappen to the fastest time of first practice at the United States Grand Prix.",
+      "link": "https://www.skysports.com/f1/news/12433/13602755/united-states-gp-charles-leclerc-fastest-in-upgraded-ferrari-in-first-practice-in-austin-as-mercedes-rivals-introduce-updates",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-charles-leclerc-ferrari_7384926.jpg?20261023193417",
+      "published_at": 1792783800000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/charles-leclerc-addresses-potential-f1-race-absence-ahead-of-first-childs-birth/10867519/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Charles Leclerc addresses potential F1 race absence ahead of first child's birth",
+      "snippet": "Charles Leclerc says he does not expect to miss any of the remaining six Formula 1 races this season, despite the birth of his first child being only weeks away.The Ferrari driver and his wife Alexandra are expecting their first child after tying the knot in February. The due date is expected to fall during a busy end to the F1 season.Six races remain with two triple-headers. The United ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/charles-leclerc-addresses-potential-f1-race-absence-ahead-of-first-childs-birth/10867519/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0rVPqaq0/s6/motorsport-com-graphics-2.jpg",
+      "published_at": 1792781736000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o?at_medium=RSS&at_campaign=rss",
+      "title": "Leclerc sets Austin practice pace from Verstappen",
+      "snippet": "Ferrari's Charles Leclerc is fastest from Red Bull's Max Verstappen in first practice at the United States Grand Prix.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c89/live/b1f0ca10-cf10-11f1-8de3-9dfec70eb8fa.jpg",
+      "published_at": 1792780881000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/f1-united-states-gp-charles-leclerc-pips-max-verstappen-to-top-fp1/10867489/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "F1 United States GP: Charles Leclerc pips Max Verstappen to top FP1",
+      "snippet": "Ferrari driver Charles Leclerc pipped Red Bull's Max Verstappen to top first practice at Formula 1's United States Grand Prix in Austin.Leclerc was just under a tenth faster than Verstappen in an upgraded Ferrari as he aims to deny the Dutchman and his in-form Red Bull team a hat-track of grand prix wins.On a hot Circuit of the Americas, Ferrari hit the ground running as it trialled its ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/f1-united-states-gp-charles-leclerc-pips-max-verstappen-to-top-fp1/10867489/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGgmO7Y/s6/charles-leclerc-ferrari.jpg",
+      "published_at": 1792780690000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13602759/lewis-hamilton-ferrari-driver-eyes-continuing-his-f1-career-into-the-2030s-to-race-at-first-african-gp",
+      "title": "Hamilton eyes staying in F1 into 2030s to race in African GP",
+      "snippet": "Lewis Hamilton has set his sights on staying in Formula 1 into the 2030s in order to fulfil his dream of racing in Africa.",
+      "link": "https://www.skysports.com/f1/news/12433/13602759/lewis-hamilton-ferrari-driver-eyes-continuing-his-f1-career-into-the-2030s-to-race-at-first-african-gp",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7384880.jpg?20261023182644",
+      "published_at": 1792780200000
     },
     {
       "id": "https://www.motorsport.com/f1/news/liam-lawson-shares-throwback-video-before-first-live-performance-in-over-a-decade/10867500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -19,7 +64,7 @@
       "snippet": "Liam Lawson isn't just in Austin to race behind the wheel of a Racing Bulls car, you know? On Thursday, he also played his first live music gig in over a decade. Before the show, he posted a throwback clip of himself playing beside his brother and childhood friends.The post had passed 87,000 likes and more than 370 comments at the time of writing, with fans excited to see the Kiwi over the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/liam-lawson-shares-throwback-video-before-first-live-performance-in-over-a-decade/10867500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/24QGLXdY/s6/motorsport-com-graphics-5.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/24QGLXdY/s6/motorsport-com-graphics-5.jpg",
       "published_at": 1792779785000
     },
     {
@@ -28,7 +73,7 @@
       "snippet": "When a Formula 1 driver strings together a streak of pole positions and commanding race victories, the natural assumption is that their car is perfectly dialled in and driving like it's on rails. But Lando Norris is completely shattering that illusion for McLaren fans as the grid prepares for the United States Grand Prix.Despite an incredibly strong run over the summer that saw him ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/norris-issues-brutal-warning-to-mclaren-one-of-the-hardest-cars-ive-ever-had-to-drive/10867466/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6x7LorrY/s6/motorsport-com-graphics-4-2.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6x7LorrY/s6/motorsport-com-graphics-4-2.jpg",
       "published_at": 1792778168000
     },
     {
@@ -37,17 +82,8 @@
       "snippet": "It is no secret that the 2026 Formula 1 season has been an absolute nightmare for George Russell. While his 19-year-old team-mate Andrea Kimi Antonelli is currently cruising toward a potential Drivers' Championship title, Russell has been plagued by a brutal mix of mechanical failures, bad luck, and a car that simply doesn't suit his driving style.When things get this bad, most drivers start ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/george-russell-reveals-he-lost-sleep-over-his-own-driving-not-the-f1-championship/10867451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/27Noe3X0/s6/motorsport-com-graphics-3-2.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/27Noe3X0/s6/motorsport-com-graphics-3-2.jpg",
       "published_at": 1792777754000
-    },
-    {
-      "id": "https://www.skysports.com/f1/live-blog/12433/13601266/f1-united-states-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-austin",
-      "title": "United States GP: Leclerc leading Verstappen in practice in upgraded Ferrari LIVE!",
-      "snippet": "",
-      "link": "https://www.skysports.com/f1/live-blog/12433/13601266/f1-united-states-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-austin",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-charles-leclerc-ferrari_7384909.jpg?20261023185809",
-      "published_at": 1792777200000
     },
     {
       "id": "https://www.motorsport.com/f1/news/george-russell-admits-mercedes-still-needs-time-to-fine-tune-problematic-upgrade-package/10867446/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -55,7 +91,7 @@
       "snippet": "When your team-mate is on the verge of sealing the Formula 1 World Championship, the absolute last thing you want to admit is that your team’s latest multi-million-dollar upgrade package is a bit of a dud. But as the F1 paddock descends on the Circuit of the Americas for the United States Grand Prix, George Russell is keeping things brutally honest about the current state of Mercedes.During ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/george-russell-admits-mercedes-still-needs-time-to-fine-tune-problematic-upgrade-package/10867446/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0LdeAlJ0/s6/motorsport-com-graphics-2-2.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0LdeAlJ0/s6/motorsport-com-graphics-2-2.jpg",
       "published_at": 1792775891000
     },
     {
@@ -64,7 +100,7 @@
       "snippet": "Lewis Hamilton says Kimi Antonelli has been “massively impressive” and “deserves to be the champion”, with the Formula 1 world title within reach of the Mercedes driver in Austin.Going into the United States Grand Prix, Antonelli enjoys a 102-point lead on team-mate George Russell, with Hamilton 111 points adrift, meaning the sophomore can be crowned as early as this weekend if he ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lewis-hamilton-kimi-antonelli-deserves-to-be-the-champion/10867431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6n7AJ7X0/s6/lewis-hamilton-ferrari-andrea-.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6n7AJ7X0/s6/lewis-hamilton-ferrari-andrea-.jpg",
       "published_at": 1792768761000
     },
     {
@@ -73,7 +109,7 @@
       "snippet": "Two-time Formula 1 world champion Fernando Alonso has welcomed IndyCar’s decision to race in Barcelona in 2027, though he warns the American series against overextending itself internationally.IndyCar announced Friday that North America’s premier open-wheel championship will head to Spain July 16-18, 2027, for the inaugural IndyCar Grand Prix of Barcelona at Circuit de Barcelona-Catalunya ...Keep reading",
       "link": "https://www.motorsport.com/indycar/news/fernando-alonso-backs-indycar-barcelona-race-but-warns-against-wider-global-expansion/10867420/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YE9EmmGY/s6/fernando-alonso-aston-martin-r.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YE9EmmGY/s6/fernando-alonso-aston-martin-r.jpg",
       "published_at": 1792765684000
     },
     {
@@ -82,7 +118,7 @@
       "snippet": "George Russell feels that the 2026 Formula 1 season has been a test of his resolve as his championship hopes have all but slipped away, but feels his soul-searching across the year has led him to a breakthrough in how to drive with the current cars.Although Russell opened the year with victory, having been marked as the early championship favourite as Mercedes started the season with the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/russell-f1-2026-season-a-test-of-character-and-resilience/10867173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/63QaLW72/s6/george-russell-mercedes.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/63QaLW72/s6/george-russell-mercedes.jpg",
       "published_at": 1792753579000
     },
     {
@@ -91,7 +127,7 @@
       "snippet": "Renault has agreed to sell its Viry-Chatillon engine facility to Belgian company Dumarey Group.According to an official statement, the Dumarey Group, which specialises in technology and development of powertrains and engineering components for mass-produced vehicles, is prepared to take control of the French site.The acquisition proposal has already been submitted to Alpine Racing. Both ...Keep reading",
       "link": "https://www.autosport.com/f1/news/renault-to-sell-former-f1-engine-facility-in-viry/10867332/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0L19edW2/s6/aerial-view-of-the-renault-fac-3.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0L19edW2/s6/aerial-view-of-the-renault-fac-3.jpg",
       "published_at": 1792748358000
     },
     {
@@ -100,7 +136,7 @@
       "snippet": "The Circuit of The Americas' bumpy surface remains a contentious issue even though the latest generation of Formula 1 cars were intended to ride less harshly. Ahead of the 2026 US GP, Max Verstappen described the Austin track's bumps as \"unacceptable\" and \"out of control\".This triggered a chorus of agreement from other drivers including Lando Norris, who explained that he takes headache ...Keep reading",
       "link": "https://www.autosport.com/f1/news/its-pretty-bad-why-norris-needs-headache-tablets-for-bumpy-austin-circuit/10867192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YE9ENP1Y/s6/lando-norris-mclaren.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YE9ENP1Y/s6/lando-norris-mclaren.jpg",
       "published_at": 1792747053000
     },
     {
@@ -109,7 +145,7 @@
       "snippet": "Succession planning is one of the more subtle arts of the Formula 1 team boss. All the top teams maintain junior-driver programmes with the explicit intention of developing talent for when a race seat falls vacant.Often the timing doesn't work in favour of the driver waiting for that vacancy.As a member of the Ferrari Driver Academy, Oliver Bearman was placed at Haas in 2025 to prepare him ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/oliver-bearman-versus-rafael-camara-for-the-next-ferrari-vacancy/10867132/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0R7BN3v2/s6/oliver-bearman-haas-f1-team.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0R7BN3v2/s6/oliver-bearman-haas-f1-team.jpg",
       "published_at": 1792741734000
     },
     {
@@ -145,7 +181,7 @@
       "snippet": "George Russell believes Formula 1 circuits should be resurfaced every couple of years after Max Verstappen made critical comments about the bumps at the Circuit of the Americas and how they could leave him needing “a new spine”.COTA has for a long time been known as one of the bumpier circuits on the Formula 1 calendar. But the Dutchman was alarmed when he saw what the cars and drivers ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/george-russell-calls-for-f1-track-changes-after-max-verstappens-cota-complaints/10867193/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0mXy3lk6/s6/72945935-36.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0mXy3lk6/s6/72945935-36.jpg",
       "published_at": 1792710161000
     },
     {
@@ -165,42 +201,6 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-9.motorsport.com/images/amp/6grQoqmY/s6/andrea-kimi-antonelli-mercedes.jpg",
       "published_at": 1792707625000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/lando-norris-on-madrid-coca-cola-drama-i-can-drink-whatever-i-like/10867181/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Lando Norris on Madrid Coca-Cola drama: “I can drink whatever I like”",
-      "snippet": "While the majority of us are looking forward to the upcoming United States Grand Prix, Lando Norris was asked to reminisce about a moment that went viral over the weekend of the Spanish Grand Prix. In the cooldown room following the Madrid race, Norris was seemingly asked to put down the Coca-Cola he was drinking and his response flooded social media. He's now discussed the moment further ahead of ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/lando-norris-on-madrid-coca-cola-drama-i-can-drink-whatever-i-like/10867181/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2y7Q4mX6/s6/72945935-34.jpg",
-      "published_at": 1792707326000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13602364/lewis-hamilton-ferrari-driver-explains-taking-strategy-into-own-hands-in-singapore-ahead-of-united-states-gp",
-      "title": "'That's not enough for me' - Hamilton explains why he went against Ferrari strategy",
-      "snippet": "Lewis Hamilton has explained the reasons why he overrode Ferrari's call to pit in the Singapore Grand Prix, a mistake he says he \"owned up to\" and will work not to repeat - but which would not prevent him from continuing \"challenging the norms\".",
-      "link": "https://www.skysports.com/f1/news/12433/13602364/lewis-hamilton-ferrari-driver-explains-taking-strategy-into-own-hands-in-singapore-ahead-of-united-states-gp",
-      "source_name": "Sky Sports",
-      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7384150.jpg?20261022213730",
-      "published_at": 1792705200000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sounds/play/p0pj4w7r?at_medium=RSS&at_campaign=rss",
-      "title": "F1: Chequered Flag",
-      "snippet": "Could Antonelli be crowned champion? Rosanna and the team look ahead to the US Grand Prix",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pj4w7r?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
-      "published_at": 1792704840000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/kimi-antonelli-ready-to-finish-the-job-as-first-f1-title-chance-beckons-at-us-gp/10867163/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Kimi Antonelli ready to \"finish the job\" as first F1 title chance beckons at US GP",
-      "snippet": "Formula 1’s runaway leader Kimi Antonelli says he will try to \"finish the job properly\" as he gets a first opportunity to become the series' youngest ever world champion.The 20-year-old can clinch the 2026 title as early as this weekend's United States Grand Prix at Circuit of the Americas, though this scenario would involve getting some outside help.Antonelli will win the title if he ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/kimi-antonelli-ready-to-finish-the-job-as-first-f1-title-chance-beckons-at-us-gp/10867163/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0LdeAdv0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": 1792703716000
     }
   ]
 }
