@@ -1,24 +1,24 @@
 {
   "meeting_key": 1297,
-  "updated_at": "2026-10-24T16:33:11Z",
+  "updated_at": "2026-10-24T17:05:25Z",
   "sessions": {
     "11391": {
-      "temp": 25.8,
+      "temp": 26.0,
       "rain_chance": 0,
       "weather_code": 1
     },
     "2026-10-24T17:00": {
-      "temp": 25.8,
+      "temp": 26.0,
       "rain_chance": 0,
       "weather_code": 1
     },
     "11392": {
-      "temp": 28.3,
+      "temp": 28.7,
       "rain_chance": 0,
       "weather_code": 0
     },
     "2026-10-24T21:00": {
-      "temp": 28.3,
+      "temp": 28.7,
       "rain_chance": 0,
       "weather_code": 0
     },
