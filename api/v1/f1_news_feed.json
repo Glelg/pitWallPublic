@@ -1,16 +1,43 @@
 {
   "metadata": {
-    "last_updated": "2026-10-24T20:33:19.349830Z",
+    "last_updated": "2026-10-24T21:03:32.385325Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/f1/live-blog/12433/13603168/f1-united-states-gp-live-qualifying-and-final-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-austin",
+      "title": "United States GP: Ferrari, Red Bull set for pole battle as qualifying begins LIVE!",
+      "snippet": "",
+      "link": "https://www.skysports.com/f1/live-blog/12433/13603168/f1-united-states-gp-live-qualifying-and-final-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-austin",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7386217.jpg?20261024215828",
+      "published_at": 1792865100000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/george-russells-tongue-in-cheek-kimi-antonelli-f1-title-threat-get-you-arrested/10867967/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "George Russell's tongue-in-cheek Kimi Antonelli F1 title threat: \"Get you arrested\"",
+      "snippet": "George Russell has come up with a tongue-in-cheek plan to stop Mercedes team-mate Kimi Antonelli from clinching the Formula 1 championship at the United States Grand Prix: take him out drinking.Antonelli has the chance to claim his maiden F1 title as he heads into the race at the Circuit of the Americas with a 102-point lead over second-placed Russell in the standings. To secure the title, the ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/george-russells-tongue-in-cheek-kimi-antonelli-f1-title-threat-get-you-arrested/10867967/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YN7vAR36/s6/motorsport-com-graphics-7.jpg",
+      "published_at": 1792875596000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/kimi-antonelli-caught-on-camera-hitting-fence-in-mercedes-road-car-at-us-gp/10867960/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Kimi Antonelli caught on camera hitting fence in Mercedes road car at US GP",
+      "snippet": "Kimi Antonelli is on the verge of becoming a Formula 1 world champion, but the Mercedes driver was still spotted by fans making a faux pas in the car park, proving that even the most talented of drivers sometimes make a mistake.The young Italian drove to the Circuit of the Americas this weekend in a personalised Mercedes-AMG GT 4-Door Coupe thanks to the team's partnership with MANUFAKTUR. But ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/kimi-antonelli-caught-on-camera-hitting-fence-in-mercedes-road-car-at-us-gp/10867960/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0mXy34A6/s6/motorsport-com-graphics-14-2.jpg",
+      "published_at": 1792874333000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/colton-herta-savours-super-special-austin-homecoming-as-2027-uncertainty-remains/10867950/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Colton Herta savours \"super special\" Austin homecoming as 2027 uncertainty remains",
       "snippet": "On 24 March 2019, Colton Herta became the youngest ever IndyCar race winner at the Circuit of the Americas, taking the small Harding Steinbrenner Racing team to victory, aged just 18 years and 359 days old.It was the start of a successful IndyCar career with Andretti, even if the title or Indianapolis 500 victory eluded the second-generation driver.But when a late chance to pursue his ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/colton-herta-savours-super-special-austin-homecoming-as-2027-uncertainty-remains/10867950/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0rVx3Am0/s6/colton-herta.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0rVx3Am0/s6/colton-herta.jpg",
       "published_at": 1792872210000
     },
     {
@@ -28,7 +55,7 @@
       "snippet": "Former Red Bull Racing CEO and team principal Christian Horner argued that Formula 1 should let fans sit on their favourite team's pitwall virtually and hear how strategy calls are made.Horner has spent the past 15 months watching grands prix as a fan for the first time in his career, after leaving Red Bull in July 2025.Speaking at the Autosport Business Exchange in New York on Wednesday ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/christian-horner-proposes-major-change-to-how-fans-watch-f1/10867935/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6x7LokRY/s6/motorsport-com-graphics-6.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6x7LokRY/s6/motorsport-com-graphics-6.jpg",
       "published_at": 1792867549000
     },
     {
@@ -41,13 +68,13 @@
       "published_at": 1792867484000
     },
     {
-      "id": "https://www.autosport.com/f1/news/f1-united-states-gp-hamilton-tops-fp3/10867933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "F1 United States GP: Ferrari completes perfect practice record as Hamilton tops FP3",
+      "id": "https://www.motorsport.com/f1/news/f1-united-states-gp-lewis-hamilton-tops-fp3/10867914/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "F1 United States GP: Lewis Hamilton pips Max Verstappen in FP3",
       "snippet": "Lewis Hamilton finished final practice on top at Formula 1's United States Grand Prix, leading Max Verstappen and Charles Leclerc into qualifying at Austin.Hamilton was the only driver to break the 1m35s barrier in the final 20 minutes of third practice, as frequent track limits transgressions kept Ferrari team-mate Leclerc from leapfrogging him on the leaderboard.Following an opening ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/f1-united-states-gp-hamilton-tops-fp3/10867933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6lmA3bD0/s6/lewis-hamilton-ferrari-2.jpg",
-      "published_at": 1792867334000
+      "link": "https://www.motorsport.com/f1/news/f1-united-states-gp-lewis-hamilton-tops-fp3/10867914/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0mXy3rg6/s6/lewis-hamilton-ferrari.jpg",
+      "published_at": 1792867236000
     },
     {
       "id": "https://www.motorsport.com/f1/news/daniel-ricciardo-surprises-f1-fans-with-on-stage-performance-ahead-of-us-gp/10867920/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -59,21 +86,12 @@
       "published_at": 1792866107000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/nico-hulkenberg-left-red-faced-after-gabriel-bortoleto-prank-at-united-states-gp/10867916/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Nico Hulkenberg left red-faced after Gabriel Bortoleto prank at United States GP",
-      "snippet": "Young Audi driver Gabriel Bortoleto played a prank on his team-mate Nico Hulkenberg as the pair walked out in front of thousands of fans at the Circuit of the Americas. With both drivers walking out to cheers from the Austin crowds, the Brazilian pulled down his team-mate's trousers.Videos of this moment have gone incredibly viral, showing Hulkenberg making his way onto the stage on Friday ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/nico-hulkenberg-left-red-faced-after-gabriel-bortoleto-prank-at-united-states-gp/10867916/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2QedgKv2/s6/motorsport-com-graphics-12-2.jpg",
-      "published_at": 1792865580000
-    },
-    {
       "id": "https://www.motorsport.com/f1/news/why-cadillac-f1-boss-provoked-fresh-intrigue-by-dodging-driver-question/10867808/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Why Cadillac F1 boss provoked fresh intrigue by dodging driver question",
       "snippet": "The US GP weekend naturally means the spotlight gravitates towards Formula 1’s two American-owned teams. That has led to some awkward questions for Cadillac amid ongoing speculation over its driver line-up for 2027 and beyond.Both Sergio Perez and Valtteri Bottas are on “multi-year” contracts, understood to be a so-called one-plus-one arrangement in which the second year is optional ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/why-cadillac-f1-boss-provoked-fresh-intrigue-by-dodging-driver-question/10867808/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2GdKlEKY/s6/marcin-budkowski-cadillac-team.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/2GdKlEKY/s6/marcin-budkowski-cadillac-team.jpg",
       "published_at": 1792848603000
     },
     {
@@ -82,7 +100,7 @@
       "snippet": "It was a day of contrasting fortunes for Red Bull during Formula 1 practice at the Circuit of the Americas. Max Verstappen was largely satisfied with the early signs of the RB22, although he stressed that the balance between high-speed and low-speed corners still needed improvement, with technical director Pierre Wache indicating that Red Bull needed to make gains in the slower sections of the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/just-undriveable-isack-hadjar-looking-for-answers-after-massive-struggles-in-austin-practice/10867672/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0kZX3no6/s6/isack-hadjar-red-bull-racing-2.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0kZX3no6/s6/isack-hadjar-red-bull-racing-2.jpg",
       "published_at": 1792837802000
     },
     {
@@ -104,21 +122,12 @@
       "published_at": 1792829562000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/kimi-antonelli-hails-austin-fp2-step-forward-as-mercedes-chips-away-at-upgrades/10867656/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Kimi Antonelli hails \"step forward\" at United States GP as Mercedes chips away at upgrades",
-      "snippet": "Formula 1 championship leader Kimi Antonelli reckons Mercedes has made another step trying to extract performance from its recent upgrade package at the United States Grand Prix.Mercedes arrived at Austin's challenging Circuit of the Americas with a new front wing option to further complement its significant upgrade package introduced in Malaysia two races ago. That initial upgrade raised the ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/kimi-antonelli-hails-austin-fp2-step-forward-as-mercedes-chips-away-at-upgrades/10867656/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YK15AVb0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": 1792821602000
-    },
-    {
       "id": "https://www.motorsport.com/f1/news/kimi-antonelli-reacts-to-prospect-of-breaking-sebastian-vettels-f1-record/10867577/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Kimi Antonelli reacts to prospect of breaking Sebastian Vettel's F1 record",
       "snippet": "Kimi Antonelli admitted he has no memory of Sebastian Vettel becoming Formula 1's youngest world champion while discussing the prospect of breaking the German driver's record this weekend at the United States Grand Prix.Vettel won his first title at the 2010 Abu Dhabi Grand Prix, aged 23, beating Fernando Alonso, Mark Webber and Lewis Hamilton in a four-way decider to become the youngest F1 ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/kimi-antonelli-reacts-to-prospect-of-breaking-sebastian-vettels-f1-record/10867577/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6O7zAvG6/s6/motorsport-com-graphics-3.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6O7zAvG6/s6/motorsport-com-graphics-3.jpg",
       "published_at": 1792792766000
     },
     {
@@ -136,7 +145,7 @@
       "snippet": "If anyone ever doubted whether Jack Wolff inherited the relentless racing spirit of his parents - Mercedes F1 team principal Toto Wolff and F1 Academy Managing Director Susie Wolff - those doubts were completely erased today.The nine-year-old karting prodigy was involved in a massive, scary crash during the IAME Warrior Final (IWF26), but instead of being shaken up, he is already demanding to ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/toto-wolffs-9-year-old-son-walks-away-from-a-terrifying-go-kart-crash-and-demands-to-race-tomorrow/10867498/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0JXRA5MY/s6/motorsport-com-graphics-6-2.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0JXRA5MY/s6/motorsport-com-graphics-6-2.jpg",
       "published_at": 1792780287000
     },
     {
@@ -158,6 +167,15 @@
       "published_at": 1792798200000
     },
     {
+      "id": "https://www.skysports.com/watch/video/13602925/united-states-grand-prix-practice-highlights",
+      "title": "United States Grand Prix | Practice highlights",
+      "snippet": "Highlights from Friday's practice sessions at the United States Grand Prix.",
+      "link": "https://www.skysports.com/watch/video/13602925/united-states-grand-prix-practice-highlights",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-austin_7385191.jpg?20261023231506",
+      "published_at": 1792797180000
+    },
+    {
       "id": "https://www.autosport.com/f1/news/mclarens-aims-for-final-f1-2026-upgrades/10867609/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "title": "McLaren's aims for its final F1 2026 upgrades amid decline in form",
       "snippet": "\"To get the car to be quick, we just have to try so hard to be perfect, and you cannot be perfect,\" said Lando Norris after practice for the Formula 1 United States Grand Prix in Austin.\"We're just a step behind.\"Two mid-season wins for Norris now appear to be a 'purple patch' rather than harbingers of a competitive renaissance for McLaren after a troubled start to the 2026 season. At the ...Keep reading",
@@ -172,7 +190,7 @@
       "snippet": "Christian Horner has explained that he is in no hurry to return to Formula 1 and that he could live with never working in the paddock again.Horner was sacked as Red Bull Racing CEO and team principal in July 2025, ending 20 years in charge. Speaking to CBS News anchor Errol Barnett at the Autosport Business Exchange in New York on Wednesday, he said any comeback would have to be a serious ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/christian-horner-admits-he-may-never-return-to-f1-after-red-bull-exit/10867605/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7BAor2/s6/motorsport-com-graphics-4.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0R7BAor2/s6/motorsport-com-graphics-4.jpg",
       "published_at": 1792796428000
     },
     {
@@ -183,24 +201,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-charles-leclerc-ferrari_7385148.jpg?20261023224120",
       "published_at": 1792796400000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cm0qk189q5dgo?at_medium=RSS&at_campaign=rss",
-      "title": "How to follow US Grand Prix on the BBC",
-      "snippet": "All the key BBC coverage details for the United States Grand Prix, which takes place from 23-25 October.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm0qk189q5dgo?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e91c/live/b22fddd0-cf2f-11f1-b92a-0b11bc79ea84.jpg",
-      "published_at": 1792794988000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/kimi-antonelli-rookie-card-sells-for-staggering-878400-ahead-of-f1-title-opportunity/10867588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Kimi Antonelli rookie card sells for staggering $878,400 ahead of F1 title opportunity",
-      "snippet": "A one-of-a-kind Kimi Antonelli rookie card has sold for $878,400 at auction, making it the second most expensive Formula 1 card ever sold, just days before the Mercedes driver could become world champion.The card, a 2025 Topps Chrome F1 Chrome Autographs SuperFractor numbered 1/1 and graded GEM MINT 10 by PSA, sold through Goldin after 34 bids, with the auction closing on 17 October.Only ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/kimi-antonelli-rookie-card-sells-for-staggering-878400-ahead-of-f1-title-opportunity/10867588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/27Noe1e0/s6/motorsport-com-graphics-11-2.jpg",
-      "published_at": 1792793950000
     }
   ]
 }

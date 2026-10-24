@@ -1722,7 +1722,11 @@
           "session_key": 11392,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2026-10-24T21:00:00+00:00"
+          "date_start": "2026-10-24T21:00:00+00:00",
+          "weather": {
+            "temp": 29.0,
+            "weather_code": 0
+          }
         },
         {
           "session_key": 11396,
