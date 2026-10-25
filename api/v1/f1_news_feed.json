@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-10-25T21:33:14.717283Z",
+    "last_updated": "2026-10-25T22:03:27.248089Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.autosport.com/f1/news/f1-united-states-gp-antonelli-wins/10868343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "F1 United States GP: Antonelli dominates from pole - but forced to wait for title",
+      "snippet": "Kimi Antonelli has taken another step towards an inevitable Formula 1 title with a sovereign United States Grand Prix win, defeating Charles Leclerc at Austin's Circuit of the Americas.From pole, the Mercedes driver warded off a challenge from the Ferrari man and Max Verstappen as he stuck to the Silver Arrows’ masterplan and executed a clean one-stop race.Antonelli's ninth grand prix ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/f1-united-states-gp-antonelli-wins/10868343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/68Vw4k82/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": 1792965012000
+    },
     {
       "id": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
       "title": "Gademan claims maiden F1 Academy feature race win after Palmowski-Larsen crash",
@@ -14,12 +23,21 @@
       "published_at": 1792951200000
     },
     {
+      "id": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-us-gp/10868328/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Five quick takeaways from US GP",
+      "snippet": "Antonelli delivers another masterclassKimi Antonelli was never likely to clinch the title in Texas – too many things needed to fall into place. But he did everything he could, delivering a perfect weekend. His first pole since Spa in the middle of the summer, followed by a commanding victory – with a clean start and strong pace on both tyre compounds. Another masterclass in a season full ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-us-gp/10868328/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6Alv4g1Y/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": 1792965287000
+    },
+    {
       "id": "https://www.motorsport.com/f1/news/toto-wolff-gets-brutally-honest-about-spotting-f1-talent-and-why-prodigies-wash-out/10868224/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Toto Wolff gets brutally honest about spotting F1 talent and why prodigies wash out",
       "snippet": "When you run a billion-dollar Formula 1 team, your inbox is probably flooded with emails from karting dads swearing their kid is the next Ayrton Senna. Separating the generational talents from the heavily funded rich kids is a ruthless business, and Mercedes boss Toto Wolff's scouting methods are currently being totally vindicated by his sophomore sensation, Andrea Kimi Antonelli.In just his ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/toto-wolff-gets-brutally-honest-about-spotting-f1-talent-and-why-prodigies-wash-out/10868224/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0R7BRpV2/s6/motorsport-com-graphics-21-2.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7BRpV2/s6/motorsport-com-graphics-21-2.jpg",
       "published_at": 1792956411000
     },
     {
@@ -37,7 +55,7 @@
       "snippet": "Toto Wolff has been the face, the political muscle, and the strategic anchor of Mercedes F1 since 2013, guiding the Brackley squad through an unprecedented era of dominance. However, as the sport expands and the physical toll of a grueling 24-race calendar sets in, the billionaire team boss is actively laying the groundwork for his eventual exit from the pit wall.In a recent appearance on the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/toto-wolff-reveals-he-is-actively-vetting-two-or-three-people-to-replace-him-at-mercedes/10868219/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6O7zDwG6/s6/motorsport-com-graphics-20-2.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6O7zDwG6/s6/motorsport-com-graphics-20-2.jpg",
       "published_at": 1792940295000
     },
     {
@@ -55,7 +73,7 @@
       "snippet": "In Austin, the battle for pole position looked for a long time as though it would be between Max Verstappen and Ferrari. By the end of qualifying, however, the Scuderia had failed to get either car into the top three, while Kimi Antonelli emerged as a surprise contender.Verstappen had to settle for second place, making his conclusion during the Dutch media session in the paddock clear: yes ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/max-verstappen-puzzled-by-q3-grip-loss-but-austin-shows-how-far-red-bull-has-progressed/10868113/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2QedgVN2/s6/max-verstappen-red-bull-racing.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2QedgVN2/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1792929623000
     },
     {
@@ -73,7 +91,7 @@
       "snippet": "It is one of the main talking points in the Formula 1 paddock this weekend: the extreme bumps at the Circuit of the Americas. Drivers raised their concerns during Friday evening's drivers' briefing, after which Verstappen stayed behind for some time to speak further with representatives of the FIA and the circuit.Because the track was built on Texas' infamous high-plasticity clay, it suffers ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/max-verstappen-reacts-to-cota-boss-he-can-drive-my-car-after-five-laps-he-wont-be-able-to-walk/10868080/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0Zq8dLd6/s6/max-verstappen-red-bull-racing.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0Zq8dLd6/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1792920196000
     },
     {
@@ -84,24 +102,6 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/01QNoJo0/s6/andrea-kimi-antonelli-mercedes-3.jpg",
       "published_at": 1792887214000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13603149/united-states-gp-qualifying-kimi-antonelli-beats-max-verstappen-to-surprise-pole-to-boost-chances-of-sealing-maiden-f1-title-on-sunday",
-      "title": "Antonelli takes surprise pole to boost chances of sealing title in USA",
-      "snippet": "Kimi Antonelli beat Max Verstappen to pole position for the United States Grand Prix to boost his chances of sealing a maiden world championship in Sunday's race.",
-      "link": "https://www.skysports.com/f1/news/12433/13603149/united-states-gp-qualifying-kimi-antonelli-beats-max-verstappen-to-surprise-pole-to-boost-chances-of-sealing-maiden-f1-title-on-sunday",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-kimi-antonelli-mercedes_7386309.jpg?20261024235707",
-      "published_at": 1792882800000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/f1-united-states-gp-antonelli-beats-verstappen-to-pole/10867984/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "F1 United States GP: Antonelli beats Verstappen to pole with Russell only sixth",
-      "snippet": "Championship leader Kimi Antonelli has claimed his seventh pole of 2026 at Formula 1's United States Grand Prix, defeating Max Verstappen in a thrillingly close qualifying session in Austin.Antonelli surged to pole with his first of two Q3 runs, which yielded a 1m34.035s as he headed Red Bull tandem Verstappen and Isack Hadjar by around two tenths, as few frontrunners improved on their final ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/f1-united-states-gp-antonelli-beats-verstappen-to-pole/10867984/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/Y9lN4oX2/s6/andrea-kimi-antonelli-mercedes-3.jpg",
-      "published_at": 1792880150000
     },
     {
       "id": "https://www.skysports.com/f1/news/12433/13603166/united-states-gp-how-likely-is-pole-sitter-kimi-antonelli-to-win-2026-f1-drivers-championship-on-sunday-in-austin",
@@ -145,7 +145,7 @@
       "snippet": "Charles Leclerc and Lewis Hamilton will start Sunday's United States Grand Prix fourth and fifth on the grid, but the Monegasque says both drivers know \"the line not to cross\" heading into Turn 1 of the Austin circuit.Leclerc qualified ahead of his team-mate but has admitted that both he and Hamilton have overstepped at times throughout the season.One example of this came at Monza earlier ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/charles-leclerc-sets-boundaries-with-lewis-hamilton-ahead-of-turn-1-battle/10868086/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YE9E4MpY/s6/motorsport-com-graphics-19.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YE9E4MpY/s6/motorsport-com-graphics-19.jpg",
       "published_at": 1792888707000
     },
     {
@@ -154,7 +154,7 @@
       "snippet": "Alpine has released a statement in support of its driver Franco Colapinto after former Top Gear host Jeremy Clarkson joked on Sky Sports F1 that the driver had been given a grid penalty \"for being Argentinian\".Clarkson is spending the United States Grand Prix weekend with the Enstone outfit, which he has supported for several years as his local team, and he appeared on the live Sky Sports F1 ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/alpine-issues-statement-after-jeremy-clarksons-controversial-franco-colapinto-comments/10868082/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0rVPZQq0/s6/motorsport-com-graphics-10.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0rVPZQq0/s6/motorsport-com-graphics-10.jpg",
       "published_at": 1792887891000
     },
     {
@@ -163,7 +163,7 @@
       "snippet": "Mercedes Formula 1 driver George Russell faces a challenging United States Grand Prix tomorrow as a disappointing qualifying means he'll start sixth. While his team-mate and championship leader Kimi Antonelli is starting on pole, the Briton argues that F1 may need to rethink how low and stiff the cars run following criticism of the bumps at the Circuit of the Americas.Red Bull's Max Verstappen ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/george-russell-calls-for-f1-rethink-as-cars-are-forced-to-run-so-low-and-so-stiff/10868060/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2y7QVZm6/s6/motorsport-com-graphics-18.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7QVZm6/s6/motorsport-com-graphics-18.jpg",
       "published_at": 1792887869000
     },
     {
@@ -172,7 +172,7 @@
       "snippet": "Ferrari had been pegged as the team to beat after practice at the United States Grand Prix, but ultimately found itself wanting when it came to qualifying and failed to find enough progression through Q3.Charles Leclerc had headlined both Friday practice sessions, while Lewis Hamilton took the honours in FP3 after Leclerc's best lap was deleted, and it looked as though the team was primed to ...Keep reading",
       "link": "https://www.autosport.com/f1/news/leclerc-and-hamilton-theories-on-ferrari-qualifying-performance/10868059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/27Noedo0/s6/charles-leclerc-ferrari-4.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/27Noedo0/s6/charles-leclerc-ferrari-4.jpg",
       "published_at": 1792886313000
     },
     {
@@ -181,7 +181,7 @@
       "snippet": "Ferrari had been pegged as the team to beat after practice at the United States Grand Prix, but ultimately found itself wanting when it came to qualifying and failed to find enough progression through Q3.Charles Leclerc had headlined both Friday practice sessions, while Lewis Hamilton took the honours in FP3 after Leclerc's best lap was deleted, and it looked as though the team was primed to ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/why-ferrari-couldnt-challenge-for-pole-in-us-gp-qualifying/10868050/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/27No4aX0/s6/charles-leclerc-ferrari-2.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/27No4aX0/s6/charles-leclerc-ferrari-2.jpg",
       "published_at": 1792886034000
     },
     {
@@ -190,7 +190,7 @@
       "snippet": "Isack Hadjar says Red Bull can try to use its numbers advantage to beat polesitter and current championship leader Kimi Antonelli at the United States Grand Prix, after recovering from a \"disaster\" start to the weekend.The French-Algerian driver ended up just 0.036 seconds behind team-mate Max Verstappen and 0.215s off Antonelli's pole time at the Circuit of the Americas, and said a big push ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/isack-hadjar-rues-disaster-of-a-weekend-despite-us-gp-qualifying-turnaround/10868055/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6DGg4B7Y/s6/motorsport-com-graphics-9.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6DGg4B7Y/s6/motorsport-com-graphics-9.jpg",
       "published_at": 1792885840000
     },
     {
