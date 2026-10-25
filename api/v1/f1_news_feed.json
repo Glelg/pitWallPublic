@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-24T23:32:23.104615Z",
+    "last_updated": "2026-10-25T00:02:22.544651Z",
     "total_news": 22
   },
   "news": [
@@ -10,7 +10,7 @@
       "snippet": "Kimi Antonelli beat Max Verstappen to pole position for the United States Grand Prix to boost his chances of sealing a maiden world championship in Sunday's race.",
       "link": "https://www.skysports.com/f1/news/12433/13603149/united-states-gp-qualifying-kimi-antonelli-beats-max-verstappen-to-surprise-pole-to-boost-chances-of-sealing-maiden-f1-title-on-sunday",
       "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-kimi-antonelli-mercedes_7386265.jpg?20261024225734",
+      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-kimi-antonelli-mercedes_7386309.jpg?20261024235707",
       "published_at": 1792882800000
     },
     {
@@ -19,12 +19,48 @@
       "snippet": "Championship leader Kimi Antonelli has claimed his seventh pole of 2026 at Formula 1's United States Grand Prix, defeating Max Verstappen in a thrillingly close qualifying session in Austin.Antonelli surged to pole with his first of two Q3 runs, which yielded a 1m34.035s as he headed Red Bull tandem Verstappen and Isack Hadjar by around two tenths, as few frontrunners improved on their final ...Keep reading",
       "link": "https://www.autosport.com/f1/news/f1-united-states-gp-antonelli-beats-verstappen-to-pole/10867984/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/Y9lN4oX2/s6/andrea-kimi-antonelli-mercedes-3.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/Y9lN4oX2/s6/andrea-kimi-antonelli-mercedes-3.jpg",
       "published_at": 1792880150000
     },
     {
+      "id": "https://www.autosport.com/f1/news/leclerc-and-hamilton-theories-on-ferrari-qualifying-performance/10868059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Leclerc and Hamilton's differing theories behind Ferrari's Austin qualifying disappointment",
+      "snippet": "Ferrari had been pegged as the team to beat after practice at the United States Grand Prix, but ultimately found itself wanting when it came to qualifying and failed to find enough progression through Q3.Charles Leclerc had headlined both Friday practice sessions, while Lewis Hamilton took the honours in FP3 after Leclerc's best lap was deleted, and it looked as though the team was primed to ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/leclerc-and-hamilton-theories-on-ferrari-qualifying-performance/10868059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/27Noedo0/s6/charles-leclerc-ferrari-4.jpg",
+      "published_at": 1792886313000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/why-ferrari-couldnt-challenge-for-pole-in-us-gp-qualifying/10868050/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Why Ferrari failed to deliver on its hype in F1's United States GP qualifying",
+      "snippet": "Ferrari had been pegged as the team to beat after practice at the United States Grand Prix, but ultimately found itself wanting when it came to qualifying and failed to find enough progression through Q3.Charles Leclerc had headlined both Friday practice sessions, while Lewis Hamilton took the honours in FP3 after Leclerc's best lap was deleted, and it looked as though the team was primed to ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/why-ferrari-couldnt-challenge-for-pole-in-us-gp-qualifying/10868050/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/27No4aX0/s6/charles-leclerc-ferrari-2.jpg",
+      "published_at": 1792886034000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/isack-hadjar-rues-disaster-of-a-weekend-despite-us-gp-qualifying-turnaround/10868055/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Isack Hadjar rues \"disaster of a weekend\" despite US GP qualifying turnaround",
+      "snippet": "Isack Hadjar says Red Bull can try to use its numbers advantage to beat polesitter and current championship leader Kimi Antonelli at the United States Grand Prix, after recovering from a \"disaster\" start to the weekend.The French-Algerian driver ended up just 0.036 seconds behind team-mate Max Verstappen and 0.215s off Antonelli's pole time at the Circuit of the Americas, and said a big push ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/isack-hadjar-rues-disaster-of-a-weekend-despite-us-gp-qualifying-turnaround/10868055/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6DGg4B7Y/s6/motorsport-com-graphics-9.jpg",
+      "published_at": 1792885840000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cm0qk189q5dgo?at_medium=RSS&at_campaign=rss",
+      "title": "How to follow US Grand Prix on the BBC",
+      "snippet": "All the key BBC coverage details for the United States Grand Prix, which takes place from 23-25 October.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm0qk189q5dgo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ec3/live/a003b150-d000-11f1-8c6a-19fb2f0bd8d7.jpg",
+      "published_at": 1792884781000
+    },
+    {
       "id": "https://www.motorsport.com/f1/news/oscar-piastri-compares-cota-bump-to-a-motocross-jump-after-us-gp-qualifying/10868037/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Oscar Piastri compares COTA bump to a \"motocross jump\" after US GP qualifying",
+      "title": "Oscar Piastri warns COTA bumps could become an overtaking hazard at US GP",
       "snippet": "McLaren's Oscar Piastri has compared the bump on the approach to Turn 1 at the Circuit of the Americas to \"a motocross jump\" after qualifying seventh for the United States Grand Prix. The Australian driver finished 0.768 seconds behind polesitter and current championship leader Kimi Antonelli, with his team-mate Lando Norris eighth after losing his final Q3 lap time to a track limits ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/oscar-piastri-compares-cota-bump-to-a-motocross-jump-after-us-gp-qualifying/10868037/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
@@ -32,21 +68,12 @@
       "published_at": 1792884475000
     },
     {
-      "id": "https://www.autosport.com/f1/news/norris-frustrated-after-united-states-gp-qualifying/10868036/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Norris frustrated after United States GP qualifying: \"I did a very bad job\"",
-      "snippet": "Lando Norris was incredibly frustrated by his “very bad job” in qualifying for Formula 1’s United States Grand Prix as he took eighth despite thinking a front row was possible.The reigning world champion will share row four with McLaren team-mate Oscar Piastri, despite briefly taking sixth with his second Q3 run before that time was struck off because he had exceeded track limits at Turn ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/norris-frustrated-after-united-states-gp-qualifying/10868036/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YN7vAja6/s6/lando-norris-mclaren-3.jpg",
-      "published_at": 1792884409000
-    },
-    {
       "id": "https://www.motorsport.com/f1/news/max-verstappen-refuses-to-celebrate-us-gp-qualifying-result-no-need-to-smile/10868029/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Max Verstappen refuses to celebrate US GP qualifying result: 'No need to smile'",
       "snippet": "After qualifying second for the United States Grand Prix, Max Verstappen has said there is \"no need to smile and be super happy\" about his performance. A lack of grip in Q3 left him unable to fight for pole, which instead went to Mercedes' Kimi Antonelli.The Red Bull driver ended up 0.179 seconds behind the young Italian at the Circuit of the Americas, and only 0.036s ahead of team-mate Isack ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/max-verstappen-refuses-to-celebrate-us-gp-qualifying-result-no-need-to-smile/10868029/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YE9E4MKY/s6/motorsport-com-graphics-17.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YE9E4MKY/s6/motorsport-com-graphics-17.jpg",
       "published_at": 1792884161000
     },
     {
@@ -55,7 +82,7 @@
       "snippet": "Formula 1 heads into Sunday at Circuit of the Americas with Kimi Antonelli on pole and his first chance to clinch the 2026 world championship.Antonelli starts ahead of Max Verstappen and Isack Hadjar, while title rival George Russell lines up sixth. If Antonelli wins and Russell finishes ninth or lower, the Mercedes driver will be crowned world champion in Austin.Charles Leclerc starts ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/f1-united-states-gp-sunday-schedule-weather-forecast-and-how-to-watch/10868006/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0R7BRdM2/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0R7BRdM2/s6/andrea-kimi-antonelli-mercedes.jpg",
       "published_at": 1792881806000
     },
     {
@@ -73,7 +100,7 @@
       "snippet": "Jeremy Clarkson had a single interview with Sky Sports F1 and yet it still resulted in chaos. The Clarkson's Farm presenter discussed a multitude of subjects with Martin Brundle, Naomi Schiff and Simon Lazenby, from Franco Colapinto's grid penalty \"for being Argentinian\" to his thoughts on Kim Kardashian.Clarkson was Alpine's guest for the weekend at the Circuit of the Americas, having formed ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/jeremy-clarkson-causes-a-stir-with-franco-colapinto-and-kim-kardashian-comments/10868001/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0mXyzPa6/s6/motorsport-com-graphics-16.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0mXyzPa6/s6/motorsport-com-graphics-16.jpg",
       "published_at": 1792881236000
     },
     {
@@ -82,7 +109,7 @@
       "snippet": "Bobby Epstein, the chairman of the Circuit of the Americas, has responded to Max Verstappen's criticism of the track, admitting that the dip at the bottom of Turn 1 is \"not acceptable\".Ahead of the United States Grand Prix, the four-time Formula 1 world champion used his media session to complain about the track surface, saying the bumps were \"unacceptable\" and adding that they had become \"out ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/max-verstappens-austin-gp-complaints-prompt-response-from-cota-chief/10867977/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6lmANA40/s6/motorsport-com-graphics-15.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6lmANA40/s6/motorsport-com-graphics-15.jpg",
       "published_at": 1792877832000
     },
     {
@@ -91,7 +118,7 @@
       "snippet": "George Russell has come up with a tongue-in-cheek plan to stop Mercedes team-mate Kimi Antonelli from clinching the Formula 1 championship at the United States Grand Prix: take him out drinking.Antonelli has the chance to claim his maiden F1 title as he heads into the race at the Circuit of the Americas with a 102-point lead over second-placed Russell in the standings. To secure the title, the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/george-russells-tongue-in-cheek-kimi-antonelli-f1-title-threat-get-you-arrested/10867967/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YN7vAR36/s6/motorsport-com-graphics-7.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YN7vAR36/s6/motorsport-com-graphics-7.jpg",
       "published_at": 1792875596000
     },
     {
@@ -100,7 +127,7 @@
       "snippet": "Kimi Antonelli is on the verge of becoming a Formula 1 world champion, but the Mercedes driver was still spotted by fans making a faux pas in the car park, proving that even the most talented of drivers sometimes make a mistake.The young Italian drove to the Circuit of the Americas this weekend in a personalised Mercedes-AMG GT 4-Door Coupe thanks to the team's partnership with MANUFAKTUR. But ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/kimi-antonelli-caught-on-camera-hitting-fence-in-mercedes-road-car-at-us-gp/10867960/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0mXy34A6/s6/motorsport-com-graphics-14-2.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0mXy34A6/s6/motorsport-com-graphics-14-2.jpg",
       "published_at": 1792874333000
     },
     {
@@ -109,7 +136,7 @@
       "snippet": "On 24 March 2019, Colton Herta became the youngest ever IndyCar race winner at the Circuit of the Americas, taking the small Harding Steinbrenner Racing team to victory, aged just 18 years and 359 days old.It was the start of a successful IndyCar career with Andretti, even if the title or Indianapolis 500 victory eluded the second-generation driver.But when a late chance to pursue his ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/colton-herta-savours-super-special-austin-homecoming-as-2027-uncertainty-remains/10867950/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0rVx3Am0/s6/colton-herta.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0rVx3Am0/s6/colton-herta.jpg",
       "published_at": 1792872210000
     },
     {
@@ -127,7 +154,7 @@
       "snippet": "Former Red Bull Racing CEO and team principal Christian Horner argued that Formula 1 should let fans sit on their favourite team's pitwall virtually and hear how strategy calls are made.Horner has spent the past 15 months watching grands prix as a fan for the first time in his career, after leaving Red Bull in July 2025.Speaking at the Autosport Business Exchange in New York on Wednesday ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/christian-horner-proposes-major-change-to-how-fans-watch-f1/10867935/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7LokRY/s6/motorsport-com-graphics-6.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6x7LokRY/s6/motorsport-com-graphics-6.jpg",
       "published_at": 1792867549000
     },
     {
@@ -136,17 +163,8 @@
       "snippet": "Alpine driver Franco Colapinto made an appearance in front of fans at a Williams event, donning a Doctor Doom cape and mask. The Argentinian certainly made the most of this weekend's Marvel connection as he posed with fans for photos.The driver was handed the costume during a Williams fan zone in downtown Austin where the team was promoting its partnership with the upcoming film Avengers ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/franco-colapinto-goes-viral-after-surprise-doctor-doom-appearance-at-united-states-gp/10867930/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6O7zAka6/s6/motorsport-com-graphics-13.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6O7zAka6/s6/motorsport-com-graphics-13.jpg",
       "published_at": 1792867484000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/f1-united-states-gp-hamilton-tops-fp3/10867933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "F1 United States GP: Ferrari completes perfect practice record as Hamilton tops FP3",
-      "snippet": "Lewis Hamilton finished final practice on top at Formula 1's United States Grand Prix, leading Max Verstappen and Charles Leclerc into qualifying at Austin.Hamilton was the only driver to break the 1m35s barrier in the final 20 minutes of third practice, as frequent track limits transgressions kept Ferrari team-mate Leclerc from leapfrogging him on the leaderboard.Following an opening ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/f1-united-states-gp-hamilton-tops-fp3/10867933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6lmA3bD0/s6/lewis-hamilton-ferrari-2.jpg",
-      "published_at": 1792867334000
     },
     {
       "id": "https://www.motorsport.com/f1/news/daniel-ricciardo-surprises-f1-fans-with-on-stage-performance-ahead-of-us-gp/10867920/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -154,7 +172,7 @@
       "snippet": "Former Formula 1 driver Daniel Ricciardo made a surprise appearance on stage in Austin, Texas, with American singer-songwriter Rob Baird.The Australian joined Baird at the Ford Racing and Enchanté pop-up on Friday night to play harmonica on an original song he co-wrote with Baird during a road trip to the United States Grand Prix.A fan video of the performance, posted on Instagram, had ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/daniel-ricciardo-surprises-f1-fans-with-on-stage-performance-ahead-of-us-gp/10867920/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0rVPqmJ0/s6/motorsport-com-graphics-5.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0rVPqmJ0/s6/motorsport-com-graphics-5.jpg",
       "published_at": 1792866107000
     },
     {
@@ -163,8 +181,17 @@
       "snippet": "Young Audi driver Gabriel Bortoleto played a prank on his team-mate Nico Hulkenberg as the pair walked out in front of thousands of fans at the Circuit of the Americas. With both drivers walking out to cheers from the Austin crowds, the Brazilian pulled down his team-mate's trousers.Videos of this moment have gone incredibly viral, showing Hulkenberg making his way onto the stage on Friday ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/nico-hulkenberg-left-red-faced-after-gabriel-bortoleto-prank-at-united-states-gp/10867916/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2QedgKv2/s6/motorsport-com-graphics-12-2.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2QedgKv2/s6/motorsport-com-graphics-12-2.jpg",
       "published_at": 1792865580000
+    },
+    {
+      "id": "https://www.skysports.com/f1/live-blog/12433/13603168/f1-united-states-gp-live-qualifying-and-final-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-austin",
+      "title": "'I just did a terrible job' - Norris blames himself for qualifying eighth",
+      "snippet": "",
+      "link": "https://www.skysports.com/f1/live-blog/12433/13603168/f1-united-states-gp-live-qualifying-and-final-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-austin",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-lando-norris-mclaren_7386321.jpg?20261025003122",
+      "published_at": 1792865100000
     },
     {
       "id": "https://www.motorsport.com/f1/news/why-cadillac-f1-boss-provoked-fresh-intrigue-by-dodging-driver-question/10867808/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -172,35 +199,8 @@
       "snippet": "The US GP weekend naturally means the spotlight gravitates towards Formula 1’s two American-owned teams. That has led to some awkward questions for Cadillac amid ongoing speculation over its driver line-up for 2027 and beyond.Both Sergio Perez and Valtteri Bottas are on “multi-year” contracts, understood to be a so-called one-plus-one arrangement in which the second year is optional ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/why-cadillac-f1-boss-provoked-fresh-intrigue-by-dodging-driver-question/10867808/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2GdKlEKY/s6/marcin-budkowski-cadillac-team.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/2GdKlEKY/s6/marcin-budkowski-cadillac-team.jpg",
       "published_at": 1792848603000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/just-undriveable-isack-hadjar-looking-for-answers-after-massive-struggles-in-austin-practice/10867672/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "\"Just undriveable\" – Isack Hadjar looking for answers after \"massive\" struggles in Austin practice",
-      "snippet": "It was a day of contrasting fortunes for Red Bull during Formula 1 practice at the Circuit of the Americas. Max Verstappen was largely satisfied with the early signs of the RB22, although he stressed that the balance between high-speed and low-speed corners still needed improvement, with technical director Pierre Wache indicating that Red Bull needed to make gains in the slower sections of the ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/just-undriveable-isack-hadjar-looking-for-answers-after-massive-struggles-in-austin-practice/10867672/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0kZX3no6/s6/isack-hadjar-red-bull-racing-2.jpg",
-      "published_at": 1792837802000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/the-unexpected-problem-honda-encountered-despite-its-second-f1-power-unit-upgrade/10867644/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "The unexpected problem Honda encountered despite its second F1 power unit upgrade",
-      "snippet": "Following a surprisingly successful Formula 1 weekend in Malaysia, expectations were also high at Aston Martin for Singapore, a venue that should have suited the AMR26 on paper.However, the competitive picture at the Marina Bay Street Circuit proved rather disappointing, with Fernando Alonso pointing to problems with the Honda power unit after the race, particularly in terms of ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/the-unexpected-problem-honda-encountered-despite-its-second-f1-power-unit-upgrade/10867644/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0R7Bqdo2/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": 1792834202000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/red-bull-pinpoints-areas-of-improvement-at-us-gp/10867770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Verstappen enjoys promising start to US GP - but Red Bull pinpoints areas of improvement",
-      "snippet": "Max Verstappen finished Friday's practice sessions for the Formula 1 United States Grand Prix in second and third place. In each outing, the four-time world champion was less than two tenths behind Charles Leclerc, who set the benchmark on both occasions.Red Bull is not immediately standing out from the rest of the field as it did in Malaysia, for example, but Verstappen is nevertheless ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/red-bull-pinpoints-areas-of-improvement-at-us-gp/10867770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YE9EmkPY/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": 1792829562000
     }
   ]
 }

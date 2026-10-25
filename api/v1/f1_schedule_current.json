@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-24T23:32:15.173046Z",
+    "last_updated": "2026-10-25T00:02:14.709766Z",
     "year": 2026,
     "total_meetings": 27
   },
@@ -1714,8 +1714,8 @@
           "session_type": "Practice",
           "date_start": "2026-10-24T17:30:00+00:00",
           "weather": {
-            "temp": 26.4,
-            "weather_code": 3
+            "temp": 26.5,
+            "weather_code": 1
           }
         },
         {
@@ -1724,8 +1724,8 @@
           "session_type": "Qualifying",
           "date_start": "2026-10-24T21:00:00+00:00",
           "weather": {
-            "temp": 29.6,
-            "weather_code": 0
+            "temp": 29.1,
+            "weather_code": 2
           }
         },
         {
