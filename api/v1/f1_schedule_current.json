@@ -1732,7 +1732,11 @@
           "session_key": 11396,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2026-10-25T20:00:00+00:00"
+          "date_start": "2026-10-25T20:00:00+00:00",
+          "weather": {
+            "temp": 28.0,
+            "weather_code": 3
+          }
         }
       ]
     },
