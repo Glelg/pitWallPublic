@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-10-29T05:32:29.006718Z",
+    "last_updated": "2026-10-29T06:02:31.259401Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13604769/toto-wolff-explains-kimi-antonelli-turnaround-after-tears-in-belgium-2025-to-likely-world-championship-coronation-at-mexico-city-gp",
+      "title": "Wolff explains Antonelli turnaround after 'tears'",
+      "snippet": "Mercedes team principal Toto Wolff says it is \"extremely satisfying\" to see Kimi Antonelli's turnaround from last year as the Italian looks to secure the 2026 Formula 1 world title this weekend in Mexico.",
+      "link": "https://www.skysports.com/f1/news/12433/13604769/toto-wolff-explains-kimi-antonelli-turnaround-after-tears-in-belgium-2025-to-likely-world-championship-coronation-at-mexico-city-gp",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-toto-wolff-kimi-antonelli_7389642.jpg?20261028121844",
+      "published_at": 1793253600000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/horner-reflects-on-ricciardos-prime-red-bull-era-he-never-stopped-overtaking/10869056/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Mark Webber's Red Bull exit branded \"disrespectful\" as Daniel Ricciardo praised",
@@ -192,15 +201,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a75/live/e4414e20-d214-11f1-a275-c5df85f1853c.jpg",
       "published_at": 1793114273000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/the-mistakes-that-cost-lewis-hamilton-a-podium-at-f1s-us-gp/10868845/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "The mistakes that cost Lewis Hamilton a podium at F1’s US GP",
-      "snippet": "Lewis Hamilton has explained the reasons why the podium narrowly eluded him in Formula 1’s United States Grand Prix.The Ferrari driver started from fifth on the grid and jumped Isack Hadjar for fourth at lights out, despite being the only driver on used (soft) tyres for the opening stint.But Hamilton lost 0.277s per lap to team-mate Charles Leclerc during that stint, as well as 0.422s ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/the-mistakes-that-cost-lewis-hamilton-a-podium-at-f1s-us-gp/10868845/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2jEANNM0/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": 1793113267000
     }
   ]
 }
