@@ -1,6 +1,6 @@
 {
   "meeting_key": 1298,
-  "updated_at": "2026-10-30T15:03:11Z",
+  "updated_at": "2026-10-30T15:33:17Z",
   "sessions": {
     "11397": {
       "temp": 24.8,
@@ -44,12 +44,12 @@
     },
     "11404": {
       "temp": 26.3,
-      "rain_chance": 3,
+      "rain_chance": 0,
       "weather_code": 1
     },
     "2026-11-01T20:00": {
       "temp": 26.3,
-      "rain_chance": 3,
+      "rain_chance": 0,
       "weather_code": 1
     }
   }
