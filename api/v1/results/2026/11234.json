@@ -8,7 +8,7 @@
     "meeting_name": "Australian Grand Prix",
     "circuit_name": "Melbourne",
     "stewards_status": "FINAL",
-    "last_updated": "2026-10-28T02:03:24.835423Z"
+    "last_updated": "2026-10-30T07:03:26.379716Z"
   },
   "results": [
     {
@@ -76,7 +76,7 @@
       "gap_to_leader": "+16.144s",
       "laps_completed": 58,
       "points": 12.0,
-      "is_fastest_lap": false,
+      "is_fastest_lap": true,
       "status": "FINISHED"
     },
     {
@@ -110,7 +110,7 @@
       "gap_to_leader": "+54.617s",
       "laps_completed": 58,
       "points": 8.0,
-      "is_fastest_lap": true,
+      "is_fastest_lap": false,
       "status": "FINISHED"
     },
     {
@@ -312,7 +312,7 @@
       "is_pit_lane_start": false,
       "time_or_retired": "",
       "gap_to_leader": "",
-      "laps_completed": 21,
+      "laps_completed": 22,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -329,7 +329,7 @@
       "is_pit_lane_start": false,
       "time_or_retired": "",
       "gap_to_leader": "",
-      "laps_completed": 15,
+      "laps_completed": 16,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
@@ -346,7 +346,7 @@
       "is_pit_lane_start": false,
       "time_or_retired": "",
       "gap_to_leader": "",
-      "laps_completed": 10,
+      "laps_completed": 11,
       "points": 0.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
