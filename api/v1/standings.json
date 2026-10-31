@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-10-31T20:01:08.479408Z",
-    "session_key": 11399,
+    "last_updated": "2026-10-31T22:31:01.996531Z",
+    "session_key": 11400,
     "year": 2026
   },
   "driver_standings": [
@@ -210,7 +210,7 @@
       "last_points_gained": 0.0,
       "position_change": 0,
       "country_code": "fr",
-      "is_inactive": false,
+      "is_inactive": true,
       "previous_team_name": null
     },
     {
