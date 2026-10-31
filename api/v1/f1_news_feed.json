@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-10-31T22:32:29.472728Z",
+    "last_updated": "2026-10-31T23:02:24.101981Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.motorsport.com/f1/news/lewis-hamilton-lost-for-words-after-ending-three-year-f1-pole-drought-at-mexican-gp/10870309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Lewis Hamilton \"lost for words\" after ending three-year F1 pole drought at Mexican GP",
+      "snippet": "Seven-time Formula 1 champion Lewis Hamilton admitted he was \"lost for words\" after claiming his first grand prix pole position for Ferrari at the Mexican Grand Prix.The Briton beat his former Mercedes team-mate George Russell by just 0.009 seconds to end a three-year wait for a grand prix pole position. It is the 105th pole of Hamilton's career, extending his own F1 record, and his first ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/lewis-hamilton-lost-for-words-after-ending-three-year-f1-pole-drought-at-mexican-gp/10870309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YpbA9a30/s6/motorsport-com-graphics-38.jpg",
+      "published_at": 1793486485000
+    },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo?at_medium=RSS&at_campaign=rss",
       "title": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
@@ -11,7 +20,34 @@
       "link": "https://www.bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo?at_medium=RSS&at_campaign=rss",
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ee/live/6d77c180-d579-11f1-aae4-a751b3f56d67.jpg",
-      "published_at": 1793485571000
+      "published_at": 1793486005000
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13606514/mexico-city-gp-lewis-hamilton-pips-george-russell-to-become-oldest-pole-sitter-in-44-years",
+      "title": "Hamilton pips Russell to become oldest pole sitter in 44 years!",
+      "snippet": "Lewis Hamilton edged out George Russell to become the oldest person to claim pole position since 1982.",
+      "link": "https://www.skysports.com/watch/video/13606514/mexico-city-gp-lewis-hamilton-pips-george-russell-to-become-oldest-pole-sitter-in-44-years",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-motorsport-f1-ferrari_7393492.jpg?20261031223647",
+      "published_at": 1793484960000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/2026-f1-mexico-grand-prix-starting-grid/10870302/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "2026 F1 Mexico Grand Prix starting grid",
+      "snippet": "1 Lewis Hamilton(Ferrari) 2 George Russell(Mercedes)3 Charles Leclerc(Ferrari) 4 Kimi ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/2026-f1-mexico-grand-prix-starting-grid/10870302/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/Y9lNjZb2/s6/lewis-hamilton-ferrari.jpg",
+      "published_at": 1793485926000
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13606516/mexico-city-grand-prix-qualifying-highlights",
+      "title": "Mexico City Grand Prix - Qualifying Highlights",
+      "snippet": "Highlights from qualifying for the 2026 Mexico City Grand Prix.",
+      "link": "https://www.skysports.com/watch/video/13606516/mexico-city-grand-prix-qualifying-highlights",
+      "source_name": "Sky Sports",
+      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-qualifying-highlights_7393484.jpg?20261031222638",
+      "published_at": 1793485380000
     },
     {
       "id": "https://www.motorsport.com/f1/news/max-verstappen-will-have-no-say-in-2027-racing-bulls-driver-line-up-says-red-bull-boss/10870282/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -19,7 +55,7 @@
       "snippet": "Red Bull Racing CEO and team principal Laurent Mekies has explained that Racing Bulls alone will decide its Formula 1 driver line-up for 2027 and that Max Verstappen will not have a say despite his clash with Liam Lawson in Mexico.Both Verstappen and Lawson were handed a one-place grid penalty for the Mexican Grand Prix after making contact during the second practice session on ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/max-verstappen-will-have-no-say-in-2027-racing-bulls-driver-line-up-says-red-bull-boss/10870282/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2y7QprX6/s6/motorsport-com-graphics-37.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2y7QprX6/s6/motorsport-com-graphics-37.jpg",
       "published_at": 1793481855000
     },
     {
@@ -37,7 +73,7 @@
       "snippet": "Although Red Bull has turned its 2026 Formula 1 season around in impressive fashion, the technical team led by Pierre Wache is still dealing with several limitations behind the scenes. One of the main ones is perhaps the wind tunnel, the oldest on the entire F1 grid.Former team principal Christian Horner repeatedly described Red Bull's wind tunnel as \"a Cold War relic\" and said working with ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/when-red-bull-expects-to-start-using-its-long-awaited-new-f1-wind-tunnel/10870210/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YK15Rvz0/s6/isack-hadjar-red-bull-racing.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YK15Rvz0/s6/isack-hadjar-red-bull-racing.jpg",
       "published_at": 1793469606000
     },
     {
@@ -46,7 +82,7 @@
       "snippet": "Isack Hadjar has been given a formal warning by the Mexico Grand Prix stewards for shoving a fan in the Formula 1 paddock ahead of opening practice.The Red Bull driver was initially summoned for an alleged incident of “misconduct” at Autodromo Hermanos Rodriguez on Friday.Hadjar had been approached by a fan attempting to take a picture, but he was shoved away twice and the Frenchman ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/isack-hadjar-warned-for-fan-incident-in-f1-mexico-gp-paddock/10870033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6b8ZNN32/s6/isack-hadjar-red-bull-racing.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8ZNN32/s6/isack-hadjar-red-bull-racing.jpg",
       "published_at": 1793467068000
     },
     {
@@ -82,7 +118,7 @@
       "snippet": "Ferrari Formula 1 boss Fred Vasseur has downplayed expectations for the Mexico Grand Prix despite Charles Leclerc topping both Friday practice sessions.The Ferrari driver set the pace with a 1m18.128s in FP1, before lowering that benchmark to 1m17.827s for FP2 at Autodromo Hermanos Rodriguez.Team-mate Lewis Hamilton was also competitive, having taken fourth in opening practice, 0.738s ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/fred-vasseur-downplays-expectations-for-f1-mexico-gp-despite-blistering-friday/10870125/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6O7zXZJ6/s6/charles-leclerc-ferrari.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6O7zXZJ6/s6/charles-leclerc-ferrari.jpg",
       "published_at": 1793455205000
     },
     {
@@ -91,7 +127,7 @@
       "snippet": "George Russell has labelled Mercedes reserve driver Frederik Vesti as a shock contender to join Cadillac for the 2027 Formula 1 campaign.The American outfit is yet to confirm Valtteri Bottas as a team-mate to Sergio Perez - who signed a contract extension on Wednesday - for next year, with various contenders emerging.Cadillac’s test driver Colton Herta is an option, despite his current ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/george-russell-frederik-vesti-deserves-cadillac-seat-for-f1-2027/10870111/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YpbAB5A0/s6/frederik-vesti-mercedes.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YpbAB5A0/s6/frederik-vesti-mercedes.jpg",
       "published_at": 1793451603000
     },
     {
@@ -100,7 +136,7 @@
       "snippet": "Red Bull admits it still has work to do after Friday's Formula 1 practice sessions in Mexico City.Max Verstappen ended the day fifth, three tenths off the pace, but that was despite damage sustained in an incident with Liam Lawson. Verstappen described the moment in the media pen as 'not very smart' from the Racing Bulls driver, given that Lawson is still fighting for his seat.The stewards ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/red-bull-finds-disconnect-in-rb22-in-f1-mexico-gp-practice/10870035/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0LdejdJ0/s6/max-verstappen-red-bull-racing.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0LdejdJ0/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1793448004000
     },
     {
@@ -122,21 +158,12 @@
       "published_at": 1793410200000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/mexican-gp-includes-lewis-hamiltons-beloved-roscoe-in-touching-tribute-to-f1-legends/10869899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Mexican GP includes Lewis Hamilton's beloved Roscoe in touching tribute to F1 legends",
-      "snippet": "The Mexican Grand Prix organisers have set up a Day of the Dead display in the paddock in memory of late Formula 1 figures, and they have even included Lewis Hamilton's bulldog, Roscoe.The seven-time champion's bulldog has been honoured alongside some of F1's greatest names. His photo sits in the centre of one display, underneath Ayrton Senna. Alongside them are Enzo Ferrari, Jack Brabham ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/mexican-gp-includes-lewis-hamiltons-beloved-roscoe-in-touching-tribute-to-f1-legends/10869899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2dEoOpBY/s6/motorsport-com-graphics-36.jpg",
-      "published_at": 1793408862000
-    },
-    {
       "id": "https://www.motorsport.com/f1/news/oscar-piastri-mclaren-handled-mexico-altitude-better-than-i-was-expecting/10869868/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Oscar Piastri: McLaren handled Mexico altitude “better than I was expecting”",
       "snippet": "McLaren driver Oscar Piastri walks away from FP2 in Mexico City's circuit with optimism as he confirms his car coped better with the high altitude than he expected it to. This comes despite the driver having a \"pretty messy\" qualifying simulation.The Autodromo Hermanos Rodriguez circuit sits more than 2,200 metres above sea level. The thin air leaves teams running with very little downforce ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/oscar-piastri-mclaren-handled-mexico-altitude-better-than-i-was-expecting/10869868/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YpbA9ej0/s6/motorsport-com-graphics-49.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YpbA9ej0/s6/motorsport-com-graphics-49.jpg",
       "published_at": 1793403547000
     },
     {
@@ -147,15 +174,6 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-8.motorsport.com/images/amp/6AlvxRvY/s6/colton-herta-cadillac-racing-2.jpg",
       "published_at": 1793402574000
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13606000/mexico-city-gp-max-verstappen-collides-with-liam-lawson-as-lewis-hamilton-suffers-failure-during-practice",
-      "title": "Mexico City Grand Prix - Practice highlights",
-      "snippet": "Highlights from Friday's practice sessions at the Mexico City Grand Prix.",
-      "link": "https://www.skysports.com/watch/video/13606000/mexico-city-gp-max-verstappen-collides-with-liam-lawson-as-lewis-hamilton-suffers-failure-during-practice",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-motorsport-f1_7392399.jpg?20261030231249",
-      "published_at": 1793401800000
     },
     {
       "id": "https://www.autosport.com/f1/news/f1-mexico-gp-leclerc-pips-mclaren-and-mercedes-to-top-fp2/10869852/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -172,7 +190,7 @@
       "snippet": "Formula 1's driver-contract season was thought to be long over, but a bizarre claim about one of the few remaining out-of-contract drivers has gained surprising traction in the run-up to the Mexico Grand Prix weekend.The Haas F1 team has already announced Esteban Ocon's exit in favour of Formula 2 frontrunner Rafael Camara next season, but an apparent delay in confirming Oliver Bearman for ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/whats-behind-absolute-nonsense-bearman-contract-rumours/10869831/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2y7QpQp6/s6/oliver-bearman-haas-f1-team.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/2y7QpQp6/s6/oliver-bearman-haas-f1-team.jpg",
       "published_at": 1793398326000
     },
     {
@@ -183,24 +201,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7392360.png?20261030224231",
       "published_at": 1793395920000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13605833/oliver-bearman-haas-boss-ayao-komatsu-furiously-dismisses-reports-claiming-british-driver-is-demanding-5m-annual-salary",
-      "title": "Furious Komatsu dismisses 'nonsense' reports of Bearman demanding £5m salary",
-      "snippet": "Haas boss Ayao Komatsu has furiously dismissed reports claiming that contract extension talks with Oliver Bearman are being held up by the British driver demanding a &#163;5m annual salary.",
-      "link": "https://www.skysports.com/f1/news/12433/13605833/oliver-bearman-haas-boss-ayao-komatsu-furiously-dismisses-reports-claiming-british-driver-is-demanding-5m-annual-salary",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-ayao-komatsu-oliver_7392304.jpg?20261030213212",
-      "published_at": 1793395800000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/what-alonso-is-getting-wrong-about-f1-driving-standards/10869771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "What Fernando Alonso is getting wrong about F1 driving standards",
-      "snippet": "When Fernando Alonso declared \"the quality of the drivers in the lower third of the grid is very low\" in the aftermath of last weekend's United States Grand Prix in Austin, he inadvertently poked a hornets' nest.While Alonso doubled down on his criticism this week in Mexico, singling out Alex Albon, many other drivers have spoken up in the Williams driver's defence. Albon himself said, \"We ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/what-alonso-is-getting-wrong-about-f1-driving-standards/10869771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6x7LvB5Y/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": 1793384932000
     }
   ]
 }
