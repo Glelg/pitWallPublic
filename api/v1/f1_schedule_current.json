@@ -1797,7 +1797,11 @@
           "session_key": 11399,
           "session_name": "Practice 3",
           "session_type": "Practice",
-          "date_start": "2026-10-31T17:30:00+00:00"
+          "date_start": "2026-10-31T17:30:00+00:00",
+          "weather": {
+            "temp": 22.1,
+            "weather_code": 3
+          }
         },
         {
           "session_key": 11400,
