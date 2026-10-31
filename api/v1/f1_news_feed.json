@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-31T20:02:34.042205Z",
+    "last_updated": "2026-10-31T20:33:13.543106Z",
     "total_news": 22
   },
   "news": [
@@ -122,6 +122,15 @@
       "published_at": 1793408862000
     },
     {
+      "id": "https://www.skysports.com/f1/live-blog/12433/13605837/f1-mexico-city-gp-live-qualifying-and-final-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-autodromo-hermanos-rodriguez",
+      "title": "Mexico City GP: Open fight for pole expected in qualifying at 9pm LIVE!",
+      "snippet": "",
+      "link": "https://www.skysports.com/f1/live-blog/12433/13605837/f1-mexico-city-gp-live-qualifying-and-final-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-autodromo-hermanos-rodriguez",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-lando-norris_7393342.jpg?20261031202115",
+      "published_at": 1793379600000
+    },
+    {
       "id": "https://www.motorsport.com/f1/news/oscar-piastri-mclaren-handled-mexico-altitude-better-than-i-was-expecting/10869868/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Oscar Piastri: McLaren handled Mexico altitude “better than I was expecting”",
       "snippet": "McLaren driver Oscar Piastri walks away from FP2 in Mexico City's circuit with optimism as he confirms his car coped better with the high altitude than he expected it to. This comes despite the driver having a \"pretty messy\" qualifying simulation.The Autodromo Hermanos Rodriguez circuit sits more than 2,200 metres above sea level. The thin air leaves teams running with very little downforce ...Keep reading",
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-6.motorsport.com/images/amp/6O7zDgJ6/s6/sergio-perez-cadillac-racing.jpg",
       "published_at": 1793380240000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/lewis-hamilton-on-why-he-is-built-differently-to-stay-in-f1-for-the-foreseeable-future/10869704/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Lewis Hamilton on why he is “built differently” to stay in F1 for the “foreseeable future”",
-      "snippet": "Lewis Hamilton intends to continue racing in Formula 1 “for the foreseeable future” if he can remain competitive, having been asked if he can realistically expect to race in the newly-announced African Grand Prix.Earlier this month F1 revealed its plan for a new race in Rwanda, which will hold the title of the African GP, from 2030 at the earliest.Read Also:Formula 1Five ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/lewis-hamilton-on-why-he-is-built-differently-to-stay-in-f1-for-the-foreseeable-future/10869704/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YvKBmn16/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": 1793377933000
     }
   ]
 }
