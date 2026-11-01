@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-01T01:02:22.863159Z",
+    "last_updated": "2026-11-01T01:32:23.792955Z",
     "total_news": 22
   },
   "news": [
@@ -19,7 +19,7 @@
       "snippet": "Charles Leclerc doubts there will be any overtaking in the Mexican Grand Prix, warning the race order will likely be set in the first few corners at the Autodromo Hermanos Rodriguez.The Ferrari driver topped both of Friday's practice sessions but had to settle for third on the grid. His team-mate and seven-time champion Lewis Hamilton claimed his first pole position with the Maranello outfit ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-mexican-gp-overtaking-fears-after-missing-out-on-pole/10870384/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0Zq8ZNR6/s6/motorsport-com-graphics-41.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0Zq8ZNR6/s6/motorsport-com-graphics-41.jpg",
       "published_at": 1793492687000
     },
     {
@@ -28,7 +28,7 @@
       "snippet": "Max Verstappen rued being unable to log his final run of Mexico City Grand Prix qualifying, stating that his lap was \"up there for pole\" before encountering Lando Norris in the final sector.The four-time champion was almost a tenth up on the lap of eventual poleman Lewis Hamilton at the close of the second sector, having found a purple opening sector and then matching Hamilton in the second ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/up-there-for-pole-verstappen-rues-turn-13-traffic-in-f1-mexico-gp-qualifying/10870339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0arEVlN2/s6/max-verstappen-red-bull-racing.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0arEVlN2/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1793488870000
     },
     {
@@ -48,6 +48,15 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-7.motorsport.com/images/amp/YBVjz7vY/s6/lewis-hamilton-ferrari-2.jpg",
       "published_at": 1793485314000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13606551/esteban-ocon-haas-driver-denies-physical-violence-after-being-dropped-by-team-for-mexico-city-grand-prix",
+      "title": "Ocon denies 'physical violence' after being dropped by Haas",
+      "snippet": "Esteban Ocon has denied reports that a physical altercation occurred between himself and Haas team boss Ayao Komatsu before the French driver was dropped for this weekend's Mexico City Grand Prix.",
+      "link": "https://www.skysports.com/f1/news/12433/13606551/esteban-ocon-haas-driver-denies-physical-violence-after-being-dropped-by-team-for-mexico-city-grand-prix",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-esteban-ocon-haas-f1_7393583.jpg?20261101003036",
+      "published_at": 1793494200000
     },
     {
       "id": "https://www.skysports.com/f1/news/12433/13606017/kimi-antonelli-mercedes-driver-admits-to-feeling-tense-amid-effort-to-seal-f1-title-at-mexico-city-grand-prix",
@@ -82,7 +91,7 @@
       "snippet": "You do not need to buy a Ferrari to spend serious money on the Prancing Horse. Montblanc’s latest collaboration with Maranello has come in the shape of a fountain pen, and it costs more than some used cars.The Meisterstuck Great Masters Ferrari Tailor Made Inedita Special Edition is for sale for $4,300 in the United States. If you would rather not deal with the messy reloading of such a pen ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/ferrari-reveals-luxury-4300-fountain-pen-inspired-by-its-bespoke-supercars/10870386/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6DGg8rGY/s6/motorsport-com-graphics-53.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6DGg8rGY/s6/motorsport-com-graphics-53.jpg",
       "published_at": 1793492912000
     },
     {
@@ -91,17 +100,8 @@
       "snippet": "George Russell believes an extra lap of fuel cost him pole position for the Mexican Grand Prix after he missed out to his former team-mate and seven-time champion Lewis Hamilton by just 0.009 seconds.The Mercedes driver will start alongside Hamilton on the front row, with Charles Leclerc in third. Russell explained that his rivals had not done preparation laps on their final Q3 runs, while ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/george-russell-identifies-costly-decision-behind-mexican-gp-qualifying-near-miss/10870370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/68VwR1Q2/s6/motorsport-com-graphics-40.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/68VwR1Q2/s6/motorsport-com-graphics-40.jpg",
       "published_at": 1793491417000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/c3n04vjjpkv4o?at_medium=RSS&at_campaign=rss",
-      "title": "Ocon denies reports of physical altercation behind dropping",
-      "snippet": "Esteban Ocon denies reports that his being dropped by Haas at the Mexico City Grand Prix was a consequence of a row with team principal Ayao Komatsu descending into a physical confrontation.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c3n04vjjpkv4o?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b90/live/fa365c00-d581-11f1-8dc0-b7d7bc79275e.jpg",
-      "published_at": 1793490221000
     },
     {
       "id": "https://www.motorsport.com/f1/news/isack-hadjar-defends-mexican-gp-paddock-incident-after-fia-warning-not-a-reality-show/10870360/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -109,7 +109,7 @@
       "snippet": "Isack Hadjar has hit back at the paddock guest he pushed away at the Mexican Grand Prix, insisting that \"it's not a reality show\".The Red Bull driver was summoned to the stewards on Saturday morning after footage on social media showed him shoving a man who was trying to take a selfie with him in the paddock.The stewards found that Hadjar had breached the International Sporting Code, but ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/isack-hadjar-defends-mexican-gp-paddock-incident-after-fia-warning-not-a-reality-show/10870360/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YMXb51l2/s6/motorsport-com-graphics-39.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YMXb51l2/s6/motorsport-com-graphics-39.jpg",
       "published_at": 1793489663000
     },
     {
@@ -118,7 +118,7 @@
       "snippet": "Haas stand-in Ryo Hirakawa believes he'd have \"easily\" reached the second part of qualifying for the Mexico City Grand Prix, had he not encountered traffic on his final lap of the session.Hirakawa, making his Formula 1 debut with Haas as Esteban Ocon was stood down from his driving duties, had set a personal-best first sector and was angling to make the Q3 cut at the expense of Carlos ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/hirakawa-could-have-easily-made-q2-in-f1-mexico-gp-without-late-traffic/10870356/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/25dLDDD0/s6/ryo-hirakawa-haas-f1-team-laur.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/25dLDDD0/s6/ryo-hirakawa-haas-f1-team-laur.jpg",
       "published_at": 1793489617000
     },
     {
@@ -127,7 +127,7 @@
       "snippet": "Formula 1 heads into Sunday in Mexico City with Lewis Hamilton on pole and Kimi Antonelli only one result away from becoming world champion.Hamilton leads George Russell and Ferrari team-mate Charles Leclerc on the grid, while Antonelli will start fourth after Max Verstappen one-place grid penalty.Antonelli needs only to finish ninth or higher to clinch his first Formula 1 world ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/f1-mexico-gp-sunday-schedule-weather-forecast-and-how-to-watch/10870318/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/Y9lNjE82/s6/ryo-hirakawa-haas-f1-team.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/Y9lNjE82/s6/ryo-hirakawa-haas-f1-team.jpg",
       "published_at": 1793489014000
     },
     {
@@ -145,7 +145,7 @@
       "snippet": "1 Lewis Hamilton(Ferrari) 2 George Russell(Mercedes)3 Charles Leclerc(Ferrari) 4 Kimi ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/2026-f1-mexico-grand-prix-starting-grid/10870302/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/Y9lNjZb2/s6/lewis-hamilton-ferrari.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/Y9lNjZb2/s6/lewis-hamilton-ferrari.jpg",
       "published_at": 1793485926000
     },
     {
@@ -172,7 +172,7 @@
       "snippet": "Although Red Bull has turned its 2026 Formula 1 season around in impressive fashion, the technical team led by Pierre Wache is still dealing with several limitations behind the scenes. One of the main ones is perhaps the wind tunnel, the oldest on the entire F1 grid.Former team principal Christian Horner repeatedly described Red Bull's wind tunnel as \"a Cold War relic\" and said working with ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/when-red-bull-expects-to-start-using-its-long-awaited-new-f1-wind-tunnel/10870210/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YK15Rvz0/s6/isack-hadjar-red-bull-racing.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YK15Rvz0/s6/isack-hadjar-red-bull-racing.jpg",
       "published_at": 1793469606000
     },
     {
@@ -181,7 +181,7 @@
       "snippet": "George Russell is enduring further difficulties with the upgraded Mercedes Formula 1 car, as it was outside the optimum set-up in Friday practice at the Mexico Grand Prix.The championship-leading squad introduced an updated W17 for Malaysia this month, but it was easily beaten by Red Bull’s Max Verstappen before a similar story in Singapore.Kimi Antonelli ended Verstappen’s run by ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/george-russell-mercedes-out-of-performance-window-at-mexico-gp/10870173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0R7Bb9M2/s6/george-russell-mercedes.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0R7Bb9M2/s6/george-russell-mercedes.jpg",
       "published_at": 1793461930000
     },
     {

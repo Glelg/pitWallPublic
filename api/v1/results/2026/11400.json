@@ -8,7 +8,7 @@
     "meeting_name": "Mexico City Grand Prix",
     "circuit_name": "Mexico City",
     "stewards_status": "FINAL",
-    "last_updated": "2026-11-01T01:03:16.380401Z"
+    "last_updated": "2026-11-01T01:33:15.591037Z"
   },
   "results": [
     {
@@ -352,7 +352,7 @@
       "q3_time": null
     },
     {
-      "position": 18,
+      "position": 17,
       "driver_number": 14,
       "full_name": "Fernando ALONSO",
       "driver_acronym": "ALO",
