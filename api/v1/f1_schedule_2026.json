@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-01T19:02:25.954717Z",
+    "last_updated": "2026-11-01T23:32:18.510642Z",
     "year": 2026,
     "total_meetings": 27
   },
@@ -1767,11 +1767,30 @@
       "country_code": "mx",
       "circuit_name": "Mexico City",
       "date_start": "2026-10-30T18:30:00+00:00",
-      "date_end": "2026-11-01T22:00:00+00:00",
-      "status": "LIVE",
+      "date_end": "2026-11-01T23:00:00+00:00",
+      "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 3,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 2,
+          "driver_number": 44,
+          "driver_acronym": "HAM",
+          "team_name": "Ferrari"
+        },
+        {
+          "position": 3,
+          "driver_number": 12,
+          "driver_acronym": "ANT",
+          "team_name": "Mercedes"
+        }
+      ],
       "sessions": [
         {
           "session_key": 11397,
@@ -1817,7 +1836,11 @@
           "session_key": 11404,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2026-11-01T20:00:00+00:00"
+          "date_start": "2026-11-01T20:00:00+00:00",
+          "weather": {
+            "temp": 26.7,
+            "weather_code": 2
+          }
         }
       ]
     },
