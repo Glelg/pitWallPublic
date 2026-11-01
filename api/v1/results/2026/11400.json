@@ -8,7 +8,7 @@
     "meeting_name": "Mexico City Grand Prix",
     "circuit_name": "Mexico City",
     "stewards_status": "FINAL",
-    "last_updated": "2026-11-01T01:33:15.591037Z"
+    "last_updated": "2026-11-01T02:03:16.687110Z"
   },
   "results": [
     {
@@ -153,26 +153,6 @@
     },
     {
       "position": 8,
-      "driver_number": 30,
-      "full_name": "Liam LAWSON",
-      "driver_acronym": "LAW",
-      "team_name": "Racing Bulls",
-      "country_code": "",
-      "grid_position": null,
-      "grid_penalty": null,
-      "is_pit_lane_start": false,
-      "time_or_retired": "1:17.029",
-      "gap_to_leader": "+0.515s",
-      "laps_completed": 21,
-      "points": 0.0,
-      "is_fastest_lap": false,
-      "status": "FINISHED",
-      "q1_time": "1:18.097",
-      "q2_time": "1:17.207",
-      "q3_time": "1:17.029"
-    },
-    {
-      "position": 9,
       "driver_number": 41,
       "full_name": "Arvid LINDBLAD",
       "driver_acronym": "LIN",
@@ -192,7 +172,7 @@
       "q3_time": "1:17.117"
     },
     {
-      "position": 10,
+      "position": 9,
       "driver_number": 10,
       "full_name": "Pierre GASLY",
       "driver_acronym": "GAS",
@@ -212,7 +192,7 @@
       "q3_time": "1:17.153"
     },
     {
-      "position": 11,
+      "position": 10,
       "driver_number": 27,
       "full_name": "Nico HULKENBERG",
       "driver_acronym": "HUL",
@@ -232,7 +212,7 @@
       "q3_time": null
     },
     {
-      "position": 12,
+      "position": 11,
       "driver_number": 43,
       "full_name": "Franco COLAPINTO",
       "driver_acronym": "COL",
@@ -252,7 +232,7 @@
       "q3_time": null
     },
     {
-      "position": 13,
+      "position": 12,
       "driver_number": 81,
       "full_name": "Oscar PIASTRI",
       "driver_acronym": "PIA",
@@ -272,7 +252,7 @@
       "q3_time": null
     },
     {
-      "position": 14,
+      "position": 13,
       "driver_number": 5,
       "full_name": "Gabriel BORTOLETO",
       "driver_acronym": "BOR",
@@ -292,7 +272,7 @@
       "q3_time": null
     },
     {
-      "position": 15,
+      "position": 14,
       "driver_number": 87,
       "full_name": "Oliver BEARMAN",
       "driver_acronym": "BEA",
@@ -312,7 +292,7 @@
       "q3_time": null
     },
     {
-      "position": 16,
+      "position": 15,
       "driver_number": 55,
       "full_name": "Carlos SAINZ",
       "driver_acronym": "SAI",
@@ -332,7 +312,7 @@
       "q3_time": null
     },
     {
-      "position": 17,
+      "position": 16,
       "driver_number": 23,
       "full_name": "Alexander ALBON",
       "driver_acronym": "ALB",
@@ -372,7 +352,7 @@
       "q3_time": null
     },
     {
-      "position": 19,
+      "position": 18,
       "driver_number": 50,
       "full_name": "Ryo HIRAKAWA",
       "driver_acronym": "HIR",
@@ -392,7 +372,7 @@
       "q3_time": null
     },
     {
-      "position": 20,
+      "position": 19,
       "driver_number": 18,
       "full_name": "Lance STROLL",
       "driver_acronym": "STR",
@@ -412,7 +392,7 @@
       "q3_time": null
     },
     {
-      "position": 21,
+      "position": 20,
       "driver_number": 11,
       "full_name": "Sergio PEREZ",
       "driver_acronym": "PER",
@@ -432,7 +412,7 @@
       "q3_time": null
     },
     {
-      "position": 22,
+      "position": 21,
       "driver_number": 77,
       "full_name": "Valtteri BOTTAS",
       "driver_acronym": "BOT",
@@ -449,6 +429,26 @@
       "status": "FINISHED",
       "q1_time": "1:19.852",
       "q2_time": null,
+      "q3_time": null
+    },
+    {
+      "position": null,
+      "driver_number": 30,
+      "full_name": "Liam LAWSON",
+      "driver_acronym": "LAW",
+      "team_name": "Racing Bulls",
+      "country_code": "",
+      "grid_position": null,
+      "grid_penalty": null,
+      "is_pit_lane_start": false,
+      "time_or_retired": "1:17.029",
+      "gap_to_leader": "+0.515s",
+      "laps_completed": 21,
+      "points": 0.0,
+      "is_fastest_lap": false,
+      "status": "FINISHED",
+      "q1_time": "1:17.207",
+      "q2_time": "1:17.029",
       "q3_time": null
     }
   ]
