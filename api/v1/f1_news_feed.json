@@ -1,17 +1,26 @@
 {
   "metadata": {
-    "last_updated": "2026-11-01T21:03:26.466129Z",
+    "last_updated": "2026-11-01T21:33:18.180939Z",
     "total_news": 22
   },
   "news": [
     {
-      "id": "https://www.motorsport.com/f1/news/charles-leclercs-mexico-gp-penalty-leaves-f1-fans-furious-for-very-different-reasons/10870698/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Charles Leclerc's Mexico GP penalty leaves F1 fans furious for very different reasons",
-      "snippet": "Charles Leclerc’s five-second penalty at the Mexico City Grand Prix has divided Formula 1 fans. Some believe that it was far too lenient while others insist that he should not have been punished at all.The Ferrari driver went around the outside of polesitter and team-mate Lewis Hamilton at Turn 4 on the opening lap. Both drivers went off the track but it was Leclerc who came out ahead of the ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/charles-leclercs-mexico-gp-penalty-leaves-f1-fans-furious-for-very-different-reasons/10870698/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0qgKRyBY/s6/motorsport-com-graphics-55.jpg",
-      "published_at": 1793566295000
+      "id": "https://www.autosport.com/f1/news/fia-stewards-explain-charles-leclercs-five-second-penalty-in-f1-mexico-gp/10870705/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "FIA stewards explain Leclerc’s five-second penalty in F1 Mexico GP",
+      "snippet": "The FIA stewards have explained the reasoning behind Charles Leclerc’s five-second penalty in Formula 1’s Mexico Grand Prix.Leclerc was starting the race from third at Autodromo Hermanos Rodriguez with team-mate Lewis Hamilton on pole position; as George Russell dropped like a stone in the second phase of the start, the Ferraris went wheel to wheel for the lead.Hamilton narrowly ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/fia-stewards-explain-charles-leclercs-five-second-penalty-in-f1-mexico-gp/10870705/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YMXb5Q12/s6/charles-leclerc-ferrari.jpg",
+      "published_at": 1793567656000
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13606826/mexico-city-gp-valtteri-bottas-has-huge-crash-after-suspension-failure",
+      "title": "'That is a hefty impact!' - Bottas has huge crash after suspension failure",
+      "snippet": "Valtteri Bottas suffered a suspension failure in his Cadillac as he crashed heavily into the barriers during Sunday's race in Mexico City.",
+      "link": "https://www.skysports.com/watch/video/13606826/mexico-city-gp-valtteri-bottas-has-huge-crash-after-suspension-failure",
+      "source_name": "Sky Sports",
+      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-motorsport-f1-cadillac_7394240.jpg?20261101211732",
+      "published_at": 1793567580000
     },
     {
       "id": "https://www.skysports.com/watch/video/13606813/mexico-city-gp-chaos-on-opening-lap-as-charles-leclerc-battles-past-team-mate-lewis-hamilton-to-lead",
@@ -28,17 +37,8 @@
       "snippet": "Tensions surrounding next week's Qatar Grand Prix have reached boiling point in the MotoGP paddock. There had already been unrest behind the scenes for some time, with several riders expressing their concerns, but on Sunday Yamaha became the first manufacturer to make a public statement.Both Yamaha and its satellite team Pramac have decided to boycott the race, prompting MotoGP to issue a ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/what-does-yamahas-shock-motogp-boycott-mean-for-f1-in-qatar-and-abu-dhabi/10870664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0R7w7jE2/s6/a-general-view-of-the-grid-dur.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0R7w7jE2/s6/a-general-view-of-the-grid-dur.jpg",
       "published_at": 1793557179000
-    },
-    {
-      "id": "https://www.skysports.com/f1/live-blog/12433/13605843/f1-mexico-city-gp-live-race-updates-results-stream-and-highlights-from-19th-round-of-2026-formula-1-season-as-kimi-antonelli-looks-to-seal-drivers-title",
-      "title": "Mexico City GP: Antonelli on course to win world title as Hamilton fumes at Leclerc LIVE!",
-      "snippet": "",
-      "link": "https://www.skysports.com/f1/live-blog/12433/13605843/f1-mexico-city-gp-live-race-updates-results-stream-and-highlights-from-19th-round-of-2026-formula-1-season-as-kimi-antonelli-looks-to-seal-drivers-title",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-charles-leclerc_7394202.jpg?20261101201925",
-      "published_at": 1793556900000
     },
     {
       "id": "https://www.motorsport.com/f1/news/valtteri-bottas-pretty-confident-of-staying-for-f1-2027-amid-colton-herta-rumours/10870623/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -46,7 +46,7 @@
       "snippet": "Valtteri Bottas is “pretty confident” of staying in Formula 1 as he batted away questions surrounding his future amid rumours of Cadillac promoting Colton Herta.The American outfit announced a contract extension for Sergio Perez but is yet to confirm Bottas for 2027, after a 2026 season in which the latter has been consistently outperformed.Perez leads Bottas 15-9 in their qualifying ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/valtteri-bottas-pretty-confident-of-staying-for-f1-2027-amid-colton-herta-rumours/10870623/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/25dLoeQ0/s6/valtteri-bottas-cadillac-racin.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/25dLoeQ0/s6/valtteri-bottas-cadillac-racin.jpg",
       "published_at": 1793549797000
     },
     {
@@ -55,7 +55,7 @@
       "snippet": "Fernando Alonso stated that his “frustration is beyond imagination” after a power unit problem caused an early end to his qualifying for the Formula 1 Mexico Grand Prix.The Aston Martin driver took 18th with only one flying lap as his AMR26 ground to a halt through the stadium section of Autodromo Hermanos Rodriguez with 11 minutes left in Q1.It was a gut-wrenching moment for the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/fernando-alonso-beyond-frustration-after-engine-issue-in-f1-mexico-gp-qualifying/10870590/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7QpRy6/s6/fernando-alonso-aston-martin-r.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/2y7QpRy6/s6/fernando-alonso-aston-martin-r.jpg",
       "published_at": 1793540532000
     },
     {
@@ -73,7 +73,7 @@
       "snippet": "After every Formula 1 qualifying session, Motorsport.com publishes each team's qualifying record in terms of team-mate battles.This record is based exclusively on qualifying results so that grid penalties don't alter the statistics.When a driver can't put in a representative lap time due to a technical issue or an incident, this will be mentioned in the table.Read ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-mexico-gp/10870529/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6DGg8ZGY/s6/lewis-hamilton-ferrari-george-.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6DGg8ZGY/s6/lewis-hamilton-ferrari-george-.jpg",
       "published_at": 1793527384000
     },
     {
@@ -82,17 +82,17 @@
       "snippet": "Although Max Verstappen said he had the pace to take pole position in Mexico City, his final run was ruined by a lock-up at Turn 13 – according to the Red Bull driver, mainly caused by Lando Norris getting slightly in his way in the final sector.The eventual qualifying result would normally have earned the Dutchman a place on the second row of the grid, but the grid penalty after his ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/red-bull-drivers-fear-mexico-start-max-verstappen-jokes-a-le-mans-start-would-be-just-as-quick/10870533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YXyKBmx6/s6/max-verstappen-red-bull-racing.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YXyKBmx6/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1793527157000
     },
     {
-      "id": "https://www.skysports.com/f1/news/12433/13606018/lewis-hamilton-says-its-a-dream-to-emulate-michael-schumacher-after-claiming-his-first-ferrari-pole-at-the-mexico-city-gp",
-      "title": "Hamilton: A dream to emulate Schumacher with first Ferrari pole",
-      "snippet": "Lewis Hamilton said he had achieved his \"dream\" of emulating Michael Schumacher after claiming his first pole position for Ferrari at the Mexico City Grand Prix.",
-      "link": "https://www.skysports.com/f1/news/12433/13606018/lewis-hamilton-says-its-a-dream-to-emulate-michael-schumacher-after-claiming-his-first-ferrari-pole-at-the-mexico-city-gp",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-lewis-hamilton_7393573.jpg?20261031235759",
-      "published_at": 1793493600000
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo?at_medium=RSS&at_campaign=rss",
+      "title": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
+      "snippet": "Lewis Hamilton takes his first pole position for Ferrari and his first for more than three years at the Mexico City Grand Prix.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ee/live/6d77c180-d579-11f1-aae4-a751b3f56d67.jpg",
+      "published_at": 1793497070000
     },
     {
       "id": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-mexican-gp-overtaking-fears-after-missing-out-on-pole/10870384/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -100,7 +100,7 @@
       "snippet": "Charles Leclerc doubts there will be any overtaking in the Mexican Grand Prix, warning the race order will likely be set in the first few corners at the Autodromo Hermanos Rodriguez.The Ferrari driver topped both of Friday's practice sessions but had to settle for third on the grid. His team-mate and seven-time champion Lewis Hamilton claimed his first pole position with the Maranello outfit ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-mexican-gp-overtaking-fears-after-missing-out-on-pole/10870384/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0Zq8ZNR6/s6/motorsport-com-graphics-41.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0Zq8ZNR6/s6/motorsport-com-graphics-41.jpg",
       "published_at": 1793492687000
     },
     {
@@ -109,7 +109,7 @@
       "snippet": "Seven-time Formula 1 champion Lewis Hamilton admitted he was \"lost for words\" after claiming his first grand prix pole position for Ferrari at the Mexican Grand Prix.The Briton beat his former Mercedes team-mate George Russell by just 0.009 seconds to end a three-year wait for a grand prix pole position. It is the 105th pole of Hamilton's career, extending his own F1 record, and his first ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lewis-hamilton-lost-for-words-after-ending-three-year-f1-pole-drought-at-mexican-gp/10870309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YpbA9a30/s6/motorsport-com-graphics-38.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YpbA9a30/s6/motorsport-com-graphics-38.jpg",
       "published_at": 1793486485000
     },
     {
@@ -127,7 +127,7 @@
       "snippet": "Liam Lawson has lost his ninth-place starting position for the Formula 1 Mexico City Grand Prix.Racing Bulls impressed at the Autodromo Hermanos Rodriguez on Saturday and managed to get both cars into Q3. The team subsequently emerged as the 'best of the rest' in eighth and ninth places, but Lawson now faces a recovery drive on Sunday.The New Zealander has been disqualified by the FIA for ...Keep reading",
       "link": "https://www.autosport.com/f1/news/lawson-disqualified-from-f1-qualifying-in-mexico-heres-why/10870411/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YpbA99Z0/s6/liam-lawson-racing-bulls.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YpbA99Z0/s6/liam-lawson-racing-bulls.jpg",
       "published_at": 1793498088000
     },
     {
@@ -163,7 +163,7 @@
       "snippet": "Max Verstappen qualified fourth for the Formula 1 Mexico City Grand Prix, but will have to drop one place on the starting grid, meaning he will start from the third row. The reason is remarkable, to say the least: contact with Liam Lawson - two drivers from the Red Bull teams during the second free practice session.Verstappen was rather outspoken in the media pen on Friday, saying, among other ...Keep reading",
       "link": "https://www.autosport.com/f1/news/verstappen-clears-the-air-with-lawson-but-keeps-opinion-on-racing-bulls-f1-seat-to-himself/10870388/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/2eZxbVKY/s6/max-verstappen-red-bull-racing-2.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2eZxbVKY/s6/max-verstappen-red-bull-racing-2.jpg",
       "published_at": 1793492931000
     },
     {
@@ -172,7 +172,7 @@
       "snippet": "You do not need to buy a Ferrari to spend serious money on the Prancing Horse. Montblanc’s latest collaboration with Maranello has come in the shape of a fountain pen, and it costs more than some used cars.The Meisterstuck Great Masters Ferrari Tailor Made Inedita Special Edition is for sale for $4,300 in the United States. If you would rather not deal with the messy reloading of such a pen ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/ferrari-reveals-luxury-4300-fountain-pen-inspired-by-its-bespoke-supercars/10870386/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6DGg8rGY/s6/motorsport-com-graphics-53.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6DGg8rGY/s6/motorsport-com-graphics-53.jpg",
       "published_at": 1793492912000
     },
     {
@@ -181,7 +181,7 @@
       "snippet": "George Russell believes an extra lap of fuel cost him pole position for the Mexican Grand Prix after he missed out to his former team-mate and seven-time champion Lewis Hamilton by just 0.009 seconds.The Mercedes driver will start alongside Hamilton on the front row, with Charles Leclerc in third. Russell explained that his rivals had not done preparation laps on their final Q3 runs, while ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/george-russell-identifies-costly-decision-behind-mexican-gp-qualifying-near-miss/10870370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/68VwR1Q2/s6/motorsport-com-graphics-40.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/68VwR1Q2/s6/motorsport-com-graphics-40.jpg",
       "published_at": 1793491417000
     },
     {
@@ -190,7 +190,7 @@
       "snippet": "Isack Hadjar has hit back at the paddock guest he pushed away at the Mexican Grand Prix, insisting that \"it's not a reality show\".The Red Bull driver was summoned to the stewards on Saturday morning after footage on social media showed him shoving a man who was trying to take a selfie with him in the paddock.The stewards found that Hadjar had breached the International Sporting Code, but ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/isack-hadjar-defends-mexican-gp-paddock-incident-after-fia-warning-not-a-reality-show/10870360/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YMXb51l2/s6/motorsport-com-graphics-39.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YMXb51l2/s6/motorsport-com-graphics-39.jpg",
       "published_at": 1793489663000
     },
     {
@@ -199,7 +199,7 @@
       "snippet": "Haas stand-in Ryo Hirakawa believes he'd have \"easily\" reached the second part of qualifying for the Mexico City Grand Prix, had he not encountered traffic on his final lap of the session.Hirakawa, making his Formula 1 debut with Haas as Esteban Ocon was stood down from his driving duties, had set a personal-best first sector and was angling to make the Q3 cut at the expense of Carlos ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/hirakawa-could-have-easily-made-q2-in-f1-mexico-gp-without-late-traffic/10870356/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/25dLDDD0/s6/ryo-hirakawa-haas-f1-team-laur.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/25dLDDD0/s6/ryo-hirakawa-haas-f1-team-laur.jpg",
       "published_at": 1793489617000
     }
   ]
