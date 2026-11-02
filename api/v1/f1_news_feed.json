@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-02T03:32:27.576481Z",
+    "last_updated": "2026-11-02T04:02:35.917601Z",
     "total_news": 22
   },
   "news": [
@@ -65,6 +65,15 @@
       "link": "https://www.skysports.com/f1/news/12433/13606691/george-russell-mercedes-boss-toto-wolff-says-british-driver-was-distraught-after-watching-team-mate-kimi-antonelli-seal-2026-f1-title",
       "source_name": "Sky Sports",
       "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-george-russell-mercedes_7394474.jpg?20261102030245",
+      "published_at": 1793588400000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13606689/kimi-antonelli-becomes-f1-world-champion-mercedes-driver-says-he-couldnt-see-through-his-tears-on-final-lap-of-mexico-city-gp",
+      "title": "Antonelli: I couldn’t see through my tears on title-clinching lap",
+      "snippet": "Kimi Antonelli says he \"couldn't see\" through his tears on the final lap of the Mexico City Grand Prix as he was overcome with emotion before becoming Formula 1 world champion for the first time.",
+      "link": "https://www.skysports.com/f1/news/12433/13606689/kimi-antonelli-becomes-f1-world-champion-mercedes-driver-says-he-couldnt-see-through-his-tears-on-final-lap-of-mexico-city-gp",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-kimi-antonelli-mercedes_7394475.jpg?20261102034848",
       "published_at": 1793588400000
     },
     {
@@ -192,15 +201,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03ec/live/7a9b0a60-ce2c-11f1-a64c-550be9e3c66b.png",
       "published_at": 1793571921000
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13606842/mexico-city-gp-lewis-hamilton-collides-with-max-verstappen-in-dramatic-race-restart",
-      "title": "Hamilton collides with Verstappen in DRAMATIC race restart!",
-      "snippet": "Lewis Hamilton overtook Ferrari team-mate Charles Leclerc before colliding with Max Verstappen as they battled for the lead in the race restart.",
-      "link": "https://www.skysports.com/watch/video/13606842/mexico-city-gp-lewis-hamilton-collides-with-max-verstappen-in-dramatic-race-restart",
-      "source_name": "Sky Sports",
-      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-motorsport-f1_7394273.jpg?20261101215440",
-      "published_at": 1793569860000
     }
   ]
 }
