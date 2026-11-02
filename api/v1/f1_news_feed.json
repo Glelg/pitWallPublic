@@ -1,16 +1,34 @@
 {
   "metadata": {
-    "last_updated": "2026-11-02T10:32:30.273629Z",
+    "last_updated": "2026-11-02T11:02:18.183002Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.bbc.co.uk/sport/videos/c6kgl9mgdvl2o?at_medium=RSS&at_campaign=rss",
+      "title": "'Utter chaos at Ferrari right now'",
+      "snippet": "The Chequered Flag's Harry Benjamin, Marc Priestley and Jennie Gow on rising tensions in the Ferrari camp after fighting cost them victory in the Mexico City Grand Prix.",
+      "link": "https://www.bbc.co.uk/sport/videos/c6kgl9mgdvl2o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f398/live/717a5b50-d6a8-11f1-b441-2b33b063138f.jpg",
+      "published_at": 1793615997000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/videos/cqn73ny0j130o?at_medium=RSS&at_campaign=rss",
+      "title": "Antonelli title win 'beginning of something special'",
+      "snippet": "The Chequered Flag's Harry Benjamin, Marc Priestley and Jennie Gow reflect on the impact of Kimi Antonelli becoming the youngest world champion in Formula 1 history.",
+      "link": "https://www.bbc.co.uk/sport/formula1/videos/cqn73ny0j130o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42d4/live/e5420e30-d6a7-11f1-a701-fddedf244c16.jpg",
+      "published_at": 1793615875000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/who-slept-best-last-night-kimi-antonelli-10870990/10870990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Who slept best last night: Kimi Antonelli",
       "snippet": "Where do you start when trying to digest Kimi Antonelli's championship? What do you say about it? Perhaps start with the numbers. This victory is historic. He's not just the youngest to win the F1 title; he's beaten the previous record by more than three years. He's done it with an almost perfect season, just his second in F1. And right now, at this very moment, he's ahead in the championship of ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/who-slept-best-last-night-kimi-antonelli-10870990/10870990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6O7zlOO6/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6O7zlOO6/s6/andrea-kimi-antonelli-mercedes.jpg",
       "published_at": 1793615125000
     },
     {
@@ -19,7 +37,7 @@
       "snippet": "Oscar Piastri’s tough Mexico Grand Prix weekend has ended in point-less fashion, after the McLaren Formula 1 driver copped a penalty for his collision with Arvid Lindblad.Piastri’s 60-strong streak of Q3 appearances (including sprints) ended at Autodromo Hermanos Rodriguez as he qualified a lowly 12th, which paved the way for his troubles in the midfield.Piastri did gain three spots at ...Keep reading",
       "link": "https://www.autosport.com/f1/news/penalty-drops-oscar-piastri-out-of-f1-mexico-gp-points/10870864/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0mXyZvk6/s6/oscar-piastri-mclaren-2.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXyZvk6/s6/oscar-piastri-mclaren-2.jpg",
       "published_at": 1793585982000
     },
     {
@@ -28,7 +46,7 @@
       "snippet": "Superlatives are running out to describe Kimi Antonelli's unprecedented ascent to power over the 2026 season. At the Mexico Grand Prix, Formula 1's new ruler received the coronation his campaign deserved.Winner: Kimi AntonelliAntonelli's title triumph may have been a foregone conclusion at this point, but that only makes his achievement more remarkable, not less.It's impossible not to ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-historic-mexico-grand-prix/10870803/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6b8ZwKp2/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6b8ZwKp2/s6/andrea-kimi-antonelli-mercedes-2.jpg",
       "published_at": 1793579044000
     },
     {
@@ -39,15 +57,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-kimi-antonelli-f1_7394551.jpg?20261102072515",
       "published_at": 1793603580000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/kimi-antonelli-wants-special-photo-with-lewis-hamilton-and-max-verstappen-on-his-wall-after-f1-title/10870868/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Kimi Antonelli wants special photo with Lewis Hamilton and Max Verstappen on his wall after F1 title",
-      "snippet": "The 2026 Mexico City Grand Prix is one for the history books: Kimi Antonelli has been crowned the youngest world champion of all time, and partly because of the superlicence rules, that record will certainly not be an easy one to break.After his hugely impressive performance in Austin, Antonelli already knew that clinching the title would essentially be a formality, but he refused to treat it ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/kimi-antonelli-wants-special-photo-with-lewis-hamilton-and-max-verstappen-on-his-wall-after-f1-title/10870868/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/63Qa3m72/s6/lewis-hamilton-ferrari-max-ver.jpg",
-      "published_at": 1793602574000
     },
     {
       "id": "https://www.skysports.com/f1/news/12433/13606766/kimi-antonelli-how-f1s-youngest-ever-world-champion-went-from-crisis-point-during-his-debut-campaign-to-dominating-the-2026-season",
@@ -73,7 +82,7 @@
       "snippet": "The FIA stewards have explained the reasoning behind Charles Leclerc’s five-second penalty in Formula 1’s Mexico Grand Prix.Leclerc was starting the race from third at Autodromo Hermanos Rodriguez with team-mate Lewis Hamilton on pole position; as George Russell dropped like a stone in the second phase of the start, the Ferraris went wheel to wheel for the lead.Hamilton narrowly ...Keep reading",
       "link": "https://www.autosport.com/f1/news/fia-stewards-explain-charles-leclercs-five-second-penalty-in-f1-mexico-gp/10870705/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YMXb5Q12/s6/charles-leclerc-ferrari.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YMXb5Q12/s6/charles-leclerc-ferrari.jpg",
       "published_at": 1793567656000
     },
     {
@@ -123,7 +132,7 @@
     },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/c6m2dj7ze9v2o?at_medium=RSS&at_campaign=rss",
-      "title": "How Antonelli 'blew everyone away' to make Formula 1 history",
+      "title": "How Antonelli 'blew everyone away' to make F1 history",
       "snippet": "Kimi Antonelli seems destined for Formula 1 greatness after winning his first world title, writes Andrew Benson.",
       "link": "https://www.bbc.co.uk/sport/formula1/articles/c6m2dj7ze9v2o?at_medium=RSS&at_campaign=rss",
       "source_name": "BBC Sport",
@@ -145,8 +154,17 @@
       "snippet": "“When you are 1-2 at Turn 4, you don't imagine that you won't win the race.”This statement says a lot about Ferrari team principal Fred Vasseur’s disappointment following Formula 1’s Mexico Grand Prix.Ferrari was on pole for the first time in the 2026 season, courtesy of Lewis Hamilton, with Charles Leclerc third; no grid had been so favourable to the prancing horse since ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/fred-vasseur-reacts-to-lewis-hamilton-charles-leclerc-clash-its-a-matter-of-respect/10870842/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YN7vVQW6/s6/charles-leclerc-ferrari-lewis-.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YN7vVQW6/s6/charles-leclerc-ferrari-lewis-.jpg",
       "published_at": 1793581734000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/how-f1-drivers-reacted-to-kimi-antonellis-world-title-hes-made-everyone-else-look-silly/10870828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "How F1 drivers reacted to Kimi Antonelli's world title: \"He's made everyone else look silly\"",
+      "snippet": "Kimi Antonelli's rivals have paid tribute to the Mercedes driver after he clinched the Formula 1 world championship at the Mexico City Grand Prix.The Italian finished third behind Max Verstappen and Lewis Hamilton to secure the title with four races to spare. At just 20 years and 68 days old, he is the youngest champion in the sport's history, and the first Italian to win the drivers' title ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/how-f1-drivers-reacted-to-kimi-antonellis-world-title-hes-made-everyone-else-look-silly/10870828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6DGgbgwY/s6/motorsport-com-graphics-59.jpg",
+      "published_at": 1793579554000
     },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cmwy7dl879gzo?at_medium=RSS&at_campaign=rss",
@@ -163,7 +181,7 @@
       "snippet": "Mercedes Formula 1 team principal Toto Wolff claimed the Brackley outfit \"let down\" George Russell after a deployment issue spoiled his start at the Mexican Grand Prix.Russell started from second on the grid after missing out on pole position to seven-time champion Lewis Hamilton by just 0.009 seconds, but he lost ground at the start. He was then given a 10-second penalty for a first-lap ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/toto-wolff-apologises-to-george-russell-after-mercedes-let-him-down-at-mexican-gp/10870825/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YE9EpEDY/s6/motorsport-com-graphics-45.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YE9EpEDY/s6/motorsport-com-graphics-45.jpg",
       "published_at": 1793578947000
     },
     {
@@ -172,7 +190,7 @@
       "snippet": "Ferrari Formula 1 driver Charles Leclerc has delved into his controversial Mexico Grand Prix drive, more specifically the way he snatched – and retained – the lead from Lewis Hamilton.Leclerc challenged his polesitting team-mate for the lead at the start, with Hamilton holding him off over the first sequence of corners. The Monegasque then launched an attack around the outside of Turn 4 ...Keep reading",
       "link": "https://www.autosport.com/f1/news/why-leclerc-didnt-give-up-mexico-gp-lead-after-cutting-turn-5/10870807/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6O7zXQX6/s6/charles-leclerc-ferrari-lewis--3.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6O7zXQX6/s6/charles-leclerc-ferrari-lewis--3.jpg",
       "published_at": 1793577960000
     },
     {
@@ -183,24 +201,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-motorsport-f1-mercedes_7394349.jpg?20261101230746",
       "published_at": 1793574240000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13606995/kimi-antonelli-how-formula-1s-newest-world-champion-has-rewritten-the-record-books-at-barely-20-years-of-age",
-      "title": "How Antonelli has rewritten Formula 1's record books",
-      "snippet": "Formula 1 has its 36th world champion after Kimi Antonelli clinched his maiden title by finishing third at the Mexico City Grand Prix.",
-      "link": "https://www.skysports.com/f1/news/12433/13606995/kimi-antonelli-how-formula-1s-newest-world-champion-has-rewritten-the-record-books-at-barely-20-years-of-age",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-formula-one-mercedes_7390623.jpg?20261029084155",
-      "published_at": 1793573400000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/f1s-youngest-world-champions/10870660/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "F1's youngest world champions",
-      "snippet": "Kimi Antonelli crossing the line in third place at the Mexico Grand Prix has resulted in the Mercedes driver becoming Formula 1’s youngest ever world champion.The Italian has achieved his childhood dream at just 20 years old, which means he takes the record from Sebastian Vettel who was still only 23 when he became world champion in 2010.It comes after a dominant season for Antonelli who ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/f1s-youngest-world-champions/10870660/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVP1470/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": 1793573354000
     }
   ]
 }
