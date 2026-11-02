@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-02T08:02:20.625921Z",
+    "last_updated": "2026-11-02T08:32:24.597704Z",
     "year": 2026,
     "total_meetings": 27
   },
@@ -1767,7 +1767,7 @@
       "country_code": "mx",
       "circuit_name": "Mexico City",
       "date_start": "2026-10-30T18:30:00+00:00",
-      "date_end": "2026-11-01T23:00:00+00:00",
+      "date_end": "2026-11-01T22:00:00+00:00",
       "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
