@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-03T19:02:22.528940Z",
+    "last_updated": "2026-11-03T19:32:24.907106Z",
     "total_news": 22
   },
   "news": [
@@ -10,8 +10,17 @@
       "snippet": "Kimi Antonelli became Formula 1's youngest-ever world champion at the Mexico City Grand Prix, becoming the first Italian to win the title since Alberto Ascari in 1953.In an exclusive interview with Motorsport.com, his father Marco, a former racing driver and team principal of AKM Motorsport, discusses Kimi's development, his ability to handle pressure and the moment he realised his son could ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/marco-antonelli-i-saw-the-champion-in-kimi-after-his-australia-crash/10871229/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0rVP1GO0/s6/marco-antonelli-2.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0rVP1GO0/s6/marco-antonelli-2.jpg",
       "published_at": 1793715731000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/the-difference-between-kimi-antonellis-f1-title-and-lewis-hamiltons-according-to-toto-wolff/10871082/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "The 'difference' between Kimi Antonelli's F1 title and Lewis Hamilton's according to Toto Wolff",
+      "snippet": "Mercedes boss Toto Wolff has explained how “different” it felt watching Kimi Antonelli become Formula 1 world champion compared to his record-breaking years with Lewis Hamilton.Antonelli clinched his maiden title in Mexico on Sunday to become F1’s youngest ever world champion at the age of only 20, thanks to a dominant 2026 with four rounds still remaining.The Italian achieved it in ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/the-difference-between-kimi-antonellis-f1-title-and-lewis-hamiltons-according-to-toto-wolff/10871082/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YMXbl3m2/s6/lewis-hamilton-ferrari-andrea-.jpg",
+      "published_at": 1793733279000
     },
     {
       "id": "https://www.autosport.com/f1/news/why-bearman-is-yet-to-be-announced-as-a-haas-driver-for-f1-2027/10871339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -19,7 +28,7 @@
       "snippet": "With Oliver Bearman firing on all cylinders in his sophomore Formula 1 campaign, it feels odd that Haas has been able to confirm the identity of Esteban Ocon's replacement in the second seat for 2027 before announcing Bearman is staying put for a third year.There is no real doubt that Bearman will stay where he is, with both parties keen to continue for another season into 2027.“I think ...Keep reading",
       "link": "https://www.autosport.com/f1/news/why-bearman-is-yet-to-be-announced-as-a-haas-driver-for-f1-2027/10871339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YK15R8O0/s6/oliver-bearman-haas-f1-team.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YK15R8O0/s6/oliver-bearman-haas-f1-team.jpg",
       "published_at": 1793727549000
     },
     {
@@ -28,7 +37,7 @@
       "snippet": "McLaren will introduce upgrades to its MCL40 Formula 1 car at this weekend’s Brazil Grand Prix, featuring a front wing concept which is expected to feature on its 2027 challenger.The team had surged to the front when it substantially updated the MCL40 in Hungary, with Lando Norris winning that race and the following one at Zandvoort, but it has since slipped back in the pecking order despite ...Keep reading",
       "link": "https://www.autosport.com/f1/news/mclaren-to-bring-upgrades-to-brazil-gp-with-f1-2027-in-mind/10871328/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YP741QG2/s6/lando-norris-mclaren-2.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YP741QG2/s6/lando-norris-mclaren-2.jpg",
       "published_at": 1793724516000
     },
     {
@@ -37,7 +46,7 @@
       "snippet": "A commercial production shoot just accidentally poured gasoline on one of the biggest off-track rumours in the Formula 1 paddock right now.Leaked photographs circulating across social media show Max Verstappen casually resting on the front left wheel of his RB22 while sporting what is expected to be an unreleased team kit. Displayed crystal clear on the right side of the Red Bull star's chest ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/leaked-photos-reveal-max-verstappen-sporting-adidas-gear-as-27m-red-bull-rumors-erupt/10871317/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6x7L975Y/s6/motorsport-com-graphics-62-2.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6x7L975Y/s6/motorsport-com-graphics-62-2.jpg",
       "published_at": 1793723139000
     },
     {
@@ -46,7 +55,7 @@
       "snippet": "Nailing the launch of your life only to get pushed off the track a few corners later is a surefire way to ruin a Sunday. Just ask Isack Hadjar.Starting seventh on the grid at the Autódromo Hermanos Rodríguez, the Red Bull driver executed a flawless getaway. He aggressively sliced through the pack to secure fifth place through the opening sequence of corners, looking primed for a massive ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/isack-hadjar-rues-lost-mexico-city-pace-after-russells-turn-6-torpedo/10871234/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YpbAzb30/s6/motorsport-com-graphics-61-2.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YpbAzb30/s6/motorsport-com-graphics-61-2.jpg",
       "published_at": 1793722114000
     },
     {
@@ -64,7 +73,7 @@
       "snippet": "In its Mexico Grand Prix preview, Honda’s Shintaro Orihara had described Autodromo Hermanos Rodriguez as “a very challenging track for the power unit”, but he perhaps didn’t expect Aston Martin’s weekend to go so awry.Despite decent pace and mileage in free practice – Fernando Alonso was just 0.769s down on pacesetter Charles Leclerc in FP2, with the AMR26s covering a whopping 144 ...Keep reading",
       "link": "https://www.autosport.com/f1/news/the-reason-behind-hondas-power-unit-lasting-five-laps-in-mexico/10871286/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6x7Lb1rY/s6/lance-stroll-aston-martin-raci-2.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6x7Lb1rY/s6/lance-stroll-aston-martin-raci-2.jpg",
       "published_at": 1793713554000
     },
     {
@@ -75,15 +84,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-liam-lawson_7395163.jpg?20261103161550",
       "published_at": 1793710800000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/kimi-antonelli-labels-the-turning-point-in-f1-title-winning-season/10871066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Kimi Antonelli labels the \"turning point\" in F1 title-winning season",
-      "snippet": "Kimi Antonelli has labelled the Japanese Grand Prix as the “turning point” in his title-clinching Formula 1 season - saying that win gave him the belief he could become world champion.The Mercedes driver clinched his maiden title in Mexico on Sunday after a dominant 2026 season, yielding nine wins and 16 podiums with still four rounds remaining.Antonelli has led the standings since ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/kimi-antonelli-labels-the-turning-point-in-f1-title-winning-season/10871066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0rVxeDJ0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": 1793699874000
     },
     {
       "id": "https://www.motorsport.com/f1/news/charles-leclerc-blames-mexico-gp-clash-on-track-layout-fred-vasseur-disagrees/10871092/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -127,7 +127,7 @@
       "snippet": "Formula 1 fans have praised seven-time champion Lewis Hamilton after footage of him congratulating his former Mercedes race engineer Peter 'Bono' Bonnington at the Mexican Grand Prix went viral.Hamilton worked with Bonnington throughout his time at the Brackley outfit, where he secured six of his seven championships. After the 41-year-old left Mercedes to move to Ferrari in 2025, Bonnington ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lewis-hamilton-goes-viral-after-emotional-moment-with-peter-bonnington-in-mexico/10871136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6O7zl1N6/s6/motorsport-com-graphics-52.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6O7zl1N6/s6/motorsport-com-graphics-52.jpg",
       "published_at": 1793664131000
     },
     {
@@ -154,7 +154,7 @@
       "snippet": "Kimi Antonelli's race engineer Peter 'Bono' Bonnington has revealed that a \"really stern conversation\" helped turn around the Italian driver's rookie Formula 1 season, a year before he became the 2026 world champion.Antonelli finished third at last weekend's Mexican Grand Prix, which was enough to secure his maiden title. While speaking to F1 TV after the race, Bonnington reflected on how ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/peter-bonnington-reveals-stern-conversation-that-transformed-kimi-antonellis-f1-career/10871102/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0R7BlrZ2/s6/motorsport-com-graphics-50.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0R7BlrZ2/s6/motorsport-com-graphics-50.jpg",
       "published_at": 1793644256000
     },
     {
@@ -167,21 +167,12 @@
       "published_at": 1793643300000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/toto-wolff-two-sponsors-left-mercedes-after-promoting-kimi-antonelli-into-f1/10871088/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Toto Wolff: Two sponsors left Mercedes after promoting Kimi Antonelli into F1",
-      "snippet": "At the Mexico Grand Prix, Mercedes reaped the reward for the courage it showed in putting the then 18-year-old Kimi Antonelli in the cockpit from 2025 with his world championship triumph in his just second Formula 1 season.It was courage that not everyone in the Mercedes sphere shared from the outset, as team principal Toto Wolff now reveals.\"We had two sponsors who left us because of it ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/toto-wolff-two-sponsors-left-mercedes-after-promoting-kimi-antonelli-into-f1/10871088/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/J0r41yPY/s6/toto-wolff-verraet-zwei-sponsoren-verliessen-mercedes-wegen-kimi-antonelli-26110217.jpg",
-      "published_at": 1793641415000
-    },
-    {
       "id": "https://www.motorsport.com/f1/news/juan-pablo-montoya-demands-consequences-for-ferrari-drivers-after-mexican-gp-disaster/10871096/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Juan Pablo Montoya demands \"consequences\" for Ferrari drivers after Mexican GP disaster",
       "snippet": "Former Formula 1 driver and F1 TV pundit Juan Pablo Montoya has argued that there must be \"consequences\" for Lewis Hamilton and Charles Leclerc after their first-lap battle likely cost Ferrari the win at the Mexican Grand Prix.Both drivers ran wide when Leclerc attempted to overtake Hamilton, who had started from pole position. Leclerc emerged in the lead, while Hamilton lost a position to Red ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/juan-pablo-montoya-demands-consequences-for-ferrari-drivers-after-mexican-gp-disaster/10871096/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/Y9lNZ9q2/s6/motorsport-com-graphics-49.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/Y9lNZ9q2/s6/motorsport-com-graphics-49.jpg",
       "published_at": 1793641255000
     },
     {
@@ -190,7 +181,7 @@
       "snippet": "Cadillac Formula 1 team principal Marcin Budkowski has vowed to ensure accidents like the one that ended Valtteri Bottas' Mexico Grand Prix \"do not happen again\".Bottas was at top speed entering Turn 1 on lap 46 at the Autodromo Hermanos Rogriguez when his front-left suspension collapsed as he hit the brakes, sending the Finn into a slide and into the TecPro barrier.Such was the damage ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/cadillac-to-investigate-high-speed-mexico-gp-failure-that-led-to-angry-valtteri-bottas-reaction/10871021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YE9EBaPY/s6/valtteri-bottas-cadillac-racin.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YE9EBaPY/s6/valtteri-bottas-cadillac-racin.jpg",
       "published_at": 1793640602000
     },
     {
@@ -199,8 +190,17 @@
       "snippet": "Mercedes has the opportunity to claim the Formula 1 constructors' championship at this weekend's Brazilian Grand Prix, one week after Kimi Antonelli clinched the drivers' title in Mexico.Heading into the race weekend in Sao Paulo, Mercedes leads the standings by 126 points over second-placed Ferrari. How can Mercedes win the 2026 F1 constructors' championship in Brazil?Mercedes needs ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/how-mercedes-can-win-the-2026-f1-constructors-championship-at-the-brazilian-gp/10871090/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YE9EpQMY/s6/motorsport-com-graphics-48.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YE9EpQMY/s6/motorsport-com-graphics-48.jpg",
       "published_at": 1793639621000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/what-was-antonellis-best-moment-of-his-f1-title-winning-campaign-our-writers-have-their-say/10871078/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "What was Antonelli’s best moment of his F1 title-winning campaign? Our writers have their say",
+      "snippet": "Kimi Antonelli’s record-breaking Formula 1 world championship triumph was highlighted by many superb performances. But which one was his best?Antonelli duly wrapped up his maiden F1 crown in Mexico with four rounds to spare – becoming the youngest-ever world champion in the process.Our writers have picked out the moments they believe turned the Italian from a contender into a world ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/what-was-antonellis-best-moment-of-his-f1-title-winning-campaign-our-writers-have-their-say/10871078/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/63Qa3m72/s6/lewis-hamilton-ferrari-max-ver-2.jpg",
+      "published_at": 1793635148000
     }
   ]
 }
