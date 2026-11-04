@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-04T09:02:21.139710Z",
+    "last_updated": "2026-11-04T09:32:25.755491Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.bbc.co.uk/sounds/play/w3ct9tp9?at_medium=RSS&at_campaign=rss",
+      "title": "More than the Score",
+      "snippet": "The 20-year-old Italian is the youngest F1 world champion ever",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct9tp9?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0pl30q8.jpg",
+      "published_at": 1793772060000
+    },
     {
       "id": "https://www.skysports.com/f1/news/12433/13607248/toto-wolff-says-good-person-kimi-antonelli-should-be-a-role-model-for-entitled-formula-1-drivers-ahead-of-sao-paulo-grand-prix",
       "title": "Wolff: 'Good person' Antonelli should be a role model for entitled F1 drivers",
@@ -19,7 +28,7 @@
       "snippet": "Having a podium-capable car means much less if you spend 71 laps hopelessly trapped in dirty air.That was the reality for McLaren at the Mexico City Grand Prix. A difficult Saturday qualifying session left the Woking garage entirely on the back foot, completely negating the raw race pace of its machinery. Because the thin air at high altitude makes cooling a nightmare and aerodynamically ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/stella-explains-how-a-nightmare-qualifying-destroyed-mclarens-mexico-gp-we-paid-the-price/10871257/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0Ldelda0/s6/motorsport-com-graphics-65-2.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0Ldelda0/s6/motorsport-com-graphics-65-2.jpg",
       "published_at": 1793749858000
     },
     {
@@ -28,7 +37,7 @@
       "snippet": "The opening lap of the Mexico City Grand Prix featured an intense, intra-team battle within Ferrari.Battling for the race lead, Charles Leclerc and Lewis Hamilton traded heavy, aggressive blows through the opening sequence of corners. The scarlet cars squeezed each other to the absolute limit, ultimately resulting in an off-track excursion and a time penalty for the Monegasque ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/charles-leclerc-brushes-off-lap-1-clash-with-furious-hamilton-i-could-be-unhappy-too/10871246/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YWKAlKeY/s6/motorsport-com-graphics-64-2.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YWKAlKeY/s6/motorsport-com-graphics-64-2.jpg",
       "published_at": 1793748498000
     },
     {
@@ -37,7 +46,7 @@
       "snippet": "Cadillac test driver Colton Herta will conduct his sixth Friday practice session of the Formula 1 season at this weekend's Brazil Grand Prix to collect his missing FIA superlicence point required to race in the series.Herta, who has been building up for an F1 campaign with private testing, FP1 sessions and a troubled F2 campaign, needs 40 points to obtain the required FIA superlicence ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/colton-herta-to-run-cadillac-fp1-in-brazil-as-fia-superlicense-quest-continues/10871403/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0rVx3Am0/s6/colton-herta.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0rVx3Am0/s6/colton-herta.jpg",
       "published_at": 1793746916000
     },
     {
@@ -46,7 +55,7 @@
       "snippet": "The Brackley garage experienced the absolute extremes of motorsport at the Autodromo Hermanos Rodríguez. While the team successfully crowned the youngest world drivers' champion in Formula 1 history on Sunday, the engineering brass was simultaneously forced to publicly apologise to the other side of the garage for a mechanical failure.Trackside Engineering Director Andrew Shovlin was quick to ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/mercedes-boss-praises-antonellis-masterclass-while-admitting-they-failed-george-russell/10871236/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YP74l7j2/s6/motorsport-com-graphics-63-2.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YP74l7j2/s6/motorsport-com-graphics-63-2.jpg",
       "published_at": 1793746162000
     },
     {
@@ -55,7 +64,7 @@
       "snippet": "Kimi Antonelli became Formula 1's youngest-ever world champion at the Mexico City Grand Prix, becoming the first Italian to win the title since Alberto Ascari in 1953.In an exclusive interview with Motorsport.com, his father Marco, a former racing driver and team principal of AKM Motorsport, discusses Kimi's development, his ability to handle pressure and the moment he realised his son could ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/marco-antonelli-i-saw-the-champion-in-kimi-after-his-australia-crash/10871229/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0rVP1GO0/s6/marco-antonelli-2.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0rVP1GO0/s6/marco-antonelli-2.jpg",
       "published_at": 1793715731000
     },
     {
@@ -69,11 +78,11 @@
     },
     {
       "id": "https://www.autosport.com/f1/news/rafa-camara-to-debut-in-f1-brazil-gp-as-esteban-ocon-out-at-haas/10871378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Rafael Camara to debut in F1 Brazil GP as Esteban Ocon out at Haas",
+      "title": "Camara to debut in F1 Brazil GP as Ocon out at Haas",
       "snippet": "The Haas F1 team has decided Esteban Ocon will not race again for the squad, with 2027 debutant Rafael Camara getting an early debut this weekend on home soil.Following increasingly strained relations between Ocon and the team, a heated argument in Mexico proved the final straw that made team principal Ayao Komatsu decide to bench the Frenchman. Reserve driver and Toyota protege Ryo Hirakawa ...Keep reading",
       "link": "https://www.autosport.com/f1/news/rafa-camara-to-debut-in-f1-brazil-gp-as-esteban-ocon-out-at-haas/10871378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6VyKwXGY/s6/rafael-camara-joins-haas-f1-te.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6VyKwXGY/s6/rafael-camara-joins-haas-f1-te.jpg",
       "published_at": 1793738832000
     },
     {
@@ -82,7 +91,7 @@
       "snippet": "Mercedes boss Toto Wolff has explained how “different” it felt watching Kimi Antonelli become Formula 1 world champion compared to his record-breaking years with Lewis Hamilton.Antonelli clinched his maiden title in Mexico on Sunday to become F1’s youngest ever world champion at the age of only 20, thanks to a dominant 2026 with four rounds still remaining.The Italian achieved it in ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/the-difference-between-kimi-antonellis-f1-title-and-lewis-hamiltons-according-to-toto-wolff/10871082/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YMXbl3m2/s6/lewis-hamilton-ferrari-andrea-.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YMXbl3m2/s6/lewis-hamilton-ferrari-andrea-.jpg",
       "published_at": 1793733279000
     },
     {
@@ -91,7 +100,7 @@
       "snippet": "With Oliver Bearman firing on all cylinders in his sophomore Formula 1 campaign, it feels odd that Haas has been able to confirm the identity of Esteban Ocon's replacement in the second seat for 2027 before announcing Bearman is staying put for a third year.There is no real doubt that Bearman will stay where he is, with both parties keen to continue for another season into 2027.“I think ...Keep reading",
       "link": "https://www.autosport.com/f1/news/why-bearman-is-yet-to-be-announced-as-a-haas-driver-for-f1-2027/10871339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YK15R8O0/s6/oliver-bearman-haas-f1-team.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YK15R8O0/s6/oliver-bearman-haas-f1-team.jpg",
       "published_at": 1793727549000
     },
     {
@@ -100,7 +109,7 @@
       "snippet": "McLaren will introduce upgrades to its MCL40 Formula 1 car at this weekend’s Brazil Grand Prix, featuring a front wing concept which is expected to feature on its 2027 challenger.The team had surged to the front when it substantially updated the MCL40 in Hungary, with Lando Norris winning that race and the following one at Zandvoort, but it has since slipped back in the pecking order despite ...Keep reading",
       "link": "https://www.autosport.com/f1/news/mclaren-to-bring-upgrades-to-brazil-gp-with-f1-2027-in-mind/10871328/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YP741QG2/s6/lando-norris-mclaren-2.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YP741QG2/s6/lando-norris-mclaren-2.jpg",
       "published_at": 1793724516000
     },
     {
@@ -109,7 +118,7 @@
       "snippet": "A commercial production shoot just accidentally poured gasoline on one of the biggest off-track rumours in the Formula 1 paddock right now.Leaked photographs circulating across social media show Max Verstappen casually resting on the front left wheel of his RB22 while sporting what is expected to be an unreleased team kit. Displayed crystal clear on the right side of the Red Bull star's chest ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/leaked-photos-reveal-max-verstappen-sporting-adidas-gear-as-27m-red-bull-rumors-erupt/10871317/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6x7L975Y/s6/motorsport-com-graphics-62-2.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6x7L975Y/s6/motorsport-com-graphics-62-2.jpg",
       "published_at": 1793723139000
     },
     {
@@ -118,7 +127,7 @@
       "snippet": "Nailing the launch of your life only to get pushed off the track a few corners later is a surefire way to ruin a Sunday. Just ask Isack Hadjar.Starting seventh on the grid at the Autódromo Hermanos Rodríguez, the Red Bull driver executed a flawless getaway. He aggressively sliced through the pack to secure fifth place through the opening sequence of corners, looking primed for a massive ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/isack-hadjar-rues-lost-mexico-city-pace-after-russells-turn-6-torpedo/10871234/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YpbAzb30/s6/motorsport-com-graphics-61-2.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YpbAzb30/s6/motorsport-com-graphics-61-2.jpg",
       "published_at": 1793722114000
     },
     {
@@ -136,7 +145,7 @@
       "snippet": "In its Mexico Grand Prix preview, Honda’s Shintaro Orihara had described Autodromo Hermanos Rodriguez as “a very challenging track for the power unit”, but he perhaps didn’t expect Aston Martin’s weekend to go so awry.Despite decent pace and mileage in free practice – Fernando Alonso was just 0.769s down on pacesetter Charles Leclerc in FP2, with the AMR26s covering a whopping 144 ...Keep reading",
       "link": "https://www.autosport.com/f1/news/the-reason-behind-hondas-power-unit-lasting-five-laps-in-mexico/10871286/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7Lb1rY/s6/lance-stroll-aston-martin-raci-2.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6x7Lb1rY/s6/lance-stroll-aston-martin-raci-2.jpg",
       "published_at": 1793713554000
     },
     {
@@ -181,7 +190,7 @@
       "snippet": "Formula 1 fans have praised seven-time champion Lewis Hamilton after footage of him congratulating his former Mercedes race engineer Peter 'Bono' Bonnington at the Mexican Grand Prix went viral.Hamilton worked with Bonnington throughout his time at the Brackley outfit, where he secured six of his seven championships. After the 41-year-old left Mercedes to move to Ferrari in 2025, Bonnington ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/lewis-hamilton-goes-viral-after-emotional-moment-with-peter-bonnington-in-mexico/10871136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6O7zl1N6/s6/motorsport-com-graphics-52.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6O7zl1N6/s6/motorsport-com-graphics-52.jpg",
       "published_at": 1793664131000
     },
     {
@@ -192,15 +201,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70fe/live/9cc1bb70-d700-11f1-91df-b96ca3dbd380.jpg",
       "published_at": 1793654171000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13607266/george-russell-mercedes-driver-posts-statement-to-speak-from-the-heart-after-kimi-antonelli-becomes-world-champion-at-mexico-city-grand-prix",
-      "title": "Russell posts statement to 'speak from the heart'",
-      "snippet": "George Russell has posted a statement on social media to \"speak from the heart\" after his Mercedes team-mate Kimi Antonelli secured the F1 Drivers' Championship on Sunday.",
-      "link": "https://www.skysports.com/f1/news/12433/13607266/george-russell-mercedes-driver-posts-statement-to-speak-from-the-heart-after-kimi-antonelli-becomes-world-champion-at-mexico-city-grand-prix",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-george-russell-mercedes-f1_7395249.jpg?20261102195707",
-      "published_at": 1793649900000
     }
   ]
 }
