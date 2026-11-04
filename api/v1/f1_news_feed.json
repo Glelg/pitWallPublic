@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-04T06:02:35.615478Z",
+    "last_updated": "2026-11-04T06:32:21.918750Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13607248/toto-wolff-says-good-person-kimi-antonelli-should-be-a-role-model-for-entitled-formula-1-drivers-ahead-of-sao-paulo-grand-prix",
+      "title": "Wolff: 'Good person' Antonelli should be a role model for entitled F1 drivers",
+      "snippet": "Mercedes boss Toto Wolff says newly crowned world champion Kimi Antonelli should be a role model for both upcoming drivers and some of his &#8220;entitled&#8221; Formula 1 rivals.",
+      "link": "https://www.skysports.com/f1/news/12433/13607248/toto-wolff-says-good-person-kimi-antonelli-should-be-a-role-model-for-entitled-formula-1-drivers-ahead-of-sao-paulo-grand-prix",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-toto-wolff-kimi-antonelli_7395219.jpg?20261102192508",
+      "published_at": 1793772000000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/stella-explains-how-a-nightmare-qualifying-destroyed-mclarens-mexico-gp-we-paid-the-price/10871257/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Andrea Stella explains how qualifying destroyed McLaren’s Mexico GP: “We paid the price”",
@@ -192,15 +201,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-george-russell-mercedes-f1_7395249.jpg?20261102195707",
       "published_at": 1793649900000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/peter-bonnington-reveals-stern-conversation-that-transformed-kimi-antonellis-f1-career/10871102/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Peter Bonnington reveals \"stern conversation\" that transformed Kimi Antonelli's F1 career",
-      "snippet": "Kimi Antonelli's race engineer Peter 'Bono' Bonnington has revealed that a \"really stern conversation\" helped turn around the Italian driver's rookie Formula 1 season, a year before he became the 2026 world champion.Antonelli finished third at last weekend's Mexican Grand Prix, which was enough to secure his maiden title. While speaking to F1 TV after the race, Bonnington reflected on how ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/peter-bonnington-reveals-stern-conversation-that-transformed-kimi-antonellis-f1-career/10871102/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7BlrZ2/s6/motorsport-com-graphics-50.jpg",
-      "published_at": 1793644256000
     }
   ]
 }
