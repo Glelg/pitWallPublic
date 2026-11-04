@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-04T15:30:57.605412Z",
+    "last_updated": "2026-11-04T16:01:06.719017Z",
     "session_key": 11404,
     "year": 2026
   },
@@ -267,40 +267,40 @@
     },
     {
       "position": 21,
+      "driver_number": 50,
+      "full_name": "Ryo HIRAKAWA",
+      "name_acronym": "HIR",
+      "team_name": "Haas F1 Team",
+      "points": 1.0,
+      "last_points_gained": 1.0,
+      "position_change": 3,
+      "country_code": "",
+      "is_inactive": false,
+      "previous_team_name": null
+    },
+    {
+      "position": 22,
       "driver_number": 18,
       "full_name": "Lance STROLL",
       "name_acronym": "STR",
       "team_name": "Aston Martin",
       "points": 0.0,
       "last_points_gained": 0.0,
-      "position_change": 0,
+      "position_change": -1,
       "country_code": "ca",
       "is_inactive": false,
       "previous_team_name": null
     },
     {
-      "position": 22,
+      "position": 23,
       "driver_number": 77,
       "full_name": "Valtteri BOTTAS",
       "name_acronym": "BOT",
       "team_name": "Cadillac",
       "points": 0.0,
       "last_points_gained": 0.0,
-      "position_change": 0,
+      "position_change": -1,
       "country_code": "fi",
-      "is_inactive": false,
-      "previous_team_name": null
-    },
-    {
-      "position": 23,
-      "driver_number": 50,
-      "full_name": "Ryo HIRAKAWA",
-      "name_acronym": "HIR",
-      "team_name": "Haas F1 Team",
-      "points": 0.0,
-      "last_points_gained": 0.0,
-      "position_change": 1,
-      "country_code": "",
       "is_inactive": false,
       "previous_team_name": null
     },
