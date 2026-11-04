@@ -1,12 +1,21 @@
 {
   "metadata": {
-    "last_updated": "2026-11-04T13:32:31.586355Z",
+    "last_updated": "2026-11-04T14:02:33.163875Z",
     "total_news": 22
   },
   "news": [
     {
+      "id": "https://www.motorsport.com/f1/news/max-verstappen-needs-a-conversation-with-red-bull-engine-after-random-engine-braking-issues/10871469/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Max Verstappen needs \"a conversation\" with Red Bull engine after \"random\" engine braking issues",
+      "snippet": "Ahead of the race weekend at the Autodromo Hermanos Rodriguez – at 2,286 metres above sea level, by far the highest circuit on the Formula 1 calendar – the discussion in the paddock largely revolved around one subject: how much of a challenge Mexico City would pose for the 2026 power units.Several manufacturers feared severe turbo lag, especially now that the MGU-H is no longer there to ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/max-verstappen-needs-a-conversation-with-red-bull-engine-after-random-engine-braking-issues/10871469/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6zoDxnl0/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": 1793800012000
+    },
+    {
       "id": "https://www.skysports.com/f1/live-blog/12433/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
-      "title": "Leclerc becomes father ahead of Sao Paulo GP",
+      "title": "Leclerc to arrive late to Brazil after birth of child",
       "snippet": "",
       "link": "https://www.skysports.com/f1/live-blog/12433/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
       "source_name": "Sky Sports",
@@ -28,7 +37,7 @@
       "snippet": "Daniel Ricciardo has delved into the reasons why he has been staying away from the Formula 1 paddock.Ricciardo’s F1 career ended after the 2024 Singapore Grand Prix, when the RB driver was replaced by Liam Lawson after enduring a tough campaign thus far.In the past two years, the Australian has stayed away from the limelight, spending more time at home and less on planes, though he did ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/why-daniel-ricciardo-is-staying-away-from-the-f1-paddock/10871443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6VRzqDn6/s6/a-fan-holds-up-a-sign-of-danie.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6VRzqDn6/s6/a-fan-holds-up-a-sign-of-danie.jpg",
       "published_at": 1793795274000
     },
     {
@@ -64,7 +73,7 @@
       "snippet": "Crowning a 20-year-old World Champion is exactly the kind of legacy-defining achievement that forces an executive to evaluate their long-term future. For Toto Wolff, that evaluation is a daily routine.Following Kimi Antonelli's historic title clinch at the Mexico City Grand Prix, the Austrian executive faced inevitable questions about his own longevity at the helm of the Brackley squad. A ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/toto-wolff-addresses-mercedes-future-dont-plan-to-call-it-a-day/10871261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/2y7QRKK6/s6/motorsport-com-graphics-66-2.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2y7QRKK6/s6/motorsport-com-graphics-66-2.jpg",
       "published_at": 1793784638000
     },
     {
@@ -91,7 +100,7 @@
       "snippet": "Having a podium-capable car means much less if you spend 71 laps hopelessly trapped in dirty air.That was the reality for McLaren at the Mexico City Grand Prix. A difficult Saturday qualifying session left the Woking garage entirely on the back foot, completely negating the raw race pace of its machinery. Because the thin air at high altitude makes cooling a nightmare and aerodynamically ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/stella-explains-how-a-nightmare-qualifying-destroyed-mclarens-mexico-gp-we-paid-the-price/10871257/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0Ldelda0/s6/motorsport-com-graphics-65-2.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0Ldelda0/s6/motorsport-com-graphics-65-2.jpg",
       "published_at": 1793749858000
     },
     {
@@ -118,7 +127,7 @@
       "snippet": "The Haas F1 team has decided Esteban Ocon will not race again for the squad, with 2027 debutant Rafael Camara getting an early debut this weekend on home soil.Following increasingly strained relations between Ocon and the team, a heated argument in Mexico proved the final straw that made team principal Ayao Komatsu decide to bench the Frenchman. Reserve driver and Toyota protege Ryo Hirakawa ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/camara-to-debut-in-f1-brazil-gp-as-ocon-out-at-haas/10871372/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6VyKwXGY/s6/rafael-camara-joins-haas-f1-te.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6VyKwXGY/s6/rafael-camara-joins-haas-f1-te.jpg",
       "published_at": 1793738602000
     },
     {
@@ -140,21 +149,12 @@
       "published_at": 1793724516000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/leaked-photos-reveal-max-verstappen-sporting-adidas-gear-as-27m-red-bull-rumors-erupt/10871317/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Red Bull's rumoured €27million deal takes shape in leaked Max Verstappen shoot",
-      "snippet": "A commercial production shoot just accidentally poured gasoline on one of the biggest off-track rumours in the Formula 1 paddock right now.Leaked photographs circulating across social media show Max Verstappen casually resting on the front left wheel of his RB22 while sporting what is expected to be an unreleased team kit. Displayed crystal clear on the right side of the Red Bull star's chest ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/leaked-photos-reveal-max-verstappen-sporting-adidas-gear-as-27m-red-bull-rumors-erupt/10871317/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6x7L975Y/s6/motorsport-com-graphics-62-2.jpg",
-      "published_at": 1793723139000
-    },
-    {
       "id": "https://www.motorsport.com/f1/news/isack-hadjar-rues-lost-mexico-city-pace-after-russells-turn-6-torpedo/10871234/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Isack Hadjar rues missed opportunity after George Russell clash at Mexico GP",
       "snippet": "Nailing the launch of your life only to get pushed off the track a few corners later is a surefire way to ruin a Sunday. Just ask Isack Hadjar.Starting seventh on the grid at the Autódromo Hermanos Rodríguez, the Red Bull driver executed a flawless getaway. He aggressively sliced through the pack to secure fifth place through the opening sequence of corners, looking primed for a massive ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/isack-hadjar-rues-lost-mexico-city-pace-after-russells-turn-6-torpedo/10871234/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YpbAzb30/s6/motorsport-com-graphics-61-2.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YpbAzb30/s6/motorsport-com-graphics-61-2.jpg",
       "published_at": 1793722114000
     },
     {
@@ -190,7 +190,7 @@
       "snippet": "Kimi Antonelli has labelled the Japanese Grand Prix as the “turning point” in his title-clinching Formula 1 season - saying that win gave him the belief he could become world champion.The Mercedes driver clinched his maiden title in Mexico on Sunday after a dominant 2026 season, yielding nine wins and 16 podiums with still four rounds remaining.Antonelli has led the standings since ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/kimi-antonelli-labels-the-turning-point-in-f1-title-winning-season/10871066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0rVxeDJ0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0rVxeDJ0/s6/andrea-kimi-antonelli-mercedes.jpg",
       "published_at": 1793699874000
     },
     {
