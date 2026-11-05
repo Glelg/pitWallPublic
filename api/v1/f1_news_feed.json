@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-05T05:32:21.083117Z",
+    "last_updated": "2026-11-05T06:02:25.079082Z",
     "total_news": 22
   },
   "news": [
@@ -12,6 +12,15 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-5.motorsport.com/images/amp/0R7BlpE2/s6/motorsport-com-graphics-70-2.jpg",
       "published_at": 1793835849000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13607894/lando-norris-mclaren-driver-unsure-if-sao-paulo-grand-prix-upgrades-will-improve-horrible-mclaren-car",
+      "title": "Norris unsure if Brazil upgrades will improve 'horrible' McLaren car",
+      "snippet": "Lando Norris is unsure if McLaren's upgrades at this weekend's Sao Paulo Grand Prix will improve the \"horrible\" handling on the car.",
+      "link": "https://www.skysports.com/f1/news/12433/13607894/lando-norris-mclaren-driver-unsure-if-sao-paulo-grand-prix-upgrades-will-improve-horrible-mclaren-car",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-lando-norris_7396808.jpg?20261104122757",
+      "published_at": 1793858400000
     },
     {
       "id": "https://www.motorsport.com/f1/news/max-verstappen-brings-some-samba-to-sao-paulo-with-brazil-themed-f1-helmet/10871580/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -192,15 +201,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0pl30q8.jpg",
       "published_at": 1793772060000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13607248/toto-wolff-says-good-person-kimi-antonelli-should-be-a-role-model-for-entitled-formula-1-drivers-ahead-of-sao-paulo-grand-prix",
-      "title": "Wolff: 'Good person' Antonelli should be a role model for entitled F1 drivers",
-      "snippet": "Mercedes boss Toto Wolff says newly crowned world champion Kimi Antonelli should be a role model for both upcoming drivers and some of his &#8220;entitled&#8221; Formula 1 rivals.",
-      "link": "https://www.skysports.com/f1/news/12433/13607248/toto-wolff-says-good-person-kimi-antonelli-should-be-a-role-model-for-entitled-formula-1-drivers-ahead-of-sao-paulo-grand-prix",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-toto-wolff-kimi-antonelli_7395219.jpg?20261102192508",
-      "published_at": 1793772000000
     }
   ]
 }
