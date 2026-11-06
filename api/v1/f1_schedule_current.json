@@ -1864,8 +1864,8 @@
           "session_type": "Practice",
           "date_start": "2026-11-06T15:30:00+00:00",
           "weather": {
-            "temp": 25.2,
-            "weather_code": 51
+            "temp": 25.3,
+            "weather_code": 2
           }
         },
         {
@@ -1874,7 +1874,7 @@
           "session_type": "Practice",
           "date_start": "2026-11-06T19:00:00+00:00",
           "weather": {
-            "temp": 22.8,
+            "temp": 22.9,
             "weather_code": 51
           }
         },
