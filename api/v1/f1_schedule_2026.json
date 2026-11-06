@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-06T14:32:19.816085Z",
+    "last_updated": "2026-11-06T17:02:17.789108Z",
     "year": 2026,
     "total_meetings": 27
   },
@@ -1853,7 +1853,7 @@
       "circuit_name": "Interlagos",
       "date_start": "2026-11-06T15:30:00+00:00",
       "date_end": "2026-11-08T19:00:00+00:00",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "is_cancelled": false,
       "is_testing": false,
       "top_results": null,
@@ -1862,7 +1862,11 @@
           "session_key": 11405,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2026-11-06T15:30:00+00:00"
+          "date_start": "2026-11-06T15:30:00+00:00",
+          "weather": {
+            "temp": 25.2,
+            "weather_code": 51
+          }
         },
         {
           "session_key": 11406,
