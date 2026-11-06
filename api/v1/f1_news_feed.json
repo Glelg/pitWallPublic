@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-06T22:02:33.366542Z",
+    "last_updated": "2026-11-06T22:32:14.788141Z",
     "total_news": 22
   },
   "news": [
@@ -10,8 +10,35 @@
       "snippet": "Mercedes driver George Russell will lose five places on Sunday's Formula 1 Brazilian Grand Prix grid as he takes his sixth internal combustion engine of the season.Following a brace of power unit related issues earlier this year, the latest arriving after a failure at the Bahrain GP in Malaysia, Russell was always going to require a sixth ICE before the end of the year.With Lewis ...Keep reading",
       "link": "https://www.autosport.com/f1/news/exhausted-russell-set-for-brazilian-f1-grid-penalty/10872138/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YK15qjD0/s6/george-russell-mercedes-2.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YK15qjD0/s6/george-russell-mercedes-2.jpg",
       "published_at": 1793979422000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13609099/sao-paulo-gp-charles-leclerc-plans-significant-ferrari-car-changes-as-lewis-hamilton-rues-difficult-brazil-practice",
+      "title": "Leclerc plans 'significant' car changes as Hamilton rues 'difficult' Brazil practice",
+      "snippet": "Charles Leclerc says he will make \"significant\" setup changes to his car after \"one of the worst feelings\" in practice at the Sao Paulo Grand Prix.",
+      "link": "https://www.skysports.com/f1/news/12433/13609099/sao-paulo-gp-charles-leclerc-plans-significant-ferrari-car-changes-as-lewis-hamilton-rues-difficult-brazil-practice",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-charles-leclerc_7399604.jpg?20261106221056",
+      "published_at": 1794004200000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/fred-vasseur-turns-down-being-godfather-to-charles-leclercs-baby-i-have-four-children/10872357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Fred Vasseur turns down being godfather to Charles Leclerc’s baby: “I have four children”",
+      "snippet": "Ferrari Formula 1 team principal Fred Vasseur has ruled himself out of becoming godfather to Charles Leclerc's daughter, joking that he already has enough children to look after.Leclerc and his wife, Alexandra, announced the birth of their first child, Bianca, on Wednesday.After a series of questions about the potential tension between his drivers following last weekend's clash in Mexico ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/fred-vasseur-turns-down-being-godfather-to-charles-leclercs-baby-i-have-four-children/10872357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6AlvXkvY/s6/motorsport-com-graphics-67.jpg",
+      "published_at": 1794003121000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/f1-brazil-gp-saturday-schedule-weather-forecast-and-how-to-watch/10872353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "F1 Brazil GP: Saturday schedule, weather forecast and how to watch",
+      "snippet": "Formula 1 heads into Saturday at Interlagos with Kimi Antonelli fastest after second practice for the Brazil Grand Prix.The newly crowned world champion set a 1m10.763s to lead Lando Norris by 0.253s, with Max Verstappen just 0.006s further back in third. George Russell was fourth ahead of Oscar Piastri, leaving Mercedes, McLaren and Red Bull closely matched heading into qualifying.Russell ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/f1-brazil-gp-saturday-schedule-weather-forecast-and-how-to-watch/10872353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0Zq8lnd6/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": 1794002741000
     },
     {
       "id": "https://www.motorsport.com/f1/news/mclarens-upgrade-is-a-pleasant-surprise-but-will-it-stay-on-the-car-in-brazil/10872338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -19,7 +46,7 @@
       "snippet": "After one of the most turbulent world championship defences since Jenson Button in 2010, Lando Norris gave McLaren’s latest batch of car upgrades a cautious thumbs-up on the Friday of the Sao Paulo GP. Norris topped the first practice session, edging out Mercedes’ Kimi Antonelli by 0.082s, and was among the quickest in terms of average pace on his long runs through FP2.\"Certainly FP1 was a ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/mclarens-upgrade-is-a-pleasant-surprise-but-will-it-stay-on-the-car-in-brazil/10872338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YvKBDW16/s6/lando-norris-mclaren.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YvKBDW16/s6/lando-norris-mclaren.jpg",
       "published_at": 1794001780000
     },
     {
@@ -46,7 +73,7 @@
       "snippet": "Following the Mexico Grand Prix, aside from Kimi Antonelli's maiden world title, one other subject has dominated the conversation in the Formula 1 paddock: the clash at Ferrari.After the incident on the opening lap of the race at the Autodromo Hermanos Rodriguez, Hamilton indicated that Ferrari had \"big, big problems\" to solve, before calling for in-depth discussions.During the media day ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/why-toto-wolff-sees-ferrari-clash-as-deja-vu-and-why-escalation-may-be-necessary/10872244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YvKQ5nE6/s6/toto-wolff-mercedes.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YvKQ5nE6/s6/toto-wolff-mercedes.jpg",
       "published_at": 1793996088000
     },
     {
@@ -64,7 +91,7 @@
       "snippet": "Newly-minted world champion Kimi Antonelli topped Friday's second practice session at the Brazilian GP, heading Lando Norris and Max Verstappen in Sao Paulo.At the classic 4.3km Interlagos circuit, Antonelli set his quickest time just before the halfway mark of FP2 as drivers moved towards soft-tyre running, the Italian going faster than Lando Norris and Max Verstappen.Despite fans ...Keep reading",
       "link": "https://www.autosport.com/f1/news/f1-brazilian-gp-kimi-antonelli-fastest-in-tricky-fp2/10872299/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/68VwEnB2/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/68VwEnB2/s6/andrea-kimi-antonelli-mercedes-2.jpg",
       "published_at": 1793995649000
     },
     {
@@ -82,7 +109,7 @@
       "snippet": "Kimi Antonelli has revealed the gifts he received from Ayrton Senna's family during his visit to their estate ahead of this weekend's Brazilian Grand Prix.The Mercedes driver went to Fazenda Dois Lagos in Tatuí on Tuesday, two days after securing his maiden Formula 1 championship, and was photographed in the Lotus 98T that Senna raced in 1986.During an interview with Italian publication ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-special-gifts-from-ayrton-sennas-family-ahead-of-f1-brazilian-gp/10872198/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YXyKloK6/s6/motorsport-com-graphics-66.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YXyKloK6/s6/motorsport-com-graphics-66.jpg",
       "published_at": 1793991602000
     },
     {
@@ -91,17 +118,8 @@
       "snippet": "Ferrari F1 chief Fred Vasseur insists he has cleared the air with Charles Leclerc and Lewis Hamilton after their highly publicised Mexican Grand Prix clash last week.At the Mexico City event, Hamilton and Leclerc both went off track on lap one as they fought for the lead, with Hamilton losing a position to Max Verstappen instead, while Leclerc was penalised and eventually also ceded the lead ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/we-failed-so-we-had-to-react-fred-vasseur-on-ferrari-driver-talks-and-mexico-f1-fallout/10872240/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0rVPdjJ0/s6/fred-vasseur-ferrari.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0rVPdjJ0/s6/fred-vasseur-ferrari.jpg",
       "published_at": 1793990553000
-    },
-    {
-      "id": "https://www.skysports.com/f1/live-blog/12433/13608010/f1-sao-paulo-gp-live-friday-practice-updates-results-stream-highlights-from-brazil-formula-1-race-weekend-at-interlagos",
-      "title": "Camara warned from 'unnecessarily' impeding Leclerc in Brazil practice",
-      "snippet": "",
-      "link": "https://www.skysports.com/f1/live-blog/12433/13608010/f1-sao-paulo-gp-live-friday-practice-updates-results-stream-highlights-from-brazil-formula-1-race-weekend-at-interlagos",
-      "source_name": "Sky Sports",
-      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-rafael-camara_7399557.jpg?20261106211654",
-      "published_at": 1793990400000
     },
     {
       "id": "https://www.skysports.com/f1/news/12433/13608869/ferrari-boss-frederic-vasseur-confirms-lewis-hamilton-charles-leclerc-meeting-after-mexico-clash-ahead-of-sao-paulo-gp",
@@ -118,7 +136,7 @@
       "snippet": "Verstappen finished the opening practice session of the Formula 1 weekend in Sao Paulo in third place, just over two tenths behind fastest man Lando Norris in the upgraded McLaren, which features a new front wing that serves as the baseline for 2027.Although the start looked promising in terms of outright pace, Verstappen was not entirely satisfied with the feeling in his RB22 on Friday ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/unacceptable-downshifts-max-verstappen-explains-whats-behind-a-recurring-f1-radio-complaint/10872196/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/27NoB1K0/s6/max-verstappen-red-bull-racing.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/27NoB1K0/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1793985985000
     },
     {
@@ -127,7 +145,7 @@
       "snippet": "When Charles Leclerc decided to keep his foot planted across the grass at Turn 4 in Mexico rather than yield to Lewis Hamilton, he didn't just earn a five-second penalty - he sparked drama across the Ferrari team.Now, as the paddock sets up camp for the Brazilian Grand Prix, veteran Sky Sports broadcaster Martin Brundle has offered his own assessment of the Lap 1 chaos. And spoiler alert: he ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/unfiltered-hamilton-is-ready-to-exploit-leclercs-silly-move-says-martin-brundle/10872156/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6lmAw710/s6/motorsport-com-graphics-80-2.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6lmAw710/s6/motorsport-com-graphics-80-2.jpg",
       "published_at": 1793984557000
     },
     {
@@ -145,7 +163,7 @@
       "snippet": "Lando Norris was fastest in Free Practice 1 at Formula 1’s Brazilian Grand Prix, leading Kimi Antonelli, Max Verstappen and Lewis Hamilton.Norris outpaced Antonelli by 0.082s on the soft rubber with a time of 1m11.717s, while Verstappen and Hamilton were two and three tenths adrift respectively, with the top-four teams again all close together.Not all of them were happy, however ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/f1-brazilian-gp-fp1-report-10872160/10872160/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YBVj1g8Y/s6/lando-norris-mclaren.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YBVj1g8Y/s6/lando-norris-mclaren.jpg",
       "published_at": 1793983422000
     },
     {
@@ -154,7 +172,7 @@
       "snippet": "McLaren's Oscar Piastri has paid tribute to Alan Jones following the death of Australia's 1980 Formula 1 world champion.Jones died at the age of 80 on 5 November 2026, following a short illness. He won 12 grands prix, celebrated 24 podium finishes and gave Williams its first drivers' title. He also remains the last Australian to have won the Australian Grand Prix at Calder Park in ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/oscar-piastri-pays-tribute-to-australian-f1-legend-alan-jones-following-his-death/10872171/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YXyKlej6/s6/motorsport-com-graphics-64.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YXyKlej6/s6/motorsport-com-graphics-64.jpg",
       "published_at": 1793983211000
     },
     {
@@ -172,7 +190,7 @@
       "snippet": "Nico Rosberg knows a thing or two about racing Lewis Hamilton wheel to wheel in sister Formula 1 cars.The pair were team-mates for four years at Mercedes with an intense rivalry, and now Hamilton competes for Ferrari alongside Charles Leclerc – which has become tense at times, amid disagreements over team orders and on-track clashes.Hamilton ended up in the gravel at the start in Monza ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/nico-rosberg-compares-ferraris-clashes-to-his-own-mercedes-f1-rivalry-the-instructions-are-not-clea/10872061/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/27No9xX0/s6/charles-leclerc-ferrari-lewis-.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/27No9xX0/s6/charles-leclerc-ferrari-lewis-.jpg",
       "published_at": 1793971803000
     },
     {
@@ -181,26 +199,8 @@
       "snippet": "Carlos Sainz says he has \"good memories\" of battling Charles Leclerc at Ferrari while offering his perspective on his former Formula 1 team-mate’s fight with Lewis Hamilton in the Mexican Grand Prix.The Ferrari drivers had a fierce battle for the lead on the opening lap at the Autodromo Hermanos Rodriguez, with Leclerc attacking Hamilton through the opening corners. The sequence ended when ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/carlos-sainz-recalls-charles-leclerc-battles-we-always-managed-to-find-a-solution/10871952/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YXR3MwN0/s6/charles-leclerc-scuderia-ferra.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YXR3MwN0/s6/charles-leclerc-scuderia-ferra.jpg",
       "published_at": 1793968922000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cw80zzd8jk1go?at_medium=RSS&at_campaign=rss",
-      "title": "Permane to stay as Racing Bulls team principal",
-      "snippet": "Red Bull extend Alan Permane's contract as boss of their second team until the end of 2031.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cw80zzd8jk1go?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/964e/live/556c3370-d9d2-11f1-9e5a-c30c5e3d8c85.jpg",
-      "published_at": 1793966014000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/kimi-antonelli-my-2027-preparation-starts-now-after-f1-title-triumph/10871954/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Kimi Antonelli: “My 2027 preparation starts now” after F1 title triumph",
-      "snippet": "It has been quite the week for Kimi Antonelli.After celebrating his record-breaking world title on the Mexico Grand Prix podium, where he was hoisted aloft by Lewis Hamilton and Max Verstappen, and at the post-race party, the Italian was whisked away for sponsor commitments on Monday in the Mexican capital.Antonelli then flew to Sao Paulo overnight for a very special gathering with the ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/kimi-antonelli-my-2027-preparation-starts-now-after-f1-title-triumph/10871954/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YpbAzjM0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": 1793958137000
     }
   ]
 }
