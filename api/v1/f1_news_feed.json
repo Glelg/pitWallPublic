@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-07T21:03:21.239981Z",
+    "last_updated": "2026-11-07T21:32:27.175180Z",
     "total_news": 22
   },
   "news": [
@@ -41,12 +41,39 @@
       "published_at": 1794072764000
     },
     {
+      "id": "https://www.motorsport.com/f1/news/max-verstappen-watched-premier-league-football-during-f1-delay-12-hours-ill-never-get-back/10872746/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Max Verstappen watched Premier League football during Brazilian GP qualifying delay: \"12 hours I'll never get back\"",
+      "snippet": "Max Verstappen called it a day after Q1 during Formula 1 qualifying in Sao Paulo, as he already knew he would be starting from the back of the grid for the Brazilian Grand Prix due to an engine-related grid penalty.In the FIA's 'indicative grid', Verstappen is listed in 21st place, behind Lewis Hamilton and just ahead of Sergio Perez.The four-time world champion once again demonstrated in ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/max-verstappen-watched-premier-league-football-during-f1-delay-12-hours-ill-never-get-back/10872746/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0o5AVQ7Y/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": 1794086828000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/toto-wolff-responds-to-george-russells-angry-radio-messages-in-brazilian-gp-qualifying/10872744/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Toto Wolff responds to George Russell's angry radio messages in Brazilian GP qualifying",
+      "snippet": "Mercedes team principal Toto Wolff has addressed George Russell's furious team radio messages during qualifying for the Brazilian Grand Prix.The British driver finished second in the rain-soaked session at Interlagos behind McLaren's Lando Norris. The Brackley outfit told him to back off midway through his last push lap in Q3 as more rain approached and Alex Albon's Williams was ahead of him ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/toto-wolff-responds-to-george-russells-angry-radio-messages-in-brazilian-gp-qualifying/10872744/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2QedB3m2/s6/motorsport-com-graphics-1.jpg",
+      "published_at": 1794086207000
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13609562/sao-paulo-grand-prix-qualifying-highlights",
+      "title": "Sao Paulo Grand Prix - Qualifying Highlights",
+      "snippet": "Highlights from qualifying for the 2026 Grand Prix.",
+      "link": "https://www.skysports.com/watch/video/13609562/sao-paulo-grand-prix-qualifying-highlights",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-sao-paulo-f1_7400552.jpg?20261107211214",
+      "published_at": 1794085800000
+    },
+    {
       "id": "https://www.motorsport.com/f1/news/oscar-piastri-explains-what-led-to-brazilian-gp-qualifying-disappointment/10872735/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Oscar Piastri explains what led to Brazilian GP qualifying disappointment",
       "snippet": "Oscar Piastri believes McLaren left it too late to switch to intermediate tyres in qualifying for the Brazilian Grand Prix.The Australian driver qualified 12th in a rain-delayed session at Interlagos, although he will start from 10th after penalties are applied to Ferrari's Charles Leclerc and Lewis Hamilton for power unit changes.Piastri made it through Q1 on full wet tyres, but ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/oscar-piastri-explains-what-led-to-brazilian-gp-qualifying-disappointment/10872735/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6x7Lz7mY/s6/motorsport-com-graphics.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6x7Lz7mY/s6/motorsport-com-graphics.jpg",
       "published_at": 1794085206000
     },
     {
@@ -64,7 +91,7 @@
       "snippet": "Securing a Formula 1 world championship triggers a lot of emotions, and, usually, a lot of champagne. But for Mercedes team principal Toto Wolff, Kimi Antonelli's historic title win in Mexico City triggered a sudden urge to write an incredibly long essay to his staff.During the Free Practice 3 broadcast at the Brazilian Grand Prix, Sky Sports F1 presenter Simon Lazenby brought up a rather ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/toto-wolff-explains-the-emotional-mercedes-factory-email-that-got-leaked-online/10872607/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/24QGbvNY/s6/motorsport-com-graphics-82-2.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/24QGbvNY/s6/motorsport-com-graphics-82-2.jpg",
       "published_at": 1794083548000
     },
     {
@@ -73,17 +100,8 @@
       "snippet": "Formula 1 is a vicious meat grinder for young talent. If a rookie doesn't perform immediately, there is usually a very short leash before a team principal shows them the door.For Mercedes, taking a massive gamble on teenager Andrea Kimi Antonelli to replace Lewis Hamilton was the ultimate risk. And as team boss Toto Wolff freely admits, there was a dark stretch during the Italian's 2025 rookie ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/toto-wolff-reveals-how-mercedes-shielded-kimi-antonelli-during-his-brutal-2025-slump/10872603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0o5AVR1Y/s6/motorsport-com-graphics-81-2.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0o5AVR1Y/s6/motorsport-com-graphics-81-2.jpg",
       "published_at": 1794076537000
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13609498/sao-paulo-gp-heavy-rain-red-flags-qualifying-session",
-      "title": "Heavy rain causes chaos before Qualifying is red flagged in Sao Paulo!",
-      "snippet": "Torrential rain brings out the red flag a minute after the Qualifying session begins in Sao Paulo.",
-      "link": "https://www.skysports.com/watch/video/13609498/sao-paulo-gp-heavy-rain-red-flags-qualifying-session",
-      "source_name": "Sky Sports",
-      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-formula-one-brazil_7400392.jpg?20261107182903",
-      "published_at": 1794075600000
     },
     {
       "id": "https://www.motorsport.com/f1/news/fred-vasseur-personally-contributed-1m-to-esteban-ocons-first-f1-drive/10872524/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -91,7 +109,7 @@
       "snippet": "Mercedes team principal Toto Wolff has revealed Fred Vasseur personally contributed one million dollars to fund Esteban Ocon’s half-season at the Manor Formula 1 team in 2016.Ocon joined Mercedes’ young-driver programme ahead of the 2015 GP3 season, claiming the title in remarkable fashion with 14 podiums in 18 races – including a string of nine consecutive second-place finishes – with ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/fred-vasseur-personally-contributed-1m-to-esteban-ocons-first-f1-drive/10872524/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6x7LzZMY/s6/esteban-ocon-manor-racing.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6x7LzZMY/s6/esteban-ocon-manor-racing.jpg",
       "published_at": 1794069833000
     },
     {
@@ -127,7 +145,7 @@
       "snippet": "Haas team principal Ayao Komatsu says his decision to hand Rafael Camara his Formula 1 debut at the Brazilian Grand Prix, instead of keeping Ryo Hirakawa in the car, was “purely based on professionalism”.Using this specific term, Komatsu doesn’t mean that Hirakawa lacks professionalism – not even in the context of Esteban Ocon’s fall from grace – but simply that he looked into ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/haas-justifies-picking-rafael-camara-over-ryo-hirakawa-for-f1-brazilian-gp/10872474/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YMXblGg2/s6/ayao-komatsu-haas-f1-team.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YMXblGg2/s6/ayao-komatsu-haas-f1-team.jpg",
       "published_at": 1794062427000
     },
     {
@@ -145,7 +163,7 @@
       "snippet": "Ayao Komatsu says “everybody was surprised” when he told the Haas squad that Esteban Ocon wouldn’t compete for the outfit in Formula 1’s Mexican Grand Prix.Ocon was dropped by Haas after a falling-out following Friday practice at Autodromo Hermanos Rodriguez. Despite widespread speculation, what actually occurred remains unknown – other than a disagreement with race engineer Laura ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/ayao-komatsu-esteban-ocon-axing-surprised-everybody-at-haas/10872455/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/63QaBl72/s6/esteban-ocon-haas-f1-team.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/63QaBl72/s6/esteban-ocon-haas-f1-team.jpg",
       "published_at": 1794057237000
     },
     {
@@ -154,7 +172,7 @@
       "snippet": "Kimi Antonelli has been the benchmark throughout the Formula 1 weekend in Sao Paulo so far. The newly crowned world champion was not only the fastest driver over a single lap in Free Practice 2, but also made a strong statement in the long-run simulations. Mercedes therefore appears to be in the strongest position heading into the remainder of the weekend. Ferrari, by contrast, endured an ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/f1-brazil-gp-long-runs-kimi-antonelli-dominates-as-ferrari-endures-a-nightmare-friday/10872476/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2y7QRyy6/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2y7QRyy6/s6/andrea-kimi-antonelli-mercedes.jpg",
       "published_at": 1794055497000
     },
     {
@@ -163,7 +181,7 @@
       "snippet": "On the face of it, Friday at Interlagos could hardly have gone any better for Colton Herta. The Cadillac test driver replaced Sergio Perez in first practice for the 2026 Sao Paulo Grand Prix, completed 24 laps and secured the final point he needed for his FIA super licence. On paper, the American is now eligible to race in Formula 1 in 2027.Former F1 driver turned pundit Ralf Schumacher ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/ralf-schumacher-slams-colton-hertas-f1-prospects-hes-just-burning-fuel/10872433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0LdelPj0/s6/colton-herta-cadillac-f1-team.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0LdelPj0/s6/colton-herta-cadillac-f1-team.jpg",
       "published_at": 1794053403000
     },
     {
@@ -172,7 +190,7 @@
       "snippet": "Charles Leclerc has described his Ferrari SF-26 as slow on straights with a terrible feeling in corners following Friday practice at Formula 1’s Brazilian Grand Prix.Lewis Hamilton and Leclerc were sixth- and seventh-fastest in Free Practice 2, respectively 0.45s and 0.72s slower than pacesetter Kimi Antonelli in his Silver Arrow, which is unusual compared to the Scuderia’s typical Friday ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/ferrari-slow-on-straights-struggling-in-corners-one-of-the-worst-feelings-for-charles-leclerc/10872444/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0R7BlnE2/s6/charles-leclerc-ferrari.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0R7BlnE2/s6/charles-leclerc-ferrari.jpg",
       "published_at": 1794046475000
     },
     {
@@ -181,26 +199,8 @@
       "snippet": "Racing Bulls boss Alan Permane says he \"understands the frustration\" over the delay in his team's decision on whether to retain Liam Lawson or promote reserve driver and F2 frontrunner Nikola Tsolov for 2027.Red Bull's satellite team is set for its most successful season in its history with Lawson and rookie team-mate Arvid Lindblad as it heads towards an unprecedented fifth place in the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/racing-bulls-boss-understands-frustration-over-driver-decision-delay/10872425/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6x7LvO1Y/s6/liam-lawson-racing-bulls.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6x7LvO1Y/s6/liam-lawson-racing-bulls.jpg",
       "published_at": 1794041510000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sounds/play/p0plrknf?at_medium=RSS&at_campaign=rss",
-      "title": "F1: Chequered Flag",
-      "snippet": "Can Antonelli continue his championship celebrations with victory in Brazil?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0plrknf?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
-      "published_at": 1794010500000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/lando-norris-reveals-how-lewis-hamilton-has-changed-his-f1-championship-ambitions/10872375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Lando Norris reveals how Lewis Hamilton has changed his F1 championship ambitions",
-      "snippet": "Lando Norris says Lewis Hamilton's seven Formula 1 world titles have left him dissatisfied with winning just one.Norris won his maiden championship in 2025 after a hard-fought battle against his McLaren team-mate Oscar Piastri and a late-season threat from Red Bull's Max Verstappen.Hamilton will make his 400th grand prix start this weekend in Brazil and Norris was asked to sum up his ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/lando-norris-reveals-how-lewis-hamilton-has-changed-his-f1-championship-ambitions/10872375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YWKAlQKY/s6/motorsport-com-graphics-68.jpg",
-      "published_at": 1794006900000
     }
   ]
 }

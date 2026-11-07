@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-07T17:02:26.800575Z",
+    "last_updated": "2026-11-07T21:32:18.191061Z",
     "year": 2026,
     "total_meetings": 27
   },
@@ -1892,7 +1892,11 @@
           "session_key": 11408,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2026-11-07T18:00:00+00:00"
+          "date_start": "2026-11-07T18:00:00+00:00",
+          "weather": {
+            "temp": 23.5,
+            "weather_code": 53
+          }
         },
         {
           "session_key": 11412,
