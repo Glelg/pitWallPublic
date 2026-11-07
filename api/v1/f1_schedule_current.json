@@ -1884,7 +1884,7 @@
           "session_type": "Practice",
           "date_start": "2026-11-07T14:30:00+00:00",
           "weather": {
-            "temp": 28.5,
+            "temp": 28.0,
             "weather_code": 51
           }
         },
@@ -1894,7 +1894,7 @@
           "session_type": "Qualifying",
           "date_start": "2026-11-07T18:00:00+00:00",
           "weather": {
-            "temp": 24.4,
+            "temp": 23.5,
             "weather_code": 55
           }
         },
