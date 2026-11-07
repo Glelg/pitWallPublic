@@ -1885,7 +1885,7 @@
           "date_start": "2026-11-07T14:30:00+00:00",
           "weather": {
             "temp": 28.0,
-            "weather_code": 51
+            "weather_code": 3
           }
         },
         {
@@ -1895,7 +1895,7 @@
           "date_start": "2026-11-07T18:00:00+00:00",
           "weather": {
             "temp": 23.5,
-            "weather_code": 55
+            "weather_code": 53
           }
         },
         {
