@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-07T13:32:17.611457Z",
+    "last_updated": "2026-11-07T16:02:17.948575Z",
     "year": 2026,
     "total_meetings": 27
   },
@@ -1882,7 +1882,11 @@
           "session_key": 11407,
           "session_name": "Practice 3",
           "session_type": "Practice",
-          "date_start": "2026-11-07T14:30:00+00:00"
+          "date_start": "2026-11-07T14:30:00+00:00",
+          "weather": {
+            "temp": 28.5,
+            "weather_code": 51
+          }
         },
         {
           "session_key": 11408,
