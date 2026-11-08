@@ -1902,7 +1902,11 @@
           "session_key": 11412,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2026-11-08T17:00:00+00:00"
+          "date_start": "2026-11-08T17:00:00+00:00",
+          "weather": {
+            "temp": 15.9,
+            "weather_code": 53
+          }
         }
       ]
     },
