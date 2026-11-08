@@ -1,16 +1,43 @@
 {
   "metadata": {
-    "last_updated": "2026-11-08T18:33:11.826923Z",
+    "last_updated": "2026-11-08T19:03:22.762593Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
+      "title": "Norris wins gripping race after Antonelli and Russell errors",
+      "snippet": "McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adc9/live/fb68ef70-db9e-11f1-81e8-61c133a2b43c.jpg",
+      "published_at": 1794164416000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-brazil-gp/10873014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Five quick takeaways from Brazilian GP",
+      "snippet": "Another impressive comeback drive from Verstappen, but Norris in a league of his ownAfter qualifying, Max Verstappen and Lewis Hamilton were in agreement: fighting their way through the field at the Autodromo Jose Carlos Pace would be considerably more difficult with the 2026 cars than in previous years.There were plenty of arguments to support that view: no more DRS, an overtake mode that ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-brazil-gp/10873014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6x7Lz8jY/s6/lando-norris-mclaren-liam-laws.jpg",
+      "published_at": 1794164125000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-wins-in-mixed-conditions-mercedes-clinches-constructors-title/10873048/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "F1 Brazilian GP: Norris wins in mixed conditions, Mercedes clinches constructors’ title",
+      "snippet": "Lando Norris has snared his third win of 2026 in a mixed weather Formula 1 Brazilian Grand Prix, defeating a resurgent Max Verstappen while Mercedes claimed the world constructors' championship.After reclaiming the lead from his world champion successor Kimi Antonelli early on when he spun off, polesitter Norris thwarted Verstappen's latest stunning Brazil comeback in a race which both started ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-wins-in-mixed-conditions-mercedes-clinches-constructors-title/10873048/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0LdelWg0/s6/lando-norris-mclaren-3.jpg",
+      "published_at": 1794163851000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/charles-leclerc-turns-heads-with-125000-watch-at-f1-brazilian-gp/10873032/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Charles Leclerc turns heads with $125,000 watch at F1 Brazilian GP",
       "snippet": "Ferrari Formula 1 driver Charles Leclerc arrived at Interlagos ahead of the Brazilian Grand Prix wearing a six-figure watch on his wrist.According to watch-spotting account Watches of Celebrities, the Monegasque driver wore a Richard Mille RM 33-02 in Carbon TPT and rose gold when he arrived at the paddock. The account puts its market price at $125,000.The RM 33-02 was limited to 140 ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/charles-leclerc-turns-heads-with-125000-watch-at-f1-brazilian-gp/10873032/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6zoD8va0/s6/motorsport-com-graphics-72.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6zoD8va0/s6/motorsport-com-graphics-72.jpg",
       "published_at": 1794161578000
     },
     {
@@ -19,17 +46,8 @@
       "snippet": "The Formula 1 cost cap did exactly what it was supposed to do: it brought the grid closer together and stopped the massive factory teams from simply outspending their problems. But while the on-track product is undeniably tighter, the financial squeeze behind the scenes is starting to take a human toll.During the Free Practice 3 broadcast at the 2026 Brazilian Grand Prix, Sky Sports F1 pundit ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/toto-wolff-wants-the-fia-to-lift-the-salary-cap-on-junior-staff-we-need-to-pay-them-better/10872625/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6grQEGmY/s6/motorsport-com-graphics-83-2.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6grQEGmY/s6/motorsport-com-graphics-83-2.jpg",
       "published_at": 1794160814000
-    },
-    {
-      "id": "https://www.skysports.com/f1/live-blog/12433/13608639/f1-sao-paulo-gp-live-race-updates-results-stream-and-highlights-from-20th-round-of-2026-formula-1-season-in-brazil-at-interlagos",
-      "title": "Sao Paulo GP: Norris leads Verstappen as rain returns in closing stages LIVE!",
-      "snippet": "Follow live updates and watch the best video from the Sao Paulo Grand Prix in Brazil. Watch live on Sky Sports F1",
-      "link": "https://www.skysports.com/f1/live-blog/12433/13608639/f1-sao-paulo-gp-live-race-updates-results-stream-and-highlights-from-20th-round-of-2026-formula-1-season-in-brazil-at-interlagos",
-      "source_name": "Sky Sports",
-      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-lando-norris-mclaren_7401339.jpg?20261108180927",
-      "published_at": 1794151200000
     },
     {
       "id": "https://www.motorsport.com/f1/news/gabriel-bortoletos-partner-isabella-bernardini-shows-off-custom-audi-dress-at-brazil-gp/10872947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -37,7 +55,7 @@
       "snippet": "Gabriel Bortoleto's partner Isabella Bernardini arrived at Interlagos ahead of the Brazilian Grand Prix in a one-off dress made from Audi's special adidas range for the race.The dress was made by designer and upcycler Fiona Roerig, who worked with the team and Bernardini to incorporate their ideas into the design. The dress has been upcycled from the adidas Sampa Soul collection, which the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/gabriel-bortoletos-partner-isabella-bernardini-shows-off-custom-audi-dress-at-brazil-gp/10872947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7QrPK6/s6/motorsport-com-graphics-71.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2y7QrPK6/s6/motorsport-com-graphics-71.jpg",
       "published_at": 1794148112000
     },
     {
@@ -46,7 +64,7 @@
       "snippet": "With Lewis Hamilton and Max Verstappen 20th and 21st on the grid of the Brazilian Grand Prix, Sunday’s Formula 1 race promises to be fascinating – regardless of weather conditions.Hamilton and Verstappen happen to be two drivers who performed memorable recoveries at Autodromo Jose Carlos Pace, a track where overtaking has always been easier than most.Back in 2021, the seven-time world ...Keep reading",
       "link": "https://www.autosport.com/f1/news/ill-try-to-win-somehow-can-lewis-hamilton-and-max-verstappen-fight-back-for-f1-brazilian-gp-victory/10872922/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YBVj1bMY/s6/lewis-hamilton-ferrari-max-ver-2.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YBVj1bMY/s6/lewis-hamilton-ferrari-max-ver-2.jpg",
       "published_at": 1794144572000
     },
     {
@@ -55,7 +73,7 @@
       "snippet": "McLaren team principal Andrea Stella says the 2027-spec front wing concept introduced on the MCL40 at Formula 1’s Brazilian Grand Prix has improved the car’s driveability and predictability.The Woking-based outfit launched an upgrade package at Interlagos - featuring not just this front wing but also a rear wing, a beam wing and new floor furniture - after McLaren lost ground to Mercedes ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/mclarens-2027-spec-front-wing-is-making-its-f1-car-more-predictable/10872891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0o5AwWwY/s6/lando-norris-mclaren.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0o5AwWwY/s6/lando-norris-mclaren.jpg",
       "published_at": 1794139665000
     },
     {
@@ -64,7 +82,7 @@
       "snippet": "One hour, 23 minutes. You could've squeezed most of a football match into the rain delay during Formula 1 qualifying for the Sao Paulo Grand Prix, and it looked for all the world like the session wouldn't actually get going again.A repeat of 2024, where qualifying was squeezed onto Sunday morning, looked likely. Yet, a saviour arrived when a break in the clouds emerged, and the circuit had ...Keep reading",
       "link": "https://www.autosport.com/f1/news/the-wet-weather-challenges-thrown-up-by-brazilian-gp-qualifying/10872894/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0qgK1NQY/s6/rafael-camara-haas-f1-team-3.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0qgK1NQY/s6/rafael-camara-haas-f1-team-3.jpg",
       "published_at": 1794136191000
     },
     {
@@ -73,7 +91,7 @@
       "snippet": "Interlagos is the closest Franco Colapinto gets to a home grand prix, and Pierre Gasly knows the atmosphere that creates around the Alpine garage in Sao Paulo this weekend.Argentina's flag has become a familiar sight in Formula 1 grandstands since Colapinto ended the country's 23-year wait for a driver on the grid in 2024. The speed and scale of the response exceeded expectations, even in ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/pierre-gasly-on-colapinto-fan-pressure-once-you-deal-with-helmut-marko-anything-else-is-no-pressure/10872811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6VyKlawY/s6/pierre-gasly-alpine.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6VyKlawY/s6/pierre-gasly-alpine.jpg",
       "published_at": 1794133236000
     },
     {
@@ -82,7 +100,7 @@
       "snippet": "After every Formula 1 qualifying session, Motorsport.com publishes each team's qualifying record in terms of team-mate battles.This record is based exclusively on qualifying results so that grid penalties don't alter the statistics.When a driver can't put in a representative lap time due to a technical issue or an incident, this will be mentioned in the table.Read ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-brazilian-gp/10872869/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0Zq8V1M6/s6/arvid-lindblad-racing-bulls.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0Zq8V1M6/s6/arvid-lindblad-racing-bulls.jpg",
       "published_at": 1794131298000
     },
     {
@@ -100,7 +118,7 @@
       "snippet": "In keeping with the theme of the Brazilian Grand Prix's weather-hit qualifying, George Russell had a thunderous look on his face when he faced the Formula 1 media in the post-session press conference.The title has gone and a five-place grid penalty for an engine swap meant Russell was never going to start on the front row on Sunday. But at the end of a challenging year, it was still mentally ...Keep reading",
       "link": "https://www.autosport.com/f1/news/why-russell-was-so-angry-in-brazilian-gp-qualifying-despite-already-having-a-grid-penalty/10872788/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0kZX9Qy6/s6/george-russell-mercedes.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0kZX9Qy6/s6/george-russell-mercedes.jpg",
       "published_at": 1794089740000
     },
     {
@@ -118,7 +136,7 @@
       "snippet": "McLaren's Lando Norris has claimed pole in a wet qualifying session at Formula 1's Brazilian Grand Prix, beating George Russell on a treacherous Interlagos circuit.In a challenging session that was red-flagged by over an hour due to heavy rain and standing water, Norris topped the final Q3 shootout with a 1m27.470s lap on the intermediate tyres, pipping Mercedes' Russell by two ...Keep reading",
       "link": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-takes-pole-in-soaking-wet-qualifying/10872710/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6b8ZM8L2/s6/lando-norris-mclaren-3.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6b8ZM8L2/s6/lando-norris-mclaren-3.jpg",
       "published_at": 1794083639000
     },
     {
@@ -145,7 +163,7 @@
       "snippet": "Formula 1 heads into Sunday at Interlagos with Lando Norris on pole after a rain-soaked qualifying session dramatically reshaped the grid.The McLaren driver beat George Russell by 0.204s in treacherous conditions, but Russell’s five-place engine penalty promotes newly crowned world champion Kimi Antonelli to the front row.Liam Lawson starts third for Racing Bulls ahead of Nico ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/f1-brazil-gp-sunday-schedule-weather-forecast-and-how-to-watch/10872772/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0Zq8Vqb6/s6/oscar-piastri-mclaren.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0Zq8Vqb6/s6/oscar-piastri-mclaren.jpg",
       "published_at": 1794088787000
     },
     {
@@ -154,7 +172,7 @@
       "snippet": "Lewis Hamilton has revealed he and Charles Leclerc have cleared the air in Sao Paulo following their clash at the Formula 1 Mexico Grand Prix and the tensions have been “squashed”.Moreover, the seven-time world champion insists it didn't require Fred Vasseur's involvement – as the drivers resolved their differences between themselves.\"I mean, Fred hasn't cleared the air in the sense ...Keep reading",
       "link": "https://www.autosport.com/f1/news/lewis-hamilton-insists-ferrari-tensions-with-charles-leclerc-are-over-weve-squashed-it/10872775/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6DGgbp7Y/s6/charles-leclerc-ferrari-lewis--2.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6DGgbp7Y/s6/charles-leclerc-ferrari-lewis--2.jpg",
       "published_at": 1794088127000
     },
     {
@@ -183,24 +201,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-sao-paulo-f1_7400552.jpg?20261107211214",
       "published_at": 1794085800000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/oscar-piastri-explains-what-led-to-brazilian-gp-qualifying-disappointment/10872735/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Oscar Piastri explains what led to Brazilian GP qualifying disappointment",
-      "snippet": "Oscar Piastri believes McLaren left it too late to switch to intermediate tyres in qualifying for the Brazilian Grand Prix.The Australian driver qualified 12th in a rain-delayed session at Interlagos, although he will start from 10th after penalties are applied to Ferrari's Charles Leclerc and Lewis Hamilton for power unit changes.Piastri made it through Q1 on full wet tyres, but ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/oscar-piastri-explains-what-led-to-brazilian-gp-qualifying-disappointment/10872735/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6x7Lz7mY/s6/motorsport-com-graphics.jpg",
-      "published_at": 1794085206000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/2026-f1-brazilian-grand-prix-starting-grid/10872725/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "2026 F1 Brazilian Grand Prix starting grid",
-      "snippet": "1 Lando Norris(McLaren) 2 Kimi Antonelli(Mercedes)3 Liam Lawson(Racing Bulls) 4 Nico ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/2026-f1-brazilian-grand-prix-starting-grid/10872725/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YE9EVMwY/s6/lando-norris-mclaren-2.jpg",
-      "published_at": 1794084479000
     }
   ]
 }
