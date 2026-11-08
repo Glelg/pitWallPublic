@@ -8,7 +8,7 @@
     "meeting_name": "São Paulo Grand Prix",
     "circuit_name": "Interlagos",
     "stewards_status": "FINAL",
-    "last_updated": "2026-11-08T23:04:04.530959Z"
+    "last_updated": "2026-11-08T23:33:04.857615Z"
   },
   "results": [
     {
@@ -89,8 +89,8 @@
       "grid_position": 2,
       "grid_penalty": null,
       "is_pit_lane_start": false,
-      "time_or_retired": "96:04.521",
-      "gap_to_leader": "+41.017s",
+      "time_or_retired": "95:59.521",
+      "gap_to_leader": "+36.017s",
       "laps_completed": 71,
       "points": 10.0,
       "is_fastest_lap": true,
@@ -115,6 +115,23 @@
     },
     {
       "position": 7,
+      "driver_number": 16,
+      "full_name": "Charles LECLERC",
+      "driver_acronym": "LEC",
+      "team_name": "Ferrari",
+      "country_code": "",
+      "grid_position": 14,
+      "grid_penalty": null,
+      "is_pit_lane_start": false,
+      "time_or_retired": "96:37.090",
+      "gap_to_leader": "+73.586s",
+      "laps_completed": 71,
+      "points": 6.0,
+      "is_fastest_lap": false,
+      "status": "FINISHED"
+    },
+    {
+      "position": 8,
       "driver_number": 30,
       "full_name": "Liam LAWSON",
       "driver_acronym": "LAW",
@@ -125,23 +142,6 @@
       "is_pit_lane_start": false,
       "time_or_retired": "96:38.906",
       "gap_to_leader": "+75.402s",
-      "laps_completed": 71,
-      "points": 6.0,
-      "is_fastest_lap": false,
-      "status": "FINISHED"
-    },
-    {
-      "position": 8,
-      "driver_number": 16,
-      "full_name": "Charles LECLERC",
-      "driver_acronym": "LEC",
-      "team_name": "Ferrari",
-      "country_code": "",
-      "grid_position": 14,
-      "grid_penalty": null,
-      "is_pit_lane_start": false,
-      "time_or_retired": "96:42.090",
-      "gap_to_leader": "+78.586s",
       "laps_completed": 71,
       "points": 4.0,
       "is_fastest_lap": false,
