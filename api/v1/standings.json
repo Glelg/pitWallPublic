@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-09T10:01:09.367606Z",
+    "last_updated": "2026-11-09T10:42:00.232574Z",
     "session_key": 11412,
     "year": 2026
   },
@@ -63,8 +63,8 @@
       "full_name": "Charles LECLERC",
       "name_acronym": "LEC",
       "team_name": "Ferrari",
-      "points": 251.0,
-      "last_points_gained": 6.0,
+      "points": 249.0,
+      "last_points_gained": 4.0,
       "position_change": 0,
       "country_code": "mc",
       "is_inactive": false,
@@ -115,8 +115,8 @@
       "full_name": "Liam LAWSON",
       "name_acronym": "LAW",
       "team_name": "Racing Bulls",
-      "points": 87.0,
-      "last_points_gained": 4.0,
+      "points": 89.0,
+      "last_points_gained": 6.0,
       "position_change": 0,
       "country_code": "nz",
       "is_inactive": false,
@@ -342,8 +342,8 @@
     {
       "position": 2,
       "team_name": "Ferrari",
-      "points": 512.0,
-      "last_points_gained": 8.0,
+      "points": 510.0,
+      "last_points_gained": 6.0,
       "position_change": 0
     },
     {
@@ -363,8 +363,8 @@
     {
       "position": 5,
       "team_name": "Racing Bulls",
-      "points": 112.0,
-      "last_points_gained": 4.0,
+      "points": 114.0,
+      "last_points_gained": 6.0,
       "position_change": 0
     },
     {
