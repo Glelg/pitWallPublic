@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-12T03:32:30.540926Z",
+    "last_updated": "2026-11-12T04:02:33.330676Z",
     "total_news": 22
   },
   "news": [
@@ -158,15 +158,6 @@
       "published_at": 1794322346000
     },
     {
-      "id": "https://www.skysports.com/f1/news/12433/13610600/f1-aduo-fia-announces-no-further-engine-upgrades-handed-out-after-final-review-period-of-2026-season",
-      "title": "No further F1 engine upgrades handed out after final 2026 review period",
-      "snippet": "No further engine upgrade opportunities have been granted to Formula 1's power unit manufacturers following the third and final review period of the 2026 season, the FIA has confirmed.",
-      "link": "https://www.skysports.com/f1/news/12433/13610600/f1-aduo-fia-announces-no-further-engine-upgrades-handed-out-after-final-review-period-of-2026-season",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-f1-max-verstappen_7343158.jpg?20261110121646",
-      "published_at": 1794312000000
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/c6gell5l7l3zo?at_medium=RSS&at_campaign=rss",
       "title": "Norris takes pole in rain-delayed qualifying",
       "snippet": "McLaren's Lando Norris takes pole position for the Sao Paulo Grand Prix in a wet qualifying session at Interlagos delayed by nearly an hour and a half for heavy rain.",
@@ -201,6 +192,15 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-3.motorsport.com/images/amp/0kZX9Qy6/s6/george-russell-mercedes.jpg",
       "published_at": 1794089740000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-takes-pole-in-soaking-wet-qualifying/10872710/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "F1 Brazilian GP: Norris splashes to pole from Russell",
+      "snippet": "McLaren's Lando Norris has claimed pole in a wet qualifying session at Formula 1's Brazilian Grand Prix, beating George Russell on a treacherous Interlagos circuit.In a challenging session that was red-flagged by over an hour due to heavy rain and standing water, Norris topped the final Q3 shootout with a 1m27.470s lap on the intermediate tyres, pipping Mercedes' Russell by two ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-takes-pole-in-soaking-wet-qualifying/10872710/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6b8ZM8L2/s6/lando-norris-mclaren-3.jpg",
+      "published_at": 1794083639000
     }
   ]
 }
