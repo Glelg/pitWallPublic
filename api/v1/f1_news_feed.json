@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-13T11:32:22.668978Z",
+    "last_updated": "2026-11-13T12:32:18.002981Z",
     "total_news": 22
   },
   "news": [
@@ -12,6 +12,24 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b0/live/da7ae610-deaa-11f1-8253-3f203a001288.jpg",
       "published_at": 1794550340000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/red-bull-f1-car-takes-on-motogp-bike-rally-car-and-snowmobile-in-extreme-ice-race/10874304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Red Bull F1 car takes on MotoGP bike, rally car and snowmobile in extreme ice race",
+      "snippet": "Red Bull pitted a Formula 1 car, MotoGP bike, rally car, Pro 4 truck and a snowmobile against each other in the first Ultimate Winter race.Former MotoGP rider Dani Pedrosa won, riding a KTM MotoGP bike on the custom frozen lake course.The event, held in Eagle River, Wisconsin, brought five motorsport disciplines together on the same grid. Each machine ran on custom studded tyres, and Red ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/red-bull-f1-car-takes-on-motogp-bike-rally-car-and-snowmobile-in-extreme-ice-race/10874304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/27No3m30/s6/motorsport-com-graphics-98.jpg",
+      "published_at": 1794572726000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/horribly-painful-williams-2026-car-upgrades-benefit-2027/10874290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "\"It's horribly painful\" - Williams drops 2026 car upgrades to benefit 2027",
+      "snippet": "Williams F1 team boss James Vowles says it was \"horribly painful\" for the squad to forego 2026 aero upgrades and save the resources for 2027 instead.Williams has been forced into playing the long game for some time now, but was hoping its progress behind the scenes in 2025 would carry over into the new regulations. Instead, Williams faced a huge wake-up call as the huge workload required to ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/horribly-painful-williams-2026-car-upgrades-benefit-2027/10874290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/68VwMox2/s6/alexander-albon-williams.jpg",
+      "published_at": 1794572132000
     },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss",
@@ -28,7 +46,7 @@
       "snippet": "Mercedes mechanics have learned to watch their backs. Not because of the dangers of a pitstop, but because of Kimi Antonelli. Formula 1's newly crowned world champion has a rather unusual habit. He approaches members of his crew, greets them and, when they least expect it, gives their nipples a pinch - so nobody appears to be safe!It is just one of the many practical jokes through which the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/the-kimi-antonelli-you-dont-know-inside-the-mercedes-garage-with-f1s-new-world-champion-/10874164/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6lmAwPK0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6lmAwPK0/s6/andrea-kimi-antonelli-mercedes.jpg",
       "published_at": 1794564351000
     },
     {
@@ -37,7 +55,7 @@
       "snippet": "The details in a Formula 1 driver contract is highly-guarded information, but often the length of the deal is released to the wider world.Here is how long each F1 driver contract is believed to be and therefore what moves could be possible and when in the future.McLarenLando Norris – 2030The reigning F1 world champion recently announced a new four-year contract with McLaren which ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/f1-driver-contracts-how-long-is-each-driver-tied-down-for/10850679/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0Ld5LDa0/s6/drivers-group-photo.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0Ld5LDa0/s6/drivers-group-photo.jpg",
       "published_at": 1794562340000
     },
     {
@@ -64,7 +82,7 @@
       "snippet": "Former Haas Formula 1 team principal Guenther Steiner has questioned whether Lewis Hamilton is the driver to turn Ferrari's fortunes around, suggesting Max Verstappen might be better suited to the role.Hamilton joined Ferrari in 2025 after a successful 12-year stint with Mercedes, during which time he won six of his seven world titles.After a tricky first season with Ferrari, the ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/guenther-steiner-suggests-max-verstappen-could-be-better-suited-to-lead-ferrari/10874192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/01QNX1q0/s6/motorsport-com-graphics-95.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/01QNX1q0/s6/motorsport-com-graphics-95.jpg",
       "published_at": 1794517204000
     },
     {
@@ -82,17 +100,8 @@
       "snippet": "Mercedes team principal Toto Wolff says the squad wasn’t “complete losers” in its four years without a Formula 1 world title.The Silver Arrows claimed their ninth constructors’ championship on Sunday at the Brazilian Grand Prix, one week after Kimi Antonelli became F1’s youngest world drivers’ champion.Mercedes came out on top as F1 switched to new chassis and power unit ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/toto-wolff-reflects-on-mercedes-non-title-years-we-werent-complete-losers/10873281/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YWKARzOY/s6/lewis-hamilton-mercedes-amg-ge.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YWKARzOY/s6/lewis-hamilton-mercedes-amg-ge.jpg",
       "published_at": 1794504335000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/laurent-mekies-brazil-was-isack-hadjars-best-race-for-red-bull/10874059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Laurent Mekies: Brazil was Isack Hadjar’s “best race” for Red Bull",
-      "snippet": "The 2026 São Paulo Grand Prix was a monumental weekend for Red Bull Racing. While Max Verstappen stole the headlines with a logic-defying charge from 21st to finish second, his team-mate Isack Hadjar quietly delivered what team principal Laurent Mekies believes is his most impressive drive yet. Securing a double podium for the Milton Keynes squad, Hadjar finished third at Interlagos after ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/laurent-mekies-brazil-was-isack-hadjars-best-race-for-red-bull/10874059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/Y9lNz382/s6/motorsport-com-graphics-96-2.jpg",
-      "published_at": 1794501661000
     },
     {
       "id": "https://www.motorsport.com/f1/news/f1-academy-champion-alisha-palmowski-reveals-key-lesson-from-max-verstappen/10874174/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -100,7 +109,7 @@
       "snippet": "Alisha Palmowski says the biggest lesson of her F1 Academy title year came from simply watching four-time Formula 1 champion Max Verstappen at work.The Briton, who races for Campos Racing as part of Red Bull's junior programme, clinched the 2026 F1 Academy title in Austin, with one round still to run in the all-female racing series.Palmowski made her F1 Academy debut as the wildcard entry ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/f1-academy-champion-alisha-palmowski-reveals-key-lesson-from-max-verstappen/10874174/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2y7QrOX6/s6/motorsport-com-graphics-92.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2y7QrOX6/s6/motorsport-com-graphics-92.jpg",
       "published_at": 1794501322000
     },
     {
@@ -118,7 +127,7 @@
       "snippet": "Nikola Tsolov has been named as reserve driver for both Red Bull and Racing Bulls for the 2027 Formula 1 season having missed out on a full-time drive.The 19-year-old Bulgarian had been linked to a step up from F2 to replace Liam Lawson at Racing Bulls in 2027, but after weeks of speculation the Faenza-based squad put rumours to rest by confirming the New Zealander would continue alongside ...Keep reading",
       "link": "https://www.autosport.com/f1/news/tsolov-lands-reserve-driver-role-for-f1-2027/10874151/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6x7LbPRY/s6/nikola-tsolov-racing-bulls-4.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6x7LbPRY/s6/nikola-tsolov-racing-bulls-4.jpg",
       "published_at": 1794496867000
     },
     {
@@ -127,7 +136,7 @@
       "snippet": "Ferrari team principal Fred Vasseur has shut down speculation of ongoing friction between Lewis Hamilton and Charles Leclerc, confirming the two drivers resolved their issues during a private sit-down discussion ahead of the São Paulo Grand Prix.The internal dynamic at Ferrari has been under scrutiny following the team's opening-lap clash in Mexico, but the chaotic, rain-soaked race at ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/fred-vasseur-lewis-hamilton-and-charles-leclerc-left-my-room-joking-together/10874079/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YP7489X2/s6/motorsport-com-graphics-91-2.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YP7489X2/s6/motorsport-com-graphics-91-2.jpg",
       "published_at": 1794489329000
     },
     {
@@ -136,7 +145,7 @@
       "snippet": "Racing Bulls has finally announced Liam Lawson and Arvid Lindblad will stay put for the 2027 season, ending a long-running saga as the team and the wider Red Bull company weighed up keeping Lawson on board for another year or promoting the next prospect in the pipeline, F2 frontrunner Nikola Tsolov.Read Also:Formula 1Liam Lawson retained by Racing Bulls for 2027 alongside Arvid ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/the-impressive-stats-underpinning-liam-lawsons-career-saving-f1-season/10874116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6grQG3nY/s6/liam-lawson-racing-bulls.jpg",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6grQG3nY/s6/liam-lawson-racing-bulls.jpg",
       "published_at": 1794487351000
     },
     {
@@ -145,7 +154,7 @@
       "snippet": "Formula 1 star George Russell has launched a karting academy in partnership with Silverstone to make motorsport more accessible and discover the next young superstar. The eight-time grand prix winner launched his GR63 Karting Academy on Thursday with it open to boys and girls aged eight to nine, based at the kart track in Silverstone.It features a “four stage path to the top” and ...Keep reading",
       "link": "https://www.autosport.com/f1/news/russell-and-brdc-launch-karting-academy/10874110/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YvKB3V16/s6/gr63-academy-unveil-2.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YvKB3V16/s6/gr63-academy-unveil-2.jpg",
       "published_at": 1794486475000
     },
     {
@@ -192,15 +201,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bd2/live/04ef2330-dd4c-11f1-a2ff-1f577adb9bef.jpg",
       "published_at": 1794463890000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/c6gell5l7l3zo?at_medium=RSS&at_campaign=rss",
-      "title": "Norris takes pole in rain-delayed qualifying",
-      "snippet": "McLaren's Lando Norris takes pole position for the Sao Paulo Grand Prix in a wet qualifying session at Interlagos delayed by nearly an hour and a half for heavy rain.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c6gell5l7l3zo?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a242/live/05b66270-dae9-11f1-aac9-0789014bcc48.jpg",
-      "published_at": 1794084520000
     }
   ]
 }
