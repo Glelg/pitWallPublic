@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-14T21:32:18.114706Z",
+    "last_updated": "2026-11-14T22:02:30.632465Z",
     "total_news": 22
   },
   "news": [
@@ -176,24 +176,6 @@
       "published_at": 1794562340000
     },
     {
-      "id": "https://www.skysports.com/watch/video/13480555/f1-lando-norris-becomes-the-2025-f1-world-champion",
-      "title": "Happy birthday Lando! Relive the moment he became F1 world champion last year!",
-      "snippet": "As Lando Norris celebrates turning 27, relive the moment he became Formula One world champion in 2025.",
-      "link": "https://www.skysports.com/watch/video/13480555/f1-lando-norris-becomes-the-2025-f1-world-champion",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-motorsport-f1-mclaren_7396738.jpg?20261104111311",
-      "published_at": 1794549600000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13611077/las-vegas-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-in-united-states-live-on-sky-sports",
-      "title": "Las Vegas GP: UK schedule and how to watch on Sky Sports",
-      "snippet": "Formula 1 heads for the bright lights of Las Vegas with both 2026 titles settled, but the competitive picture at the front of the grid tighter than it has been at any other stage of the season.",
-      "link": "https://www.skysports.com/f1/news/12433/13611077/las-vegas-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-in-united-states-live-on-sky-sports",
-      "source_name": "Sky Sports",
-      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-lando-norris-mclaren_7404230.jpg?20261111162623",
-      "published_at": 1794549600000
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/c6gell5l7l3zo?at_medium=RSS&at_campaign=rss",
       "title": "Norris takes pole in rain-delayed qualifying",
       "snippet": "McLaren's Lando Norris takes pole position for the Sao Paulo Grand Prix in a wet qualifying session at Interlagos delayed by nearly an hour and a half for heavy rain.",
@@ -201,6 +183,24 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a242/live/05b66270-dae9-11f1-aac9-0789014bcc48.jpg",
       "published_at": 1794084520000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/colapinto-never-hit-the-apex-audis-take-on-contentious-hulkenberg-penalty-in-sao-paulo-gp/10873551/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "\"Colapinto never hit the apex\" – Audi's take on contentious Nico Hulkenberg penalty in Brazilian GP",
+      "snippet": "Audi's eighth place in the constructors' championship doesn't quite tally with the competitiveness of its car, but circumstances have contrived to keep the team falling short of the points in 2026. Between them, Nico Hulkenberg and Gabriel Bortoleto have notched up ten 11th-place finishes.Often the issue has been poor starting performance which costs the drivers track position away from the ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/colapinto-never-hit-the-apex-audis-take-on-contentious-hulkenberg-penalty-in-sao-paulo-gp/10873551/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/2QedBbJ2/s6/nico-hulkenberg-audi-f1-team.jpg",
+      "published_at": 1794391992000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/lando-norris-questions-charles-leclercs-brazilian-gp-penalty-just-racing/10873736/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Lando Norris questions Charles Leclerc's Brazilian GP penalty: \"Just racing\"",
+      "snippet": "McLaren Formula 1 driver Lando Norris has questioned Charles Leclerc's penalty after the Brazilian Grand Prix, which cost the Ferrari driver seventh place.Leclerc tapped the left rear of Liam Lawson's Racing Bulls car at Turn 12 on the penultimate lap of the race at Interlagos. The Monegasque driver was handed a five-second penalty after the race, which dropped him behind Lawson to ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/lando-norris-questions-charles-leclercs-brazilian-gp-penalty-just-racing/10873736/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6n7b5kA0/s6/motorsport-com-graphics-85.jpg",
+      "published_at": 1794355135000
     }
   ]
 }
