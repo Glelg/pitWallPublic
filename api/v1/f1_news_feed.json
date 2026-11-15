@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-15T04:02:27.591154Z",
+    "last_updated": "2026-11-15T05:02:29.662417Z",
     "total_news": 22
   },
   "news": [
@@ -131,33 +131,6 @@
       "published_at": 1794550340000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/toto-wolff-offered-his-resignation-during-mercedes-struggles-but-the-ceo-refused/10874282/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Toto Wolff offered his resignation during Mercedes’ struggles, but his boss refused",
-      "snippet": "In motorsport, extended periods of failure usually result in swift executive turnover. But when Mercedes team principal Toto Wolff attempted to hold himself accountable for the team's struggles in recent years, his boss flatly refused to let him walk away. Speaking at the 2026 Golden Steering Wheel awards in Berlin, Wolff provided a glimpse into the internal corporate dynamics at ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/toto-wolff-offered-his-resignation-during-mercedes-struggles-but-the-ceo-refused/10874282/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YN7vz9j6/s6/motorsport-com-graphics-99-2.jpg",
-      "published_at": 1794573424000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/red-bull-f1-car-takes-on-motogp-bike-rally-car-and-snowmobile-in-extreme-ice-race/10874304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Red Bull F1 car takes on MotoGP bike, rally car and snowmobile in extreme ice race",
-      "snippet": "Red Bull pitted a Formula 1 car, MotoGP bike, rally car, Pro 4 truck and a snowmobile against each other in the first Ultimate Winter race.Former MotoGP rider Dani Pedrosa won, riding a KTM MotoGP bike on the custom frozen lake course.The event, held in Eagle River, Wisconsin, brought five motorsport disciplines together on the same grid. Each machine ran on custom studded tyres, and Red ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/red-bull-f1-car-takes-on-motogp-bike-rally-car-and-snowmobile-in-extreme-ice-race/10874304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/27No3m30/s6/motorsport-com-graphics-98.jpg",
-      "published_at": 1794572726000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/horribly-painful-williams-2026-car-upgrades-benefit-2027/10874290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "\"It's horribly painful\" - Williams drops 2026 car upgrades to benefit 2027",
-      "snippet": "Williams F1 team boss James Vowles says it was \"horribly painful\" for the squad to forego 2026 aero upgrades and save the resources for 2027 instead.Williams has been forced into playing the long game for some time now, but was hoping its progress behind the scenes in 2025 would carry over into the new regulations. Instead, Williams faced a huge wake-up call as the huge workload required to ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/horribly-painful-williams-2026-car-upgrades-benefit-2027/10874290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/68VwMox2/s6/alexander-albon-williams.jpg",
-      "published_at": 1794572132000
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/c6gell5l7l3zo?at_medium=RSS&at_campaign=rss",
       "title": "Norris takes pole in rain-delayed qualifying",
       "snippet": "McLaren's Lando Norris takes pole position for the Sao Paulo Grand Prix in a wet qualifying session at Interlagos delayed by nearly an hour and a half for heavy rain.",
@@ -201,6 +174,33 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-3.motorsport.com/images/amp/6b8ZM8L2/s6/lando-norris-mclaren-3.jpg",
       "published_at": 1794083639000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/penalty-drops-oscar-piastri-out-of-f1-mexico-gp-points/10870864/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash",
+      "snippet": "Oscar Piastri’s tough Mexico Grand Prix weekend has ended in point-less fashion, after the McLaren Formula 1 driver copped a penalty for his collision with Arvid Lindblad.Piastri’s 60-strong streak of Q3 appearances (including sprints) ended at Autodromo Hermanos Rodriguez as he qualified a lowly 12th, which paved the way for his troubles in the midfield.Piastri did gain three spots at ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/penalty-drops-oscar-piastri-out-of-f1-mexico-gp-points/10870864/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0mXyZvk6/s6/oscar-piastri-mclaren-2.jpg",
+      "published_at": 1793585982000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/toto-wolff-offered-his-resignation-during-mercedes-struggles-but-the-ceo-refused/10874282/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Toto Wolff offered his resignation during Mercedes’ struggles, but his boss refused",
+      "snippet": "In motorsport, extended periods of failure usually result in swift executive turnover. But when Mercedes team principal Toto Wolff attempted to hold himself accountable for the team's struggles in recent years, his boss flatly refused to let him walk away. Speaking at the 2026 Golden Steering Wheel awards in Berlin, Wolff provided a glimpse into the internal corporate dynamics at ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/toto-wolff-offered-his-resignation-during-mercedes-struggles-but-the-ceo-refused/10874282/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YN7vz9j6/s6/motorsport-com-graphics-99-2.jpg",
+      "published_at": 1794573424000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/red-bull-f1-car-takes-on-motogp-bike-rally-car-and-snowmobile-in-extreme-ice-race/10874304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Red Bull F1 car takes on MotoGP bike, rally car and snowmobile in extreme ice race",
+      "snippet": "Red Bull pitted a Formula 1 car, MotoGP bike, rally car, Pro 4 truck and a snowmobile against each other in the first Ultimate Winter race.Former MotoGP rider Dani Pedrosa won, riding a KTM MotoGP bike on the custom frozen lake course.The event, held in Eagle River, Wisconsin, brought five motorsport disciplines together on the same grid. Each machine ran on custom studded tyres, and Red ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/red-bull-f1-car-takes-on-motogp-bike-rally-car-and-snowmobile-in-extreme-ice-race/10874304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/27No3m30/s6/motorsport-com-graphics-98.jpg",
+      "published_at": 1794572726000
     }
   ]
 }
