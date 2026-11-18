@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-18T04:02:26.700026Z",
+    "last_updated": "2026-11-18T04:32:18.343541Z",
     "total_news": 22
   },
   "news": [
@@ -149,15 +149,6 @@
       "published_at": 1794833095000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/james-allison-reveals-message-to-mercedes-recruits-during-teams-four-year-f1-title-drought/10874833/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "James Allison reveals message to Mercedes recruits during team's four-year F1 title drought",
-      "snippet": "Mercedes technical director James Allison has revealed how he told hundreds of staff members who joined the Brackley outfit during the team's lean years that they would one day win, and that the championship would be theirs.Mercedes won eight consecutive constructors' titles between 2014 and 2021, but then went four seasons without a championship before claiming both crowns in 2026, with Kimi ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/james-allison-reveals-message-to-mercedes-recruits-during-teams-four-year-f1-title-drought/10874833/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6O7zE9w6/s6/motorsport-com-graphics.jpg",
-      "published_at": 1794830785000
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
       "title": "Whatever happened to the diamond that went missing in F1 crash?",
       "snippet": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?",
@@ -183,6 +174,15 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-7.motorsport.com/images/amp/6b8ZM8L2/s6/lando-norris-mclaren-3.jpg",
       "published_at": 1794083639000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/james-allison-reveals-message-to-mercedes-recruits-during-teams-four-year-f1-title-drought/10874833/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "James Allison reveals message to Mercedes recruits during team's four-year F1 title drought",
+      "snippet": "Mercedes technical director James Allison has revealed how he told hundreds of staff members who joined the Brackley outfit during the team's lean years that they would one day win, and that the championship would be theirs.Mercedes won eight consecutive constructors' titles between 2014 and 2021, but then went four seasons without a championship before claiming both crowns in 2026, with Kimi ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/james-allison-reveals-message-to-mercedes-recruits-during-teams-four-year-f1-title-drought/10874833/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6O7zE9w6/s6/motorsport-com-graphics.jpg",
+      "published_at": 1794830785000
     },
     {
       "id": "https://www.autosport.com/f1/news/haas-sticks-with-rafael-camara-for-las-vegas-ryo-hirakawa-in-for-fp1/10874781/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
