@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-18T07:02:27.875912Z",
+    "last_updated": "2026-11-18T07:32:18.137814Z",
     "total_news": 22
   },
   "news": [
@@ -113,33 +113,6 @@
       "published_at": 1794844465000
     },
     {
-      "id": "https://www.skysports.com/f1/news/12433/13612897/lewis-hamilton-says-work-improving-diversity-in-f1-nowhere-near-finished-as-mission-44-outlines-recommendations-for-further-change",
-      "title": "'Now we need to go further' - Hamilton outlines next targets to improve F1 diversity",
-      "snippet": "Lewis Hamilton says Formula 1 has \"shown that change is possible\" to improve diversity in the sport over the past five years and \"now we need to go further\" in increasing opportunities for the next generation.",
-      "link": "https://www.skysports.com/f1/news/12433/13612897/lewis-hamilton-says-work-improving-diversity-in-f1-nowhere-near-finished-as-mission-44-outlines-recommendations-for-further-change",
-      "source_name": "Sky Sports",
-      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-lewis-hamilton-ferrari_7407930.jpg?20261116163335",
-      "published_at": 1794842340000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/lewis-hamilon-reportedly-house-hunting-in-la-amid-kim-kardashian-relationship/10874877/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Lewis Hamilon reportedly house-hunting in LA amid Kim Kardashian relationship",
-      "snippet": "Seven-time Formula 1 champion Lewis Hamilton wants a Los Angeles base so he can spend more of the winter break with his partner Kim Kardashian and her children, according to a report from the Daily Mail.The report says the Ferrari driver approached estate agents about houses in Malibu, Pacific Palisades and the Hollywood Hills, and is weighing up whether to rent or buy. His main home is in ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/lewis-hamilon-reportedly-house-hunting-in-la-amid-kim-kardashian-relationship/10874877/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2jEAkAp0/s6/motorsport-com-graphics-2.jpg",
-      "published_at": 1794841731000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-2026-start-time-schedule-and-how-to-watch/10874866/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "F1 Las Vegas GP 2026: start time, schedule and how to watch",
-      "snippet": "The Las Vegas Grand Prix starts at 8 pm PT on Saturday, November 21, which is 11 pm ET. The race runs at night along the Strip, and every session is live on Apple TV.Las Vegas Grand Prix 2026 scheduleSessionDayPTMTCTETPractice 1Thursday, Nov. 194:30 pm5:30 pm6:30 pm7:30 pmPractice 2Thursday, Nov. 198 ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-2026-start-time-schedule-and-how-to-watch/10874866/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YBVorJzY/s6/the-welcome-to-las-vegas-sign.jpg",
-      "published_at": 1794841344000
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
       "title": "Whatever happened to the diamond that went missing in F1 crash?",
       "snippet": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?",
@@ -165,6 +138,33 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-7.motorsport.com/images/amp/6b8ZM8L2/s6/lando-norris-mclaren-3.jpg",
       "published_at": 1794083639000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13612897/lewis-hamilton-says-work-improving-diversity-in-f1-nowhere-near-finished-as-mission-44-outlines-recommendations-for-further-change",
+      "title": "'Now we need to go further' - Hamilton outlines next targets to improve F1 diversity",
+      "snippet": "Lewis Hamilton says Formula 1 has \"shown that change is possible\" to improve diversity in the sport over the past five years and \"now we need to go further\" in increasing opportunities for the next generation.",
+      "link": "https://www.skysports.com/f1/news/12433/13612897/lewis-hamilton-says-work-improving-diversity-in-f1-nowhere-near-finished-as-mission-44-outlines-recommendations-for-further-change",
+      "source_name": "Sky Sports",
+      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-lewis-hamilton-ferrari_7407930.jpg?20261116163335",
+      "published_at": 1794842340000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/lewis-hamilon-reportedly-house-hunting-in-la-amid-kim-kardashian-relationship/10874877/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Lewis Hamilon reportedly house-hunting in LA amid Kim Kardashian relationship",
+      "snippet": "Seven-time Formula 1 champion Lewis Hamilton wants a Los Angeles base so he can spend more of the winter break with his partner Kim Kardashian and her children, according to a report from the Daily Mail.The report says the Ferrari driver approached estate agents about houses in Malibu, Pacific Palisades and the Hollywood Hills, and is weighing up whether to rent or buy. His main home is in ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/lewis-hamilon-reportedly-house-hunting-in-la-amid-kim-kardashian-relationship/10874877/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2jEAkAp0/s6/motorsport-com-graphics-2.jpg",
+      "published_at": 1794841731000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-2026-start-time-schedule-and-how-to-watch/10874866/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "F1 Las Vegas GP 2026: start time, schedule and how to watch",
+      "snippet": "The Las Vegas Grand Prix starts at 8 pm PT on Saturday, November 21, which is 11 pm ET. The race runs at night along the Strip, and every session is live on Apple TV.Las Vegas Grand Prix 2026 scheduleSessionDayPTMTCTETPractice 1Thursday, Nov. 194:30 pm5:30 pm6:30 pm7:30 pmPractice 2Thursday, Nov. 198 ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-2026-start-time-schedule-and-how-to-watch/10874866/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YBVorJzY/s6/the-welcome-to-las-vegas-sign.jpg",
+      "published_at": 1794841344000
     },
     {
       "id": "https://www.motorsport.com/f1/news/f1-driver-manager-enrico-zanarini-recounts-his-50-years-in-motorsport/10874697/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
