@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-19T08:02:27.910958Z",
+    "last_updated": "2026-11-19T08:32:18.883210Z",
     "total_news": 22
   },
   "news": [
@@ -10,8 +10,26 @@
       "snippet": "Ferrari Formula 1 driver Charles Leclerc has branded his five-second penalty that cost him seventh place at the Brazilian Grand Prix as \"harsh\", arguing that his contact with Racing Bulls driver Liam Lawson was \"part of racing\".The Monegasque driver tapped the left rear of Lawson's Racing Bulls car at Turn 12 on the penultimate lap at Interlagos, before passing him five corners later. The ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/charles-leclerc-brazil-penalty-for-liam-lawson-contact-was-a-bit-harsh/10875477/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0kZXkZl6/s6/motorsport-com-graphics-7.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0kZXkZl6/s6/motorsport-com-graphics-7.jpg",
       "published_at": 1795070343000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/lewis-hamilton-you-cant-be-the-only-one-pushing-for-change-in-f1/10875497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Lewis Hamilton: \"You can't be the only one pushing for change\" in F1",
+      "snippet": "Lewis Hamilton says he had hoped others in Formula 1 would follow his lead in speaking out on issues around the world, but admitted that \"so far that's not the case\".The seven-time world champion has used his platform for causes including diversity in motorsport and, more recently, the humanitarian crisis in Gaza.Asked by the media in Las Vegas ahead of this weekend's race whether more ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/lewis-hamilton-you-cant-be-the-only-one-pushing-for-change-in-f1/10875497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YvKBkKv6/s6/motorsport-com-graphics-2026-1-2.jpg",
+      "published_at": 1795075502000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13613637/max-verstappen-says-he-trusts-f1-bosses-over-plans-to-proceed-with-season-ending-races-in-qatar-and-abu-dhabi-amid-conflict-in-middle-east",
+      "title": "Verstappen trusts F1 chiefs over plan to proceed with Middle East races",
+      "snippet": "Max Verstappen says he trusts Formula 1 to \"make the right call\" as the sport pushes on with plans to hold the final two races of the season in Qatar and Abu Dhabi despite continued conflict in the Middle East.",
+      "link": "https://www.skysports.com/f1/news/12433/13613637/max-verstappen-says-he-trusts-f1-bosses-over-plans-to-proceed-with-season-ending-races-in-qatar-and-abu-dhabi-amid-conflict-in-middle-east",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-max-verstappen-red-bull_7410134.jpg?20261119075207",
+      "published_at": 1795075200000
     },
     {
       "id": "https://www.motorsport.com/f1/news/honda-reveals-key-f1-power-unit-change-for-2027/10875520/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -19,7 +37,7 @@
       "snippet": "Immediately after the Sao Paulo Grand Prix, Honda was still unable to fully explain Lance Stroll's DNF. The Canadian was forced to retire for the 14th time, equalling the all-time record for the most retirements in a single Formula 1 season.Ahead of the race weekend in Las Vegas, Honda has gathered more information about the battery failure, with chief engineer Shintaro Orihara explaining when ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/honda-reveals-key-f1-power-unit-change-for-2027/10875520/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0R7Bbbo2/s6/fernando-alonso-aston-martin-r-2.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0R7Bbbo2/s6/fernando-alonso-aston-martin-r-2.jpg",
       "published_at": 1795075188000
     },
     {
@@ -28,7 +46,7 @@
       "snippet": "Red Bull Formula 1 driver Isack Hadjar was left speechless when Topps revealed how much the most valuable of his trading cards had sold for.The card company filmed the Frenchman being shown an autographed card carrying three Red Bull patches and asked him to put a price on it. He recognised it straight away, but his first guess was some way off.\"I remember signing this one. I don't know ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/isack-hadjar-stunned-as-his-most-expensive-trading-card-sells-for-five-figure-sum/10875525/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6lmAKmN0/s6/motorsport-com-graphics-9.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6lmAKmN0/s6/motorsport-com-graphics-9.jpg",
       "published_at": 1795073721000
     },
     {
@@ -41,21 +59,12 @@
       "published_at": 1795073700000
     },
     {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/c6n0l14rjlw4o?at_medium=RSS&at_campaign=rss",
-      "title": "Verstappen 'trusts' F1 over Middle East decision",
-      "snippet": "Max Verstappen says he trusts in Formula 1 after their decision to end the season in the Middle East, despite the ongoing conflicts in the area.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c6n0l14rjlw4o?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eae/live/43ce3ea0-e3e2-11f1-95b9-4f56547154ff.jpg",
-      "published_at": 1795072296000
-    },
-    {
       "id": "https://www.motorsport.com/f1/news/isack-hadjar-reveals-why-he-cannot-follow-max-verstappen-into-racing-outside-f1/10875493/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Isack Hadjar reveals why he cannot follow Max Verstappen into racing outside F1",
       "snippet": "Red Bull Formula 1 driver Isack Hadjar says he would love to race in other categories during the off-season, but admits he does not \"have enough money\" to do so yet.Several of Hadjar's rivals already race outside grands prix. Red Bull team-mate Max Verstappen has spent 2026 racing GT3 cars, taking part in the Nurburgring 24 Hours in May and the GT World Challenge finale at Portimao, while ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/isack-hadjar-reveals-why-he-cannot-follow-max-verstappen-into-racing-outside-f1/10875493/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YK15z1X0/s6/motorsport-com-graphics-8.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YK15z1X0/s6/motorsport-com-graphics-8.jpg",
       "published_at": 1795071934000
     },
     {
@@ -64,7 +73,7 @@
       "snippet": "Ahead of the Las Vegas Grand Prix, Formula 1 announced a partnership with WHOOP. A number of drivers will wear the company's health trackers, with their data being shown live during TV broadcasts in 2027.The latter, however, remains entirely optional, leaving the decision up to the drivers themselves. According to those behind the initiative, at least a handful of F1 drivers have already ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/max-verstappen-on-f1s-whoop-plan-its-nobodys-business-i-dont-even-know-my-heart-rate/10875480/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6Alv98EY/s6/max-verstappen-red-bull-racing.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6Alv98EY/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1795071610000
     },
     {
@@ -82,7 +91,7 @@
       "snippet": "Charles Leclerc has revealed that he has already been wearing a WHOOP fitness tracker while driving his Ferrari, and says he has \"nothing to hide\" as Formula 1 prepares to put drivers' heart rates on screen.F1 announced on Wednesday that WHOOP will become an official partner of F1, with drivers wearing its wristbands in the car. Data such as heart rate will be used in social media graphics and ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/charles-leclerc-admits-he-has-already-been-wearing-whoop-in-his-ferrari-f1-car/10875473/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/2eZxkZmY/s6/motorsport-com-graphics-2026-1.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2eZxkZmY/s6/motorsport-com-graphics-2026-1.jpg",
       "published_at": 1795070032000
     },
     {
@@ -100,7 +109,7 @@
       "snippet": "Red Bull fans in Las Vegas this weekend can ride home on a piece of Max Verstappen's 2025 season, with the team's official e-bike going on sale at a pop-up shop on the Strip.Californian electric bike brand SUPER73 is selling its limited-edition Oracle Red Bull Racing models at the Podium Collective, a free pop-up hosted by Julien Solomita's Bad Year Racing at the Bellagio. It runs from ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/red-bull-f1-e-bike-in-max-verstappens-suzuka-livery-hits-the-las-vegas-strip/10875470/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKzlpY/s6/motorsport-com-graphics-100.jpg",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/2wlKzlpY/s6/motorsport-com-graphics-100.jpg",
       "published_at": 1795069166000
     },
     {
@@ -109,7 +118,7 @@
       "snippet": "Formula 1 world champion Kimi Antonelli has predicted the return of “yo-yo” racing at this weekend’s Las Vegas Grand Prix thanks to its low-downforce characteristics.The new-for-2026 regulations, which feature a more electrical power unit, have caused a radically different style of racing at certain circuits with it being labelled as ‘yo-yo’.This is where cars can easily overtake ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/kimi-antonelli-yo-yo-racing-to-return-at-f1-las-vegas-gp/10875460/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/68VWyaD2/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/68VWyaD2/s6/andrea-kimi-antonelli-mercedes.jpg",
       "published_at": 1795068289000
     },
     {
@@ -118,7 +127,7 @@
       "snippet": "Although the FIA's announcement was only online for five minutes, there is no doubt in the paddock that V8 engines will return to Formula 1. An agreement in principle has been reached on a 2.1-litre turbocharged V8 with a smaller electrical component, which is set to be introduced in 2030 rather than 2031.Max Verstappen is one of the biggest critics of the current regulations and therefore one ...Keep reading",
       "link": "https://www.autosport.com/f1/news/max-verstappen-if-they-let-me-write-the-rules-f1-wouldnt-be-allowed-in-certain-places/10875462/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/Y9lNGqZ2/s6/max-verstappen-red-bull-racing-2.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/Y9lNGqZ2/s6/max-verstappen-red-bull-racing-2.jpg",
       "published_at": 1795068015000
     },
     {
@@ -127,7 +136,7 @@
       "snippet": "Although the FIA's announcement was only online for five minutes, there is no doubt in the paddock that V8 engines will return to Formula 1. An agreement in principle has been reached on a 2.1-litre turbocharged V8 with a smaller electrical component, which is set to be introduced in 2030 rather than 2031.Max Verstappen is one of the biggest critics of the current regulations and therefore one ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/max-verstappen-if-they-let-me-write-the-rules-f1-wouldnt-be-allowed-in-certain-places/10875445/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/Y9lNGqZ2/s6/max-verstappen-red-bull-racing-2.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/Y9lNGqZ2/s6/max-verstappen-red-bull-racing-2.jpg",
       "published_at": 1795067362000
     },
     {
@@ -136,7 +145,7 @@
       "snippet": "Liam Lawson has confirmed he had little doubt that he would remain on the Formula 1 grid for 2027 after recently extending his Racing Bulls contract.The 24-year-old and rookie team-mate Arvid Lindblad were announced last Thursday as the Italian outfit’s driver pairing for next season following a very strong 2026.Lawson is ninth in the drivers’ standings with a career-best 89 points ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/liam-lawson-had-little-doubt-he-would-remain-for-f1-2027-amid-nikola-tsolov-talk/10875438/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/Y9lN4LL2/s6/liam-lawson-racing-bulls.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/Y9lN4LL2/s6/liam-lawson-racing-bulls.jpg",
       "published_at": 1795065657000
     },
     {
@@ -154,7 +163,7 @@
       "snippet": "There is one common enemy in Formula 1, and that is time. For veterans in the autumn of their career, that's not just the time on the stopwatch, but also the years going by without competing at the sharp end.Having recovered from a bruising end to his Red Bull tenure, Sergio Perez welcomed a new challenge after one year out with start-up Cadillac. But having recently crossed the threshold of ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/sergio-perez-bullish-on-pushing-cadillac-forward-in-f1-some-people-were-just-happy-to-be-here/10875430/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6Alv9nGY/s6/sergio-perez-cadillac-racing.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6Alv9nGY/s6/sergio-perez-cadillac-racing.jpg",
       "published_at": 1795062922000
     },
     {
@@ -172,7 +181,7 @@
       "snippet": "Lewis Hamilton has admitted that his love of collecting Pokémon cards has survived well into his adult life after a trip to buy packs for the youngest members of his family turned into a car full of collectors.Speaking on stage at PUMA's Under The Lights fan event at its Las Vegas flagship store on Tuesday night ahead of this weekend's grand prix, the seven-time world champion explained how ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/im-41-years-old-and-i-love-pokemon-lewis-hamilton-on-his-card-collection/10875423/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6x7Lr7MY/s6/motorsport-com-graphics-99.jpg",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6x7Lr7MY/s6/motorsport-com-graphics-99.jpg",
       "published_at": 1795060263000
     },
     {
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-9.motorsport.com/images/amp/6b8ZA8j2/s6/motorsport-com-graphics-6.jpg",
       "published_at": 1795059024000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/lando-norris-jokes-he-found-the-limit-of-a-champagne-bottle-in-brazil-podium-mishap/10875414/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Lando Norris jokes he \"found the limit of a champagne bottle\" in Brazil podium mishap",
-      "snippet": "2025 Formula 1 champion Lando Norris has joked about how he \"found the limit of a champagne bottle\" for the first time in his career during his chaotic podium celebrations at the Brazilian Grand Prix.The McLaren driver won from pole at Interlagos, but his trademark celebration went wrong. As he slammed the champagne bottle down on the floor, it shattered in his hands. To make matters worse, he ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/lando-norris-jokes-he-found-the-limit-of-a-champagne-bottle-in-brazil-podium-mishap/10875414/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/01QNxWm0/s6/motorsport-com-graphics-5.jpg",
-      "published_at": 1795058086000
     }
   ]
 }
