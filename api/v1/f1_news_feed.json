@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-19T19:02:28.081656Z",
+    "last_updated": "2026-11-19T19:32:21.118353Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.motorsport.com/f1/news/oscar-piastri-addresses-management-plans-after-mark-webber-split/10875654/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Oscar Piastri addresses management plans after Mark Webber split",
+      "snippet": "McLaren Formula 1 driver Oscar Piastri says his upcoming management structure is yet to be defined, after his partnership with managers Ann and Mark Webber was terminated.Piastri put out a joint press release on 9 November, indicating he and the Webbers had “mutually ended their agreement”.Their seven-year partnership saw the youngster’s meteoric rise in junior formulae, with ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/oscar-piastri-addresses-management-plans-after-mark-webber-split/10875654/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6zoDBPe0/s6/oscar-piastri-mclaren-2.jpg",
+      "published_at": 1795115312000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/charles-leclerc-brazil-penalty-for-liam-lawson-contact-was-a-bit-harsh/10875477/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Charles Leclerc brands Brazil penalty for Liam Lawson contact \"a bit harsh\"",
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/68VWyaD2/s6/andrea-kimi-antonelli-mercedes.jpg",
       "published_at": 1795068289000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/max-verstappen-if-they-let-me-write-the-rules-f1-wouldnt-be-allowed-in-certain-places/10875462/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Why Verstappen's ideal F1 rules would make some circuits off-limits",
-      "snippet": "Although the FIA's announcement was only online for five minutes, there is no doubt in the paddock that V8 engines will return to Formula 1. An agreement in principle has been reached on a 2.1-litre turbocharged V8 with a smaller electrical component, which is set to be introduced in 2030 rather than 2031.Max Verstappen is one of the biggest critics of the current regulations and therefore one ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/max-verstappen-if-they-let-me-write-the-rules-f1-wouldnt-be-allowed-in-certain-places/10875462/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/Y9lNGqZ2/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": 1795068015000
     }
   ]
 }
