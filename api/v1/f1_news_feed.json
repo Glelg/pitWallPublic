@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-19T10:32:29.519673Z",
+    "last_updated": "2026-11-19T11:02:36.563282Z",
     "total_news": 22
   },
   "news": [
@@ -12,6 +12,24 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/0kZXkZl6/s6/motorsport-com-graphics-7.jpg",
       "published_at": 1795070343000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/who-has-the-best-f1-power-unit-red-bull-or-mercedes-russell-shares-interesting-theory/10875591/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Who has the best F1 power unit: Red Bull or Mercedes? Russell shares interesting theory",
+      "snippet": "The Las Vegas Grand Prix promises to be an interesting challenge for Formula 1 teams in several respects, arguably even more so than in previous years. With the 2026 cars producing less downforce and relying on active aerodynamics, getting temperature into the Pirelli tyres – and, given the long straights, keeping it there – promises to be even more difficult than before.According to newly ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/who-has-the-best-f1-power-unit-red-bull-or-mercedes-russell-shares-interesting-theory/10875591/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPwaJ0/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": 1795085252000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/charles-leclerc-on-journalist-ban-i-was-surprised-by-the-choice-of-words/10875509/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Charles Leclerc on journalist ban: “I was surprised by the choice of words”",
+      "snippet": "Charles Leclerc had no hand in getting a veteran Formula 1 reporter barred from the paddock, and he isn't interested in policing the press - even when the headlines get a little personal.Addressing the media ahead of the 2026 Las Vegas Grand Prix, the Ferrari driver spoke for the first time about the FIA’s decision to revoke Daily Mail journalist Jonathan McEvoy’s accreditation for the ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/charles-leclerc-on-journalist-ban-i-was-surprised-by-the-choice-of-words/10875509/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/68Vwy382/s6/charles-leclerc-ferrari-a10875509-b704-4.jpg",
+      "published_at": 1795084913000
     },
     {
       "id": "https://www.motorsport.com/f1/news/rafael-camara-could-finish-the-2026-season-in-both-f1-and-f2/10875556/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -78,7 +96,7 @@
     },
     {
       "id": "https://www.skysports.com/watch/video/13613824/las-vegas-gp-f1-lego-race-returns",
-      "title": "F1 Lego race returns for Las Vegas Grand Prix",
+      "title": "CHAOS incoming... F1 Lego race returns for Las Vegas GP!",
       "snippet": "The F1 Lego race returns for the Las Vegas Grand Prix!",
       "link": "https://www.skysports.com/watch/video/13613824/las-vegas-gp-f1-lego-race-returns",
       "source_name": "Sky Sports",
@@ -183,24 +201,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caa0/live/585f6320-e393-11f1-b4f3-9f0685d52a1f.jpg",
       "published_at": 1795036712000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/sergio-perez-bullish-on-pushing-cadillac-forward-in-f1-some-people-were-just-happy-to-be-here/10875430/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Sergio Perez bullish on pushing Cadillac forward in F1: \"Some people were just happy to be here\"",
-      "snippet": "There is one common enemy in Formula 1, and that is time. For veterans in the autumn of their career, that's not just the time on the stopwatch, but also the years going by without competing at the sharp end.Having recovered from a bruising end to his Red Bull tenure, Sergio Perez welcomed a new challenge after one year out with start-up Cadillac. But having recently crossed the threshold of ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/sergio-perez-bullish-on-pushing-cadillac-forward-in-f1-some-people-were-just-happy-to-be-here/10875430/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6Alv9nGY/s6/sergio-perez-cadillac-racing.jpg",
-      "published_at": 1795062922000
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13613786/i-found-the-limit-of-a-champagne-bottle-lando-norris-reflects-on-viral-brazil-gp-podium",
-      "title": "'I found the limit of a champagne bottle!' - Norris reflects on VIRAL Brazil GP podium",
-      "snippet": "Lando Norris reflects on his viral Brazil GP podium, where he smashed his champagne bottle and appeared to get caught in the face by pyrotechnic sparks!",
-      "link": "https://www.skysports.com/watch/video/13613786/i-found-the-limit-of-a-champagne-bottle-lando-norris-reflects-on-viral-brazil-gp-podium",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-lando-norris-f1_7410023.jpg?20261119044021",
-      "published_at": 1795061700000
     }
   ]
 }
