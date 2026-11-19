@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-19T09:02:39.371122Z",
+    "last_updated": "2026-11-19T09:32:19.668173Z",
     "total_news": 22
   },
   "news": [
@@ -12,6 +12,15 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/0kZXkZl6/s6/motorsport-com-graphics-7.jpg",
       "published_at": 1795070343000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/f1-mexico-gp-fallout-was-taken-out-of-proportion-charles-leclerc/10875534/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "F1 Mexico GP fallout was “taken out of proportion” - Charles Leclerc",
+      "snippet": "Charles Leclerc believes the reaction to his clash with Formula 1 team-mate Lewis Hamilton at the Mexico Grand Prix was “taken out of proportion”.The Scuderia lost a straightforward victory at Autodromo Hermanos Rodriguez three weeks ago after Leclerc attacked polesitter Hamilton on lap one, leading to both outbraking themselves at Turn 4.Red Bull’s Max Verstappen emerged victorious ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/f1-mexico-gp-fallout-was-taken-out-of-proportion-charles-leclerc/10875534/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXyjja6/s6/charles-leclerc-ferrari.jpg",
+      "published_at": 1795079088000
     },
     {
       "id": "https://www.motorsport.com/f1/news/lewis-hamilton-you-cant-be-the-only-one-pushing-for-change-in-f1/10875497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -192,15 +201,6 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/63QaODg2/s6/fernando-alonso-aston-martin-r-2.jpg",
       "published_at": 1795060425000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/im-41-years-old-and-i-love-pokemon-lewis-hamilton-on-his-card-collection/10875423/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Lewis Hamilton on his card collection: \"I'm 41 years old and I love Pokémon\"",
-      "snippet": "Lewis Hamilton has admitted that his love of collecting Pokémon cards has survived well into his adult life after a trip to buy packs for the youngest members of his family turned into a car full of collectors.Speaking on stage at PUMA's Under The Lights fan event at its Las Vegas flagship store on Tuesday night ahead of this weekend's grand prix, the seven-time world champion explained how ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/im-41-years-old-and-i-love-pokemon-lewis-hamilton-on-his-card-collection/10875423/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7Lr7MY/s6/motorsport-com-graphics-99.jpg",
-      "published_at": 1795060263000
     }
   ]
 }
