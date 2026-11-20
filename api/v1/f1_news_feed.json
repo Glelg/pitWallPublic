@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-20T01:03:23.342372Z",
+    "last_updated": "2026-11-20T01:33:08.675712Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.motorsport.com/f1/news/lando-norris-confident-f1-would-not-put-us-at-risk-in-the-middle-east/10875771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Lando Norris confident F1 would not \"put us at risk\" in the Middle East",
+      "snippet": "2025 Formula 1 champion Lando Norris says he has no concerns about the final two races of the season in the Middle East, insisting the championship would not put its drivers and teams at risk.After this weekend's race in Las Vegas, the championship heads to Qatar from 27-29 November and then Abu Dhabi from 4-6 December.F1 has had to adapt its calendar this year because of the situation in ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/lando-norris-confident-f1-would-not-put-us-at-risk-in-the-middle-east/10875771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQk1aY/s6/lando-norris-mclaren-a10875771-b706-2.jpg",
+      "published_at": 1795137555000
+    },
     {
       "id": "https://www.autosport.com/f1/news/nike-joins-f1-as-apparel-partner/10875757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "title": "Nike joins F1 as apparel partner",
@@ -15,7 +24,7 @@
     },
     {
       "id": "https://www.skysports.com/f1/live-blog/12433/13613211/f1-las-vegas-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-the-usa",
-      "title": "Las Vegas GP: Heavy rain falling in first practice LIVE!",
+      "title": "Las Vegas GP: No laps completed in first practice due to heavy rain LIVE!",
       "snippet": "",
       "link": "https://www.skysports.com/f1/live-blog/12433/13613211/f1-las-vegas-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-the-usa",
       "source_name": "Sky Sports",
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/YK15z1X0/s6/motorsport-com-graphics-8.jpg",
       "published_at": 1795071934000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/max-verstappen-on-f1s-whoop-plan-its-nobodys-business-i-dont-even-know-my-heart-rate/10875480/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Max Verstappen on F1's WHOOP plan: \"It's nobody's business, I don't even know my heart rate\"",
-      "snippet": "Ahead of the Las Vegas Grand Prix, Formula 1 announced a partnership with WHOOP. A number of drivers will wear the company's health trackers, with their data being shown live during TV broadcasts in 2027.The latter, however, remains entirely optional, leaving the decision up to the drivers themselves. According to those behind the initiative, at least a handful of F1 drivers have already ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/max-verstappen-on-f1s-whoop-plan-its-nobodys-business-i-dont-even-know-my-heart-rate/10875480/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6Alv98EY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": 1795071610000
     }
   ]
 }
