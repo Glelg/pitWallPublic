@@ -1959,8 +1959,8 @@
           "session_type": "Practice",
           "date_start": "2026-11-20T04:00:00+00:00",
           "weather": {
-            "temp": 11.1,
-            "weather_code": 51
+            "temp": 10.8,
+            "weather_code": 63
           }
         },
         {
