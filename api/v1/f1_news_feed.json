@@ -1,9 +1,27 @@
 {
   "metadata": {
-    "last_updated": "2026-11-20T04:03:25.663888Z",
+    "last_updated": "2026-11-20T04:33:11.048503Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.motorsport.com/f1/news/cadillac-confirms-gm-will-introduce-its-own-f1-power-unit-a-year-later-than-initially-planned/10875798/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Cadillac scraps V6 F1 engine, delays entry as PU manufacturer",
+      "snippet": "Cadillac is set to delay the introduction of its in-house Formula 1 power unit by a year to 2030.The American squad's initial plan was to compete in the championship with its own General Motors power unit for the first time in 2029. However, that was based on the idea that the current regulations cycle would run its full course and that the next generation of power units would not be ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/cadillac-confirms-gm-will-introduce-its-own-f1-power-unit-a-year-later-than-initially-planned/10875798/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0kZXkpy6/s6/sergio-perez-cadillac-racing.jpg",
+      "published_at": 1795147335000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/cadillac-ditches-plan-to-produce-own-v6-hybrid-engine-ahead-of-f1s-v8-push/10875807/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Cadillac ditches plan to produce own V6 hybrid engine ahead of F1’s V8 push",
+      "snippet": "Cadillac is set to delay the introduction of its in-house Formula 1 power unit by a year to 2030.The American squad's initial plan was to compete in the championship with its own General Motors power unit for the first time in 2029. However, that was based on the idea that the current regulations cycle would run its full course and that the next generation of power units would not be ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/cadillac-ditches-plan-to-produce-own-v6-hybrid-engine-ahead-of-f1s-v8-push/10875807/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2jEAkpP0/s6/valtteri-bottas-cadillac-2.jpg",
+      "published_at": 1795147314000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-rain-washes-out-fp1/10875778/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "F1 Las Vegas GP: Rain ruins FP1 running",
@@ -30,6 +48,15 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/6O7zEMP6/s6/nike-x-formula-1.jpg",
       "published_at": 1795134290000
+    },
+    {
+      "id": "https://www.skysports.com/f1/live-blog/12433/13613211/f1-las-vegas-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-the-usa",
+      "title": "Las Vegas GP: Norris showing impressive pace in wet second practice LIVE!",
+      "snippet": "",
+      "link": "https://www.skysports.com/f1/live-blog/12433/13613211/f1-las-vegas-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-the-usa",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-charles-leclerc_7411065.jpg?20261120041602",
+      "published_at": 1795130700000
     },
     {
       "id": "https://www.motorsport.com/f1/news/lewis-hamilton-backs-v8-return-hits-out-at-engines-dying-on-straights/10875488/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -93,15 +120,6 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/68VwM4l2/s6/lewis-hamilton-ferrari.jpg",
       "published_at": 1795088942000
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13613909/biggest-talking-points-ahead-of-las-vegas-gp",
-      "title": "Battle for second and driver changes! Biggest talking points ahead of Las Vegas GP",
-      "snippet": "Craig Slater explains the biggest talking points ahead of the Las Vegas GP.",
-      "link": "https://www.skysports.com/watch/video/13613909/biggest-talking-points-ahead-of-las-vegas-gp",
-      "source_name": "Sky Sports",
-      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-las-vegas_7410326.jpg?20261119112001",
-      "published_at": 1795086300000
     },
     {
       "id": "https://www.autosport.com/f1/news/who-has-the-best-f1-power-unit-red-bull-or-mercedes-russell-shares-interesting-theory/10875591/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -183,24 +201,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-oliver-bearman_7410114.jpg?20261119072523",
       "published_at": 1795073700000
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13613824/las-vegas-gp-f1-lego-race-returns",
-      "title": "CHAOS incoming... F1 Lego race returns for Las Vegas GP!",
-      "snippet": "The F1 Lego race returns for the Las Vegas Grand Prix!",
-      "link": "https://www.skysports.com/watch/video/13613824/las-vegas-gp-f1-lego-race-returns",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/11/1920x1080/lego-f1-formula-one_7410123.jpg?20261119073414",
-      "published_at": 1795073400000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/isack-hadjar-reveals-why-he-cannot-follow-max-verstappen-into-racing-outside-f1/10875493/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Isack Hadjar reveals why he cannot follow Max Verstappen into racing outside F1",
-      "snippet": "Red Bull Formula 1 driver Isack Hadjar says he would love to race in other categories during the off-season, but admits he does not \"have enough money\" to do so yet.Several of Hadjar's rivals already race outside grands prix. Red Bull team-mate Max Verstappen has spent 2026 racing GT3 cars, taking part in the Nurburgring 24 Hours in May and the GT World Challenge finale at Portimao, while ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/isack-hadjar-reveals-why-he-cannot-follow-max-verstappen-into-racing-outside-f1/10875493/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YK15z1X0/s6/motorsport-com-graphics-8.jpg",
-      "published_at": 1795071934000
     }
   ]
 }
