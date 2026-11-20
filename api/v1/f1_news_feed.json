@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-20T01:33:08.675712Z",
+    "last_updated": "2026-11-20T02:02:36.537062Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-rain-washes-out-fp1/10875778/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "F1 Las Vegas GP: Rain impacts FP1 running",
+      "snippet": "\"If we're on a track like Vegas and it rains, honestly, I think we're in trouble,\" Racing Bulls driver Liam Lawson predicted after sampling this year's rain tyres in Brazil.His comments reflected the general mood in the paddock, as the Pirelli tyres are difficult to bring up to temperature, especially at a circuit with low cornering speeds and glacial temperatures like the 6km street circuit ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-rain-washes-out-fp1/10875778/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQkG7Y/s6/isack-hadjar-red-bull-racing-3.jpg",
+      "published_at": 1795139166000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/lando-norris-confident-f1-would-not-put-us-at-risk-in-the-middle-east/10875771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Lando Norris confident F1 would not \"put us at risk\" in the Middle East",
@@ -21,15 +30,6 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/6O7zEMP6/s6/nike-x-formula-1.jpg",
       "published_at": 1795134290000
-    },
-    {
-      "id": "https://www.skysports.com/f1/live-blog/12433/13613211/f1-las-vegas-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-the-usa",
-      "title": "Las Vegas GP: No laps completed in first practice due to heavy rain LIVE!",
-      "snippet": "",
-      "link": "https://www.skysports.com/f1/live-blog/12433/13613211/f1-las-vegas-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-the-usa",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-las-vegas-sergio-perez_7411046.jpg?20261120005444",
-      "published_at": 1795130700000
     },
     {
       "id": "https://www.motorsport.com/f1/news/lewis-hamilton-backs-v8-return-hits-out-at-engines-dying-on-straights/10875488/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",

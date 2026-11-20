@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-19T23:32:06.467719Z",
+    "last_updated": "2026-11-20T02:02:26.972268Z",
     "year": 2026,
     "total_meetings": 27
   },
@@ -1938,7 +1938,7 @@
       "circuit_name": "Las Vegas",
       "date_start": "2026-11-20T00:30:00+00:00",
       "date_end": "2026-11-22T06:00:00+00:00",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "is_cancelled": false,
       "is_testing": false,
       "top_results": null,
