@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-20T06:02:23.430624Z",
+    "last_updated": "2026-11-20T06:32:09.619433Z",
     "year": 2026,
     "total_meetings": 27
   },
@@ -1959,7 +1959,7 @@
           "session_type": "Practice",
           "date_start": "2026-11-20T04:00:00+00:00",
           "weather": {
-            "temp": 10.8,
+            "temp": 12.1,
             "weather_code": 63
           }
         },

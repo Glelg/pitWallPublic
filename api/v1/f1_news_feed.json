@@ -1,9 +1,45 @@
 {
   "metadata": {
-    "last_updated": "2026-11-20T06:02:31.467879Z",
+    "last_updated": "2026-11-20T06:32:17.695910Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13614180/las-vegas-gp-kimi-antonelli-to-serve-grid-penalty-along-with-oscar-piastri-carlos-sainz-lance-stroll-oliver-bearman",
+      "title": "Antonelli hit with grid penalty for Las Vegas GP",
+      "snippet": "Kimi Antonelli has received a five-place grid penalty for the Las Vegas Grand Prix after further exceeding his engine allocation for the season.",
+      "link": "https://www.skysports.com/f1/news/12433/13614180/las-vegas-gp-kimi-antonelli-to-serve-grid-penalty-along-with-oscar-piastri-carlos-sainz-lance-stroll-oliver-bearman",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-kimi-antonelli-mercedes_7411091.jpg?20261120055053",
+      "published_at": 1795154400000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cm20vpq8z6n4o?at_medium=RSS&at_campaign=rss",
+      "title": "The art of protection - inside an F1 helmet factory",
+      "snippet": "Inside the extraordinary world of Formula 1 helmets, where precision engineering, personal expression and life-saving technology join forces.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm20vpq8z6n4o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae4/live/a165cb70-e35e-11f1-99a1-253766e7ad8b.jpg",
+      "published_at": 1795156144000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/isack-hadjar-i-realised-why-max-is-a-four-time-world-champion/10875884/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Isack Hadjar: \"I realised why Max is a four-time world champion\"",
+      "snippet": "Isack Hadjar says his first season as Max Verstappen's team-mate at Red Bull has opened his eyes to why the Dutchman is a four-time Formula 1 world champion.Hadjar moved up from Racing Bulls for his 2026 campaign, taking one of the most pressured seats in F1 alongside Verstappen.Asked during media day in Las Vegas whether he had lived up to his own expectations, the Frenchman admitted ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/isack-hadjar-i-realised-why-max-is-a-four-time-world-champion/10875884/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKzrKY/s6/isack-hadjar-red-bull-racing-a10875884-b707-2.jpg",
+      "published_at": 1795155522000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo?at_medium=RSS&at_campaign=rss",
+      "title": "Russell fastest in Las Vegas practice after rain",
+      "snippet": "Mercedes' George Russell topped a second practice session at the Las Vegas Grand Prix run on a wet but slowly drying track.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e67/live/29186180-e4a0-11f1-a01e-f1ba573bc781.jpg",
+      "published_at": 1795154828000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/zak-brown-explains-why-mclaren-keeps-selling-f1-cars-before-they-race-ahead-of-2027-auction/10875872/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Zak Brown explains why McLaren keeps selling F1 cars before they race ahead of 2027 auction",
@@ -23,15 +59,6 @@
       "published_at": 1795153183000
     },
     {
-      "id": "https://www.skysports.com/f1/news/12433/13614175/las-vegas-gp-george-russell-tops-practice-for-mercedes-as-rain-limits-running-on-first-day-of-track-action",
-      "title": "Russell fastest as rain limits running in Las Vegas GP practice",
-      "snippet": "Mercedes' George Russell topped Practice Two from Alpine's Pierre Gasly as rain limited running on the opening day of track action at the Las Vegas Grand Prix.",
-      "link": "https://www.skysports.com/f1/news/12433/13614175/las-vegas-gp-george-russell-tops-practice-for-mercedes-as-rain-limits-running-on-first-day-of-track-action",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-george-russell_7411076.jpg?20261120050313",
-      "published_at": 1795152600000
-    },
-    {
       "id": "https://www.motorsport.com/f1/news/where-to-see-f1-cars-in-las-vegas-without-a-race-ticket/10875839/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Where to see F1 cars in Las Vegas without a race ticket",
       "snippet": "You do not need a grandstand seat to get close to a Formula 1 car in Las Vegas this week.Teams, partners and resorts have parked show cars and replicas all over the Strip for the Las Vegas Grand Prix, and most of them are free to visit. Here is where to find them.Mercedes, BellagioThe world champions have the biggest set-up. The Mercedes Fan Hub in Bellagio's main porte cochere has a ...Keep reading",
@@ -39,15 +66,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPkjP0/s6/gabriel-bortoleto-audi-f1-team-a10875839-b708-2.jpg",
       "published_at": 1795150623000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/five-drivers-set-for-grid-penalties-for-engine-changes-at-f1-las-vegas-gp/10875835/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Five drivers set for grid penalties for engine changes at F1 Las Vegas GP",
-      "snippet": "Five drivers will take grid penalties for the Las Vegas Grand Prix, including new Formula 1 world champion Kimi Antonelli.As previously indicated by Mercedes, Antonelli will take a five-place grid drop for an internal combustion engine change – but does not pick up a further penalty for a turbocharger change due to still being within his allocation.Mercedes announced the 2026 F1 world ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/five-drivers-set-for-grid-penalties-for-engine-changes-at-f1-las-vegas-gp/10875835/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6lmAKN80/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": 1795150601000
     },
     {
       "id": "https://www.motorsport.com/f1/news/zak-brown-confirms-agreement-in-principle-on-f1s-v8-return-after-deleted-fia-posts/10875816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -158,6 +176,15 @@
       "published_at": 1795088942000
     },
     {
+      "id": "https://www.skysports.com/watch/video/13613909/biggest-talking-points-ahead-of-las-vegas-gp",
+      "title": "Battle for second and driver changes! Biggest talking points ahead of Las Vegas GP",
+      "snippet": "Craig Slater explains the biggest talking points ahead of the Las Vegas GP.",
+      "link": "https://www.skysports.com/watch/video/13613909/biggest-talking-points-ahead-of-las-vegas-gp",
+      "source_name": "Sky Sports",
+      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-las-vegas_7410326.jpg?20261119112001",
+      "published_at": 1795086300000
+    },
+    {
       "id": "https://www.autosport.com/f1/news/who-has-the-best-f1-power-unit-red-bull-or-mercedes-russell-shares-interesting-theory/10875591/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "title": "Who has the best F1 power unit: Red Bull or Mercedes? Russell shares interesting theory",
       "snippet": "The Las Vegas Grand Prix promises to be an interesting challenge for Formula 1 teams in several respects, arguably even more so than in previous years. With the 2026 cars producing less downforce and relying on active aerodynamics, getting temperature into the Pirelli tyres – and, given the long straights, keeping it there – promises to be even more difficult than before.According to newly ...Keep reading",
@@ -174,33 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/68Vwy382/s6/charles-leclerc-ferrari-a10875509-b704-4.jpg",
       "published_at": 1795084913000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/rafael-camara-could-finish-the-2026-season-in-both-f1-and-f2/10875556/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Rafael Camara torn between his F2 title bid and more F1 races with Haas",
-      "snippet": "Rafael Camara is torn between completing his title-contending Formula 2 campaign and seeing out the 2026 season at Haas in Formula 1.The Ferrari protege is the reigning F3 champion and leads the F2 standings as a rookie with Invicta Racing, courtesy of a starring campaign in which he has taken five pole positions and seven feature race podiums including three victories.Esteban Ocon’s ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/rafael-camara-could-finish-the-2026-season-in-both-f1-and-f2/10875556/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YBVj1BzY/s6/rafael-camara-haas-f1-team.jpg",
-      "published_at": 1795082024000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/f1-mexico-gp-fallout-was-taken-out-of-proportion-charles-leclerc/10875534/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "F1 Mexico GP fallout was “taken out of proportion” - Charles Leclerc",
-      "snippet": "Charles Leclerc believes the reaction to his clash with Formula 1 team-mate Lewis Hamilton at the Mexico Grand Prix was “taken out of proportion”.The Scuderia lost a straightforward victory at Autodromo Hermanos Rodriguez three weeks ago after Leclerc attacked polesitter Hamilton on lap one, leading to both outbraking themselves at Turn 4.Red Bull’s Max Verstappen emerged victorious ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/f1-mexico-gp-fallout-was-taken-out-of-proportion-charles-leclerc/10875534/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXyjja6/s6/charles-leclerc-ferrari.jpg",
-      "published_at": 1795079088000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/lewis-hamilton-you-cant-be-the-only-one-pushing-for-change-in-f1/10875497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Lewis Hamilton: \"You can't be the only one pushing for change\" in F1",
-      "snippet": "Lewis Hamilton says he had hoped others in Formula 1 would follow his lead in speaking out on issues around the world, but admitted that \"so far that's not the case\".The seven-time world champion has used his platform for causes including diversity in motorsport and, more recently, the humanitarian crisis in Gaza.Asked by the media in Las Vegas ahead of this weekend's race whether more ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/lewis-hamilton-you-cant-be-the-only-one-pushing-for-change-in-f1/10875497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YvKBkKv6/s6/motorsport-com-graphics-2026-1-2.jpg",
-      "published_at": 1795075502000
     }
   ]
 }
