@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-20T00:33:07.821879Z",
+    "last_updated": "2026-11-20T01:03:23.342372Z",
     "total_news": 22
   },
   "news": [
@@ -15,11 +15,11 @@
     },
     {
       "id": "https://www.skysports.com/f1/live-blog/12433/13613211/f1-las-vegas-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-the-usa",
-      "title": "Las Vegas GP: Rain falling ahead of first practice LIVE!",
+      "title": "Las Vegas GP: Heavy rain falling in first practice LIVE!",
       "snippet": "",
       "link": "https://www.skysports.com/f1/live-blog/12433/13613211/f1-las-vegas-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-the-usa",
       "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-lewis-hamilton_7411016.jpg?20261119230640",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-las-vegas-sergio-perez_7411046.jpg?20261120005444",
       "published_at": 1795130700000
     },
     {
@@ -84,6 +84,15 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/68VwM4l2/s6/lewis-hamilton-ferrari.jpg",
       "published_at": 1795088942000
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13613909/biggest-talking-points-ahead-of-las-vegas-gp",
+      "title": "Battle for second and driver changes! Biggest talking points ahead of Las Vegas GP",
+      "snippet": "Craig Slater explains the biggest talking points ahead of the Las Vegas GP.",
+      "link": "https://www.skysports.com/watch/video/13613909/biggest-talking-points-ahead-of-las-vegas-gp",
+      "source_name": "Sky Sports",
+      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-las-vegas_7410326.jpg?20261119112001",
+      "published_at": 1795086300000
     },
     {
       "id": "https://www.autosport.com/f1/news/who-has-the-best-f1-power-unit-red-bull-or-mercedes-russell-shares-interesting-theory/10875591/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/6Alv98EY/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1795071610000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/charles-leclerc-admits-he-has-already-been-wearing-whoop-in-his-ferrari-f1-car/10875473/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Charles Leclerc reveals the gadget he’s been \"hiding\" in his Ferrari",
-      "snippet": "Charles Leclerc has revealed that he has already been wearing a WHOOP fitness tracker while driving his Ferrari, and says he has \"nothing to hide\" as Formula 1 prepares to put drivers' heart rates on screen.F1 announced on Wednesday that WHOOP will become an official partner of F1, with drivers wearing its wristbands in the car. Data such as heart rate will be used in social media graphics and ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/charles-leclerc-admits-he-has-already-been-wearing-whoop-in-his-ferrari-f1-car/10875473/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2eZxkZmY/s6/motorsport-com-graphics-2026-1.jpg",
-      "published_at": 1795070032000
     }
   ]
 }
