@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-20T06:32:17.695910Z",
+    "last_updated": "2026-11-20T07:02:33.012390Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
+      "title": "F1 Academy champion Palmowski claims dominant Las Vegas pole",
+      "snippet": "",
+      "link": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-alisha-palmowski_7411112.jpg?20261120063215",
+      "published_at": 1795156500000
+    },
     {
       "id": "https://www.skysports.com/f1/news/12433/13614180/las-vegas-gp-kimi-antonelli-to-serve-grid-penalty-along-with-oscar-piastri-carlos-sainz-lance-stroll-oliver-bearman",
       "title": "Antonelli hit with grid penalty for Las Vegas GP",
@@ -12,6 +21,33 @@
       "source_name": "Sky Sports",
       "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-kimi-antonelli-mercedes_7411091.jpg?20261120055053",
       "published_at": 1795154400000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo?at_medium=RSS&at_campaign=rss",
+      "title": "Russell fastest in Las Vegas practice after rain",
+      "snippet": "Mercedes' George Russell topped a second practice session at the Las Vegas Grand Prix run on a wet but slowly drying track.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e67/live/29186180-e4a0-11f1-a01e-f1ba573bc781.jpg",
+      "published_at": 1795156804000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/lewis-hamilton-plans-gta-vi-session-after-vegas-fp2-im-like-a-big-kid/10875895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Lewis Hamilton plans \"GTA VI\" session after Vegas FP2: \"I'm like a big kid\"",
+      "snippet": "Lewis Hamilton finished sixth in a slippery second practice for the Las Vegas Grand Prix, before what he had promised fans would be an early night at his hotel with the newly released Grand Theft Auto VI.The seven-time world champion was speaking on stage at PUMA's Under the Lights fan event at its Las Vegas store on Tuesday night, two days before the game's release.\"There's a new game ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/lewis-hamilton-plans-gta-vi-session-after-vegas-fp2-im-like-a-big-kid/10875895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPkN70/s6/lewis-hamilton-ferrari-a10875895-b708-2.jpg",
+      "published_at": 1795156625000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cvj6l7nk611jo?at_medium=RSS&at_campaign=rss",
+      "title": "F1 bosses close to V8 engines deal from 2030",
+      "snippet": "Formula 1 bosses are close to a deal that will see V8 turbo hybrid engines replace the current controversial engines in 2030.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cvj6l7nk611jo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b4d/live/7c0b88e0-e4aa-11f1-b0cf-f191d4983320.jpg",
+      "published_at": 1795156538000
     },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cm20vpq8z6n4o?at_medium=RSS&at_campaign=rss",
@@ -30,15 +66,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKzrKY/s6/isack-hadjar-red-bull-racing-a10875884-b707-2.jpg",
       "published_at": 1795155522000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo?at_medium=RSS&at_campaign=rss",
-      "title": "Russell fastest in Las Vegas practice after rain",
-      "snippet": "Mercedes' George Russell topped a second practice session at the Las Vegas Grand Prix run on a wet but slowly drying track.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e67/live/29186180-e4a0-11f1-a01e-f1ba573bc781.jpg",
-      "published_at": 1795154828000
     },
     {
       "id": "https://www.motorsport.com/f1/news/zak-brown-explains-why-mclaren-keeps-selling-f1-cars-before-they-race-ahead-of-2027-auction/10875872/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -149,15 +176,6 @@
       "published_at": 1795070343000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/lewis-hamilton-opens-up-on-f1-feeling-isolating-and-lonely-after-seeing-his-own-las-vegas-grandstand/10875545/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Lewis Hamilton opens up on \"isolating\" feeling after seeing his own F1 Las Vegas grandstand",
-      "snippet": "Nearly two decades into his Formula 1 career, Lewis Hamilton still is not taking the scale of his following for granted. Speaking on media day ahead of the 2026 Las Vegas Grand Prix, the seven-time world champion offered a rare glimpse into the emotional toll of paddock life when asked what it meant to see fans packing his own dedicated grandstand at the circuit.\"I never in a million years ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/lewis-hamilton-opens-up-on-f1-feeling-isolating-and-lonely-after-seeing-his-own-las-vegas-grandstand/10875545/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0Zq85G46/s6/lewis-hamilton-ferrari-a10875545-b704-2.jpg",
-      "published_at": 1795093596000
-    },
-    {
       "id": "https://www.motorsport.com/f1/news/lando-norris-a-hell-of-a-lot-of-money-riding-on-mclarens-fight-for-third/10875499/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Lando Norris: “A hell of a lot of money” riding on McLaren’s fight for third",
       "snippet": "With Mercedes having already sealed the 2026 constructors' championship and Ferrari sitting clear in second, McLaren's remaining focus across Las Vegas, Qatar, and Abu Dhabi comes down to one battle: overturning a 17-point deficit to Red Bull Racing for third place.Red Bull enters the Las Vegas Grand Prix on 415 points to McLaren's 398. Beyond bragging rights, the gap between third and fourth ...Keep reading",
@@ -183,24 +201,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-las-vegas_7410326.jpg?20261119112001",
       "published_at": 1795086300000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/who-has-the-best-f1-power-unit-red-bull-or-mercedes-russell-shares-interesting-theory/10875591/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Who has the best F1 power unit: Red Bull or Mercedes? Russell shares interesting theory",
-      "snippet": "The Las Vegas Grand Prix promises to be an interesting challenge for Formula 1 teams in several respects, arguably even more so than in previous years. With the 2026 cars producing less downforce and relying on active aerodynamics, getting temperature into the Pirelli tyres – and, given the long straights, keeping it there – promises to be even more difficult than before.According to newly ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/who-has-the-best-f1-power-unit-red-bull-or-mercedes-russell-shares-interesting-theory/10875591/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPwaJ0/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": 1795085252000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/charles-leclerc-on-journalist-ban-i-was-surprised-by-the-choice-of-words/10875509/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Charles Leclerc on journalist ban: “I was surprised by the choice of words”",
-      "snippet": "Charles Leclerc had no hand in getting a veteran Formula 1 reporter barred from the paddock, and he isn't interested in policing the press - even when the headlines get a little personal.Addressing the media ahead of the 2026 Las Vegas Grand Prix, the Ferrari driver spoke for the first time about the FIA’s decision to revoke Daily Mail journalist Jonathan McEvoy’s accreditation for the ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/charles-leclerc-on-journalist-ban-i-was-surprised-by-the-choice-of-words/10875509/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/68Vwy382/s6/charles-leclerc-ferrari-a10875509-b704-4.jpg",
-      "published_at": 1795084913000
     }
   ]
 }
