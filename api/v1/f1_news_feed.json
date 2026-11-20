@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-20T08:02:25.245186Z",
+    "last_updated": "2026-11-20T08:32:15.380494Z",
     "total_news": 22
   },
   "news": [
@@ -23,13 +23,31 @@
       "published_at": 1795154400000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/same-as-brazil-red-bull-trying-to-understand-the-root-cause-of-max-verstappens-complaints/10875939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "\"Same as Brazil\" – Red Bull \"trying to understand\" the root cause of Max Verstappen's complaints",
-      "snippet": "After Thursday's practice sessions in Las Vegas, Red Bull – like all Formula 1 teams – has been left with very few answers. Isack Hadjar eventually finished fourth on the timesheets, but that means very little given that no more rain is forecast for the remainder of the weekend.The conditions were therefore not representative during the practice day, and that was precisely why Max ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/same-as-brazil-red-bull-trying-to-understand-the-root-cause-of-max-verstappens-complaints/10875939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "id": "https://www.motorsport.com/f1/news/pirelli-introduces-stint-limit-for-f1-qatar-gp-but-increases-total-from-2025/10875950/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Pirelli reintroduces stint limit for F1 Qatar GP",
+      "snippet": "Formula 1 teams will again have to follow a prescribed stint limit for each car at the Qatar Grand Prix to protect the Pirelli tyres around the high-degradation track.Drivers must complete no more than 27 laps per stint at Lusail International Circuit, meaning teams will likely opt for a two-stop strategy in the 57-lap race.It is a similar situation to last year when stints were limited ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/pirelli-introduces-stint-limit-for-f1-qatar-gp-but-increases-total-from-2025/10875950/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7LrbjY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": 1795161043000
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0kZAZnV6/s6/lusail-city-qatar-november-30-.jpg",
+      "published_at": 1795162888000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/same-as-brazil-red-bull-trying-to-understand-the-root-cause-of-verstappens-complaints/10875945/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "\"Same as Brazil\" – Red Bull \"trying to understand\" the root cause of Verstappen's complaints",
+      "snippet": "After Thursday's practice sessions in Las Vegas, Red Bull – like all Formula 1 teams – has been left with very few answers. Isack Hadjar eventually finished fourth on the timesheets, but that means very little given that no more rain is forecast for the remainder of the weekend.The conditions were therefore not representative during the practice day, and that was precisely why Max ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/same-as-brazil-red-bull-trying-to-understand-the-root-cause-of-verstappens-complaints/10875945/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0arEG1p2/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": 1795162375000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13614182/lando-norris-mclaren-chief-zak-brown-says-he-wouldnt-trade-2025-world-champion-for-any-other-driver-on-f1-grid",
+      "title": "Brown: McLaren wouldn't trade Norris for anyone else on F1 grid",
+      "snippet": "McLaren chief Zak Brown says he would not want to trade Lando Norris for anyone else on the Formula 1 grid.",
+      "link": "https://www.skysports.com/f1/news/12433/13614182/lando-norris-mclaren-chief-zak-brown-says-he-wouldnt-trade-2025-world-champion-for-any-other-driver-on-f1-grid",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-lando-norris-mclaren_7411177.jpg?20261120074609",
+      "published_at": 1795161000000
     },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo?at_medium=RSS&at_campaign=rss",
@@ -131,6 +149,15 @@
       "published_at": 1795147314000
     },
     {
+      "id": "https://www.skysports.com/watch/video/13614217/las-vegas-gp-watch-onboard-as-max-verstappen-battles-heavy-rain-during-p1",
+      "title": "'Look at that visibility!' - Watch onboard as Verstappen battles heavy rain in Vegas!",
+      "snippet": "Red Bull's Max Verstappen battles the elements during the first practice session at the Las Vegas GP.",
+      "link": "https://www.skysports.com/watch/video/13614217/las-vegas-gp-watch-onboard-as-max-verstappen-battles-heavy-rain-during-p1",
+      "source_name": "Sky Sports",
+      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-max-verstappen_7411054.jpg?20261120020907",
+      "published_at": 1795139940000
+    },
+    {
       "id": "https://www.motorsport.com/f1/news/lando-norris-confident-f1-would-not-put-us-at-risk-in-the-middle-east/10875771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Lando Norris confident F1 would not \"put us at risk\" in the Middle East",
       "snippet": "2025 Formula 1 champion Lando Norris says he has no concerns about the final two races of the season in the Middle East, insisting the championship would not put its drivers and teams at risk.After this weekend's race in Las Vegas, the championship heads to Qatar from 27-29 November and then Abu Dhabi from 4-6 December.F1 has had to adapt its calendar this year because of the situation in ...Keep reading",
@@ -154,7 +181,7 @@
       "snippet": "",
       "link": "https://www.skysports.com/f1/live-blog/12433/13613211/f1-las-vegas-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-the-usa",
       "source_name": "Sky Sports",
-      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-lewis-hamilton-ferrari_7411134.jpg?20261120070030",
+      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-lewis-hamilton-ferrari_7411134.jpg?20261120081129",
       "published_at": 1795130700000
     },
     {
@@ -174,33 +201,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/581d/live/36962940-e460-11f1-8809-f739ad30238c.jpg",
       "published_at": 1795124362000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/oscar-piastri-addresses-management-plans-after-mark-webber-split/10875654/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Oscar Piastri addresses management plans after Mark Webber split",
-      "snippet": "McLaren Formula 1 driver Oscar Piastri says his upcoming management structure is yet to be defined, after his partnership with managers Ann and Mark Webber was terminated.Piastri put out a joint press release on 9 November, indicating he and the Webbers had “mutually ended their agreement”.Their seven-year partnership saw the youngster’s meteoric rise in junior formulae, with ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/oscar-piastri-addresses-management-plans-after-mark-webber-split/10875654/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6zoDBPe0/s6/oscar-piastri-mclaren-2.jpg",
-      "published_at": 1795115312000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/charles-leclerc-brazil-penalty-for-liam-lawson-contact-was-a-bit-harsh/10875477/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Charles Leclerc brands Brazil penalty for Liam Lawson contact \"a bit harsh\"",
-      "snippet": "Ferrari Formula 1 driver Charles Leclerc has branded his five-second penalty that cost him seventh place at the Brazilian Grand Prix as \"harsh\", arguing that his contact with Racing Bulls driver Liam Lawson was \"part of racing\".The Monegasque driver tapped the left rear of Lawson's Racing Bulls car at Turn 12 on the penultimate lap at Interlagos, before passing him five corners later. The ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/charles-leclerc-brazil-penalty-for-liam-lawson-contact-was-a-bit-harsh/10875477/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0kZXkZl6/s6/motorsport-com-graphics-7.jpg",
-      "published_at": 1795070343000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/lando-norris-a-hell-of-a-lot-of-money-riding-on-mclarens-fight-for-third/10875499/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Lando Norris: “A hell of a lot of money” riding on McLaren’s fight for third",
-      "snippet": "With Mercedes having already sealed the 2026 constructors' championship and Ferrari sitting clear in second, McLaren's remaining focus across Las Vegas, Qatar, and Abu Dhabi comes down to one battle: overturning a 17-point deficit to Red Bull Racing for third place.Red Bull enters the Las Vegas Grand Prix on 415 points to McLaren's 398. Beyond bragging rights, the gap between third and fourth ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/lando-norris-a-hell-of-a-lot-of-money-riding-on-mclarens-fight-for-third/10875499/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwLvB2/s6/lando-norris-mclaren-a10875499-b706-2.jpg",
-      "published_at": 1795089002000
     }
   ]
 }
