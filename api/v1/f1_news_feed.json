@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-20T09:32:19.490151Z",
+    "last_updated": "2026-11-20T10:02:23.961862Z",
     "total_news": 22
   },
   "news": [
@@ -21,6 +21,15 @@
       "source_name": "Sky Sports",
       "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-kimi-antonelli-mercedes_7411091.jpg?20261120055053",
       "published_at": 1795154400000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/george-russell-impressed-by-exceptionally-fast-mclaren-as-rain-delays-lando-norris-floor-test/10875966/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "George Russell impressed by \"exceptionally fast\" McLaren as rain delays Lando Norris' floor test",
+      "snippet": "George Russell came out of nowhere to set the fastest time in the closing stages of the second Formula 1 practice session in Las Vegas, although Alpine driver Pierre Gasly almost caused a major surprise by beating him.The Frenchman ultimately fell just 0.071 seconds short, leaving the Mercedes works team at the top of the timesheets.According to Russell, however, that result does not ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/george-russell-impressed-by-exceptionally-fast-mclaren-as-rain-delays-lando-norris-floor-test/10875966/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2dEolNeY/s6/lando-norris-mclaren.jpg",
+      "published_at": 1795167074000
     },
     {
       "id": "https://www.motorsport.com/f1/news/pirelli-introduces-stint-limit-for-f1-qatar-gp-but-increases-total-from-2025/10875950/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/Y9lNEBG2/s6/lewis-hamilton-ferrari-a10875488-b704-4.jpg",
       "published_at": 1795128625000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cv62pxxkz8wxo?at_medium=RSS&at_campaign=rss",
-      "title": "F1 to introduce full-time race stewards from 2027",
-      "snippet": "Formula 1's governing body the FIA is to introduce permanent race stewards from the 2027 season.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cv62pxxkz8wxo?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/581d/live/36962940-e460-11f1-8809-f739ad30238c.jpg",
-      "published_at": 1795124362000
     }
   ]
 }
