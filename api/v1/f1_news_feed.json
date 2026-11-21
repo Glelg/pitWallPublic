@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-21T09:32:18.498371Z",
+    "last_updated": "2026-11-21T10:02:24.839217Z",
     "total_news": 22
   },
   "news": [
@@ -21,6 +21,15 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ba/live/bb976db0-e56f-11f1-b01f-57dbbf219200.jpg",
       "published_at": 1795240450000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/fernando-alonso-honda-lacks-so-much-power-that-rivals-take-extra-margin-behind-us/10876414/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Fernando Alonso: Honda lacks so much power that rivals take extra margin behind us",
+      "snippet": "Fernando Alonso says Honda’s power deficit is so dire that other cars are taking extra margin around the Aston Martins at Formula 1’s Las Vegas Grand Prix.The Nevadan street circuit was expected to expose the Japanese power unit’s deficiencies, with a near-2km full-throttle portion. Alonso and Lance Stroll unsurprisingly failed to escape Q1, where the two-time world champion was 1.251s ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/fernando-alonso-honda-lacks-so-much-power-that-rivals-take-extra-margin-behind-us/10876414/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7Q8pK6/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": 1795254219000
     },
     {
       "id": "https://www.motorsport.com/f1/news/max-verstappen-reveals-mysterious-red-bull-issue-that-cannot-be-fixed-in-las-vegas/10876399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/0kZAZnV6/s6/lusail-city-qatar-november-30-.jpg",
       "published_at": 1795162888000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13614182/lando-norris-mclaren-chief-zak-brown-says-he-wouldnt-trade-2025-world-champion-for-any-other-driver-on-f1-grid",
-      "title": "Brown: McLaren wouldn't trade Norris for anyone else on F1 grid",
-      "snippet": "McLaren chief Zak Brown says he would not want to trade Lando Norris for anyone else on the Formula 1 grid.",
-      "link": "https://www.skysports.com/f1/news/12433/13614182/lando-norris-mclaren-chief-zak-brown-says-he-wouldnt-trade-2025-world-champion-for-any-other-driver-on-f1-grid",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-lando-norris-mclaren_7411177.jpg?20261120074609",
-      "published_at": 1795161000000
     }
   ]
 }
