@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-21T07:32:24.785066Z",
+    "last_updated": "2026-11-21T08:02:25.487600Z",
     "total_news": 22
   },
   "news": [
@@ -23,13 +23,22 @@
       "published_at": 1795240450000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/lando-norris-slams-mclaren-as-awful-in-the-straight-despite-third-on-las-vegas-gp-grid/10876306/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Lando Norris brands McLaren “awful in the straight” despite third on Las Vegas GP grid",
-      "snippet": "Lando Norris will launch from third on the grid for the 2026 Las Vegas Grand Prix after setting a 1m34.244s in Q3 - just 0.093 seconds shy of inherited polesitter Max Verstappen and 0.020s behind Mercedes’ George Russell. On paper, locking down the second row looks like a tidy recovery for McLaren. Yet Norris stepped out of the cockpit delivering one of his sharpest criticisms of the MCL40 all ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/lando-norris-slams-mclaren-as-awful-in-the-straight-despite-third-on-las-vegas-gp-grid/10876306/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "id": "https://www.motorsport.com/f1/news/we-lost-one-second-down-the-straight-charles-leclerc-upset-with-ferraris-crazy-las-vegas-deficiency/10876355/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "“We lost one second down the straight” – Charles Leclerc upset with Ferrari’s “crazy” Las Vegas deficiency",
+      "snippet": "Charles Leclerc is “very disappointed” with Ferrari’s performance at Formula 1’s Las Vegas Grand Prix as both cars were eliminated in Q2.Leclerc and team-mate Lewis Hamilton were fourth and eighth in FP3 - the only dry-weather free practice session - but later endured a tougher qualifying.The Monegasque did take third position in Q1 while Hamilton struggled to 13th after picking ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/we-lost-one-second-down-the-straight-charles-leclerc-upset-with-ferraris-crazy-las-vegas-deficiency/10876355/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKznbY/s6/lando-norris-mclaren-a10876306-b706-2.jpg",
-      "published_at": 1795245024000
+      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwBJD2/s6/charles-leclerc-ferrari.jpg",
+      "published_at": 1795247413000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13614576/george-russell-hits-out-at-max-verstappen-after-las-vegas-gp-clash-and-says-somebodys-got-to-stand-up-to-that-guy",
+      "title": "'Somebody’s got to stand up to that guy' - Russell slams Verstappen after clash",
+      "snippet": "George Russell launched a scathing criticism of Max Verstappen after a collision between the pair in final practice at the Las Vegas Grand Prix ahead of a race they will now start on the front row together.",
+      "link": "https://www.skysports.com/f1/news/12433/13614576/george-russell-hits-out-at-max-verstappen-after-las-vegas-gp-clash-and-says-somebodys-got-to-stand-up-to-that-guy",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-max-verstappen-red-bull_7412048.jpg?20261121070601",
+      "published_at": 1795244400000
     },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cx4gnlr603mqo?at_medium=RSS&at_campaign=rss",
@@ -41,15 +50,6 @@
       "published_at": 1795243722000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/floor-damage-deployment-down-to-hamiltons-las-vegas-q2-exit/10876295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Lewis Hamilton reveals Ferrari F1 car damage after Las Vegas Q2 exit",
-      "snippet": "Lewis Hamilton put Ferrari's Q2 exit in qualifying for the Las Vegas Grand Prix down to energy deployment and floor damage, as the seven-time champion felt he'd rallied from difficulties with overall tyre grip.The Briton struggled throughout FP3 under braking, as the front tyres proved particularly lock-up prone and resulted in Hamilton enduring multiple excursions into the ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/floor-damage-deployment-down-to-hamiltons-las-vegas-q2-exit/10876295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YMXb8Qv2/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": 1795243671000
-    },
-    {
       "id": "https://www.motorsport.com/f1/news/isack-hadjar-red-bull-looked-a-bit-stupid-in-vegas-qualifying-tow-game/10876319/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Isack Hadjar: Red Bull \"looked a bit stupid\" in Vegas qualifying tow game",
       "snippet": "Isack Hadjar has admitted that Red Bull \"looked a bit stupid\" in what became a tow battle at the end of Las Vegas Grand Prix qualifying. He says it \"doesn't really matter\" where he starts on Saturday night.Hadjar set the fifth-fastest time in Q3, 0.699s behind Kimi Antonelli, while team-mate Max Verstappen took pole after the Italian's five-place grid penalty. Hadjar moves up to fourth on ...Keep reading",
@@ -59,22 +59,22 @@
       "published_at": 1795242985000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/charles-leclerc-frustrated-after-qualifying-exposes-huge-ferrari-deficit-in-vegas/10876297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Charles Leclerc frustrated after qualifying exposes huge Ferrari deficit in Vegas",
-      "snippet": "Charles Leclerc has confirmed that Ferrari \"lost one second down the straight\" during qualifying for the Las Vegas Grand Prix as his frustration builds following a build-up of mistakes from the team and a Q2 exit. Leclerc qualified 11th, just 0.111 seconds off the Q3 cut-off and one place ahead of a struggling Lewis Hamilton. It was Ferrari's first double Q2 exit since Imola last year.The ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/charles-leclerc-frustrated-after-qualifying-exposes-huge-ferrari-deficit-in-vegas/10876297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "id": "https://www.motorsport.com/f1/news/lewis-hamilton-reveals-floor-damage-cost-him-in-f1-las-vegas-qualifying/10876261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Lewis Hamilton reveals floor damage cost him in F1 Las Vegas qualifying",
+      "snippet": "Seven-time Formula 1 champion Lewis Hamilton says floor damage and a lack of energy deployment cost him a place in Q3 in the Las Vegas Grand Prix qualifying session.The Ferrari driver qualified 12th, just 0.167 seconds away from making the top 10, one place behind team-mate Charles Leclerc. It was Ferrari's first double Q2 exit since Imola last year.Hamilton, who is currently fighting for ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/lewis-hamilton-reveals-floor-damage-cost-him-in-f1-las-vegas-qualifying/10876261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2jEAkRg0/s6/charles-leclerc-ferrari-a10876297-b704-4.jpg",
-      "published_at": 1795241828000
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPkN70/s6/lewis-hamilton-ferrari-a10876261-b704-2.jpg",
+      "published_at": 1795240170000
     },
     {
-      "id": "https://www.skysports.com/watch/video/13614601/las-vegas-grand-prix-qualifying-highlights",
-      "title": "Las Vegas Grand Prix - Qualifying Highlights",
-      "snippet": "Highlights from qualifying for the 2026 Las Vegas Grand Prix.",
-      "link": "https://www.skysports.com/watch/video/13614601/las-vegas-grand-prix-qualifying-highlights",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-motorsport-f1_7412005.jpg?20261121051734",
-      "published_at": 1795237800000
+      "id": "https://www.motorsport.com/f1/news/2026-f1-las-vegas-grand-prix-starting-grid/10876250/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "2026 F1 Las Vegas Grand Prix starting grid",
+      "snippet": "2 George Russell(Mercedes)1 Max Verstappen(Red Bull) 4 Isack Hadjar(Red Bull)3 Lando ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/2026-f1-las-vegas-grand-prix-starting-grid/10876250/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGgOAVY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": 1795239161000
     },
     {
       "id": "https://www.skysports.com/f1/news/12433/13614482/v8-engines-returning-to-formula-1-in-2030-as-fia-president-mohammed-ben-sulayem-describes-move-to-reconnect-with-dna-of-the-sport",
@@ -176,6 +176,15 @@
       "published_at": 1795169320000
     },
     {
+      "id": "https://www.motorsport.com/f1/news/george-russell-impressed-by-exceptionally-fast-mclaren-as-rain-delays-lando-norris-floor-test/10875966/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "George Russell impressed by \"exceptionally fast\" McLaren as rain delays Lando Norris' floor test",
+      "snippet": "George Russell came out of nowhere to set the fastest time in the closing stages of the second Formula 1 practice session in Las Vegas, although Alpine driver Pierre Gasly almost caused a major surprise by beating him.The Frenchman ultimately fell just 0.071 seconds short, leaving the Mercedes works team at the top of the timesheets.According to Russell, however, that result does not ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/george-russell-impressed-by-exceptionally-fast-mclaren-as-rain-delays-lando-norris-floor-test/10875966/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2dEolNeY/s6/lando-norris-mclaren.jpg",
+      "published_at": 1795167074000
+    },
+    {
       "id": "https://www.motorsport.com/f1/news/pirelli-introduces-stint-limit-for-f1-qatar-gp-but-increases-total-from-2025/10875950/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Pirelli reintroduces stint limit for F1 Qatar GP",
       "snippet": "Formula 1 teams will again have to follow a prescribed stint limit for each car at the Qatar Grand Prix to protect the Pirelli tyres around the high-degradation track.Drivers must complete no more than 27 laps per stint at Lusail International Circuit, meaning teams will likely opt for a two-stop strategy in the 57-lap race.It is a similar situation to last year when stints were limited ...Keep reading",
@@ -192,15 +201,6 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/0arEG1p2/s6/max-verstappen-red-bull-racing-2.jpg",
       "published_at": 1795162375000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cm20vpq8z6n4o?at_medium=RSS&at_campaign=rss",
-      "title": "The art of protection - inside an F1 helmet factory",
-      "snippet": "Inside the extraordinary world of Formula 1 helmets, where precision engineering, personal expression and life-saving technology join forces.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm20vpq8z6n4o?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae4/live/a165cb70-e35e-11f1-99a1-253766e7ad8b.jpg",
-      "published_at": 1795156144000
     }
   ]
 }
