@@ -1977,7 +1977,11 @@
           "session_key": 11416,
           "session_name": "Qualifying",
           "session_type": "Qualifying",
-          "date_start": "2026-11-21T04:00:00+00:00"
+          "date_start": "2026-11-21T04:00:00+00:00",
+          "weather": {
+            "temp": 9.2,
+            "weather_code": 1
+          }
         },
         {
           "session_key": 11420,
