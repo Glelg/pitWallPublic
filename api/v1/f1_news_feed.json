@@ -1,9 +1,27 @@
 {
   "metadata": {
-    "last_updated": "2026-11-21T04:03:22.621403Z",
+    "last_updated": "2026-11-21T05:32:24.053802Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss",
+      "title": "Antonelli fastest but penalty leaves Verstappen on pole",
+      "snippet": "Mercedes' Kimi Antonelli is fastest in qualifying for the Las Vegas Grand Prix but a grid penalty hands pole position to Red Bull's Max Verstappen.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f05e/live/fd064790-e569-11f1-995c-a7e93706c082.jpg",
+      "published_at": 1795239080000
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13614601/las-vegas-grand-prix-qualifying-highlights",
+      "title": "Las Vegas Grand Prix - Qualifying Highlights",
+      "snippet": "Highlights from qualifying for the 2026 Las Vegas Grand Prix.",
+      "link": "https://www.skysports.com/watch/video/13614601/las-vegas-grand-prix-qualifying-highlights",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-motorsport-f1_7412005.jpg?20261121051734",
+      "published_at": 1795237800000
+    },
     {
       "id": "https://www.skysports.com/f1/news/12433/13614482/v8-engines-returning-to-formula-1-in-2030-as-fia-president-mohammed-ben-sulayem-describes-move-to-reconnect-with-dna-of-the-sport",
       "title": "V8 engines return confirmed in bid to 'reconnect with DNA' of F1",
@@ -183,24 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKzrKY/s6/isack-hadjar-red-bull-racing-a10875884-b707-2.jpg",
       "published_at": 1795155522000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/zak-brown-explains-why-mclaren-keeps-selling-f1-cars-before-they-race-ahead-of-2027-auction/10875872/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Zak Brown explains why McLaren keeps selling F1 cars before they race ahead of 2027 auction",
-      "snippet": "McLaren Racing CEO Zak Brown has explained why the Woking outfit is selling its Formula 1 cars at auction before they have even turned a wheel, saying the alternative is leaving them hidden away.McLaren will auction its 2027 car, the MCL41, with RM Sotheby's in Abu Dhabi on 9 December, three days after the season finale. A chassis used by either Lando Norris or Oscar Piastri will be offered ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/zak-brown-explains-why-mclaren-keeps-selling-f1-cars-before-they-race-ahead-of-2027-auction/10875872/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7LrQ8Y/s6/zak-brown-mclaren-a10875872-b706-2.jpg",
-      "published_at": 1795154040000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cx4gnlr603mqo?at_medium=RSS&at_campaign=rss",
-      "title": "How to follow Las Vegas Grand Prix on the BBC",
-      "snippet": "All the key BBC coverage details for the Las Vegas Grand Prix, which takes place from 20-22 November.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cx4gnlr603mqo?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b17f/live/9bd4e250-ddc2-11f1-a50f-85eebf9e50e5.jpg",
-      "published_at": 1795153183000
     }
   ]
 }
