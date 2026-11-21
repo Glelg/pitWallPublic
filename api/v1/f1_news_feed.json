@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-21T03:02:28.952108Z",
+    "last_updated": "2026-11-21T03:33:10.405770Z",
     "total_news": 22
   },
   "news": [
@@ -12,6 +12,15 @@
       "source_name": "Sky Sports",
       "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-max-verstappen_7374105.jpg?20261011142434",
       "published_at": 1795205400000
+    },
+    {
+      "id": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
+      "title": "Larsen holds off Palmowski to win opening Las Vegas race",
+      "snippet": "",
+      "link": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-alba-larsen_7386332.jpg?20261025013436",
+      "published_at": 1795230000000
     },
     {
       "id": "https://www.autosport.com/f1/news/f1-las-vegas-gp-russell-fastest-in-final-practice-after-verstappen-collision/10876189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -192,15 +201,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b17f/live/9bd4e250-ddc2-11f1-a50f-85eebf9e50e5.jpg",
       "published_at": 1795153183000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/where-to-see-f1-cars-in-las-vegas-without-a-race-ticket/10875839/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Where to see F1 cars in Las Vegas without a race ticket",
-      "snippet": "You do not need a grandstand seat to get close to a Formula 1 car in Las Vegas this week.Teams, partners and resorts have parked show cars and replicas all over the Strip for the Las Vegas Grand Prix, and most of them are free to visit. Here is where to find them.Mercedes, BellagioThe world champions have the biggest set-up. The Mercedes Fan Hub in Bellagio's main porte cochere has a ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/where-to-see-f1-cars-in-las-vegas-without-a-race-ticket/10875839/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPkjP0/s6/gabriel-bortoleto-audi-f1-team-a10875839-b708-2.jpg",
-      "published_at": 1795150623000
     }
   ]
 }
