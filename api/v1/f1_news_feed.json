@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-20T23:32:22.698437Z",
+    "last_updated": "2026-11-21T00:33:10.250915Z",
     "total_news": 22
   },
   "news": [
@@ -12,6 +12,15 @@
       "source_name": "Sky Sports",
       "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-max-verstappen_7374105.jpg?20261011142434",
       "published_at": 1795205400000
+    },
+    {
+      "id": "https://www.skysports.com/f1/live-blog/12433/13613768/f1-las-vegas-gp-qualifying-and-final-practice-updates-results-stream-and-highlights-from-formula-1-race-weekend-on-the-strip",
+      "title": "Las Vegas GP: Busy final practice anticipated with no rain expected LIVE!",
+      "snippet": "",
+      "link": "https://www.skysports.com/f1/live-blog/12433/13613768/f1-las-vegas-gp-qualifying-and-final-practice-updates-results-stream-and-highlights-from-formula-1-race-weekend-on-the-strip",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-max-verstappen_7411914.jpg?20261120231508",
+      "published_at": 1795217400000
     },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cvj6l7nk611jo?at_medium=RSS&at_campaign=rss",
@@ -131,15 +140,6 @@
       "published_at": 1795161000000
     },
     {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo?at_medium=RSS&at_campaign=rss",
-      "title": "Russell fastest in Las Vegas practice after rain",
-      "snippet": "Mercedes' George Russell topped a second practice session at the Las Vegas Grand Prix run on a wet but slowly drying track.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e67/live/29186180-e4a0-11f1-a01e-f1ba573bc781.jpg",
-      "published_at": 1795156804000
-    },
-    {
       "id": "https://www.motorsport.com/f1/news/lewis-hamilton-plans-gta-vi-session-after-vegas-fp2-im-like-a-big-kid/10875895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Lewis Hamilton plans \"GTA VI\" session after Vegas FP2: \"I'm like a big kid\"",
       "snippet": "Lewis Hamilton finished sixth in a slippery second practice for the Las Vegas Grand Prix, before what he had promised fans would be an early night at his hotel with the newly released Grand Theft Auto VI.The seven-time world champion was speaking on stage at PUMA's Under the Lights fan event at its Las Vegas store on Tuesday night, two days before the game's release.\"There's a new game ...Keep reading",
@@ -156,6 +156,15 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae4/live/a165cb70-e35e-11f1-99a1-253766e7ad8b.jpg",
       "published_at": 1795156144000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sounds/play/p0pnz4yg?at_medium=RSS&at_campaign=rss",
+      "title": "F1: Chequered Flag",
+      "snippet": "Hamilton's Ferrari dynamic & Verstappen’s trust in F1 dominate the build-up to Vegas.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pnz4yg?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
+      "published_at": 1795156080000
     },
     {
       "id": "https://www.motorsport.com/f1/news/isack-hadjar-i-realised-why-max-is-a-four-time-world-champion/10875884/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -185,22 +194,13 @@
       "published_at": 1795153183000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/where-to-see-f1-cars-in-las-vegas-without-a-race-ticket/10875839/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Where to see F1 cars in Las Vegas without a race ticket",
-      "snippet": "You do not need a grandstand seat to get close to a Formula 1 car in Las Vegas this week.Teams, partners and resorts have parked show cars and replicas all over the Strip for the Las Vegas Grand Prix, and most of them are free to visit. Here is where to find them.Mercedes, BellagioThe world champions have the biggest set-up. The Mercedes Fan Hub in Bellagio's main porte cochere has a ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/where-to-see-f1-cars-in-las-vegas-without-a-race-ticket/10875839/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "id": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-fp2-report/10875824/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "F1 Las Vegas GP: George Russell pips Pierre Gasly in tricky FP2",
+      "snippet": "George Russell pipped Pierre Gasly to go fastest in second practice for the Formula 1 Las Vegas Grand Prix thanks to a last-gasp effort in slippery conditions.The Mercedes driver set a 1m47.272s as the chequered flag flew, putting him 0.071s ahead of Gasly, who benefitted from track evolution to take a shock second for Alpine. This was the first relatively meaningful session of the ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-fp2-report/10875824/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPkjP0/s6/gabriel-bortoleto-audi-f1-team-a10875839-b708-2.jpg",
-      "published_at": 1795150623000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/zak-brown-confirms-agreement-in-principle-on-f1s-v8-return-after-deleted-fia-posts/10875816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Zak Brown confirms “agreement in principle” on F1’s V8 return after deleted FIA posts",
-      "snippet": "Confusion hung over the Las Vegas Grand Prix paddock all week after official FIA social media channels briefly published—and abruptly deleted—graphics declaring an agreement in principle to bring V8 engines back to Formula 1 in 2030. While FIA President Mohammed Ben Sulayem’s Tuesday Instagram teaser remained online, the sudden walk-back left drivers and fans wondering whether a deal ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/zak-brown-confirms-agreement-in-principle-on-f1s-v8-return-after-deleted-fia-posts/10875816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YpbAkjd0/s6/zak-brown-mclaren-a10875816-b706-2.jpg",
-      "published_at": 1795149434000
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2eZxkN1Y/s6/george-russell-mercedes-2.jpg",
+      "published_at": 1795152173000
     }
   ]
 }
