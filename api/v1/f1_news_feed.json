@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-21T07:02:27.588264Z",
+    "last_updated": "2026-11-21T07:32:24.785066Z",
     "total_news": 22
   },
   "news": [
@@ -21,6 +21,15 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ba/live/bb976db0-e56f-11f1-b01f-57dbbf219200.jpg",
       "published_at": 1795240450000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/lando-norris-slams-mclaren-as-awful-in-the-straight-despite-third-on-las-vegas-gp-grid/10876306/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Lando Norris brands McLaren “awful in the straight” despite third on Las Vegas GP grid",
+      "snippet": "Lando Norris will launch from third on the grid for the 2026 Las Vegas Grand Prix after setting a 1m34.244s in Q3 - just 0.093 seconds shy of inherited polesitter Max Verstappen and 0.020s behind Mercedes’ George Russell. On paper, locking down the second row looks like a tidy recovery for McLaren. Yet Norris stepped out of the cockpit delivering one of his sharpest criticisms of the MCL40 all ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/lando-norris-slams-mclaren-as-awful-in-the-straight-despite-third-on-las-vegas-gp-grid/10876306/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKznbY/s6/lando-norris-mclaren-a10876306-b706-2.jpg",
+      "published_at": 1795245024000
     },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cx4gnlr603mqo?at_medium=RSS&at_campaign=rss",
@@ -57,15 +66,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/2jEAkRg0/s6/charles-leclerc-ferrari-a10876297-b704-4.jpg",
       "published_at": 1795241828000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/2026-f1-las-vegas-grand-prix-starting-grid/10876250/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "2026 F1 Las Vegas Grand Prix starting grid",
-      "snippet": "2 George Russell(Mercedes)1 Max Verstappen(Red Bull) 4 Isack Hadjar(Red Bull)3 Lando ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/2026-f1-las-vegas-grand-prix-starting-grid/10876250/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGgOAVY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": 1795239161000
     },
     {
       "id": "https://www.skysports.com/watch/video/13614601/las-vegas-grand-prix-qualifying-highlights",
@@ -176,15 +176,6 @@
       "published_at": 1795169320000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/george-russell-impressed-by-exceptionally-fast-mclaren-as-rain-delays-lando-norris-floor-test/10875966/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "George Russell impressed by \"exceptionally fast\" McLaren as rain delays Lando Norris' floor test",
-      "snippet": "George Russell came out of nowhere to set the fastest time in the closing stages of the second Formula 1 practice session in Las Vegas, although Alpine driver Pierre Gasly almost caused a major surprise by beating him.The Frenchman ultimately fell just 0.071 seconds short, leaving the Mercedes works team at the top of the timesheets.According to Russell, however, that result does not ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/george-russell-impressed-by-exceptionally-fast-mclaren-as-rain-delays-lando-norris-floor-test/10875966/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2dEolNeY/s6/lando-norris-mclaren.jpg",
-      "published_at": 1795167074000
-    },
-    {
       "id": "https://www.motorsport.com/f1/news/pirelli-introduces-stint-limit-for-f1-qatar-gp-but-increases-total-from-2025/10875950/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Pirelli reintroduces stint limit for F1 Qatar GP",
       "snippet": "Formula 1 teams will again have to follow a prescribed stint limit for each car at the Qatar Grand Prix to protect the Pirelli tyres around the high-degradation track.Drivers must complete no more than 27 laps per stint at Lusail International Circuit, meaning teams will likely opt for a two-stop strategy in the 57-lap race.It is a similar situation to last year when stints were limited ...Keep reading",
@@ -201,6 +192,15 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/0arEG1p2/s6/max-verstappen-red-bull-racing-2.jpg",
       "published_at": 1795162375000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cm20vpq8z6n4o?at_medium=RSS&at_campaign=rss",
+      "title": "The art of protection - inside an F1 helmet factory",
+      "snippet": "Inside the extraordinary world of Formula 1 helmets, where precision engineering, personal expression and life-saving technology join forces.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm20vpq8z6n4o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae4/live/a165cb70-e35e-11f1-99a1-253766e7ad8b.jpg",
+      "published_at": 1795156144000
     }
   ]
 }
