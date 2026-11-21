@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-21T06:02:29.953909Z",
+    "last_updated": "2026-11-21T06:32:18.726084Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.motorsport.com/f1/news/toto-wolff-george-russell-was-in-the-perfect-position-for-pole-at-f1s-las-vegas-gp/10876274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Toto Wolff: George Russell was in the \"perfect position\" for pole at F1's Las Vegas GP",
+      "snippet": "Mercedes boss Toto Wolff believes George Russell was in the “perfect position” to take pole at the Formula 1 Las Vegas Grand Prix - an honour which ultimately fell to Max Verstappen.The Red Bull driver will start Saturday night’s race from first with Russell second, despite neither going fastest in qualifying as Kimi Antonelli was quickest by 0.258s in the sister Mercedes.But a new ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/toto-wolff-george-russell-was-in-the-perfect-position-for-pole-at-f1s-las-vegas-gp/10876274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/24QG73NY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": 1795241033000
+    },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss",
       "title": "Antonelli fastest but penalty leaves Verstappen on pole",
@@ -14,13 +23,13 @@
       "published_at": 1795240450000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/wolff-wants-answers-after-george-russell-misses-las-vegas-pole-despite-ideal-final-lap-position/10876255/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Toto Wolff wants answers after George Russell misses Vegas pole despite “ideal” final-lap position",
-      "snippet": "Mercedes left Friday night qualifying at the Las Vegas Strip Circuit with the fastest car on track, yet team principal Toto Wolff still had questions to answer. World champion Kimi Antonelli topped Q3 with a 1m33.893s, only to drop to sixth on the grid due to a five-place penalty for taking Mercedes’ updated ADUO turbocharger. Instead of team-mate George Russell inheriting pole, Red Bull’s Max ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/wolff-wants-answers-after-george-russell-misses-las-vegas-pole-despite-ideal-final-lap-position/10876255/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "id": "https://www.motorsport.com/f1/news/charles-leclerc-frustrated-after-qualifying-exposes-huge-ferrari-deficit-in-vegas/10876297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Charles Leclerc frustrated after qualifying exposes huge Ferrari deficit in Vegas",
+      "snippet": "Charles Leclerc has confirmed that Ferrari \"lost one second down the straight\" during qualifying for the Las Vegas Grand Prix as his frustration builds following a build-up of mistakes from the team and a Q2 exit. Leclerc qualified 11th, just 0.111 seconds off the Q3 cut-off and one place ahead of a struggling Lewis Hamilton. It was Ferrari's first double Q2 exit since Imola last year.The ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/charles-leclerc-frustrated-after-qualifying-exposes-huge-ferrari-deficit-in-vegas/10876297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8ZArn2/s6/george-russell-mercedes-a10876255-b705-2.jpg",
-      "published_at": 1795240066000
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2jEAkRg0/s6/charles-leclerc-ferrari-a10876297-b704-4.jpg",
+      "published_at": 1795241828000
     },
     {
       "id": "https://www.motorsport.com/f1/news/lewis-hamilton-reveals-floor-damage-cost-him-in-f1-las-vegas-qualifying/10876261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -174,15 +183,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-lando-norris-mclaren_7411177.jpg?20261120074609",
       "published_at": 1795161000000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo?at_medium=RSS&at_campaign=rss",
-      "title": "Russell fastest in Las Vegas practice after rain",
-      "snippet": "Mercedes' George Russell topped a second practice session at the Las Vegas Grand Prix run on a wet but slowly drying track.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e67/live/29186180-e4a0-11f1-a01e-f1ba573bc781.jpg",
-      "published_at": 1795156804000
     },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cm20vpq8z6n4o?at_medium=RSS&at_campaign=rss",
