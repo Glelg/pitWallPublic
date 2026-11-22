@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-22T11:02:31.173883Z",
+    "last_updated": "2026-11-22T11:32:16.628495Z",
     "total_news": 22
   },
   "news": [
@@ -41,6 +41,24 @@
       "published_at": 1795324023000
     },
     {
+      "id": "https://www.motorsport.com/f1/news/lewis-hamilton-charles-leclercs-frame-of-mind-cost-us-a-lot-of-points-today/10876902/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Lewis Hamilton: ‘Charles Leclerc’s frame of mind cost us a lot of points today’",
+      "snippet": "Lewis Hamilton subtly implied Charles Leclerc’s “frame of mind” was to blame for their collision in Formula 1’s Las Vegas Grand Prix.Hamilton and Leclerc were sixth and seventh on lap 37 of the Nevadan race, only some two seconds adrift of race leader Max Verstappen, when the Monegasque dived down the inside in Turn 7. His front wheels were nearly alongside the Briton’s, but he ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/lewis-hamilton-charles-leclercs-frame-of-mind-cost-us-a-lot-of-points-today/10876902/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/27NojvR0/s6/charles-leclerc-ferrari-lewis-.jpg",
+      "published_at": 1795346805000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
+      "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
+      "snippet": "Max Verstappen was the star figure in a Las Vegas Grand Prix that had 34 overtaking moves for the lead in 50 laps.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9777/live/1f62a250-e661-11f1-8ebd-1d2173202734.jpg",
+      "published_at": 1795345652000
+    },
+    {
       "id": "https://www.motorsport.com/f1/news/max-verstappen-calls-george-russells-2026-f1-season-a-complete-disaster-after-vegas-clash/10876885/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Max Verstappen continues George Russell fallout, labels his 2026 F1 season a \"complete disaster\"",
       "snippet": "While the clash between Max Verstappen and George Russell during the third free practice session for the Formula 1 Las Vegas Grand Prix appeared to have been settled with a warning for the Red Bull driver, the dispute has since escalated in the media.Speaking to Sky Sports Italy after qualifying, Russell made it clear that he was no longer willing to accept \"somebody to screw me over like this ...Keep reading",
@@ -75,24 +93,6 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/6b8Zy7v2/s6/charles-leclerc-ferrari-lewis-.jpg",
       "published_at": 1795336817000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/lewis-hamilton-with-no-1-driver-backing-we-could-have-beaten-kimi-antonelli-to-f1-title/10876826/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Lewis Hamilton: With #1 driver backing at key points, we could have beaten Kimi Antonelli this season",
-      "snippet": "Seven-time Formula 1 champion Lewis Hamilton believes he could have beaten Mercedes' Kimi Antonelli in their battle earlier in the season had he been given more support from Ferrari.The Briton was speaking after the Las Vegas Grand Prix, where he had another clash with his team-mate Charles Leclerc, which sent him into a spin. He recovered to finish seventh, while Leclerc was penalised and ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/lewis-hamilton-with-no-1-driver-backing-we-could-have-beaten-kimi-antonelli-to-f1-title/10876826/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6zoD4yL0/s6/lewis-hamilton-ferrari-a10876826-b704-2.jpg",
-      "published_at": 1795335605000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/max-verstappens-snarky-revenge-on-george-russell-karma-is-a-bitch/10876811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Verstappen hits back after Russell criticism: “He’s so far below my level”",
-      "snippet": "Max Verstappen has hit back at George Russell’s Friday comments by winning Formula 1’s Las Vegas Grand Prix – and delivering scathing remarks afterwards.The pair were involved in an incident in Free Practice 3, with Verstappen breaching what Russell deemed to be a gentlemen’s agreement by overtaking him ahead of a flying lap. The Briton moved to get back ahead but Verstappen ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/max-verstappens-snarky-revenge-on-george-russell-karma-is-a-bitch/10876811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YK15yEz0/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": 1795334180000
     },
     {
       "id": "https://www.motorsport.com/f1/news/oscar-piastri-rejects-need-for-mclaren-warning-in-lando-norris-fight-dont-need-to-be-told/10876812/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -149,6 +149,15 @@
       "published_at": 1795326120000
     },
     {
+      "id": "https://www.skysports.com/watch/video/13615109/las-vegas-gp-verstappen-laughs-over-team-radio-as-george-russell-hits-barrier",
+      "title": "'Ha ha, well done!' - Verstappen laughs over team radio as Russell hits barrier",
+      "snippet": "George Russell hits the barrier after a lock-up when trying to overtake team-mate Kimi Antonelli at the Las Vegas Grand Prix, much to the delight of rival Max Verstappen.",
+      "link": "https://www.skysports.com/watch/video/13615109/las-vegas-gp-verstappen-laughs-over-team-radio-as-george-russell-hits-barrier",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-max-george_7413130.jpg?20261122053854",
+      "published_at": 1795325520000
+    },
+    {
       "id": "https://www.motorsport.com/f1/news/max-verstappen-takes-las-vegas-pole-despite-weird-issues-since-brazil/10876373/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Max Verstappen takes Las Vegas pole despite “weird issues” since Brazil",
       "snippet": "Max Verstappen will lead the field to the green light for Saturday night’s Las Vegas Grand Prix, yet the four-time world champion spent Friday evening fighting his own car as much as his rivals.Verstappen clocked a 1m34.151s in Q3 - 0.258 seconds behind newly crowned world champion Kimi Antonelli’s 1m33.893s - to inherit pole position after Mercedes fitted Antonelli’s sixth internal ...Keep reading",
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/2y7Q8pK6/s6/fernando-alonso-aston-martin-r.jpg",
       "published_at": 1795254219000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/c34gnrvl9zvro?at_medium=RSS&at_campaign=rss",
-      "title": "'Somebody has to stand up to that guy' - Verstappen-Russell rivalry blows up again",
-      "snippet": "The George Russell-Max Verstappen feud surfaced again in Las Vegas, adding spice to a race where they will start on the front row.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c34gnrvl9zvro?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/618b/live/83c124c0-e57a-11f1-a5f6-b3028adf2d6d.jpg",
-      "published_at": 1795248838000
     }
   ]
 }
