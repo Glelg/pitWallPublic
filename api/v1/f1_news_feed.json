@@ -1,26 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-11-22T04:03:21.752430Z",
+    "last_updated": "2026-11-22T04:33:08.726375Z",
     "total_news": 22
   },
   "news": [
     {
       "id": "https://www.skysports.com/f1/live-blog/12433/13615079/f1-las-vegas-gp-live-race-updates-results-stream-and-highlights-from-21st-round-of-2026-formula-1-season-in-usa",
-      "title": "Las Vegas GP: Verstappen on pole from Russell for 4am race LIVE!",
+      "title": "Las Vegas GP: Verstappen ahead of Russell in thrilling battle for lead LIVE!",
       "snippet": "Follow live updates and watch the best video from the Las Vegas Grand Prix. Watch live on Sky Sports F1 and Main Event",
       "link": "https://www.skysports.com/f1/live-blog/12433/13615079/f1-las-vegas-gp-live-race-updates-results-stream-and-highlights-from-21st-round-of-2026-formula-1-season-in-usa",
       "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-lewis-hamilton-ferrari_7413081.jpg?20261122035928",
+      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-max-verstappen-red-bull_7413087.jpg?20261122041245",
       "published_at": 1795315980000
-    },
-    {
-      "id": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
-      "title": "Palmowski wins season-finale in Las Vegas after epic battle with Larsen",
-      "snippet": "",
-      "link": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-f1-academy_7413063.jpg?20261122003316",
-      "published_at": 1795308900000
     },
     {
       "id": "https://www.motorsport.com/f1/news/piastri-questions-strange-pace-deficit-to-other-mercedes-powered-cars-in-las-vegas/10876516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -48,6 +39,15 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ba/live/bb976db0-e56f-11f1-b01f-57dbbf219200.jpg",
       "published_at": 1795240450000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/wolff-wants-answers-after-george-russell-misses-las-vegas-pole-despite-ideal-final-lap-position/10876255/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Toto Wolff wants answers after George Russell misses Vegas pole despite “ideal” final-lap position",
+      "snippet": "Mercedes left Friday night qualifying at the Las Vegas Strip Circuit with the fastest car on track, yet team principal Toto Wolff still had questions to answer. World champion Kimi Antonelli topped Q3 with a 1m33.893s, only to drop to sixth on the grid due to a five-place penalty for taking Mercedes’ updated ADUO turbocharger. Instead of team-mate George Russell inheriting pole, Red Bull’s Max ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/wolff-wants-answers-after-george-russell-misses-las-vegas-pole-despite-ideal-final-lap-position/10876255/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8ZArn2/s6/george-russell-mercedes-a10876255-b705-2.jpg",
+      "published_at": 1795240066000
     },
     {
       "id": "https://www.skysports.com/watch/video/13614666/audi-flying-lap-las-vegas",
@@ -93,15 +93,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/618b/live/83c124c0-e57a-11f1-a5f6-b3028adf2d6d.jpg",
       "published_at": 1795248838000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13614578/las-vegas-gp-mercedes-chief-toto-wolff-insists-george-russell-had-perfect-track-position-in-qualifying-amid-questions-over-tow",
-      "title": "'George had perfect position' - Wolff defends Mercedes' Vegas Q3 strategy",
-      "snippet": "Mercedes chief Toto Wolff dismissed suggestions the team should have done more to aid George Russell's bid for Las Vegas Grand Prix pole as he insisted the British driver had \"perfect\" track position for his final run in qualifying.",
-      "link": "https://www.skysports.com/f1/news/12433/13614578/las-vegas-gp-mercedes-chief-toto-wolff-insists-george-russell-had-perfect-track-position-in-qualifying-amid-questions-over-tow",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-george-russell-kimi_7412074.jpg?20261121081545",
-      "published_at": 1795248000000
     },
     {
       "id": "https://www.motorsport.com/f1/news/we-lost-one-second-down-the-straight-charles-leclerc-upset-with-ferraris-crazy-las-vegas-deficiency/10876355/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -185,15 +176,6 @@
       "published_at": 1795178624000
     },
     {
-      "id": "https://www.motorsport.com/dakar/news/fernando-alonso-returns-to-dakar-why-his-first-rally-raid-experience-was-a-shock-to-the-system/10875881/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Fernando Alonso returns to Dakar: Why his first rally-raid experience was a shock to the system",
-      "snippet": "While Fernando Alonso reiterated in Las Vegas that, in his view, Formula 1 has thrown away 16 years of pure racing before the return of V8 engines in 2030, the Spaniard continues to seek those pure challenges outside the pinnacle of motorsport as well.It had been known in the paddock for some time that Alonso would return to the Dakar Rally this winter for the first time since 2020, although ...Keep reading",
-      "link": "https://www.motorsport.com/dakar/news/fernando-alonso-returns-to-dakar-why-his-first-rally-raid-experience-was-a-shock-to-the-system/10875881/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6n7bvPO0/s6/fernando-alonso-aston-martin.jpg",
-      "published_at": 1795176903000
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cqkgr0elvl5zo?at_medium=RSS&at_campaign=rss",
       "title": "Bottas' stay at Cadillac confirmed for 2027",
       "snippet": "Valtteri Bottas is retained by Cadillac for the 2027 Formula 1 season.",
@@ -201,6 +183,24 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caa0/live/585f6320-e393-11f1-b4f3-9f0685d52a1f.jpg",
       "published_at": 1795036712000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
+      "title": "Whatever happened to the diamond that went missing in F1 crash?",
+      "snippet": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b0/live/da7ae610-deaa-11f1-8253-3f203a001288.jpg",
+      "published_at": 1794550340000
+    },
+    {
+      "id": "https://www.motorsport.com/dakar/news/fernando-alonso-returns-to-dakar-why-his-first-rally-raid-experience-was-a-shock-to-the-system/10875881/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Fernando Alonso returns to Dakar: Why his first rally-raid experience was a shock to the system",
+      "snippet": "While Fernando Alonso reiterated in Las Vegas that, in his view, Formula 1 has thrown away 16 years of pure racing before the return of V8 engines in 2030, the Spaniard continues to seek those pure challenges outside the pinnacle of motorsport as well.It had been known in the paddock for some time that Alonso would return to the Dakar Rally this winter for the first time since 2020, although ...Keep reading",
+      "link": "https://www.motorsport.com/dakar/news/fernando-alonso-returns-to-dakar-why-his-first-rally-raid-experience-was-a-shock-to-the-system/10875881/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6n7bvPO0/s6/fernando-alonso-aston-martin.jpg",
+      "published_at": 1795176903000
     }
   ]
 }
