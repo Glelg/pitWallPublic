@@ -8,7 +8,7 @@
     "meeting_name": "Las Vegas Grand Prix",
     "circuit_name": "Las Vegas",
     "stewards_status": "FINAL",
-    "last_updated": "2026-11-22T08:32:31.401054Z"
+    "last_updated": "2026-11-22T09:03:17.531278Z"
   },
   "results": [
     {
@@ -234,23 +234,6 @@
     },
     {
       "position": 14,
-      "driver_number": 6,
-      "full_name": "Isack HADJAR",
-      "driver_acronym": "HAD",
-      "team_name": "Red Bull Racing",
-      "country_code": "",
-      "grid_position": 4,
-      "grid_penalty": null,
-      "is_pit_lane_start": false,
-      "time_or_retired": "88:16.112",
-      "gap_to_leader": "+36.488s",
-      "laps_completed": 50,
-      "points": 0.0,
-      "is_fastest_lap": false,
-      "status": "FINISHED"
-    },
-    {
-      "position": 15,
       "driver_number": 30,
       "full_name": "Liam LAWSON",
       "driver_acronym": "LAW",
@@ -264,6 +247,23 @@
       "laps_completed": 50,
       "points": 0.0,
       "is_fastest_lap": true,
+      "status": "FINISHED"
+    },
+    {
+      "position": 15,
+      "driver_number": 6,
+      "full_name": "Isack HADJAR",
+      "driver_acronym": "HAD",
+      "team_name": "Red Bull Racing",
+      "country_code": "",
+      "grid_position": 4,
+      "grid_penalty": null,
+      "is_pit_lane_start": false,
+      "time_or_retired": "88:26.112",
+      "gap_to_leader": "+46.488s",
+      "laps_completed": 50,
+      "points": 0.0,
+      "is_fastest_lap": false,
       "status": "FINISHED"
     },
     {
