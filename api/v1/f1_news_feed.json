@@ -1,9 +1,27 @@
 {
   "metadata": {
-    "last_updated": "2026-11-22T06:32:36.300156Z",
+    "last_updated": "2026-11-22T07:02:32.003091Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.motorsport.com/f1/news/russell-i-dont-regret-it-after-hitting-las-vegas-wall-in-late-lunge-for-second/10876720/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "George Russell: “I don’t regret it” after crashing out of second at Las Vegas GP",
+      "snippet": "George Russell could have played it safe and walked away from the 2026 Las Vegas Grand Prix with a podium. Instead, the Mercedes driver gambled on a late lunge for second - and watched both his shot at victory and his championship cushion slide into the Turn 5 barrier.Running third on Lap 48 of 50 behind leader Max Verstappen and team-mate Kimi Antonelli, Russell locked his brakes while trying ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/russell-i-dont-regret-it-after-hitting-las-vegas-wall-in-late-lunge-for-second/10876720/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8ZArn2/s6/george-russell-mercedes-a10876720-b705-2.jpg",
+      "published_at": 1795329968000
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13615108/las-vegas-gp-lewis-hamilton-spins-after-collision-with-team-mate-charles-leclerc",
+      "title": "More Ferrari drama! Leclerc collides with Hamilton - leading to 10s penalty!",
+      "snippet": "Lewis Hamilton spins after contact with Ferrari team-mate Charles Leclerc, which led to a 10-second penalty for the latter at the Las Vegas Grand Prix.",
+      "link": "https://www.skysports.com/watch/video/13615108/las-vegas-gp-lewis-hamilton-spins-after-collision-with-team-mate-charles-leclerc",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-lewis-hamitln_7413126.jpg?20261122052502",
+      "published_at": 1795324500000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/hamilton-questions-stewards-consistency-over-unaired-las-vegas-radio-after-10-second-penalty/10876678/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Lewis Hamilton questions stewards in unaired radio message after F1 Vegas penalty",
@@ -32,15 +50,6 @@
       "published_at": 1795326465000
     },
     {
-      "id": "https://www.autosport.com/f1/news/f1-las-vegas-gp-report/10876677/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "F1 Las Vegas GP: Verstappen wins thriller as Russell hits the wall late on",
-      "snippet": "Max Verstappen won a wild Las Vegas Grand Prix, holding off both Mercedes drivers as Formula 1’s ‘yo-yo’ racing returned – with no Silver Arrow on the eventual podium.With qualifying pacesetter Andrea Kimi Antonelli taking a five-place grid penalty for exceeding his engine allocation, Max Verstappen inherited pole position and retained the lead from George Russell at the start with an ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/f1-las-vegas-gp-report/10876677/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/24QGyQAY/s6/max-verstappen-red-bull-racing-3.jpg",
-      "published_at": 1795326347000
-    },
-    {
       "id": "https://www.skysports.com/watch/video/13615112/las-vegas-grand-prix-race-highlights",
       "title": "Las Vegas Grand Prix - Race highlights",
       "snippet": "Highlights from the 2026 Las Vegas Grand Prix.",
@@ -48,6 +57,33 @@
       "source_name": "Sky Sports",
       "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-motorsport-f1_7413137.jpg?20261122054421",
       "published_at": 1795326120000
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13615109/las-vegas-gp-verstappen-laughs-over-team-radio-as-george-russell-hits-barrier",
+      "title": "'Ha ha, well done!' - Verstappen laughs over team radio as Russell hits barrier",
+      "snippet": "George Russell hits the barrier after a lock-up when trying to overtake team-mate Kimi Antonelli at the Las Vegas Grand Prix, much to the delight of rival Max Verstappen.",
+      "link": "https://www.skysports.com/watch/video/13615109/las-vegas-gp-verstappen-laughs-over-team-radio-as-george-russell-hits-barrier",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-max-george_7413130.jpg?20261122053854",
+      "published_at": 1795325520000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/max-verstappen-takes-las-vegas-pole-despite-weird-issues-since-brazil/10876373/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Max Verstappen takes Las Vegas pole despite “weird issues” since Brazil",
+      "snippet": "Max Verstappen will lead the field to the green light for Saturday night’s Las Vegas Grand Prix, yet the four-time world champion spent Friday evening fighting his own car as much as his rivals.Verstappen clocked a 1m34.151s in Q3 - 0.258 seconds behind newly crowned world champion Kimi Antonelli’s 1m33.893s - to inherit pole position after Mercedes fitted Antonelli’s sixth internal ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/max-verstappen-takes-las-vegas-pole-despite-weird-issues-since-brazil/10876373/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQkWGY/s6/max-verstappen-red-bull-racing-a10876373-b707-2.jpg",
+      "published_at": 1795285300000
+    },
+    {
+      "id": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
+      "title": "Palmowski wins season-finale in Las Vegas after epic battle with Larsen",
+      "snippet": "",
+      "link": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-f1-academy_7413063.jpg?20261122003316",
+      "published_at": 1795308900000
     },
     {
       "id": "https://www.motorsport.com/f1/news/piastri-questions-strange-pace-deficit-to-other-mercedes-powered-cars-in-las-vegas/10876516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -59,15 +95,6 @@
       "published_at": 1795287603000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/isack-hadjar-we-looked-stupid-in-las-vegas-as-i-dont-like-slipstreaming/10876445/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Isack Hadjar: “We looked stupid” in Las Vegas as I don’t like slipstreaming",
-      "snippet": "Isack Hadjar has admitted to underperforming in qualifying for Formula 1’s Las Vegas Grand Prix due to not realizing how powerful the tow would be on this high-speed street circuit.Hadjar was 0.67s slower than Red Bull team-mate Max Verstappen in Q2 and 0.44s adrift in Q3 as he ended up down in fifth, and the gap may be partly down to his personal preferences as he told Sky Sports F1 he ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/isack-hadjar-we-looked-stupid-in-las-vegas-as-i-dont-like-slipstreaming/10876445/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7Byjr2/s6/isack-hadjar-red-bull-racing.jpg",
-      "published_at": 1795276804000
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss",
       "title": "Antonelli fastest but penalty leaves Verstappen on pole",
       "snippet": "Mercedes' Kimi Antonelli is fastest in qualifying for the Las Vegas Grand Prix but a grid penalty hands pole position to Red Bull's Max Verstappen.",
@@ -75,15 +102,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ba/live/bb976db0-e56f-11f1-b01f-57dbbf219200.jpg",
       "published_at": 1795240450000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/wolff-wants-answers-after-george-russell-misses-las-vegas-pole-despite-ideal-final-lap-position/10876255/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Toto Wolff wants answers after George Russell misses Vegas pole despite “ideal” final-lap position",
-      "snippet": "Mercedes left Friday night qualifying at the Las Vegas Strip Circuit with the fastest car on track, yet team principal Toto Wolff still had questions to answer. World champion Kimi Antonelli topped Q3 with a 1m33.893s, only to drop to sixth on the grid due to a five-place penalty for taking Mercedes’ updated ADUO turbocharger. Instead of team-mate George Russell inheriting pole, Red Bull’s Max ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/wolff-wants-answers-after-george-russell-misses-las-vegas-pole-despite-ideal-final-lap-position/10876255/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8ZArn2/s6/george-russell-mercedes-a10876255-b705-2.jpg",
-      "published_at": 1795240066000
     },
     {
       "id": "https://www.skysports.com/watch/video/13614666/audi-flying-lap-las-vegas",
@@ -131,13 +149,13 @@
       "published_at": 1795248838000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/we-lost-one-second-down-the-straight-charles-leclerc-upset-with-ferraris-crazy-las-vegas-deficiency/10876355/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "“We lost one second down the straight” – Charles Leclerc upset with Ferrari’s “crazy” Las Vegas deficiency",
-      "snippet": "Charles Leclerc is “very disappointed” with Ferrari’s performance at Formula 1’s Las Vegas Grand Prix as both cars were eliminated in Q2.Leclerc and team-mate Lewis Hamilton were fourth and eighth in FP3 - the only dry-weather free practice session - but later endured a tougher qualifying.The Monegasque did take third position in Q1 while Hamilton struggled to 13th after picking ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/we-lost-one-second-down-the-straight-charles-leclerc-upset-with-ferraris-crazy-las-vegas-deficiency/10876355/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwBJD2/s6/charles-leclerc-ferrari.jpg",
-      "published_at": 1795247413000
+      "id": "https://www.skysports.com/f1/news/12433/13614578/las-vegas-gp-mercedes-chief-toto-wolff-insists-george-russell-had-perfect-track-position-in-qualifying-amid-questions-over-tow",
+      "title": "'George had perfect position' - Wolff defends Mercedes' Vegas Q3 strategy",
+      "snippet": "Mercedes chief Toto Wolff dismissed suggestions the team should have done more to aid George Russell's bid for Las Vegas Grand Prix pole as he insisted the British driver had \"perfect\" track position for his final run in qualifying.",
+      "link": "https://www.skysports.com/f1/news/12433/13614578/las-vegas-gp-mercedes-chief-toto-wolff-insists-george-russell-had-perfect-track-position-in-qualifying-amid-questions-over-tow",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-george-russell-kimi_7412074.jpg?20261121081545",
+      "published_at": 1795248000000
     },
     {
       "id": "https://www.bbc.co.uk/sounds/play/p0pp6vy9?at_medium=RSS&at_campaign=rss",
@@ -149,6 +167,33 @@
       "published_at": 1795246140000
     },
     {
+      "id": "https://www.skysports.com/f1/news/12433/13614576/george-russell-hits-out-at-max-verstappen-after-las-vegas-gp-clash-and-says-somebodys-got-to-stand-up-to-that-guy",
+      "title": "‘Big cinema!’ – Verstappen-Russell face off on Vegas front row after clash",
+      "snippet": "George Russell launched a scathing criticism of Max Verstappen after a clash between them in final practice at the Las Vegas Grand Prix ahead of a race they will now start on the front row together.",
+      "link": "https://www.skysports.com/f1/news/12433/13614576/george-russell-hits-out-at-max-verstappen-after-las-vegas-gp-clash-and-says-somebodys-got-to-stand-up-to-that-guy",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-max-verstappen-red-bull_7412048.jpg?20261121070601",
+      "published_at": 1795244400000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/isack-hadjar-red-bull-looked-a-bit-stupid-in-vegas-qualifying-tow-game/10876319/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Isack Hadjar: Red Bull \"looked a bit stupid\" in Vegas qualifying tow game",
+      "snippet": "Isack Hadjar has admitted that Red Bull \"looked a bit stupid\" in what became a tow battle at the end of Las Vegas Grand Prix qualifying. He says it \"doesn't really matter\" where he starts on Saturday night.Hadjar set the fifth-fastest time in Q3, 0.699s behind Kimi Antonelli, while team-mate Max Verstappen took pole after the Italian's five-place grid penalty. Hadjar moves up to fourth on ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/isack-hadjar-red-bull-looked-a-bit-stupid-in-vegas-qualifying-tow-game/10876319/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKzrKY/s6/isack-hadjar-red-bull-racing-a10876319-b707-2.jpg",
+      "published_at": 1795242985000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/floor-damage-deployment-down-to-lewis-hamiltons-las-vegas-q2-exit/10876316/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Floor damage, deployment down to Hamilton's Las Vegas GP Q2 exit",
+      "snippet": "Lewis Hamilton put Ferrari's Q2 exit in qualifying for the Las Vegas Grand Prix down to energy deployment and floor damage, as the seven-time Formula 1 world champion felt he'd rallied from difficulties with overall tyre grip.The Briton struggled throughout FP3 under braking, as the front tyres proved particularly lock-up prone and resulted in Hamilton enduring multiple excursions into the ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/floor-damage-deployment-down-to-lewis-hamiltons-las-vegas-q2-exit/10876316/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YE9EbowY/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": 1795242780000
+    },
+    {
       "id": "https://www.motorsport.com/f1/news/2026-f1-las-vegas-grand-prix-starting-grid/10876250/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "2026 F1 Las Vegas Grand Prix starting grid",
       "snippet": "2 George Russell(Mercedes)1 Max Verstappen(Red Bull) 4 Isack Hadjar(Red Bull)3 Lando ...Keep reading",
@@ -156,51 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/6DGgOAVY/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1795239161000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13614482/v8-engines-returning-to-formula-1-in-2030-as-fia-president-mohammed-ben-sulayem-describes-move-to-reconnect-with-dna-of-the-sport",
-      "title": "V8 engines return confirmed in bid to 'reconnect with DNA' of F1",
-      "snippet": "Formula 1 will return to V8 engines from 2030 in a move FIA president Mohammed Ben Sulayem has described as \"an opportunity to reconnect with the DNA\" of the sport.&#160;",
-      "link": "https://www.skysports.com/f1/news/12433/13614482/v8-engines-returning-to-formula-1-in-2030-as-fia-president-mohammed-ben-sulayem-describes-move-to-reconnect-with-dna-of-the-sport",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-max-verstappen_7374105.jpg?20261011142434",
-      "published_at": 1795205400000
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13614584/las-vegas-gp-george-russell-and-max-verstappen-crash-into-each-other-during-p3",
-      "title": "'He's pushed me into the barrier!' - Russell and Verstappen collide in final practice",
-      "snippet": "George Russell and Max Verstappen collided with one another during final practice at the Las Vegas Grand Prix.",
-      "link": "https://www.skysports.com/watch/video/13614584/las-vegas-gp-george-russell-and-max-verstappen-crash-into-each-other-during-p3",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-motorsport-f1-russell_7411947.jpg?20261121013641",
-      "published_at": 1795224600000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cwg7l0l313rno?at_medium=RSS&at_campaign=rss",
-      "title": "Drivers limited to 27 laps for tyres in Qatar",
-      "snippet": "Formula 1 drivers will be limited to a maximum of 27 laps on a set of tyres at next weekend's Qatar Grand Prix.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cwg7l0l313rno?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ecb/live/4cdbfbc0-e547-11f1-bc71-f9688f0bf052.jpg",
-      "published_at": 1795223814000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cvj6l7nk611jo?at_medium=RSS&at_campaign=rss",
-      "title": "F1 bosses agree V8 engines deal from 2030",
-      "snippet": "Formula 1 bosses reach a deal that means V8 turbo hybrid engines will replace the current controversial units in 2030.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cvj6l7nk611jo?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b4d/live/7c0b88e0-e4aa-11f1-b0cf-f191d4983320.jpg",
-      "published_at": 1795202260000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/f1-set-for-v8-return-from-2030/10875119/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "F1 set for V8 return from 2030",
-      "snippet": "Formula 1 has moved closer to a return to V8 engines from the 2030 season as the FIA announced that a unanimous agreement has been reached between the governing body, F1 management and the power unit manufacturers.F1 has long worked towards cheaper and simpler engines for the next regulation cycle, which starts in 2031, having recognised the current formula is too complex and physically ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/f1-set-for-v8-return-from-2030/10875119/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YWKAgeVY/s6/charles-leclerc-ferrari-lewis--2.jpg",
-      "published_at": 1795201320000
     }
   ]
 }
