@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-22T03:02:22.869696Z",
+    "last_updated": "2026-11-22T06:32:27.007706Z",
     "year": 2026,
     "total_meetings": 27
   },
@@ -1938,10 +1938,29 @@
       "circuit_name": "Las Vegas",
       "date_start": "2026-11-20T00:30:00+00:00",
       "date_end": "2026-11-22T06:00:00+00:00",
-      "status": "LIVE",
+      "status": "COMPLETED",
       "is_cancelled": false,
       "is_testing": false,
-      "top_results": null,
+      "top_results": [
+        {
+          "position": 1,
+          "driver_number": 3,
+          "driver_acronym": "VER",
+          "team_name": "Red Bull Racing"
+        },
+        {
+          "position": 2,
+          "driver_number": 1,
+          "driver_acronym": "NOR",
+          "team_name": "McLaren"
+        },
+        {
+          "position": 3,
+          "driver_number": 81,
+          "driver_acronym": "PIA",
+          "team_name": "McLaren"
+        }
+      ],
       "sessions": [
         {
           "session_key": 11413,
