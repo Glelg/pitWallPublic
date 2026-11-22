@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-22T18:32:26.788083Z",
+    "last_updated": "2026-11-22T19:02:25.659949Z",
     "total_news": 22
   },
   "news": [
@@ -12,6 +12,15 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/2GdKBeKY/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1795343655000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/haas-keeps-rafael-camara-in-f1-ending-his-2026-f2-title-bid/10877044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Camara to finish F1 season with Haas, ending F2 title bid",
+      "snippet": "Haas rookie Rafael Camara will see out the season with Haas in Qatar and Abu Dhabi, effectively ending his F2 championship challenge.Camara was confirmed in October as a full-time replacement for Esteban Ocon in 2027, and was fast-tracked into the seat after Ocon's relationship with the US-owned team deteriorated.After test driver Ryo Hirakawa took over Ocon's car midway through the Mexico ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/haas-keeps-rafael-camara-in-f1-ending-his-2026-f2-title-bid/10877044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YP74VKA2/s6/rafael-camara-haas-2.jpg",
+      "published_at": 1795372352000
     },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/videos/cr2klvl8zz8jo?at_medium=RSS&at_campaign=rss",
@@ -192,15 +201,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-motorsport-f1_7413137.jpg?20261122054421",
       "published_at": 1795326120000
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13615109/las-vegas-gp-verstappen-laughs-over-team-radio-as-george-russell-hits-barrier",
-      "title": "'Ha ha, well done!' - Verstappen laughs over team radio as Russell hits barrier",
-      "snippet": "George Russell hits the barrier after a lock-up when trying to overtake team-mate Kimi Antonelli at the Las Vegas Grand Prix, much to the delight of rival Max Verstappen.",
-      "link": "https://www.skysports.com/watch/video/13615109/las-vegas-gp-verstappen-laughs-over-team-radio-as-george-russell-hits-barrier",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-max-george_7413130.jpg?20261122053854",
-      "published_at": 1795325520000
     }
   ]
 }
