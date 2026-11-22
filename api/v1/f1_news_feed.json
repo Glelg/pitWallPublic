@@ -1,26 +1,53 @@
 {
   "metadata": {
-    "last_updated": "2026-11-22T05:03:20.682083Z",
+    "last_updated": "2026-11-22T06:03:25.832525Z",
     "total_news": 22
   },
   "news": [
     {
-      "id": "https://www.skysports.com/f1/live-blog/12433/13615079/f1-las-vegas-gp-live-race-updates-results-stream-and-highlights-from-21st-round-of-2026-formula-1-season-in-usa",
-      "title": "Las Vegas GP: Verstappen leads Russell, Hadjar suffers front-wing failure LIVE!",
-      "snippet": "Follow live updates and watch the best video from the Las Vegas Grand Prix. Watch live on Sky Sports F1 and Main Event",
-      "link": "https://www.skysports.com/f1/live-blog/12433/13615079/f1-las-vegas-gp-live-race-updates-results-stream-and-highlights-from-21st-round-of-2026-formula-1-season-in-usa",
-      "source_name": "Sky Sports",
-      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-max-verstappen-george_7413100.jpg?20261122044240",
-      "published_at": 1795315980000
+      "id": "https://www.motorsport.com/f1/news/hamilton-questions-stewards-consistency-over-unaired-las-vegas-radio-after-10-second-penalty/10876678/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Lewis Hamilton questions stewards in unaired radio message after F1 Vegas penalty",
+      "snippet": "Lewis Hamilton’s recovery drive at the 2026 Las Vegas Grand Prix hit a major snag in the opening half of the race - and prompted a pointed complaint over Ferrari team radio regarding FIA stewarding consistency.Starting 11th after both Ferraris were eliminated in Q2 on Friday night, Hamilton climbed into the points during a fiercely contested opening stint alongside team-mate Charles Leclerc ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/hamilton-questions-stewards-consistency-over-unaired-las-vegas-radio-after-10-second-penalty/10876678/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPkN70/s6/lewis-hamilton-ferrari-a10876678-b704-2.jpg",
+      "published_at": 1795324023000
     },
     {
-      "id": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
-      "title": "Palmowski wins season-finale in Las Vegas after epic battle with Larsen",
-      "snippet": "",
-      "link": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
+      "title": "Verstappen wins extraordinary race as Ferraris collide",
+      "snippet": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that saw a non-stop battle for the lead for the entire race.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c5/live/4cf95270-e631-11f1-9a7b-83df752dd747.jpg",
+      "published_at": 1795327260000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-las-vegas-gp/10876667/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Five quick takeaways from Las Vegas GP",
+      "snippet": "Las Vegas gets the pack race it cravedIn America's artificial entertainment capital, F1 put the most artificial and entertaining spectacle. How fitting.The yo-yo racing from the early days of the 2026 season was back on full display, with the lack of electric energy available on the Strip's mile long straight bring back battery driven overtaking. For a while it felt like we were watching ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-las-vegas-gp/10876667/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YN7vj146/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": 1795326465000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/f1-las-vegas-gp-report/10876677/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "F1 Las Vegas GP: Verstappen wins thriller as Russell hits the wall late on",
+      "snippet": "Max Verstappen won a wild Las Vegas Grand Prix, holding off both Mercedes drivers as Formula 1’s ‘yo-yo’ racing returned – with no Silver Arrow on the eventual podium.With qualifying pacesetter Andrea Kimi Antonelli taking a five-place grid penalty for exceeding his engine allocation, Max Verstappen inherited pole position and retained the lead from George Russell at the start with an ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/f1-las-vegas-gp-report/10876677/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/24QGyQAY/s6/max-verstappen-red-bull-racing-3.jpg",
+      "published_at": 1795326347000
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13615112/las-vegas-grand-prix-race-highlights",
+      "title": "Las Vegas Grand Prix - Race highlights",
+      "snippet": "Highlights from the 2026 Las Vegas Grand Prix.",
+      "link": "https://www.skysports.com/watch/video/13615112/las-vegas-grand-prix-race-highlights",
       "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-f1-academy_7413063.jpg?20261122003316",
-      "published_at": 1795308900000
+      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-motorsport-f1_7413137.jpg?20261122054421",
+      "published_at": 1795326120000
     },
     {
       "id": "https://www.motorsport.com/f1/news/piastri-questions-strange-pace-deficit-to-other-mercedes-powered-cars-in-las-vegas/10876516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -30,6 +57,15 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/01QNxkZ0/s6/oscar-piastri-mclaren.jpg",
       "published_at": 1795287603000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/isack-hadjar-we-looked-stupid-in-las-vegas-as-i-dont-like-slipstreaming/10876445/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Isack Hadjar: “We looked stupid” in Las Vegas as I don’t like slipstreaming",
+      "snippet": "Isack Hadjar has admitted to underperforming in qualifying for Formula 1’s Las Vegas Grand Prix due to not realizing how powerful the tow would be on this high-speed street circuit.Hadjar was 0.67s slower than Red Bull team-mate Max Verstappen in Q2 and 0.44s adrift in Q3 as he ended up down in fifth, and the gap may be partly down to his personal preferences as he told Sky Sports F1 he ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/isack-hadjar-we-looked-stupid-in-las-vegas-as-i-dont-like-slipstreaming/10876445/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7Byjr2/s6/isack-hadjar-red-bull-racing.jpg",
+      "published_at": 1795276804000
     },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss",
@@ -113,15 +149,6 @@
       "published_at": 1795246140000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/isack-hadjar-red-bull-looked-a-bit-stupid-in-vegas-qualifying-tow-game/10876319/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Isack Hadjar: Red Bull \"looked a bit stupid\" in Vegas qualifying tow game",
-      "snippet": "Isack Hadjar has admitted that Red Bull \"looked a bit stupid\" in what became a tow battle at the end of Las Vegas Grand Prix qualifying. He says it \"doesn't really matter\" where he starts on Saturday night.Hadjar set the fifth-fastest time in Q3, 0.699s behind Kimi Antonelli, while team-mate Max Verstappen took pole after the Italian's five-place grid penalty. Hadjar moves up to fourth on ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/isack-hadjar-red-bull-looked-a-bit-stupid-in-vegas-qualifying-tow-game/10876319/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKzrKY/s6/isack-hadjar-red-bull-racing-a10876319-b707-2.jpg",
-      "published_at": 1795242985000
-    },
-    {
       "id": "https://www.motorsport.com/f1/news/2026-f1-las-vegas-grand-prix-starting-grid/10876250/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "2026 F1 Las Vegas Grand Prix starting grid",
       "snippet": "2 George Russell(Mercedes)1 Max Verstappen(Red Bull) 4 Isack Hadjar(Red Bull)3 Lando ...Keep reading",
@@ -174,33 +201,6 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/YWKAgeVY/s6/charles-leclerc-ferrari-lewis--2.jpg",
       "published_at": 1795201320000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cqkgr0elvl5zo?at_medium=RSS&at_campaign=rss",
-      "title": "Bottas' stay at Cadillac confirmed for 2027",
-      "snippet": "Valtteri Bottas is retained by Cadillac for the 2027 Formula 1 season.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqkgr0elvl5zo?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caa0/live/585f6320-e393-11f1-b4f3-9f0685d52a1f.jpg",
-      "published_at": 1795036712000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
-      "title": "Whatever happened to the diamond that went missing in F1 crash?",
-      "snippet": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b0/live/da7ae610-deaa-11f1-8253-3f203a001288.jpg",
-      "published_at": 1794550340000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/max-verstappen-i-really-thought-that-we-would-not-win-a-race-this-year/10875990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Max Verstappen: “I really thought that we would not win a race this year”",
-      "snippet": "Heading into the Las Vegas Grand Prix on a run of eight consecutive podiums, Max Verstappen looks every bit the force who dominated Formula 1 earlier this decade. Back in March, however, the four-time world champion was braced for his first winless campaign since 2015.Speaking during Las Vegas media day, Verstappen reflected on the scale of Red Bull Racing’s mid-season recovery during ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/max-verstappen-i-really-thought-that-we-would-not-win-a-race-this-year/10875990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YXyKX156/s6/max-verstappen-red-bull-racing-a10875990-b707-2.jpg",
-      "published_at": 1795178624000
     }
   ]
 }

@@ -1989,8 +1989,8 @@
           "session_type": "Race",
           "date_start": "2026-11-22T04:00:00+00:00",
           "weather": {
-            "temp": 8.3,
-            "weather_code": 2
+            "temp": 8.8,
+            "weather_code": 1
           }
         }
       ]
