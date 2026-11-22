@@ -8,7 +8,7 @@
     "meeting_name": "Las Vegas Grand Prix",
     "circuit_name": "Las Vegas",
     "stewards_status": "FINAL",
-    "last_updated": "2026-11-22T07:32:27.612433Z"
+    "last_updated": "2026-11-22T08:03:11.369809Z"
   },
   "results": [
     {
@@ -24,7 +24,7 @@
       "time_or_retired": "87:39.624",
       "gap_to_leader": "LEADER",
       "laps_completed": 50,
-      "points": 0.0,
+      "points": 25.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
     },
@@ -41,7 +41,7 @@
       "time_or_retired": "87:40.263",
       "gap_to_leader": "+0.639s",
       "laps_completed": 50,
-      "points": 0.0,
+      "points": 18.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
     },
@@ -58,7 +58,7 @@
       "time_or_retired": "87:41.153",
       "gap_to_leader": "+1.529s",
       "laps_completed": 50,
-      "points": 0.0,
+      "points": 15.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
     },
@@ -75,7 +75,7 @@
       "time_or_retired": "87:42.198",
       "gap_to_leader": "+2.574s",
       "laps_completed": 50,
-      "points": 0.0,
+      "points": 12.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
     },
@@ -92,7 +92,7 @@
       "time_or_retired": "87:42.551",
       "gap_to_leader": "+2.927s",
       "laps_completed": 50,
-      "points": 0.0,
+      "points": 10.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
     },
@@ -109,7 +109,7 @@
       "time_or_retired": "87:47.579",
       "gap_to_leader": "+7.955s",
       "laps_completed": 50,
-      "points": 0.0,
+      "points": 8.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
     },
@@ -126,7 +126,7 @@
       "time_or_retired": "87:52.419",
       "gap_to_leader": "+12.795s",
       "laps_completed": 50,
-      "points": 0.0,
+      "points": 6.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
     },
@@ -143,7 +143,7 @@
       "time_or_retired": "87:52.562",
       "gap_to_leader": "+12.938s",
       "laps_completed": 50,
-      "points": 0.0,
+      "points": 4.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
     },
@@ -160,7 +160,7 @@
       "time_or_retired": "87:52.816",
       "gap_to_leader": "+13.192s",
       "laps_completed": 50,
-      "points": 0.0,
+      "points": 2.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
     },
@@ -177,7 +177,7 @@
       "time_or_retired": "87:57.178",
       "gap_to_leader": "+17.554s",
       "laps_completed": 50,
-      "points": 0.0,
+      "points": 1.0,
       "is_fastest_lap": false,
       "status": "FINISHED"
     },
