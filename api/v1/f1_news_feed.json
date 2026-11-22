@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-22T11:32:16.628495Z",
+    "last_updated": "2026-11-22T12:02:36.668573Z",
     "total_news": 22
   },
   "news": [
@@ -41,6 +41,15 @@
       "published_at": 1795324023000
     },
     {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cjzx912pyekdo?at_medium=RSS&at_campaign=rss",
+      "title": "How to follow Qatar Grand Prix on the BBC",
+      "snippet": "All the key BBC coverage details for the Qatar Grand Prix, which takes place from 27 to 29 November.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cjzx912pyekdo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0a8/live/3ee78b10-e650-11f1-a563-e14cd8b02601.jpg",
+      "published_at": 1795348632000
+    },
+    {
       "id": "https://www.motorsport.com/f1/news/lewis-hamilton-charles-leclercs-frame-of-mind-cost-us-a-lot-of-points-today/10876902/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Lewis Hamilton: ‘Charles Leclerc’s frame of mind cost us a lot of points today’",
       "snippet": "Lewis Hamilton subtly implied Charles Leclerc’s “frame of mind” was to blame for their collision in Formula 1’s Las Vegas Grand Prix.Hamilton and Leclerc were sixth and seventh on lap 37 of the Nevadan race, only some two seconds adrift of race leader Max Verstappen, when the Monegasque dived down the inside in Turn 7. His front wheels were nearly alongside the Briton’s, but he ...Keep reading",
@@ -52,11 +61,20 @@
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
       "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
-      "snippet": "Max Verstappen was the star figure in a Las Vegas Grand Prix that had 34 overtaking moves for the lead in 50 laps.",
+      "snippet": "Max Verstappen was the star figure in a Las Vegas Grand Prix that was unlike any F1 race anyone younger than about 70 had ever seen.",
       "link": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9777/live/1f62a250-e661-11f1-8ebd-1d2173202734.jpg",
       "published_at": 1795345652000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sounds/play/m003506s?at_medium=RSS&at_campaign=rss",
+      "title": "F1: Chequered Flag",
+      "snippet": "An extraordinary race, Verstappen’s response to Russell, plus another Ferrari collision.",
+      "link": "https://www.bbc.co.uk/sounds/play/m003506s?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
+      "published_at": 1795342980000
     },
     {
       "id": "https://www.motorsport.com/f1/news/max-verstappen-calls-george-russells-2026-f1-season-a-complete-disaster-after-vegas-clash/10876885/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -183,24 +201,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ba/live/bb976db0-e56f-11f1-b01f-57dbbf219200.jpg",
       "published_at": 1795240450000
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13614666/audi-flying-lap-las-vegas",
-      "title": "Audi Flying Lap: Las Vegas",
-      "snippet": "Powered by Audi: Anthony Davidson takes us round the sensational Las Vegas track in a high-performance Audi, combining real laps with advanced sim data to break down racing lines, braking points and elite-level performance.",
-      "link": "https://www.skysports.com/watch/video/13614666/audi-flying-lap-las-vegas",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-audi-flying-lap-f1_7412162.jpg?20261121123347",
-      "published_at": 1795263540000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/fernando-alonso-honda-lacks-so-much-power-that-rivals-take-extra-margin-behind-us/10876414/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Fernando Alonso: Honda lacks so much power that rivals take extra margin behind us",
-      "snippet": "Fernando Alonso says Honda’s power deficit is so dire that other cars are taking extra margin around the Aston Martins at Formula 1’s Las Vegas Grand Prix.The Nevadan street circuit was expected to expose the Japanese power unit’s deficiencies, with a near-2km full-throttle portion. Alonso and Lance Stroll unsurprisingly failed to escape Q1, where the two-time world champion was 1.251s ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/fernando-alonso-honda-lacks-so-much-power-that-rivals-take-extra-margin-behind-us/10876414/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7Q8pK6/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": 1795254219000
     }
   ]
 }
