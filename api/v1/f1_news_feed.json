@@ -1,17 +1,26 @@
 {
   "metadata": {
-    "last_updated": "2026-11-22T04:33:08.726375Z",
+    "last_updated": "2026-11-22T05:03:20.682083Z",
     "total_news": 22
   },
   "news": [
     {
       "id": "https://www.skysports.com/f1/live-blog/12433/13615079/f1-las-vegas-gp-live-race-updates-results-stream-and-highlights-from-21st-round-of-2026-formula-1-season-in-usa",
-      "title": "Las Vegas GP: Verstappen ahead of Russell in thrilling battle for lead LIVE!",
+      "title": "Las Vegas GP: Verstappen leads Russell, Hadjar suffers front-wing failure LIVE!",
       "snippet": "Follow live updates and watch the best video from the Las Vegas Grand Prix. Watch live on Sky Sports F1 and Main Event",
       "link": "https://www.skysports.com/f1/live-blog/12433/13615079/f1-las-vegas-gp-live-race-updates-results-stream-and-highlights-from-21st-round-of-2026-formula-1-season-in-usa",
       "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-max-verstappen-red-bull_7413087.jpg?20261122041245",
+      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-max-verstappen-george_7413100.jpg?20261122044240",
       "published_at": 1795315980000
+    },
+    {
+      "id": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
+      "title": "Palmowski wins season-finale in Las Vegas after epic battle with Larsen",
+      "snippet": "",
+      "link": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-f1-academy_7413063.jpg?20261122003316",
+      "published_at": 1795308900000
     },
     {
       "id": "https://www.motorsport.com/f1/news/piastri-questions-strange-pace-deficit-to-other-mercedes-powered-cars-in-las-vegas/10876516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -21,15 +30,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/01QNxkZ0/s6/oscar-piastri-mclaren.jpg",
       "published_at": 1795287603000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/isack-hadjar-we-looked-stupid-in-las-vegas-as-i-dont-like-slipstreaming/10876445/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Isack Hadjar: “We looked stupid” in Las Vegas as I don’t like slipstreaming",
-      "snippet": "Isack Hadjar has admitted to underperforming in qualifying for Formula 1’s Las Vegas Grand Prix due to not realizing how powerful the tow would be on this high-speed street circuit.Hadjar was 0.67s slower than Red Bull team-mate Max Verstappen in Q2 and 0.44s adrift in Q3 as he ended up down in fifth, and the gap may be partly down to his personal preferences as he told Sky Sports F1 he ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/isack-hadjar-we-looked-stupid-in-las-vegas-as-i-dont-like-slipstreaming/10876445/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7Byjr2/s6/isack-hadjar-red-bull-racing.jpg",
-      "published_at": 1795276804000
     },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss",
@@ -113,6 +113,15 @@
       "published_at": 1795246140000
     },
     {
+      "id": "https://www.motorsport.com/f1/news/isack-hadjar-red-bull-looked-a-bit-stupid-in-vegas-qualifying-tow-game/10876319/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Isack Hadjar: Red Bull \"looked a bit stupid\" in Vegas qualifying tow game",
+      "snippet": "Isack Hadjar has admitted that Red Bull \"looked a bit stupid\" in what became a tow battle at the end of Las Vegas Grand Prix qualifying. He says it \"doesn't really matter\" where he starts on Saturday night.Hadjar set the fifth-fastest time in Q3, 0.699s behind Kimi Antonelli, while team-mate Max Verstappen took pole after the Italian's five-place grid penalty. Hadjar moves up to fourth on ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/isack-hadjar-red-bull-looked-a-bit-stupid-in-vegas-qualifying-tow-game/10876319/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKzrKY/s6/isack-hadjar-red-bull-racing-a10876319-b707-2.jpg",
+      "published_at": 1795242985000
+    },
+    {
       "id": "https://www.motorsport.com/f1/news/2026-f1-las-vegas-grand-prix-starting-grid/10876250/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "2026 F1 Las Vegas Grand Prix starting grid",
       "snippet": "2 George Russell(Mercedes)1 Max Verstappen(Red Bull) 4 Isack Hadjar(Red Bull)3 Lando ...Keep reading",
@@ -167,15 +176,6 @@
       "published_at": 1795201320000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/max-verstappen-i-really-thought-that-we-would-not-win-a-race-this-year/10875990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Max Verstappen: “I really thought that we would not win a race this year”",
-      "snippet": "Heading into the Las Vegas Grand Prix on a run of eight consecutive podiums, Max Verstappen looks every bit the force who dominated Formula 1 earlier this decade. Back in March, however, the four-time world champion was braced for his first winless campaign since 2015.Speaking during Las Vegas media day, Verstappen reflected on the scale of Red Bull Racing’s mid-season recovery during ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/max-verstappen-i-really-thought-that-we-would-not-win-a-race-this-year/10875990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YXyKX156/s6/max-verstappen-red-bull-racing-a10875990-b707-2.jpg",
-      "published_at": 1795178624000
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cqkgr0elvl5zo?at_medium=RSS&at_campaign=rss",
       "title": "Bottas' stay at Cadillac confirmed for 2027",
       "snippet": "Valtteri Bottas is retained by Cadillac for the 2027 Formula 1 season.",
@@ -194,13 +194,13 @@
       "published_at": 1794550340000
     },
     {
-      "id": "https://www.motorsport.com/dakar/news/fernando-alonso-returns-to-dakar-why-his-first-rally-raid-experience-was-a-shock-to-the-system/10875881/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Fernando Alonso returns to Dakar: Why his first rally-raid experience was a shock to the system",
-      "snippet": "While Fernando Alonso reiterated in Las Vegas that, in his view, Formula 1 has thrown away 16 years of pure racing before the return of V8 engines in 2030, the Spaniard continues to seek those pure challenges outside the pinnacle of motorsport as well.It had been known in the paddock for some time that Alonso would return to the Dakar Rally this winter for the first time since 2020, although ...Keep reading",
-      "link": "https://www.motorsport.com/dakar/news/fernando-alonso-returns-to-dakar-why-his-first-rally-raid-experience-was-a-shock-to-the-system/10875881/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "id": "https://www.motorsport.com/f1/news/max-verstappen-i-really-thought-that-we-would-not-win-a-race-this-year/10875990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Max Verstappen: “I really thought that we would not win a race this year”",
+      "snippet": "Heading into the Las Vegas Grand Prix on a run of eight consecutive podiums, Max Verstappen looks every bit the force who dominated Formula 1 earlier this decade. Back in March, however, the four-time world champion was braced for his first winless campaign since 2015.Speaking during Las Vegas media day, Verstappen reflected on the scale of Red Bull Racing’s mid-season recovery during ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/max-verstappen-i-really-thought-that-we-would-not-win-a-race-this-year/10875990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6n7bvPO0/s6/fernando-alonso-aston-martin.jpg",
-      "published_at": 1795176903000
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YXyKX156/s6/max-verstappen-red-bull-racing-a10875990-b707-2.jpg",
+      "published_at": 1795178624000
     }
   ]
 }
