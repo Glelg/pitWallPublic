@@ -1987,7 +1987,11 @@
           "session_key": 11420,
           "session_name": "Race",
           "session_type": "Race",
-          "date_start": "2026-11-22T04:00:00+00:00"
+          "date_start": "2026-11-22T04:00:00+00:00",
+          "weather": {
+            "temp": 8.2,
+            "weather_code": 2
+          }
         }
       ]
     },
