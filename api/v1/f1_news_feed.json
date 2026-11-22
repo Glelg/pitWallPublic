@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-22T18:02:33.094145Z",
+    "last_updated": "2026-11-22T18:32:26.788083Z",
     "total_news": 22
   },
   "news": [
@@ -12,6 +12,24 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/2GdKBeKY/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1795343655000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/videos/cr2klvl8zz8jo?at_medium=RSS&at_campaign=rss",
+      "title": "'Russell is living rent free in Verstappen's head!'",
+      "snippet": "BBC Sport's Harry Benjamin, Rebecca Clancy and Abbi Pulling discuss the clash between George Russell and Max Verstappen as their rivalry heats up both on and off the track.",
+      "link": "https://www.bbc.co.uk/sport/formula1/videos/cr2klvl8zz8jo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b81d/live/ce793ff0-e69e-11f1-99b6-a35a62fa4264.jpg",
+      "published_at": 1795370740000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/i-actually-liked-it-mclaren-boss-defends-piastris-four-letter-outburst-in-las-vegas-gp/10876928/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "\"I actually liked it\" – McLaren boss defends Piastri's four-letter outburst in Las Vegas GP",
+      "snippet": "Completing the podium behind a victorious Max Verstappen in Las Vegas probably wasn't on McLaren's bingo card after a troubled qualifying session for Lando Norris and Oscar Piastri. Finishing third would have seemed particularly unlikely for Piastri given that penalties for fitting out-of-quota engine components dropped him to 17th on the grid.Afterwards, McLaren team principal Andrea Stella ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/i-actually-liked-it-mclaren-boss-defends-piastris-four-letter-outburst-in-las-vegas-gp/10876928/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0JXR7QEY/s6/oscar-piastri-mclaren-2.jpg",
+      "published_at": 1795370478000
     },
     {
       "id": "https://www.motorsport.com/f1/news/isack-hadjar-gets-penalty-after-backing-up-george-russell-in-las-vegas-gp/10876855/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -183,24 +201,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-max-george_7413130.jpg?20261122053854",
       "published_at": 1795325520000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/max-verstappen-takes-las-vegas-pole-despite-weird-issues-since-brazil/10876373/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Max Verstappen takes Las Vegas pole despite “weird issues” since Brazil",
-      "snippet": "Max Verstappen will lead the field to the green light for Saturday night’s Las Vegas Grand Prix, yet the four-time world champion spent Friday evening fighting his own car as much as his rivals.Verstappen clocked a 1m34.151s in Q3 - 0.258 seconds behind newly crowned world champion Kimi Antonelli’s 1m33.893s - to inherit pole position after Mercedes fitted Antonelli’s sixth internal ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/max-verstappen-takes-las-vegas-pole-despite-weird-issues-since-brazil/10876373/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQkWGY/s6/max-verstappen-red-bull-racing-a10876373-b707-2.jpg",
-      "published_at": 1795285300000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/piastri-questions-strange-pace-deficit-to-other-mercedes-powered-cars-in-las-vegas/10876516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Oscar Piastri questions \"strange\" pace deficit to other Mercedes-powered cars in Las Vegas",
-      "snippet": "Oscar Piastri stopped short of echoing the verdict of team-mate Lando Norris that McLaren's straightline speed in Las Vegas was \"just shocking\". But he did acknowledge that the margin of the deficit to rivals was surprising – especially relative to those using the same Mercedes power units.Piastri set the seventh-quickest time in final qualifying with what he described as a \"messy\" lap ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/piastri-questions-strange-pace-deficit-to-other-mercedes-powered-cars-in-las-vegas/10876516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/01QNxkZ0/s6/oscar-piastri-mclaren.jpg",
-      "published_at": 1795287603000
     }
   ]
 }
