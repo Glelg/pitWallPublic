@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-22T20:02:34.594024Z",
+    "last_updated": "2026-11-22T20:32:28.447277Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.motorsport.com/f1/news/f1-set-to-reduce-customer-teams-as-key-2030-details-emerge/10877055/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "F1 set to reduce customer teams as key 2030 details emerge",
+      "snippet": "F1 is planning a shift to just two power unit supplies per manufacturer in 2030, Motorsport.com has learned, raising questions over the status of Mercedes' three current customers.Over the Las Vegas weekend the FIA announced there was unanimous support to bring the next generation of power unit regulations forward to 2030. That includes a move to 2.1-litre V8 engines, including a ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/f1-set-to-reduce-customer-teams-as-key-2030-details-emerge/10877055/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/68Vw5vX2/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": 1795379209000
+    },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cwe9k29y7z44o?at_medium=RSS&at_campaign=rss",
       "title": "Camara to continue with Haas for final two races",
@@ -113,10 +122,10 @@
       "published_at": 1795345652000
     },
     {
-      "id": "https://www.bbc.co.uk/sounds/play/m003506s?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
       "title": "F1: Chequered Flag",
       "snippet": "An extraordinary race, Verstappen’s response to Russell, plus another Ferrari collision.",
-      "link": "https://www.bbc.co.uk/sounds/play/m003506s?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
       "published_at": 1795342980000
@@ -192,15 +201,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-max-verstappen_7413191.jpg?20261122071217",
       "published_at": 1795331040000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-las-vegas-gp/10876667/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Five quick takeaways from Las Vegas GP",
-      "snippet": "Las Vegas gets the pack race it cravedIn America's artificial entertainment capital, F1 put the most artificial and entertaining spectacle. How fitting.The yo-yo racing from the early days of the 2026 season was back on full display, with the lack of electric energy available on the Strip's mile long straight bring back battery driven overtaking. For a while it felt like we were watching ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-las-vegas-gp/10876667/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YN7vj146/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": 1795326465000
     }
   ]
 }
