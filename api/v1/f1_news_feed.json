@@ -1,9 +1,27 @@
 {
   "metadata": {
-    "last_updated": "2026-11-23T13:02:37.080284Z",
+    "last_updated": "2026-11-23T14:02:37.719252Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.autosport.com/f1/news/was-the-las-vegas-gp-best-race-of-the-year-or-too-fake/10877213/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Was the Las Vegas GP best race of the year - or too fake?",
+      "snippet": "The nature of the Las Vegas Grand Prix divided opinion in Formula 1's fanbase, and these opposing views were shared across the grid as the myriad overlapping passes were lauded and derided in equal measure.Among the numerous changes for the lead, as Max Verstappen had to bat away passes from George Russell, Kimi Antonelli, and Lando Norris at various intervals throughout, the race was ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/was-the-las-vegas-gp-best-race-of-the-year-or-too-fake/10877213/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/01QNEJe0/s6/lando-norris-mclaren-andrea-ki.jpg",
+      "published_at": 1795441476000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/guenther-steiner-warns-george-russell-do-not-poke-the-bear-max-verstappen/10877209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Guenther Steiner warns George Russell: Do not \"poke the bear\" Max Verstappen",
+      "snippet": "Former Haas Formula 1 team principal Guenther Steiner has urged Mercedes driver George Russell not to \"poke the bear\" with Max Verstappen, after their war of words at the Las Vegas Grand Prix.Russell hit out at Verstappen after the pair clashed in final practice, saying the Red Bull driver walks around \"like they're bigger and better than everyone else\" and that \"somebody's got to stand up to ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/guenther-steiner-warns-george-russell-do-not-poke-the-bear-max-verstappen/10877209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6AlvydGY/s6/max-verstappen-red-bull-racing-a10877209-b705-2.jpg",
+      "published_at": 1795439760000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/max-verstappen-would-rather-stay-home-but-trusts-f1s-safety-guarantees-for-middle-east-races/10876730/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Max Verstappen \"would rather stay home\" but trusts F1's safety guarantees for Middle East races",
@@ -183,24 +201,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
       "published_at": 1795342980000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/max-verstappen-calls-george-russells-2026-f1-season-a-complete-disaster-after-vegas-clash/10876885/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Max Verstappen continues George Russell fallout, labels his 2026 F1 season a \"complete disaster\"",
-      "snippet": "While the clash between Max Verstappen and George Russell during the third free practice session for the Formula 1 Las Vegas Grand Prix appeared to have been settled with a warning for the Red Bull driver, the dispute has since escalated in the media.Speaking to Sky Sports Italy after qualifying, Russell made it clear that he was no longer willing to accept \"somebody to screw me over like this ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/max-verstappen-calls-george-russells-2026-f1-season-a-complete-disaster-after-vegas-clash/10876885/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQkWGY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": 1795342403000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
-      "title": "Verstappen wins extraordinary race as Ferraris collide",
-      "snippet": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c5/live/4cf95270-e631-11f1-9a7b-83df752dd747.jpg",
-      "published_at": 1795340955000
     }
   ]
 }
