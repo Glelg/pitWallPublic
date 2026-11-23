@@ -1,12 +1,39 @@
 {
   "metadata": {
-    "last_updated": "2026-11-23T07:02:35.469952Z",
+    "last_updated": "2026-11-23T10:02:34.956655Z",
     "total_news": 22
   },
   "news": [
     {
+      "id": "https://www.autosport.com/formula2/news/colton-herta-replaced-at-hitech-to-end-poor-f2-season-early/10877140/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Herta replaced at Hitech to end F2 season early",
+      "snippet": "Colton Herta will end his torrid time in Formula 2 early by not returning for the final two rounds of the 2026 season following a “mutual agreement” with Hitech.The nine-time IndyCar race winner made the transition to European single-seaters this year as part of his bid to gain an FIA Superlicence that is required to compete in Formula 1.But F2 has not gone as planned for Herta, who is ...Keep reading",
+      "link": "https://www.autosport.com/formula2/news/colton-herta-replaced-at-hitech-to-end-poor-f2-season-early/10877140/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7QPOK6/s6/colton-herta-hitech.jpg",
+      "published_at": 1795426959000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/why-bearmans-expected-2027-haas-f1-deal-remains-unsigned/10877066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Why Bearman’s expected 2027 Haas F1 deal remains unsigned",
+      "snippet": "Ferrari protege Oliver Bearman remains the only driver on the F1 grid without a contract for 2027. It is a situation that would have been hard to imagine just a few weeks ago, given that his retention at Haas had been taken for granted since last summer.The announcement of Rafael Camara as Bearman's 2027 team-mate, which came ahead of the Brazilian Grand Prix, was expected to be swiftly ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/why-bearmans-expected-2027-haas-f1-deal-remains-unsigned/10877066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6AlvVJqY/s6/oliver-bearman-haas-f1-team-2.jpg",
+      "published_at": 1795424717000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13615087/max-verstappen-rivalry-with-george-russell-a-good-factor-of-f1-entertainment-says-mercedes-chief-toto-wolff",
+      "title": "Wolff: Russell-Verstappen provocations a good factor of F1 entertainment",
+      "snippet": "Mercedes chief Toto Wolff says the \"provocations\" between his driver George Russell and Red Bull's Max Verstappen are a \"good factor of the entertainment\" in Formula 1.",
+      "link": "https://www.skysports.com/f1/news/12433/13615087/max-verstappen-rivalry-with-george-russell-a-good-factor-of-f1-entertainment-says-mercedes-chief-toto-wolff",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-max-verstappen-george_7413545.jpg?20261122150456",
+      "published_at": 1795420800000
+    },
+    {
       "id": "https://www.skysports.com/f1/news/12433/13615086/lewis-hamilton-charles-leclerc-clashes-cannot-continue-after-las-vegas-gp-with-frederic-vasseur-to-speak-to-drivers-again",
-      "title": "'This cannot continue'.- Ferrari to hold fresh Leclerc-Hamilton talks after collision",
+      "title": "'This cannot continue' - Ferrari to hold fresh Leclerc-Hamilton talks after collision",
       "snippet": "Ferrari team boss Frederic Vasseur says he will hold further discussions with drivers Charles Leclerc and Lewis Hamilton after their latest tangle in the Las Vegas Grand Prix, admitting such incidents \"cannot continue\".",
       "link": "https://www.skysports.com/f1/news/12433/13615086/lewis-hamilton-charles-leclerc-clashes-cannot-continue-after-las-vegas-gp-with-frederic-vasseur-to-speak-to-drivers-again",
       "source_name": "Sky Sports",
@@ -25,7 +52,7 @@
     {
       "id": "https://www.autosport.com/f1/news/f1-set-to-reduce-customer-teams-as-key-2030-details-emerge/10877058/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "title": "F1 plans two-team engine supply limit under 2030 V8 rules",
-      "snippet": "F1 is planning a shift to just two power unit supplies per manufacturer in 2030, Autosport has learned, raising questions over the status of Mercedes' three current customers.Over the Las Vegas weekend the FIA announced there was unanimous support to bring the next generation of power unit regulations forward to 2030. That includes a move to 2.1-litre V8 engines, including a turbocharger, a ...Keep reading",
+      "snippet": "Formula 1 is planning a shift to just two power unit supplies per manufacturer in 2030, Autosport has learned, raising questions over the status of Mercedes' three current customers.Over the Las Vegas weekend the FIA announced there was unanimous support to bring the next generation of power unit regulations forward to 2030. That includes a move to 2.1-litre V8 engines, including a ...Keep reading",
       "link": "https://www.autosport.com/f1/news/f1-set-to-reduce-customer-teams-as-key-2030-details-emerge/10877058/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/YP7rVg42/s6/race-start-2.jpg",
@@ -174,33 +201,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e6/live/ced7c200-e64e-11f1-99a1-253766e7ad8b.png",
       "published_at": 1795340105000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/fred-vasseur-furious-with-latest-unprofessional-ferrari-spat-its-the-same-speech-as-mexico/10876841/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Fred Vasseur furious with latest \"unprofessional\" Ferrari clash: \"It's the same speech as Mexico\"",
-      "snippet": "Ferrari team boss Fred Vasseur says Charles Leclerc's contact with Lewis Hamilton in the Las Vegas Grand Prix was \"unacceptable\" and showed \"lack of respect for the team\", with the Formula 1 team set for fresh crisis talks just three weeks after their spat in Mexico.Vasseur had to hold talks with both Leclerc and Hamilton for their costly Mexico skirmish and will do so again after his two ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/fred-vasseur-furious-with-latest-unprofessional-ferrari-spat-its-the-same-speech-as-mexico/10876841/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8Zy7v2/s6/charles-leclerc-ferrari-lewis-.jpg",
-      "published_at": 1795336702000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/oscar-piastri-rejects-need-for-mclaren-warning-in-lando-norris-fight-dont-need-to-be-told/10876812/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Oscar Piastri rejects need for McLaren warning in Lando Norris fight: \"Don't need to be told\"",
-      "snippet": "McLaren Formula 1 driver Oscar Piastri says he and his team-mate Lando Norris \"don't need to be told\" how to race each other, after the Woking outfit warned its drivers to be careful during their battle in the Las Vegas Grand Prix.The Australian driver started 17th after a 10-place grid penalty for an engine change, but fought through the pack to finish third, behind winner Max Verstappen and ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/oscar-piastri-rejects-need-for-mclaren-warning-in-lando-norris-fight-dont-need-to-be-told/10876812/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6zoDBgj0/s6/oscar-piastri-mclaren-lando-no-a10876812-b706-2.jpg",
-      "published_at": 1795333975000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/my-mistake-was-to-lift-why-antonelli-lost-power-in-las-vegas-gp-victory-battle/10876786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "“My mistake was to lift” – Why Antonelli lost power in Las Vegas GP victory battle",
-      "snippet": "Kimi Antonelli has explained the quirky “mistake” that cost him a shot at Formula 1 victory in the Las Vegas Grand Prix.The fastest driver in qualifying, Antonelli was sixth on the grid owing to a five-place drop for an engine change and was the only top-10 starter on mediums rather than softs, which contributed to a further two-position drop on lap one.The new world champion recovered ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/my-mistake-was-to-lift-why-antonelli-lost-power-in-las-vegas-gp-victory-battle/10876786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6VyKxydY/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": 1795332457000
     }
   ]
 }
