@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-23T19:32:23.664149Z",
+    "last_updated": "2026-11-23T20:02:37.059696Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.motorsport.com/f1/news/laurent-mekies-keeping-his-emotions-in-check-is-giving-isack-hadjar-lap-time/10877211/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Laurent Mekies: Keeping his emotions in check is giving Isack Hadjar “lap time”",
+      "snippet": "Isack Hadjar left the 2026 Las Vegas Grand Prix empty-handed after a Lap 26 front wing failure and a post-race 10-second safety car penalty relegated him to 15th, yet Red Bull team principal Laurent Mekies saw something far more encouraging on the Strip.Having qualified fourth and briefly led on Lap 9 during an early one–two run alongside eventual winner Max Verstappen, the 22-year-old ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/laurent-mekies-keeping-his-emotions-in-check-is-giving-isack-hadjar-lap-time/10877211/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKzrKY/s6/isack-hadjar-red-bull-racing-a10877211-b707-2.jpg",
+      "published_at": 1795462202000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/guenther-steiner-expects-ferrari-board-to-react-after-lewis-hamilton-charles-leclerc-clash/10877259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Guenther Steiner expects Ferrari board to react after Lewis Hamilton-Charles Leclerc clash",
@@ -192,15 +201,6 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/YP74VKA2/s6/rafael-camara-haas-2.jpg",
       "published_at": 1795372352000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/videos/cr2klvl8zz8jo?at_medium=RSS&at_campaign=rss",
-      "title": "'Russell is living rent free in Verstappen's head!'",
-      "snippet": "BBC Sport's Harry Benjamin, Rebecca Clancy and Abbi Pulling discuss the clash between George Russell and Max Verstappen as their rivalry heats up both on and off the track.",
-      "link": "https://www.bbc.co.uk/sport/formula1/videos/cr2klvl8zz8jo?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b81d/live/ce793ff0-e69e-11f1-99b6-a35a62fa4264.jpg",
-      "published_at": 1795370740000
     }
   ]
 }
