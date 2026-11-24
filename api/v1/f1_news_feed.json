@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-24T23:02:23.891766Z",
+    "last_updated": "2026-11-24T23:32:21.934600Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.motorsport.com/f1/news/lando-norris-admits-some-of-the-overtakes-werent-overtakes-in-vegas-thriller-and-explains-why-2030-/10877443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Lando Norris expects 2030 F1 racing to surpass Las Vegas GP spectacle",
+      "snippet": "Formula 1’s Las Vegas Grand Prix delivered a headline statistic built for highlight reels: 352 overtakes and 35 lead changes across 50 laps, shattering the championship’s all-time passing record.Yet runner-up Lando Norris was not fully sold on what that figure meant from inside the cockpit. Speaking in the FIA post-race press conference after finishing 0.639 seconds behind Max Verstappen ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/lando-norris-admits-some-of-the-overtakes-werent-overtakes-in-vegas-thriller-and-explains-why-2030-/10877443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKznbY/s6/lando-norris-mclaren-a10877443-b706-2.jpg",
+      "published_at": 1795563001000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/unaired-radio-reveals-red-bull-told-max-verstappen-to-consider-giving-antonelli-the-lead-before-las/10877450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Unaired Las Vegas radio reveals Red Bull considered giving up Max Verstappen's lead",
@@ -104,24 +113,6 @@
       "published_at": 1795455793000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/andrea-stella-warns-f1-against-polarised-verdicts-after-record-352-overtake-las-vegas-spectacle/10877202/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Andrea Stella warns against knee-jerk reaction as Las Vegas reshapes 2030 debate",
-      "snippet": "Formula 1 left Las Vegas facing an awkward paradox. Barely 24 hours after the FIA confirmed unanimous agreement on a framework to introduce simpler, 2.1-litre turbocharged V8 engines in 2030 - a move driven largely by frustration over 2026’s heavy energy-management rules - Saturday night’s 50-lap race produced one of the wildest shows of the season.Drivers completed a record 352 overtakes ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/andrea-stella-warns-f1-against-polarised-verdicts-after-record-352-overtake-las-vegas-spectacle/10877202/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7BZwO2/s6/andrea-stella-mclaren-a10877202-b706-2.jpg",
-      "published_at": 1795455522000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/lando-norris-looking-at-the-battery-more-than-where-im-going-in-las-vegas/10877274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Lando Norris: \"Looking at the battery more than where I'm going\" in Las Vegas",
-      "snippet": "McLaren Formula 1 driver Lando Norris says he spent more of the Las Vegas Grand Prix watching his battery than the road ahead, as he recovered from outside the points to second place.The 2025 champion started third but was running 11th by lap 12, with the MCL40 losing out on the Las Vegas street circuit's long straights.Norris had already called the car \"awful in the straight\" after ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/lando-norris-looking-at-the-battery-more-than-where-im-going-in-las-vegas/10877274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YK15z410/s6/lando-norris-mclaren-a10877274-b706-2.jpg",
-      "published_at": 1795453443000
-    },
-    {
       "id": "https://www.autosport.com/f1/news/f1-2027-grid-who-will-be-racing-and-where/10847600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "title": "F1 2027 grid: Who will be racing and where?",
       "snippet": "The 2027 Formula 1 grid has very much taken shape with all but one spot now confirmed following a rather safe ‘silly season’ that didn’t present much drama.There is only one team - Haas - that is changing its line-up for next season as many potentially enthralling storylines failed to materialise in regards to the 2027 grid.So, here’s a look at the situation.Mercedes: Kimi ...Keep reading",
@@ -201,6 +192,15 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/6AlvVJqY/s6/oliver-bearman-haas-f1-team-2.jpg",
       "published_at": 1795424717000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13615087/max-verstappen-rivalry-with-george-russell-a-good-factor-of-f1-entertainment-says-mercedes-chief-toto-wolff",
+      "title": "Wolff: Russell-Verstappen provocations a good factor of F1 entertainment",
+      "snippet": "Mercedes chief Toto Wolff says the \"provocations\" between his driver George Russell and Red Bull's Max Verstappen are a \"good factor of the entertainment\" in Formula 1.",
+      "link": "https://www.skysports.com/f1/news/12433/13615087/max-verstappen-rivalry-with-george-russell-a-good-factor-of-f1-entertainment-says-mercedes-chief-toto-wolff",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-max-verstappen-george_7413545.jpg?20261122150456",
+      "published_at": 1795420800000
     }
   ]
 }
