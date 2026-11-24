@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-24T07:32:35.390068Z",
+    "last_updated": "2026-11-24T08:32:18.581935Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cw30gq2633ljo?at_medium=RSS&at_campaign=rss",
+      "title": "Is Hamilton and Leclerc's Ferrari partnership sustainable? F1 Q&A",
+      "snippet": "BBC F1 correspondent Andrew Benson answers your latest questions after the Las Vegas Grand Prix.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cw30gq2633ljo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c83/live/2d9015e0-e730-11f1-8294-033bd8ee7e95.jpg",
+      "published_at": 1795507815000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/max-verstappen-the-last-time-i-won-a-race-like-las-vegas-was-on-mario-kart/10877295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Max Verstappen jokes last time he won a race like F1 Las Vegas GP it was \"Mario Kart\"",
@@ -21,15 +30,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKzrKY/s6/isack-hadjar-red-bull-racing-a10877211-b707-2.jpg",
       "published_at": 1795462202000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/guenther-steiner-expects-ferrari-board-to-react-after-lewis-hamilton-charles-leclerc-clash/10877259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Guenther Steiner expects Ferrari board to react after Lewis Hamilton-Charles Leclerc clash",
-      "snippet": "Former Haas Formula 1 team principal Guenther Steiner believes Ferrari will make changes after Lewis Hamilton and Charles Leclerc clashed again at the Las Vegas Grand Prix.Leclerc spun Hamilton around while the pair fought over sixth place around the streets of Las Vegas, only three weeks after another clash at the Mexican Grand Prix. Leclerc was penalised and finished 10th, with Hamilton ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/guenther-steiner-expects-ferrari-board-to-react-after-lewis-hamilton-charles-leclerc-clash/10877259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGgbp7Y/s6/charles-leclerc-ferrari-lewis-a10877259-b704-2.jpg",
-      "published_at": 1795460403000
     },
     {
       "id": "https://www.skysports.com/f1/news/12433/13615702/max-verstappen-and-george-russell-has-feud-reignited-at-wrong-time-for-mercedes-driver-after-difficult-2026-f1-season",
@@ -102,6 +102,15 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/6AEWkpk6/s6/george-russell-mercedes-f1-w15-2.jpg",
       "published_at": 1795449990000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/lewis-hamilton-ferraris-top-speed-deficit-was-brutal-at-f1-las-vegas-gp/10876908/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Lewis Hamilton: Ferrari’s top-speed deficit was “brutal” at F1 Las Vegas GP",
+      "snippet": "Ferrari Formula 1 driver Lewis Hamilton says the SF-26’s top-speed deficit was exposed as even more “brutal” than he expected on Las Vegas’ long straights.Hamilton and Charles Leclerc were both eliminated in Q2 and finished the race down in seventh and 10th, with their potential squandered by a 10-second penalty for each – including one inflicted on Leclerc for colliding with his ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/lewis-hamilton-ferraris-top-speed-deficit-was-brutal-at-f1-las-vegas-gp/10876908/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6VyK51VY/s6/lewis-hamilton-ferrari.jpg",
+      "published_at": 1795442613000
     },
     {
       "id": "https://www.motorsport.com/f1/news/guenther-steiner-warns-george-russell-do-not-poke-the-bear-max-verstappen/10877209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/2GdKBeKY/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1795343655000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/haas-keeps-rafael-camara-in-f1-ending-his-2026-f2-title-bid/10877044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Camara to finish F1 season with Haas, ending F2 title bid",
-      "snippet": "Haas rookie Rafael Camara will see out the season with Haas in Qatar and Abu Dhabi, effectively ending his F2 championship challenge.Camara was confirmed in October as a full-time replacement for Esteban Ocon in 2027, and was fast-tracked into the seat after Ocon's relationship with the US-owned team deteriorated.After test driver Ryo Hirakawa took over Ocon's car midway through the Mexico ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/haas-keeps-rafael-camara-in-f1-ending-his-2026-f2-title-bid/10877044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YP74VKA2/s6/rafael-camara-haas-2.jpg",
-      "published_at": 1795372352000
     }
   ]
 }
