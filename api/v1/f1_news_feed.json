@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-24T11:02:36.253112Z",
+    "last_updated": "2026-11-24T12:02:31.672922Z",
     "total_news": 22
   },
   "news": [
@@ -194,13 +194,13 @@
       "published_at": 1795379209000
     },
     {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cwe9k29y7z44o?at_medium=RSS&at_campaign=rss",
-      "title": "Camara to continue with Haas for final two races",
-      "snippet": "Brazilian Rafael Camara will continue to race for the Haas team for the final two grands prix of the Formula 1 season.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cwe9k29y7z44o?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss",
+      "title": "Antonelli fastest but penalty leaves Verstappen on pole",
+      "snippet": "Mercedes' Kimi Antonelli is fastest in qualifying for the Las Vegas Grand Prix but a grid penalty hands pole position to Red Bull's Max Verstappen.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss",
       "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f95c/live/39cf8220-e6ac-11f1-b45e-bf1e220bd648.jpg",
-      "published_at": 1795377109000
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ba/live/bb976db0-e56f-11f1-b01f-57dbbf219200.jpg",
+      "published_at": 1795240450000
     }
   ]
 }
