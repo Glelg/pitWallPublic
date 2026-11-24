@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-24T20:02:33.206909Z",
+    "last_updated": "2026-11-24T20:32:23.523792Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.motorsport.com/f1/news/jolyon-palmer-hails-max-verstappens-unbelievable-racecraft-in-george-russell-duel/10877407/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Jolyon Palmer: No rival could match Max Verstappen's fight against George Russell in Las Vegas",
+      "snippet": "Even in a Las Vegas Grand Prix packed with 352 overtakes and 35 lead changes, the defining moments of Max Verstappen’s victory came down to raw wheel-to-wheel nerve rather than battery spreadsheets.Speaking on F1 TV’s post-race broadcast, former Formula 1 driver Jolyon Palmer hailed Verstappen’s defensive fight against George Russell as a display no rival on the current grid could have ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/jolyon-palmer-hails-max-verstappens-unbelievable-racecraft-in-george-russell-duel/10877407/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0kZXkEK6/s6/max-verstappen-red-bull-racing-a10877407-b707-2.jpg",
+      "published_at": 1795550706000
+    },
     {
       "id": "https://www.autosport.com/f1/news/whats-next-for-herta-after-f1-2027-snub/10877533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "title": "What's next for Herta after F1 2027 snub?",
@@ -59,15 +68,6 @@
       "published_at": 1795507815000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/max-verstappen-the-last-time-i-won-a-race-like-las-vegas-was-on-mario-kart/10877295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Max Verstappen jokes last time he won a race like F1 Las Vegas GP it was \"Mario Kart\"",
-      "snippet": "Four-time Formula 1 champion Max Verstappen says the last time he won a race like the Las Vegas Grand Prix was when he was playing Mario Kart.The Red Bull driver converted pole position into his 75th grand prix win, and his third in Las Vegas, in a race that featured 352 overtakes and 35 lead changes.Asked during the post-race press conference when he had last won a race like it, the ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/max-verstappen-the-last-time-i-won-a-race-like-las-vegas-was-on-mario-kart/10877295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXykV56/s6/max-verstappen-red-bull-racing-a10877295-b707-2.jpg",
-      "published_at": 1795464003000
-    },
-    {
       "id": "https://www.motorsport.com/f1/news/laurent-mekies-keeping-his-emotions-in-check-is-giving-isack-hadjar-lap-time/10877211/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Laurent Mekies: Keeping his emotions in check is giving Isack Hadjar “lap time”",
       "snippet": "Isack Hadjar left the 2026 Las Vegas Grand Prix empty-handed after a Lap 26 front wing failure and a post-race 10-second safety car penalty relegated him to 15th, yet Red Bull team principal Laurent Mekies saw something far more encouraging on the Strip.Having qualified fourth and briefly led on Lap 9 during an early one–two run alongside eventual winner Max Verstappen, the 22-year-old ...Keep reading",
@@ -113,15 +113,6 @@
       "published_at": 1795455793000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/andrea-stella-warns-f1-against-polarised-verdicts-after-record-352-overtake-las-vegas-spectacle/10877202/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Andrea Stella warns against knee-jerk reaction as Las Vegas reshapes 2030 debate",
-      "snippet": "Formula 1 left Las Vegas facing an awkward paradox. Barely 24 hours after the FIA confirmed unanimous agreement on a framework to introduce simpler, 2.1-litre turbocharged V8 engines in 2030 - a move driven largely by frustration over 2026’s heavy energy-management rules - Saturday night’s 50-lap race produced one of the wildest shows of the season.Drivers completed a record 352 overtakes ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/andrea-stella-warns-f1-against-polarised-verdicts-after-record-352-overtake-las-vegas-spectacle/10877202/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7BZwO2/s6/andrea-stella-mclaren-a10877202-b706-2.jpg",
-      "published_at": 1795455522000
-    },
-    {
       "id": "https://www.motorsport.com/f1/news/lando-norris-looking-at-the-battery-more-than-where-im-going-in-las-vegas/10877274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Lando Norris: \"Looking at the battery more than where I'm going\" in Las Vegas",
       "snippet": "McLaren Formula 1 driver Lando Norris says he spent more of the Las Vegas Grand Prix watching his battery than the road ahead, as he recovered from outside the points to second place.The 2025 champion started third but was running 11th by lap 12, with the MCL40 losing out on the Las Vegas street circuit's long straights.Norris had already called the car \"awful in the straight\" after ...Keep reading",
@@ -158,13 +149,13 @@
       "published_at": 1795442613000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/guenther-steiner-warns-george-russell-do-not-poke-the-bear-max-verstappen/10877209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Guenther Steiner warns George Russell: Do not \"poke the bear\" Max Verstappen",
-      "snippet": "Former Haas Formula 1 team principal Guenther Steiner has urged Mercedes driver George Russell not to \"poke the bear\" with Max Verstappen, after their war of words at the Las Vegas Grand Prix.Russell hit out at Verstappen after the pair clashed in final practice, saying the Red Bull driver walks around \"like they're bigger and better than everyone else\" and that \"somebody's got to stand up to ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/guenther-steiner-warns-george-russell-do-not-poke-the-bear-max-verstappen/10877209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6AlvydGY/s6/max-verstappen-red-bull-racing-a10877209-b705-2.jpg",
-      "published_at": 1795439760000
+      "id": "https://www.autosport.com/f1/news/was-the-las-vegas-gp-best-race-of-the-year-or-too-fake/10877213/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Was the Las Vegas GP best race of the year - or too fake?",
+      "snippet": "The nature of the Las Vegas Grand Prix divided opinion in Formula 1's fanbase, and these opposing views were shared across the grid as the myriad overlapping passes were lauded and derided in equal measure.Among the numerous changes for the lead, as Max Verstappen had to bat away passes from George Russell, Kimi Antonelli, and Lando Norris at various intervals throughout, the race was ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/was-the-las-vegas-gp-best-race-of-the-year-or-too-fake/10877213/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/01QNEJe0/s6/lando-norris-mclaren-andrea-ki.jpg",
+      "published_at": 1795441476000
     },
     {
       "id": "https://www.motorsport.com/f1/news/max-verstappen-would-rather-stay-home-but-trusts-f1s-safety-guarantees-for-middle-east-races/10876730/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -176,13 +167,13 @@
       "published_at": 1795438044000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-charles-leclerc-10877136/10877136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Who slept worst last night: Charles Leclerc",
-      "snippet": "Frederic Vasseur suggested on Saturday evening (Sunday morning in Europe) that, following the Las Vegas Grand Prix, he could essentially deliver the very same dressing-down he had already given his drivers after Mexico. Because Charles Leclerc and Lewis Hamilton had done it again. And, once again, the roles were exactly the same.Had the Daily Mail not decided to boycott Formula 1 in the ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-charles-leclerc-10877136/10877136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "id": "https://www.motorsport.com/f1/news/who-slept-best-last-night-max-verstappen-10877167/10877167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Who slept best last night: Max Verstappen",
+      "snippet": "There were 35 overtakes for the lead, they say, in the 2026 Las Vegas Grand Prix. Which sounds believable, but isn't even worth checking. Everyone who watched it knows there were a lot. Apparently, 17 of those involved Max Verstappen reclaiming the lead. And the vast majority were against George Russell.So even though the Dutchman doesn't enjoy yo-yo racing that much, you can be sure he ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/who-slept-best-last-night-max-verstappen-10877167/10877167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2GdKxOEY/s6/charles-leclerc-ferrari.jpg",
-      "published_at": 1795428042000
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6zoD4Pl0/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": 1795433031000
     },
     {
       "id": "https://www.autosport.com/formula2/news/colton-herta-replaced-at-hitech-to-end-poor-f2-season-early/10877140/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -201,6 +192,15 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/6AlvVJqY/s6/oliver-bearman-haas-f1-team-2.jpg",
       "published_at": 1795424717000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13615087/max-verstappen-rivalry-with-george-russell-a-good-factor-of-f1-entertainment-says-mercedes-chief-toto-wolff",
+      "title": "Wolff: Russell-Verstappen provocations a good factor of F1 entertainment",
+      "snippet": "Mercedes chief Toto Wolff says the \"provocations\" between his driver George Russell and Red Bull's Max Verstappen are a \"good factor of the entertainment\" in Formula 1.",
+      "link": "https://www.skysports.com/f1/news/12433/13615087/max-verstappen-rivalry-with-george-russell-a-good-factor-of-f1-entertainment-says-mercedes-chief-toto-wolff",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-max-verstappen-george_7413545.jpg?20261122150456",
+      "published_at": 1795420800000
     }
   ]
 }
