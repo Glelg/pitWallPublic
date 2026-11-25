@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-25T06:32:20.195822Z",
+    "last_updated": "2026-11-25T07:02:30.137881Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13615629/max-verstappen-showed-race-craft-edge-over-george-russell-and-kimi-antonelli-during-las-vegas-gp-says-jacques-villeneuve",
+      "title": "Villeneuve: Verstappen showed 'race craft' edge over Mercedes pair in Vegas",
+      "snippet": "Former Formula 1 world champion Jacques Villeneuve says Max Verstappen's Las Vegas Grand Prix victory showed that Mercedes' Kimi Antonelli and George Russell will not be able to beat the Red Bull driver in next year's championship unless they have a superior car.",
+      "link": "https://www.skysports.com/f1/news/12433/13615629/max-verstappen-showed-race-craft-edge-over-george-russell-and-kimi-antonelli-during-las-vegas-gp-says-jacques-villeneuve",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-max-verstappen-george_7414431.jpg?20261123130648",
+      "published_at": 1795590000000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/lando-norris-admits-some-of-the-overtakes-werent-overtakes-in-vegas-thriller-and-explains-why-2030-/10877443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Lando Norris expects 2030 F1 racing to surpass Las Vegas GP spectacle",
@@ -192,15 +201,6 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/01QNEJe0/s6/lando-norris-mclaren-andrea-ki.jpg",
       "published_at": 1795441476000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/guenther-steiner-warns-george-russell-do-not-poke-the-bear-max-verstappen/10877209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Guenther Steiner warns George Russell: Do not \"poke the bear\" Max Verstappen",
-      "snippet": "Former Haas Formula 1 team principal Guenther Steiner has urged Mercedes driver George Russell not to \"poke the bear\" with Max Verstappen, after their war of words at the Las Vegas Grand Prix.Russell hit out at Verstappen after the pair clashed in final practice, saying the Red Bull driver walks around \"like they're bigger and better than everyone else\" and that \"somebody's got to stand up to ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/guenther-steiner-warns-george-russell-do-not-poke-the-bear-max-verstappen/10877209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6AlvydGY/s6/max-verstappen-red-bull-racing-a10877209-b705-2.jpg",
-      "published_at": 1795439760000
     }
   ]
 }
