@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-25T19:32:28.001550Z",
+    "last_updated": "2026-11-25T20:02:40.851443Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.motorsport.com/f1/news/worn-out-fred-vasseur-is-running-out-of-answers-at-ferrari-says-jolyon-palmer-/10877422/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Fred Vasseur is running out of answers at Ferrari, says Jolyon Palmer",
+      "snippet": "In a 2026 Las Vegas Grand Prix where 22 drivers traded a record 352 overtakes largely cleanly, Formula 1’s fiercest intra-team blowup still belonged to Ferrari.On Lap 38, Charles Leclerc dived down the inside of Lewis Hamilton at Turn 7 while battling over sixth place - tipping his team-mate into a spin, drawing a 10-second time penalty, and sparking a blunt post-race verdict from F1 TV ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/worn-out-fred-vasseur-is-running-out-of-answers-at-ferrari-says-jolyon-palmer-/10877422/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YN7vBdV6/s6/frederic-vasseur-ferrari-a10877422-b704-2.jpg",
+      "published_at": 1795636676000
+    },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cxj05mv79z0do?at_medium=RSS&at_campaign=rss",
       "title": "Williams exceeded F1 cost cap by £627,000",
@@ -192,15 +201,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f95c/live/39cf8220-e6ac-11f1-b45e-bf1e220bd648.jpg",
       "published_at": 1795377109000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cjzx912pyekdo?at_medium=RSS&at_campaign=rss",
-      "title": "How to follow Qatar Grand Prix on the BBC",
-      "snippet": "All the key BBC coverage details for the Qatar Grand Prix, which takes place from 27 to 29 November.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cjzx912pyekdo?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0a8/live/3ee78b10-e650-11f1-a563-e14cd8b02601.jpg",
-      "published_at": 1795348632000
     }
   ]
 }
