@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-24T23:32:21.934600Z",
+    "last_updated": "2026-11-25T00:32:15.093214Z",
     "total_news": 22
   },
   "news": [
@@ -194,13 +194,13 @@
       "published_at": 1795424717000
     },
     {
-      "id": "https://www.skysports.com/f1/news/12433/13615087/max-verstappen-rivalry-with-george-russell-a-good-factor-of-f1-entertainment-says-mercedes-chief-toto-wolff",
-      "title": "Wolff: Russell-Verstappen provocations a good factor of F1 entertainment",
-      "snippet": "Mercedes chief Toto Wolff says the \"provocations\" between his driver George Russell and Red Bull's Max Verstappen are a \"good factor of the entertainment\" in Formula 1.",
-      "link": "https://www.skysports.com/f1/news/12433/13615087/max-verstappen-rivalry-with-george-russell-a-good-factor-of-f1-entertainment-says-mercedes-chief-toto-wolff",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-max-verstappen-george_7413545.jpg?20261122150456",
-      "published_at": 1795420800000
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss",
+      "title": "Antonelli fastest but penalty leaves Verstappen on pole",
+      "snippet": "Mercedes' Kimi Antonelli is fastest in qualifying for the Las Vegas Grand Prix but a grid penalty hands pole position to Red Bull's Max Verstappen.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ba/live/bb976db0-e56f-11f1-b01f-57dbbf219200.jpg",
+      "published_at": 1795240450000
     }
   ]
 }
