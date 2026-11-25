@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-25T17:32:32.063745Z",
+    "last_updated": "2026-11-25T18:02:37.359168Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cxj05mv79z0do?at_medium=RSS&at_campaign=rss",
+      "title": "Williams exceeded F1 cost cap by £627,000",
+      "snippet": "Williams \"unintentially\" broke Formula 1's cost cap during the 2025 season, governing body the FIA finds.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cxj05mv79z0do?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ee/live/00ebc900-e8f5-11f1-8808-1d4222955d7e.jpg",
+      "published_at": 1795628254000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-f1s-qatar-gp/10877727/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Five things to look out for at F1’s Qatar GP",
@@ -12,15 +21,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/YMX3X1v2/s6/lusail-city-qatar-november-29--2.jpg",
       "published_at": 1795626800000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/williams-breaches-2025-f1-cost-cap-reveals-penalty/10877744/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Williams breaches F1 2025 cost cap, Alpine guilty of procedural violation",
-      "snippet": "Williams and Alpine have fallen foul of Formula 1's 2025 cost cap, reaching an Accepted Breach Agreement with the FIA, with Williams incurring a sporting penalty for overspending and Alpine handed a fine.The FIA announced on Wednesday that Williams overspent the 2025 cost cap by £627,000 or 0.48%. The overspend was found to be unintentional through the way the team interpreted the financial ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/williams-breaches-2025-f1-cost-cap-reveals-penalty/10877744/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/Y9lLL572/s6/pierre-gasly-alpine-carlos-sai-3.jpg",
-      "published_at": 1795624937000
     },
     {
       "id": "https://www.skysports.com/f1/news/12433/13616299/what-next-for-ferrari-after-charles-leclerc-lewis-hamiltons-latest-collision-with-no-1-driver-and-consequences-up-for-debate",
@@ -194,13 +194,13 @@
       "published_at": 1795457417000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/max-verstappens-deadpan-reaction-to-winning-f1s-overtake-of-the-month-award/10877217/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Max Verstappen’s deadpan reaction to winning F1’s Overtake of the Month award",
-      "snippet": "Max Verstappen has never been one for forced showmanship, and Formula 1’s Las Vegas Grand Prix Fan Forum offered another reminder.Appearing on stage in Red Bull’s tan Las Vegas teamwear alongside team-mate Isack Hadjar and Haas drivers Oliver Bearman and Rafael Camara, the four-time world champion was awarded an extra piece of silverware - and responded with peak deadpan restraint.\"You ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/max-verstappens-deadpan-reaction-to-winning-f1s-overtake-of-the-month-award/10877217/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXykV56/s6/max-verstappen-red-bull-racing-a10877217-b707-2.jpg",
-      "published_at": 1795456303000
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
+      "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
+      "snippet": "Max Verstappen was the star figure in a Las Vegas Grand Prix that was unlike any F1 race anyone younger than about 70 had ever seen.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9777/live/1f62a250-e661-11f1-8ebd-1d2173202734.jpg",
+      "published_at": 1795345652000
     }
   ]
 }
