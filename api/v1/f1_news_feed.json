@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-25T05:32:22.956958Z",
+    "last_updated": "2026-11-25T06:02:34.567348Z",
     "total_news": 22
   },
   "news": [
@@ -140,15 +140,6 @@
       "published_at": 1795442613000
     },
     {
-      "id": "https://www.autosport.com/f1/news/was-the-las-vegas-gp-best-race-of-the-year-or-too-fake/10877213/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Was the Las Vegas GP best race of the year - or too fake?",
-      "snippet": "The nature of the Las Vegas Grand Prix divided opinion in Formula 1's fanbase, and these opposing views were shared across the grid as the myriad overlapping passes were lauded and derided in equal measure.Among the numerous changes for the lead, as Max Verstappen had to bat away passes from George Russell, Kimi Antonelli, and Lando Norris at various intervals throughout, the race was ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/was-the-las-vegas-gp-best-race-of-the-year-or-too-fake/10877213/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/01QNEJe0/s6/lando-norris-mclaren-andrea-ki.jpg",
-      "published_at": 1795441476000
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss",
       "title": "Antonelli fastest but penalty leaves Verstappen on pole",
       "snippet": "Mercedes' Kimi Antonelli is fastest in qualifying for the Las Vegas Grand Prix but a grid penalty hands pole position to Red Bull's Max Verstappen.",
@@ -192,6 +183,15 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/27No8MO0/s6/isack-hadjar-red-bull-racing.jpg",
       "published_at": 1795337993000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/was-the-las-vegas-gp-best-race-of-the-year-or-too-fake/10877213/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Was the Las Vegas GP best race of the year - or too fake?",
+      "snippet": "The nature of the Las Vegas Grand Prix divided opinion in Formula 1's fanbase, and these opposing views were shared across the grid as the myriad overlapping passes were lauded and derided in equal measure.Among the numerous changes for the lead, as Max Verstappen had to bat away passes from George Russell, Kimi Antonelli, and Lando Norris at various intervals throughout, the race was ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/was-the-las-vegas-gp-best-race-of-the-year-or-too-fake/10877213/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/01QNEJe0/s6/lando-norris-mclaren-andrea-ki.jpg",
+      "published_at": 1795441476000
     },
     {
       "id": "https://www.motorsport.com/f1/news/guenther-steiner-warns-george-russell-do-not-poke-the-bear-max-verstappen/10877209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
