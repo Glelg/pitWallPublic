@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-25T18:02:37.359168Z",
+    "last_updated": "2026-11-25T18:32:30.820291Z",
     "total_news": 22
   },
   "news": [
@@ -176,24 +176,6 @@
       "published_at": 1795462202000
     },
     {
-      "id": "https://www.skysports.com/f1/news/12433/13615702/max-verstappen-and-george-russell-has-feud-reignited-at-wrong-time-for-mercedes-driver-after-difficult-2026-f1-season",
-      "title": "Has Verstappen feud reignited at wrong time for Russell?",
-      "snippet": "The reignition of the long-running feud between George Russell and Max Verstappen has added an entertaining twist to the end of the 2026 Formula 1 season, but it may not be what the Mercedes driver needed at this moment.",
-      "link": "https://www.skysports.com/f1/news/12433/13615702/max-verstappen-and-george-russell-has-feud-reignited-at-wrong-time-for-mercedes-driver-after-difficult-2026-f1-season",
-      "source_name": "Sky Sports",
-      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-george-russell-max_7414699.jpg?20261123181713",
-      "published_at": 1795458600000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/toto-wolff-las-vegas-was-indy-500-and-nascar-and-formula-1-mixed/10877232/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Toto Wolff: Las Vegas was “Indy 500, NASCAR and Formula 1 mixed”",
-      "snippet": "Even after watching both Mercedes drivers slip off the podium in the final three laps, team principal Toto Wolff left the 2026 Las Vegas Grand Prix thrilled by the spectacle.While critics questioned whether Formula 1’s 2026 energy-management rules turned Saturday night’s 35-lead-change battle into something artificial, Wolff argued the series should not dismiss what fans had just ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/toto-wolff-las-vegas-was-indy-500-and-nascar-and-formula-1-mixed/10877232/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0arEdzP2/s6/toto-wolff-mercedes-a10877232-b705-2.jpg",
-      "published_at": 1795457417000
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
       "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
       "snippet": "Max Verstappen was the star figure in a Las Vegas Grand Prix that was unlike any F1 race anyone younger than about 70 had ever seen.",
@@ -201,6 +183,24 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9777/live/1f62a250-e661-11f1-8ebd-1d2173202734.jpg",
       "published_at": 1795345652000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/c83vg92x21vzo?at_medium=RSS&at_campaign=rss",
+      "title": "Verstappen's superb racecraft & Russell's costly mistake - driver ratings",
+      "snippet": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Las Vegas Grand Prix weekend.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c83vg92x21vzo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e6/live/ced7c200-e64e-11f1-99a1-253766e7ad8b.png",
+      "published_at": 1795340105000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cwe9k29y7z44o?at_medium=RSS&at_campaign=rss",
+      "title": "Camara to continue with Haas for final two races",
+      "snippet": "Brazilian Rafael Camara will continue to race for the Haas team for the final two grands prix of the Formula 1 season.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cwe9k29y7z44o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f95c/live/39cf8220-e6ac-11f1-b45e-bf1e220bd648.jpg",
+      "published_at": 1795377109000
     }
   ]
 }
