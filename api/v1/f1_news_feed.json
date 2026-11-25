@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-25T08:02:28.011817Z",
+    "last_updated": "2026-11-25T08:32:27.631120Z",
     "total_news": 22
   },
   "news": [
@@ -122,24 +122,6 @@
       "published_at": 1795455793000
     },
     {
-      "id": "https://www.autosport.com/f1/news/f1-2027-grid-who-will-be-racing-and-where/10847600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "F1 2027 grid: Who will be racing and where?",
-      "snippet": "The 2027 Formula 1 grid has very much taken shape with all but one spot now confirmed following a rather safe ‘silly season’ that didn’t present much drama.There is only one team - Haas - that is changing its line-up for next season as many potentially enthralling storylines failed to materialise in regards to the 2027 grid.So, here’s a look at the situation.Mercedes: Kimi ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/f1-2027-grid-who-will-be-racing-and-where/10847600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7ZeD4Y/s6/oscar-piastri-mclaren-2.jpg",
-      "published_at": 1795450174000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/f1-qatar-gp-2026-start-time-schedule-how-to-watch/10877085/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "F1 Qatar GP 2026: start time, schedule and how to watch",
-      "snippet": "The Qatar Grand Prix starts at 8 am PT on Sunday, November 29, which is 11 am ET. Formula 1 returns to the Lusail International Circuit for the penultimate race of the 2026 season, with every session live on Apple TV. The full schedule and viewing information are below.Qatar Grand Prix 2026 scheduleSessionDayPTMTCTETPractice 1Friday ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/f1-qatar-gp-2026-start-time-schedule-how-to-watch/10877085/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6AEWkpk6/s6/george-russell-mercedes-f1-w15-2.jpg",
-      "published_at": 1795449990000
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss",
       "title": "Antonelli fastest but penalty leaves Verstappen on pole",
       "snippet": "Mercedes' Kimi Antonelli is fastest in qualifying for the Las Vegas Grand Prix but a grid penalty hands pole position to Red Bull's Max Verstappen.",
@@ -183,6 +165,24 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/27No8MO0/s6/isack-hadjar-red-bull-racing.jpg",
       "published_at": 1795337993000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/f1-2027-grid-who-will-be-racing-and-where/10847600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "F1 2027 grid: Who will be racing and where?",
+      "snippet": "The 2027 Formula 1 grid has very much taken shape with all but one spot now confirmed following a rather safe ‘silly season’ that didn’t present much drama.There is only one team - Haas - that is changing its line-up for next season as many potentially enthralling storylines failed to materialise in regards to the 2027 grid.So, here’s a look at the situation.Mercedes: Kimi ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/f1-2027-grid-who-will-be-racing-and-where/10847600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7ZeD4Y/s6/oscar-piastri-mclaren-2.jpg",
+      "published_at": 1795450174000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/f1-qatar-gp-2026-start-time-schedule-how-to-watch/10877085/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "F1 Qatar GP 2026: start time, schedule and how to watch",
+      "snippet": "The Qatar Grand Prix starts at 8 am PT on Sunday, November 29, which is 11 am ET. Formula 1 returns to the Lusail International Circuit for the penultimate race of the 2026 season, with every session live on Apple TV. The full schedule and viewing information are below.Qatar Grand Prix 2026 scheduleSessionDayPTMTCTETPractice 1Friday ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/f1-qatar-gp-2026-start-time-schedule-how-to-watch/10877085/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6AEWkpk6/s6/george-russell-mercedes-f1-w15-2.jpg",
+      "published_at": 1795449990000
     },
     {
       "id": "https://www.motorsport.com/f1/news/lewis-hamilton-ferraris-top-speed-deficit-was-brutal-at-f1-las-vegas-gp/10876908/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
