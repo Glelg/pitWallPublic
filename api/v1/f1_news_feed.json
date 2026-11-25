@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-25T16:32:33.701198Z",
+    "last_updated": "2026-11-25T17:02:31.958974Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.autosport.com/f1/news/williams-breaches-2025-f1-cost-cap-reveals-penalty/10877744/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Williams breaches F1 2025 cost cap, Alpine guilty of procedural violation",
+      "snippet": "Williams and Alpine have fallen foul of Formula 1's 2025 cost cap, reaching an Accepted Breach Agreement with the FIA, with Williams incurring a sporting penalty for overspending and Alpine handed a fine.The FIA announced on Wednesday that Williams overspent the 2025 cost cap by £627,000 or 0.48%. The overspend was found to be unintentional through the way the team interpreted the financial ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/williams-breaches-2025-f1-cost-cap-reveals-penalty/10877744/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/Y9lLL572/s6/pierre-gasly-alpine-carlos-sai-3.jpg",
+      "published_at": 1795624937000
+    },
     {
       "id": "https://www.skysports.com/f1/news/12433/13616299/what-next-for-ferrari-after-charles-leclerc-lewis-hamiltons-latest-collision-with-no-1-driver-and-consequences-up-for-debate",
       "title": "Do Ferrari need to make Hamilton their No 1 driver?",
@@ -192,15 +201,6 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/6VyKxMwY/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": 1795455793000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
-      "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
-      "snippet": "Max Verstappen was the star figure in a Las Vegas Grand Prix that was unlike any F1 race anyone younger than about 70 had ever seen.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9777/live/1f62a250-e661-11f1-8ebd-1d2173202734.jpg",
-      "published_at": 1795345652000
     }
   ]
 }
