@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-26T16:32:30.336345Z",
+    "last_updated": "2026-11-26T17:02:32.474959Z",
     "total_news": 22
   },
   "news": [
@@ -39,15 +39,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8256/live/ae2c5130-e9ad-11f1-859a-37130cd3a1d7.jpg",
       "published_at": 1795709458000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13616749/george-russell-admits-feud-with-max-verstappen-is-avoidable-and-unnecessary-ahead-of-qatar-grand-prix",
-      "title": "Russell: Feud with Verstappen 'avoidable' and 'unnecessary'",
-      "snippet": "George Russell says he was \"amused\" by Max Verstappen&#8217;s criticism of him after their feud reignited at the Las Vegas Grand Prix but admits it was \"avoidable\".",
-      "link": "https://www.skysports.com/f1/news/12433/13616749/george-russell-admits-feud-with-max-verstappen-is-avoidable-and-unnecessary-ahead-of-qatar-grand-prix",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-george-russell-mercedes_7417209.jpg?20261126155142",
-      "published_at": 1795708500000
     },
     {
       "id": "https://www.motorsport.com/f1/news/george-russell-shrugs-off-verstappens-las-vegas-barbs-ahead-of-qatar-gp-certain-things-really-made-/10877899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -201,6 +192,15 @@
       "source_name": "Sky Sports",
       "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-max-verstappen-george_7414431.jpg?20261123130648",
       "published_at": 1795590000000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss",
+      "title": "Antonelli fastest but penalty leaves Verstappen on pole",
+      "snippet": "Mercedes' Kimi Antonelli is fastest in qualifying for the Las Vegas Grand Prix but a grid penalty hands pole position to Red Bull's Max Verstappen.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ba/live/bb976db0-e56f-11f1-b01f-57dbbf219200.jpg",
+      "published_at": 1795240450000
     }
   ]
 }
