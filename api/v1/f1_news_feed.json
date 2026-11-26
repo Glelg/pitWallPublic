@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-26T18:02:36.601377Z",
+    "last_updated": "2026-11-26T18:32:25.142485Z",
     "total_news": 22
   },
   "news": [
@@ -12,6 +12,24 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/6n7b33g0/s6/charles-leclerc-ferrari-a10877945-b704-2.jpg",
       "published_at": 1795710200000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/christian-horner-and-geri-halliwell-reportedly-snap-up-pride-and-prejudice-mansion/10878015/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Christian Horner and Geri Halliwell reportedly snap up \"Pride and Prejudice\" mansion",
+      "snippet": "Former Red Bull Racing team principal and CEO Christian Horner and his wife, Spice Girl Geri Halliwell, are understood to have bought Edgcote House, the historic Northamptonshire estate that appeared in the BBC's Pride and Prejudice.The couple are said to have secured the 1,700-acre estate after beating a rival bid of around £52million, according to the Daily Mail. An earlier offer of ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/christian-horner-and-geri-halliwell-reportedly-snap-up-pride-and-prejudice-mansion/10878015/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2d1k3zDY/s6/geri-horner-and-christian-horn-a10878015-b708-2.jpg",
+      "published_at": 1795717223000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13616753/charles-leclerc-denies-presence-of-no-1-driver-clause-in-ferrari-contract-as-he-and-lewis-hamilton-hold-good-discussions-after-collision",
+      "title": "Leclerc denies having 'No 1 clause' in Ferrari contract",
+      "snippet": "Charles Leclerc has strongly denied suggestions he has a No 1 driver clause in his Ferrari contract.",
+      "link": "https://www.skysports.com/f1/news/12433/13616753/charles-leclerc-denies-presence-of-no-1-driver-clause-in-ferrari-contract-as-he-and-lewis-hamilton-hold-good-discussions-after-collision",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-charles-leclerc-lewis-hamilton_7399379.jpg?20261106184758",
+      "published_at": 1795716720000
     },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mw2dkzrxo?at_medium=RSS&at_campaign=rss",
@@ -183,24 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/YBVjXkBY/s6/oscar-piastri-mclaren-2.jpg",
       "published_at": 1795612547000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/fernando-alonso-we-cant-be-competitive-with-the-power-unit-we-have/10877607/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Alonso: “We can't be competitive with the power unit we have”",
-      "snippet": "Fernando Alonso says Honda is “a very long way behind” its Formula 1 rivals and Aston Martin therefore “can’t be competitive” with the Japanese engine, albeit expressing hope for the future.As F1 switched to power units featuring 47% electrical energy, Honda’s new powertrain has been lacking both power and reliability. The ADUO upgrade introduced by the manufacturer at the Dutch ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/fernando-alonso-we-cant-be-competitive-with-the-power-unit-we-have/10877607/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwBRQ2/s6/fernando-alonso-aston-martin-r-2.jpg",
-      "published_at": 1795598207000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13615629/max-verstappen-showed-race-craft-edge-over-george-russell-and-kimi-antonelli-during-las-vegas-gp-says-jacques-villeneuve",
-      "title": "Villeneuve: Verstappen showed 'race craft' edge over Mercedes pair in Vegas",
-      "snippet": "Former Formula 1 world champion Jacques Villeneuve says Max Verstappen's Las Vegas Grand Prix victory showed that Mercedes' Kimi Antonelli and George Russell will not be able to beat the Red Bull driver in next year's championship unless they have a superior car.",
-      "link": "https://www.skysports.com/f1/news/12433/13615629/max-verstappen-showed-race-craft-edge-over-george-russell-and-kimi-antonelli-during-las-vegas-gp-says-jacques-villeneuve",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-max-verstappen-george_7414431.jpg?20261123130648",
-      "published_at": 1795590000000
     }
   ]
 }
