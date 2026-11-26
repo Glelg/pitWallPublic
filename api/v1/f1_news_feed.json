@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-26T16:02:31.547763Z",
+    "last_updated": "2026-11-26T16:32:30.336345Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.motorsport.com/f1/news/charles-leclerc-admits-ferraris-on-track-clashes-are-unacceptable-as-he-and-hamilton-seek-private-s/10877945/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Charles Leclerc refuses to reveal Ferrari's \"rules of engagement\" after Lewis Hamilton crash",
+      "snippet": "Charles Leclerc walked into Thursday’s FIA press conference at the Losail International Circuit knowing the spotlight would stay locked on Ferrari’s garage. Five days after spinning team-mate Lewis Hamilton at the Las Vegas Grand Prix - and absorbing a blunt post-race dressing-down from team principal Fred Vasseur - the Monegasque driver did not attempt to dodge the fallout, even as he shut ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/charles-leclerc-admits-ferraris-on-track-clashes-are-unacceptable-as-he-and-hamilton-seek-private-s/10877945/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6n7b33g0/s6/charles-leclerc-ferrari-a10877945-b704-2.jpg",
+      "published_at": 1795710200000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/oliver-bearman-locks-in-haas-f1-seat-as-2027-grid-officially-set/10877802/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Oliver Bearman locks in Haas F1 seat as 2027 grid officially set",
@@ -14,22 +23,40 @@
       "published_at": 1795683641000
     },
     {
-      "id": "https://www.autosport.com/f1/news/russell-defends-las-vegas-f1-comments/10877940/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Russell stands by Verstappen comments at Las Vegas GP - despite \"amusing\" reaction",
-      "snippet": "Two years after their last major spat around this time of the year, George Russell and Max Verstappen clashed again last week in Las Vegas after an impeding incident in free practice. It infuriated the Briton, with Verstappen ruining the Mercedes driver's lap by passing him into the last corner - an unwritten rule that the Dutchman doesn't tend to mind breaking.Russell responded by sending ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/russell-defends-las-vegas-f1-comments/10877940/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "id": "https://www.autosport.com/f1/news/leclerc-furious-with-integrity-being-questioned-after-hamilton-clashes/10877960/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Leclerc furious with integrity being questioned after Hamilton clashes",
+      "snippet": "Charles Leclerc was left furious by those ‘questioning his integrity and love for Ferrari’ after yet another clash with Formula 1 team-mate Lewis Hamilton - having urged to find a “solution”.The Ferrari pair have been at loggerheads several times during the second half of the 2026 F1 campaign, clashing at Monza, Zandvoort and Mexico before their latest spat in Las Vegas.Last ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/leclerc-furious-with-integrity-being-questioned-after-hamilton-clashes/10877960/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPeQJ0/s6/max-verstappen-red-bull-racing-3.jpg",
-      "published_at": 1795708613000
+      "image_url": "https://cdn-1.motorsport.com/images/amp/63QaDqb2/s6/lewis-hamilton-ferrari-charles-2.jpg",
+      "published_at": 1795710389000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/lando-norris-on-george-russell-and-max-verstappen-rivalry-helps-when-you-back-it-up-on-track/10877909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Lando Norris on George Russell and Max Verstappen rivalry: \"Helps when you back it up on track\"",
-      "snippet": "2025 Formula 1 champion Lando Norris has weighed in on the renewed feud between Max Verstappen and George Russell, arguing that rivals do not have to get along and that results on the track are what count.Verstappen and Russell clashed during the final practice session in Las Vegas. Russell said afterwards that \"somebody's got to stand up to that guy\", while Verstappen said Russell was \"so far ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/lando-norris-on-george-russell-and-max-verstappen-rivalry-helps-when-you-back-it-up-on-track/10877909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/c5lykr98yd88o?at_medium=RSS&at_campaign=rss",
+      "title": "Russell says Verstappen's criticism 'quite amusing'",
+      "snippet": "George Russell says Max Verstappen can \"say what he wants\" and that he found the Red Bull driver's criticisms of him after the Las Vegas Grand Prix \"quite amusing\".",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c5lykr98yd88o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8256/live/ae2c5130-e9ad-11f1-859a-37130cd3a1d7.jpg",
+      "published_at": 1795709458000
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12433/13616749/george-russell-admits-feud-with-max-verstappen-is-avoidable-and-unnecessary-ahead-of-qatar-grand-prix",
+      "title": "Russell: Feud with Verstappen 'avoidable' and 'unnecessary'",
+      "snippet": "George Russell says he was \"amused\" by Max Verstappen&#8217;s criticism of him after their feud reignited at the Las Vegas Grand Prix but admits it was \"avoidable\".",
+      "link": "https://www.skysports.com/f1/news/12433/13616749/george-russell-admits-feud-with-max-verstappen-is-avoidable-and-unnecessary-ahead-of-qatar-grand-prix",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-george-russell-mercedes_7417209.jpg?20261126155142",
+      "published_at": 1795708500000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/george-russell-shrugs-off-verstappens-las-vegas-barbs-ahead-of-qatar-gp-certain-things-really-made-/10877899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "George Russell shrugs off Max Verstappen’s Las Vegas remarks: “Certain things really made me laugh”",
+      "snippet": "George Russell arrived at the Losail International Circuit on Thursday refusing to pour fresh fuel on Formula 1’s loudest driver feud - though he made it clear he was not retracting a word of what started it.Speaking in Thursday’s FIA press conference ahead of the Qatar Grand Prix - his first public appearance since Max Verstappen had his say after winning in Las Vegas - Russell downplayed ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/george-russell-shrugs-off-verstappens-las-vegas-barbs-ahead-of-qatar-gp-certain-things-really-made-/10877899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YWKAlWDY/s6/lando-norris-mclaren-a10877909-b706-2.jpg",
-      "published_at": 1795705753000
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6n7blXl0/s6/max-verstappen-red-bull-racing-a10877899-b705-4.jpg",
+      "published_at": 1795707180000
     },
     {
       "id": "https://www.autosport.com/f1/news/f1-2027-grid-who-will-be-racing-and-where/10847600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -93,15 +120,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-max-verstappen-red-bull_7416424.jpg?20261125174729",
       "published_at": 1795672800000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/fred-vasseur-refuses-to-shield-leclerc-over-hamilton-collision-the-decision-of-the-fia-was-quite-cl/10877483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Fred Vasseur backs FIA ruling after Charles Leclerc's Las Vegas clash with Lewis Hamilton",
-      "snippet": "Formula 1 team bosses usually rush to soften the blow when stewards penalise one of their drivers. After Charles Leclerc clipped Lewis Hamilton into a spin at Turn 7 during the 2026 Las Vegas Grand Prix, Ferrari team principal Fred Vasseur took the opposite approach - endorsing the FIA’s ruling and leaving no doubt over where responsibility lay. Speaking to F1 TV after a bruised night in ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/fred-vasseur-refuses-to-shield-leclerc-over-hamilton-collision-the-decision-of-the-fia-was-quite-cl/10877483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPdjJ0/s6/fred-vasseur-ferrari-a10877483-b704-2.jpg",
-      "published_at": 1795656602000
     },
     {
       "id": "https://www.motorsport.com/f1/news/nico-rosberg-rules-george-russell-out-of-2027-f1-title-fight-he-dug-himself-into-a-mental-hole/10877719/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -183,24 +201,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-max-verstappen-george_7414431.jpg?20261123130648",
       "published_at": 1795590000000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss",
-      "title": "Antonelli fastest but penalty leaves Verstappen on pole",
-      "snippet": "Mercedes' Kimi Antonelli is fastest in qualifying for the Las Vegas Grand Prix but a grid penalty hands pole position to Red Bull's Max Verstappen.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ba/live/bb976db0-e56f-11f1-b01f-57dbbf219200.jpg",
-      "published_at": 1795240450000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cqkgr0elvl5zo?at_medium=RSS&at_campaign=rss",
-      "title": "Bottas' stay at Cadillac confirmed for 2027",
-      "snippet": "Valtteri Bottas is retained by Cadillac for the 2027 Formula 1 season.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqkgr0elvl5zo?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caa0/live/585f6320-e393-11f1-b4f3-9f0685d52a1f.jpg",
-      "published_at": 1795036712000
     }
   ]
 }
