@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-26T20:02:34.403634Z",
+    "last_updated": "2026-11-26T20:32:25.252913Z",
     "total_news": 22
   },
   "news": [
@@ -14,13 +14,13 @@
       "published_at": 1795710200000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/max-verstappen-without-gianpiero-lambiase-at-qatar-gp-as-tom-hart-steps-in/10878042/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Max Verstappen without Gianpiero Lambiase at Qatar GP as Tom Hart steps in",
+      "id": "https://www.autosport.com/f1/news/verstappen-to-work-with-new-race-engineer-tom-hart-again-at-qatar-gp/10878044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Verstappen to work with new race engineer Tom Hart again at Qatar GP",
       "snippet": "Max Verstappen will be without his regular right-hand man Gianpiero Lambiase this weekend at the Lusail International Circuit. Red Bull had already opted for a rotation system for the latter part of this Formula 1 season, primarily to allow Tom Hart to settle into the role ahead of his expected permanent appointment while Lambiase is still with the team.The initial plan was for Lambiase to ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/max-verstappen-without-gianpiero-lambiase-at-qatar-gp-as-tom-hart-steps-in/10878042/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YBVj7QzY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": 1795722934000
+      "link": "https://www.autosport.com/f1/news/verstappen-to-work-with-new-race-engineer-tom-hart-again-at-qatar-gp/10878044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YP74Zm42/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": 1795723377000
     },
     {
       "id": "https://www.motorsport.com/f1/news/why-max-verstappen-has-ruled-out-indy-500-entry/10878029/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -167,6 +167,15 @@
       "published_at": 1795653003000
     },
     {
+      "id": "https://www.motorsport.com/f1/news/verstappen-admits-he-would-rather-stay-at-home-ahead-of-qatar-and-abu-dhabi-despite-f1-safety-guara/10877645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Max Verstappen admits he would “rather stay at home” ahead of Qatar and Abu Dhabi",
+      "snippet": "Formula 1’s paddock is touching down in Doha for the penultimate round of the 2026 championship, yet Max Verstappen is not pretending the trip sits easily with him.Speaking to Dutch outlet De Telegraaf, the four-time world champion delivered a blunt assessment of finishing the 23-race calendar in Qatar and Abu Dhabi amid ongoing regional hostilities. \"Do I feel comfortable with it? No ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/verstappen-admits-he-would-rather-stay-at-home-ahead-of-qatar-and-abu-dhabi-despite-f1-safety-guara/10877645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0arEDRG2/s6/max-verstappen-red-bull-racing-a10877645-b707-2.jpg",
+      "published_at": 1795641917000
+    },
+    {
       "id": "https://www.motorsport.com/f1/news/worn-out-fred-vasseur-is-running-out-of-answers-at-ferrari-says-jolyon-palmer-/10877422/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Fred Vasseur is running out of answers at Ferrari, says Jolyon Palmer",
       "snippet": "In a 2026 Las Vegas Grand Prix where 22 drivers traded a record 352 overtakes largely cleanly, Formula 1’s fiercest intra-team blowup still belonged to Ferrari.On Lap 38, Charles Leclerc dived down the inside of Lewis Hamilton at Turn 7 while battling over sixth place - tipping his team-mate into a spin, drawing a 10-second time penalty, and sparking a blunt post-race verdict from F1 TV ...Keep reading",
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/YMX3X1v2/s6/lusail-city-qatar-november-29--2.jpg",
       "published_at": 1795626800000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13616299/what-next-for-ferrari-after-charles-leclerc-lewis-hamiltons-latest-collision-with-no-1-driver-and-consequences-up-for-debate",
-      "title": "Do Ferrari need to make Hamilton their No 1 driver?",
-      "snippet": "Charles Leclerc and Lewis Hamilton's latest run-in at the Las Vegas Grand Prix has ramped up scrutiny on Ferrari and what the team will do to try to avoid more costly on-track incidents between their two drivers.",
-      "link": "https://www.skysports.com/f1/news/12433/13616299/what-next-for-ferrari-after-charles-leclerc-lewis-hamiltons-latest-collision-with-no-1-driver-and-consequences-up-for-debate",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-charles-leclerc-lewis-hamilton_7416141.jpg?20261125121935",
-      "published_at": 1795615200000
     }
   ]
 }
