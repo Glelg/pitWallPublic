@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-26T10:32:19.510410Z",
+    "last_updated": "2026-11-26T11:02:25.982293Z",
     "total_news": 22
   },
   "news": [
@@ -12,6 +12,24 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/YXyKMzx6/s6/oliver-bearman-haas.jpg",
       "published_at": 1795683641000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/fernando-alonso-to-miss-qatar-f1-media-day-with-viral-illness/10877849/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Fernando Alonso to miss Qatar F1 media day with viral illness",
+      "snippet": "Fernando Alonso will be absent from Formula 1's media day ahead of the Qatar Grand Prix as he recovers from a \"viral infection\".The two-time champion will miss the traditional media obligations at the Lusail International Circuit as he aims to return to fitness for first practice on Friday.A statement from his Aston Martin team explained: \"Fernando will miss media day today as he continues ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/fernando-alonso-to-miss-qatar-f1-media-day-with-viral-illness/10877849/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6zoD4Ma0/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": 1795690678000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/alonso-to-not-let-age-determine-f1-retirement/10877846/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Alonso to not let his age determine F1 retirement",
+      "snippet": "Fernando Alonso says he will quit Formula 1 when he feels slow and he doesn’t need to be as fit as a football player to be competitive.Alonso is the most experienced driver in F1’s history, having competed in 23 seasons from 2001 to 2026, and the two-time champion has maintained his involvement well beyond his peers’ retirement age despite his current 245-race winless streak.Read ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/alonso-to-not-let-age-determine-f1-retirement/10877846/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQVmGY/s6/fernando-alonso-aston-martin-r-2.jpg",
+      "published_at": 1795689744000
     },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cjzx912pyekdo?at_medium=RSS&at_campaign=rss",
@@ -183,24 +201,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b0/live/da7ae610-deaa-11f1-8253-3f203a001288.jpg",
       "published_at": 1794550340000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-chaotically-extraordinary-las-vegas/10876889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Winners and losers from F1's chaotically extraordinary Las Vegas GP",
-      "snippet": "A pack of cars covered by seconds, the top three trading first position as part of 35 lead changes, and drivers trying to figure out the best positioning to be ahead at the finish line on the final lap; The Las Vegas Grand Prix felt like the glitzy, battery-assisted street course version of the Indy 500.It was quite fitting to see how in America's artificial entertainment capital, F1 put on an ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-chaotically-extraordinary-las-vegas/10876889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2GdKBeKY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": 1795343655000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/isack-hadjar-gets-penalty-after-backing-up-george-russell-in-las-vegas-gp/10876855/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Isack Hadjar gets penalty after backing up George Russell in Las Vegas GP",
-      "snippet": "Isack Hadjar has received a 10-second penalty for driving unnecessarily slowly in Formula 1’s Las Vegas Grand Prix – the result of his actions under the safety car.The race was neutralised on lap 19 when Sergio Perez and Rafael Camara collided; Max Verstappen was leading team-mate Hadjar but the Red Bulls and Mercedes cars lay within just over a second; the double-stack meant Hadjar ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/isack-hadjar-gets-penalty-after-backing-up-george-russell-in-las-vegas-gp/10876855/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/27No8MO0/s6/isack-hadjar-red-bull-racing.jpg",
-      "published_at": 1795337993000
     }
   ]
 }
