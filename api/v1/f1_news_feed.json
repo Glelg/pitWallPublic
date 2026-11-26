@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-26T19:02:35.392922Z",
+    "last_updated": "2026-11-26T19:32:21.981561Z",
     "total_news": 22
   },
   "news": [
@@ -12,6 +12,15 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/6n7b33g0/s6/charles-leclerc-ferrari-a10877945-b704-2.jpg",
       "published_at": 1795710200000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/why-max-verstappen-has-ruled-out-indy-500-entry/10878029/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Why Max Verstappen has ruled out Indy 500 entry",
+      "snippet": "Four-time Formula 1 champion Max Verstappen has ruled out racing in the Indianapolis 500, citing the lasting effects of Nelson Piquet's crash at the Speedway.Piquet, the father of Verstappen's partner Kelly Piquet, suffered serious injuries to his legs and feet when he crashed in practice for the 1992 Indy 500, and needed months of rehabilitation.Verstappen was asked about the possibility ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/why-max-verstappen-has-ruled-out-indy-500-entry/10878029/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwB9x2/s6/max-verstappen-red-bull-racing-a10878029-b707-2.jpg",
+      "published_at": 1795719920000
     },
     {
       "id": "https://www.motorsport.com/f1/news/christian-horner-and-geri-halliwell-reportedly-snap-up-pride-and-prejudice-mansion/10878015/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -192,15 +201,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-charles-leclerc-lewis-hamilton_7416141.jpg?20261125121935",
       "published_at": 1795615200000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/zak-brown-rules-out-mclaren-engine-programme-for-f1-2030/10877436/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Zak Brown rules out McLaren engine programme for F1 2030",
-      "snippet": "Zak Brown has ruled out a factory engine programme for the 2030 Formula 1 campaign as McLaren is “very happy” with its Mercedes partnership.The British marque has been a Mercedes customer since 2021 and has enjoyed vast success in that period, winning two constructors’ titles (2024, 2025), a drivers’ championship (2025) and 24 grands prix.But F1 is set for its next engine change in ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/zak-brown-rules-out-mclaren-engine-programme-for-f1-2030/10877436/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YBVjXkBY/s6/oscar-piastri-mclaren-2.jpg",
-      "published_at": 1795612547000
     }
   ]
 }
