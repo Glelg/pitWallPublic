@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-26T04:32:34.908176Z",
+    "last_updated": "2026-11-26T05:02:30.804339Z",
     "total_news": 22
   },
   "news": [
@@ -131,15 +131,6 @@
       "published_at": 1795534713000
     },
     {
-      "id": "https://www.motorsport.com/f1/news/chuck-bearman-in-for-a-race-james-hinchcliffe-calls-for-real-consequences-after-ferraris-latest-mel/10877438/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "F1 pundit calls for real consequences at Ferrari: \"I'd chuck Ollie Bearman in for a race\"",
-      "snippet": "After Charles Leclerc and Lewis Hamilton collided for the second time in three races during the 2026 Las Vegas Grand Prix, the paddock debate quickly moved past who misjudged Turn 7 and onto a harder question: how can Ferrari actually stop it from happening again?Speaking on F1 TV’s post-race show, former IndyCar driver James Hinchcliffe suggested team principal Fred Vasseur may need to ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/chuck-bearman-in-for-a-race-james-hinchcliffe-calls-for-real-consequences-after-ferraris-latest-mel/10877438/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGgbp7Y/s6/charles-leclerc-ferrari-lewis-a10877438-b704-2.jpg",
-      "published_at": 1795525203000
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss",
       "title": "Antonelli fastest but penalty leaves Verstappen on pole",
       "snippet": "Mercedes' Kimi Antonelli is fastest in qualifying for the Las Vegas Grand Prix but a grid penalty hands pole position to Red Bull's Max Verstappen.",
@@ -183,6 +174,15 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/27No8MO0/s6/isack-hadjar-red-bull-racing.jpg",
       "published_at": 1795337993000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/chuck-bearman-in-for-a-race-james-hinchcliffe-calls-for-real-consequences-after-ferraris-latest-mel/10877438/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "F1 pundit calls for real consequences at Ferrari: \"I'd chuck Ollie Bearman in for a race\"",
+      "snippet": "After Charles Leclerc and Lewis Hamilton collided for the second time in three races during the 2026 Las Vegas Grand Prix, the paddock debate quickly moved past who misjudged Turn 7 and onto a harder question: how can Ferrari actually stop it from happening again?Speaking on F1 TV’s post-race show, former IndyCar driver James Hinchcliffe suggested team principal Fred Vasseur may need to ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/chuck-bearman-in-for-a-race-james-hinchcliffe-calls-for-real-consequences-after-ferraris-latest-mel/10877438/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGgbp7Y/s6/charles-leclerc-ferrari-lewis-a10877438-b704-2.jpg",
+      "published_at": 1795525203000
     },
     {
       "id": "https://www.skysports.com/f1/news/12433/13615667/oscar-piastri-mclaren-team-boss-andrea-stella-says-he-liked-drivers-fiery-radio-response-to-warnings-to-be-careful-of-lando-norris",
