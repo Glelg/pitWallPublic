@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-26T08:02:35.944432Z",
+    "last_updated": "2026-11-26T08:32:25.125780Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss",
+      "title": "Andrew Benson Q&A: Send us your questions",
+      "snippet": "Our F1 correspondent Andrew Benson is doing a weekly Q&A this season, so get your questions in now.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0892/live/e16baa60-f8ea-11ef-9e61-71ee71f26eb1.png",
+      "published_at": 1795681312000
+    },
     {
       "id": "https://www.skysports.com/f1/news/12433/13615090/qatar-gp-explaining-2026-tyre-limit-rule-and-what-impact-it-will-have-on-f1-race-weekend-at-lusail-international-circuit",
       "title": "What impact will tyre-limit rule have on Qatar GP?",
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/6DGgbp7Y/s6/charles-leclerc-ferrari-lewis-a10877438-b704-2.jpg",
       "published_at": 1795525203000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13615667/oscar-piastri-mclaren-team-boss-andrea-stella-says-he-liked-drivers-fiery-radio-response-to-warnings-to-be-careful-of-lando-norris",
-      "title": "Stella 'liked' Piastri's fiery response to McLaren 'be careful' warnings",
-      "snippet": "McLaren team principal Andrea Stella says he liked Oscar Piastri's fiery response to radio messages warning the Australian to \"be careful\" battling his team-mate Lando Norris during the Las Vegas Grand Prix. &#160;",
-      "link": "https://www.skysports.com/f1/news/12433/13615667/oscar-piastri-mclaren-team-boss-andrea-stella-says-he-liked-drivers-fiery-radio-response-to-warnings-to-be-careful-of-lando-norris",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-oscar-piastri-mclaren_7414497.jpg?20261123141807",
-      "published_at": 1795521600000
     }
   ]
 }
