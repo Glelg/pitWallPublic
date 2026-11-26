@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-26T22:02:34.490605Z",
+    "last_updated": "2026-11-26T22:32:25.604593Z",
     "total_news": 22
   },
   "news": [
@@ -12,6 +12,15 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/6n7b33g0/s6/charles-leclerc-ferrari-a10877945-b704-2.jpg",
       "published_at": 1795710200000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/verstappen-outlines-his-ideal-2030-f1-formula-lighter-cars-simpler-engines-and-push-to-pass-over-en/10878035/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Max Verstappen details his ideal 2030 F1 Formula",
+      "snippet": "Fresh off winning a chaotic, 352-overtake Las Vegas Grand Prix that he bluntly dismissed as feeling like \"playing Mario Kart\", Max Verstappen has laid out what he believes Formula 1 should actually chase when its next major regulation overhaul arrives in 2030.Speaking to the media ahead of the Qatar Grand Prix at Losail, the four-time world champion was asked what a \"pure\" Formula 1 looks like ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/verstappen-outlines-his-ideal-2030-f1-formula-lighter-cars-simpler-engines-and-push-to-pass-over-en/10878035/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/24QGyQAY/s6/max-verstappen-red-bull-racing-a10878035-b707-2.jpg",
+      "published_at": 1795731205000
     },
     {
       "id": "https://www.motorsport.com/f1/news/kimi-antonelli-teases-nordschleife-race-with-max-verstappen-but-there-is-one-condition/10878047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/YN7vBdV6/s6/frederic-vasseur-ferrari-a10877422-b704-2.jpg",
       "published_at": 1795636676000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cxj05mv79z0do?at_medium=RSS&at_campaign=rss",
-      "title": "Williams exceeded F1 cost cap by £627,000",
-      "snippet": "Williams \"unintentially\" broke Formula 1's cost cap during the 2025 season, governing body the FIA finds.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cxj05mv79z0do?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ee/live/00ebc900-e8f5-11f1-8808-1d4222955d7e.jpg",
-      "published_at": 1795628254000
     }
   ]
 }
