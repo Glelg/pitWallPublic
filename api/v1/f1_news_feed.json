@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-26T23:02:24.160212Z",
+    "last_updated": "2026-11-26T23:32:23.223745Z",
     "total_news": 22
   },
   "news": [
@@ -12,6 +12,15 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/6n7b33g0/s6/charles-leclerc-ferrari-a10877945-b704-2.jpg",
       "published_at": 1795710200000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/toto-wolff-says-the-world-champion-should-be-rewarded-after-bild-puts-antonellis-pay-at-about-46-mi/10874830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Toto Wolff responds to Kimi Antonelli salary questions after F1 title success",
+      "snippet": "When a Formula 1 team elevates a teenager from Formula 2 directly into a top-tier factory seat, the initial contract is rarely structured like a blockbuster superstar deal. But when that kid wins the drivers' world championship in his sophomore season, the original financial terms quickly become drastically outdated.That is exactly the scenario currently playing out at Mercedes with ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/toto-wolff-says-the-world-champion-should-be-rewarded-after-bild-puts-antonellis-pay-at-about-46-mi/10874830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGg4yGY/s6/andrea-kimi-antonelli-mercedes-a10874830-b705-2.jpg",
+      "published_at": 1795734002000
     },
     {
       "id": "https://www.motorsport.com/f1/news/verstappen-outlines-his-ideal-2030-f1-formula-lighter-cars-simpler-engines-and-push-to-pass-over-en/10878035/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -96,7 +105,7 @@
     },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/c5lykr98yd88o?at_medium=RSS&at_campaign=rss",
-      "title": "Russell says Verstappen's criticism 'quite amusing'",
+      "title": "Russell finds Verstappen's criticism 'quite amusing'",
       "snippet": "George Russell says Max Verstappen can \"say what he wants\" and that he found the Red Bull driver's criticisms of him after the Las Vegas Grand Prix \"quite amusing\".",
       "link": "https://www.bbc.co.uk/sport/formula1/articles/c5lykr98yd88o?at_medium=RSS&at_campaign=rss",
       "source_name": "BBC Sport",
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/0arEDRG2/s6/max-verstappen-red-bull-racing-a10877645-b707-2.jpg",
       "published_at": 1795641917000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/worn-out-fred-vasseur-is-running-out-of-answers-at-ferrari-says-jolyon-palmer-/10877422/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Fred Vasseur is running out of answers at Ferrari, says Jolyon Palmer",
-      "snippet": "In a 2026 Las Vegas Grand Prix where 22 drivers traded a record 352 overtakes largely cleanly, Formula 1’s fiercest intra-team blowup still belonged to Ferrari.On Lap 38, Charles Leclerc dived down the inside of Lewis Hamilton at Turn 7 while battling over sixth place - tipping his team-mate into a spin, drawing a 10-second time penalty, and sparking a blunt post-race verdict from F1 TV ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/worn-out-fred-vasseur-is-running-out-of-answers-at-ferrari-says-jolyon-palmer-/10877422/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YN7vBdV6/s6/frederic-vasseur-ferrari-a10877422-b704-2.jpg",
-      "published_at": 1795636676000
     }
   ]
 }
