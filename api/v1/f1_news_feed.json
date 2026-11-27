@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-27T11:32:22.681194Z",
+    "last_updated": "2026-11-27T12:02:25.990304Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.autosport.com/f1/news/carlos-sainz-explains-his-intriguing-drs-proposal-for-f1-2030/10878170/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "Sainz proposes intriguing DRS solution for F1 2030",
+      "snippet": "With F1 close to signing off on the overarching tenets of its 2030 return to V8 power units, some of its leading drivers have fleshed out ideas of how to make those into a compelling product.F1 is set to move to all-new turbo V8 engines in 2030, with a smaller electric unit of up to 200kW and sustainable fuel. That should make engines simpler, cheaper and lighter, and therefore reduce the ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/carlos-sainz-explains-his-intriguing-drs-proposal-for-f1-2030/10878170/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YN7vBrV6/s6/carlos-sainz-williams-2.jpg",
+      "published_at": 1795780098000
+    },
     {
       "id": "https://www.autosport.com/f1/news/why-fernando-alonso-reported-a-broken-engine-in-las-vegas-but-honda-cant-find-an-issue/10878121/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "title": "Honda can't find an issue after Fernando Alonso's intriguing \"broken engine\" radio message",
@@ -192,15 +201,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0892/live/e16baa60-f8ea-11ef-9e61-71ee71f26eb1.png",
       "published_at": 1795681312000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13615090/qatar-gp-explaining-2026-tyre-limit-rule-and-what-impact-it-will-have-on-f1-race-weekend-at-lusail-international-circuit",
-      "title": "What impact will tyre-limit rule have on Qatar GP?",
-      "snippet": "Formula 1 returns to the Middle East this weekend for the first time since pre-season testing in February for back-to-back races to finish the 2026 campaign.",
-      "link": "https://www.skysports.com/f1/news/12433/13615090/qatar-gp-explaining-2026-tyre-limit-rule-and-what-impact-it-will-have-on-f1-race-weekend-at-lusail-international-circuit",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-max-verstappen-red-bull_7416424.jpg?20261125174729",
-      "published_at": 1795672800000
     }
   ]
 }
