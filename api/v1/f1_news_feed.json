@@ -1,9 +1,27 @@
 {
   "metadata": {
-    "last_updated": "2026-11-27T19:02:31.956736Z",
+    "last_updated": "2026-11-27T19:32:22.286492Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/f1/live-blog/12433/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+      "title": "Audi lose Tsunoda appeal over Italian GP aborted start",
+      "snippet": "",
+      "link": "https://www.skysports.com/f1/live-blog/12433/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+      "source_name": "Sky Sports",
+      "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-f1-yuki-tsunoda-nico-hulkenberg_7344225.jpg?20260907125542",
+      "published_at": 1795807500000
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cjzx912pyekdo?at_medium=RSS&at_campaign=rss",
+      "title": "How to follow Qatar Grand Prix on the BBC",
+      "snippet": "All the key BBC coverage details for the Qatar Grand Prix, which takes place from 27 to 29 November.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cjzx912pyekdo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17e7/live/e3d9fed0-ea94-11f1-8d0e-57e68ad3d9a9.jpg",
+      "published_at": 1795806327000
+    },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
       "title": "Mercedes set pace in eventful Qatar second practice",
@@ -21,15 +39,6 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/6x7LeR4Y/s6/andrea-kimi-antonelli-mercedes-3.jpg",
       "published_at": 1795803655000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/audi-appeal-against-yuki-tsunoda-dismissed-heres-why/10878357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Audi appeal against Yuki Tsunoda dismissed – here’s why",
-      "snippet": "More than two months after the Formula 1 race at Monza, the result has finally been confirmed. Audi believed that Racing Bulls driver Yuki Tsunoda – who was given the opportunity to stand in following Isack Hadjar's wrist injury and Liam Lawson's subsequent promotion – deserved a time penalty for a potential restart infringement.Following Charles Leclerc's heavy crash, there was a standing ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/audi-appeal-against-yuki-tsunoda-dismissed-heres-why/10878357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6AlvL9EY/s6/yuki-tsunoda-racing-bulls.jpg",
-      "published_at": 1795802343000
     },
     {
       "id": "https://www.motorsport.com/f1/news/fia-confirms-f1-engine-freeze-and-imposes-testing-restrictions-ahead-of-v8-return/10878333/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -192,15 +201,6 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/63QaDqb2/s6/lewis-hamilton-ferrari-charles-2.jpg",
       "published_at": 1795710389000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/c5lykr98yd88o?at_medium=RSS&at_campaign=rss",
-      "title": "Russell finds Verstappen's criticism 'quite amusing'",
-      "snippet": "George Russell says Max Verstappen can \"say what he wants\" and that he found the Red Bull driver's criticisms of him after the Las Vegas Grand Prix \"quite amusing\".",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c5lykr98yd88o?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8256/live/ae2c5130-e9ad-11f1-859a-37130cd3a1d7.jpg",
-      "published_at": 1795709458000
     }
   ]
 }
