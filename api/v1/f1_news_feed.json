@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-27T14:33:23.045887Z",
+    "last_updated": "2026-11-27T15:02:25.108880Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
+      "title": "Antonelli leads Russell in Qatar first practice",
+      "snippet": "World champion Kimi Antonelli heads Mercedes team-mate George Russell in first practice at the penultimate race of the season in Qatar.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128a/live/573b1260-ea6d-11f1-a828-d384c0290f6b.jpg",
+      "published_at": 1795790551000
+    },
     {
       "id": "https://www.skysports.com/f1/news/12433/13616912/george-russell-says-lewis-hamilton-is-a-ruthless-competitor-like-max-verstappen-but-has-incredible-grace-and-values",
       "title": "Russell: Hamilton ruthless like Verstappen but has grace and values",
@@ -30,15 +39,6 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/YK15zBk0/s6/fernando-alonso-aston-martin-r.jpg",
       "published_at": 1795777427000
-    },
-    {
-      "id": "https://www.skysports.com/f1/live-blog/12433/13617151/f1-qatar-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-lusail-international-circuit",
-      "title": "Qatar GP: Antonelli flying in first practice LIVE!",
-      "snippet": "",
-      "link": "https://www.skysports.com/f1/live-blog/12433/13617151/f1-qatar-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-lusail-international-circuit",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-kimi-antonelli_7417865.jpg?20261127140426",
-      "published_at": 1795775820000
     },
     {
       "id": "https://www.motorsport.com/f1/news/mercedes-boss-toto-wolff-reveals-why-rival-f1-teams-never-try-to-hire-him/10874986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
