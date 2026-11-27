@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-27T20:02:26.562192Z",
+    "last_updated": "2026-11-27T20:32:23.573937Z",
     "total_news": 22
   },
   "news": [
@@ -12,6 +12,24 @@
       "source_name": "Sky Sports",
       "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-kimi-antonelli_7417890.jpg?20261127142554",
       "published_at": 1795809000000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/max-verstappen-feels-a-disconnect-as-red-bull-looks-to-solve-massive-limitation-in-qatar-gp-practice/10878436/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Max Verstappen feels a “disconnect” as Red Bull looks to solve “massive limitation” in Qatar GP practice",
+      "snippet": "A week after Max Verstappen's victory in Las Vegas, a completely different challenge awaits this weekend. While the street circuit along the Strip was characterised by long straights interspersed with slow corners, the Lusail International Circuit is almost the exact opposite.Apart from Turn 6 – the only slow corner on the circuit – the track predominantly features high-speed corners, and ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/max-verstappen-feels-a-disconnect-as-red-bull-looks-to-solve-massive-limitation-in-qatar-gp-practice/10878436/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2dEoRawY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": 1795810418000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/lando-norris-mercedes-at-a-different-level-in-qatar/10878432/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Lando Norris: Mercedes “at a different level” in Qatar",
+      "snippet": "Both practice sessions on Friday at the Formula 1 Qatar Grand Prix ended with new world champion Kimi Antonelli and his Mercedes team-mate George Russell in a closely matched 1-2, but nobody else could match their blistering pace around this high-speed circuit.Russell was half a second off Antonelli in the less representative first session, held during hotter daylight hours, but he found the ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/lando-norris-mercedes-at-a-different-level-in-qatar/10878432/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0qgKmZkY/s6/george-russell-mercedes.jpg",
+      "published_at": 1795809877000
     },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
@@ -183,24 +201,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-charles-leclerc-lewis-hamilton_7399379.jpg?20261106184758",
       "published_at": 1795716720000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mw2dkzrxo?at_medium=RSS&at_campaign=rss",
-      "title": "Ferrari facing 'very challenging times' - Hamilton",
-      "snippet": "Lewis Hamilton says Ferrari are facing \"very, very challenging times\" as a result of the series of on-track incidents between himself and team-mate Charles Leclerc.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mw2dkzrxo?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ab7/live/09442e30-e9bd-11f1-8d2a-f5d2aabc11cb.jpg",
-      "published_at": 1795714201000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/oliver-bearman-locks-in-haas-f1-seat-as-2027-grid-officially-set/10877802/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Oliver Bearman locks in Haas F1 seat as 2027 grid officially set",
-      "snippet": "Oliver Bearman will officially stay at Haas for the 2027 Formula 1 season after he and the team finally put pen to paper on a new deal.The American squad announced the renewal on Thursday, meaning the 21-year-old Briton will partner Brazilian rookie Rafael Camara at Haas next season.It means the 2027 grid is now complete ahead of the final two rounds of the 2026 campaign, one in which ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/oliver-bearman-locks-in-haas-f1-seat-as-2027-grid-officially-set/10877802/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YXyKMzx6/s6/oliver-bearman-haas.jpg",
-      "published_at": 1795683641000
     }
   ]
 }
