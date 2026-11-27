@@ -1,9 +1,27 @@
 {
   "metadata": {
-    "last_updated": "2026-11-27T18:03:26.416908Z",
+    "last_updated": "2026-11-27T18:32:39.973954Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
+      "title": "Mercedes set pace in disrupted second practice in Qatar",
+      "snippet": "World champion Kimi Antonelli sets the pace ahead of Mercedes team-mate George Russell in a disrupted second practice at the Qatar Grand Prix.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ee/live/355b1d70-ea90-11f1-a739-457c2295eaba.jpg",
+      "published_at": 1795804109000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/f1-qatar-gp-fp2-report/10878347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "F1 Qatar GP: Antonelli remains on top in FP2 stalled by two red flags",
+      "snippet": "Kimi Antonelli has swept Friday's running at Formula 1's Qatar Grand Prix in Doha after topping a second practice session that was interrupted by two red flags.Second practice in the cooler evening conditions presented more relevant conditions ahead of Saturday's qualifying session around the same time, with the track temperatures around 10 degrees lower than the afternoon's sweltering FP1 ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/f1-qatar-gp-fp2-report/10878347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7LeR4Y/s6/andrea-kimi-antonelli-mercedes-3.jpg",
+      "published_at": 1795803655000
+    },
     {
       "id": "https://www.motorsport.com/f1/news/audi-appeal-against-yuki-tsunoda-dismissed-heres-why/10878357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "title": "Audi appeal against Yuki Tsunoda dismissed – here’s why",
@@ -24,7 +42,7 @@
     },
     {
       "id": "https://www.skysports.com/f1/live-blog/12433/13617151/f1-qatar-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-lusail-international-circuit",
-      "title": "Qatar GP: Second practice extended after red-flag delays LIVE!",
+      "title": "Qatar GP: Hamilton stops late on, Gasly in wild exit in Antonelli-topped practice LIVE!",
       "snippet": "",
       "link": "https://www.skysports.com/f1/live-blog/12433/13617151/f1-qatar-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-lusail-international-circuit",
       "source_name": "Sky Sports",
@@ -32,13 +50,13 @@
       "published_at": 1795797420000
     },
     {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
-      "title": "Antonelli leads Russell in Qatar first practice",
-      "snippet": "World champion Kimi Antonelli heads Mercedes team-mate George Russell in first practice at the penultimate race of the season in Qatar.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128a/live/573b1260-ea6d-11f1-a828-d384c0290f6b.jpg",
-      "published_at": 1795790551000
+      "id": "https://www.motorsport.com/f1/news/f1-qatar-gp-fp1-report-10878251/10878251/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "F1 Qatar GP: Kimi Antonelli leads Mercedes 1-2 in tricky FP1",
+      "snippet": "2026 Formula 1 world champion Kimi Antonelli has comfortably topped first free practice at the Qatar Grand Prix, holding off Mercedes team-mate George Russell as drivers grappled with the tricky Lusail circuit.One week on from the high-speed drag race on the streets of Las Vegas, drivers and teams were facing a completely different challenge as they sampled the high downforce motorcycle track ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/f1-qatar-gp-fp1-report-10878251/10878251/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0Zq8mM46/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": 1795790458000
     },
     {
       "id": "https://www.skysports.com/f1/news/12433/13616912/george-russell-says-lewis-hamilton-is-a-ruthless-competitor-like-max-verstappen-but-has-incredible-grace-and-values",
@@ -183,24 +201,6 @@
       "source_name": "BBC Sport",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8256/live/ae2c5130-e9ad-11f1-859a-37130cd3a1d7.jpg",
       "published_at": 1795709458000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/george-russell-shrugs-off-verstappens-las-vegas-barbs-ahead-of-qatar-gp-certain-things-really-made-/10877899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "George Russell shrugs off Max Verstappen’s Las Vegas remarks: “Certain things really made me laugh”",
-      "snippet": "George Russell arrived at the Losail International Circuit on Thursday refusing to pour fresh fuel on Formula 1’s loudest driver feud - though he made it clear he was not retracting a word of what started it.Speaking in Thursday’s FIA press conference ahead of the Qatar Grand Prix - his first public appearance since Max Verstappen had his say after winning in Las Vegas - Russell downplayed ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/george-russell-shrugs-off-verstappens-las-vegas-barbs-ahead-of-qatar-gp-certain-things-really-made-/10877899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6n7blXl0/s6/max-verstappen-red-bull-racing-a10877899-b705-4.jpg",
-      "published_at": 1795707180000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/f1-2027-grid-who-will-be-racing-and-where/10847600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "F1 2027 grid: Who will be racing and where?",
-      "snippet": "The 2027 Formula 1 grid is now complete following the announcement from Haas that it has retained star youngster Oliver Bearman.But the American squad is also the only team that is altering its driver pairing for next season, as many potentially enthralling storylines failed to materialise.So, here’s a look at the situation.Mercedes: Kimi Antonelli, George Russell George ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/f1-2027-grid-who-will-be-racing-and-where/10847600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2GdKBmOY/s6/rafael-camara-haas-f1-team-lan-3.jpg",
-      "published_at": 1795695217000
     }
   ]
 }
