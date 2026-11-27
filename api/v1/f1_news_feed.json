@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-27T16:33:18.176091Z",
+    "last_updated": "2026-11-27T17:03:36.753932Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.skysports.com/f1/live-blog/12433/13617151/f1-qatar-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-lusail-international-circuit",
+      "title": "Qatar GP: Mercedes' rivals look to hit back in second practice LIVE!",
+      "snippet": "",
+      "link": "https://www.skysports.com/f1/live-blog/12433/13617151/f1-qatar-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-lusail-international-circuit",
+      "source_name": "Sky Sports",
+      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-max-verstappen_7417912.jpg?20261127145236",
+      "published_at": 1795797420000
+    },
     {
       "id": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
       "title": "Antonelli leads Russell in Qatar first practice",
@@ -192,15 +201,6 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/6grQVmGY/s6/fernando-alonso-aston-martin-r-2.jpg",
       "published_at": 1795689744000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cjzx912pyekdo?at_medium=RSS&at_campaign=rss",
-      "title": "How to follow Qatar Grand Prix on the BBC",
-      "snippet": "All the key BBC coverage details for the Qatar Grand Prix, which takes place from 27 to 29 November.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cjzx912pyekdo?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0a8/live/3ee78b10-e650-11f1-a563-e14cd8b02601.jpg",
-      "published_at": 1795688125000
     }
   ]
 }
