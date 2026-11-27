@@ -1,26 +1,35 @@
 {
   "metadata": {
-    "last_updated": "2026-11-27T17:03:36.753932Z",
+    "last_updated": "2026-11-27T17:33:20.282382Z",
     "total_news": 22
   },
   "news": [
     {
+      "id": "https://www.motorsport.com/f1/news/fia-confirms-f1-engine-freeze-and-imposes-testing-restrictions-ahead-of-v8-return/10878333/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "FIA confirms F1 engine freeze and imposes testing restrictions ahead of V8 return",
+      "snippet": "Formula 1 manufacturers will no longer be allowed to work on the current generation of power units from mid-2028, the FIA's single-seater director Nikolas Tombazis has revealed in an exclusive interview with Motorsport.com.First revealed by Motorsport.com over the Las Vegas Grand Prix weekend, the measure is intended to prevent manufacturers from having to work on two projects simultaneously ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/fia-confirms-f1-engine-freeze-and-imposes-testing-restrictions-ahead-of-v8-return/10878333/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0arED5G2/s6/arvid-lindblad-racing-bulls-an.jpg",
+      "published_at": 1795799713000
+    },
+    {
       "id": "https://www.skysports.com/f1/live-blog/12433/13617151/f1-qatar-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-lusail-international-circuit",
-      "title": "Qatar GP: Mercedes' rivals look to hit back in second practice LIVE!",
+      "title": "Qatar GP: Antonelli fastest from Russell in second practice LIVE!",
       "snippet": "",
       "link": "https://www.skysports.com/f1/live-blog/12433/13617151/f1-qatar-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-lusail-international-circuit",
       "source_name": "Sky Sports",
-      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-max-verstappen_7417912.jpg?20261127145236",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-kimi-antonelli_7418039.jpg?20261127172229",
       "published_at": 1795797420000
     },
     {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
-      "title": "Antonelli leads Russell in Qatar first practice",
-      "snippet": "World champion Kimi Antonelli heads Mercedes team-mate George Russell in first practice at the penultimate race of the season in Qatar.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128a/live/573b1260-ea6d-11f1-a828-d384c0290f6b.jpg",
-      "published_at": 1795790551000
+      "id": "https://www.motorsport.com/f1/news/f1-qatar-gp-fp1-report-10878251/10878251/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "F1 Qatar GP: Kimi Antonelli leads Mercedes 1-2 in tricky FP1",
+      "snippet": "2026 Formula 1 world champion Kimi Antonelli has comfortably topped first free practice at the Qatar Grand Prix, holding off Mercedes team-mate George Russell as drivers grappled with the tricky Lusail circuit.One week on from the high-speed drag race on the streets of Las Vegas, drivers and teams were facing a completely different challenge as they sampled the high downforce motorcycle track ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/f1-qatar-gp-fp1-report-10878251/10878251/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0Zq8mM46/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": 1795790458000
     },
     {
       "id": "https://www.skysports.com/f1/news/12433/13616912/george-russell-says-lewis-hamilton-is-a-ruthless-competitor-like-max-verstappen-but-has-incredible-grace-and-values",
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/6zoD4Ma0/s6/fernando-alonso-aston-martin-r.jpg",
       "published_at": 1795690678000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/alonso-to-not-let-age-determine-f1-retirement/10877846/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Alonso to not let his age determine F1 retirement",
-      "snippet": "Fernando Alonso says he will quit Formula 1 when he feels slow and he doesn’t need to be as fit as a football player to be competitive.Alonso is the most experienced driver in F1’s history, having competed in 23 seasons from 2001 to 2026, and the two-time champion has maintained his involvement well beyond his peers’ retirement age despite his current 245-race winless streak.Read ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/alonso-to-not-let-age-determine-f1-retirement/10877846/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQVmGY/s6/fernando-alonso-aston-martin-r-2.jpg",
-      "published_at": 1795689744000
     }
   ]
 }
