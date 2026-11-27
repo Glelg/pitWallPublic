@@ -2032,7 +2032,11 @@
           "session_key": 11421,
           "session_name": "Practice 1",
           "session_type": "Practice",
-          "date_start": "2026-11-27T13:30:00+00:00"
+          "date_start": "2026-11-27T13:30:00+00:00",
+          "weather": {
+            "temp": 25.9,
+            "weather_code": 1
+          }
         },
         {
           "session_key": 11422,
