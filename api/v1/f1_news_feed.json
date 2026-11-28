@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-28T09:32:28.406735Z",
+    "last_updated": "2026-11-28T10:02:30.199872Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.motorsport.com/f1/news/george-russell-draws-pointed-contrast-between-hamiltons-grace-and-dignity-and-verstappens-style/10878293/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "George Russell says Lewis Hamilton offers a different example from Max Verstappen",
+      "snippet": "In an exclusive Sky Sports F1 interview with Martin Brundle - previewed Friday ahead of its full broadcast before Sunday’s Qatar Grand Prix - George Russell addressed his reignited Las Vegas feud with the four-time world champion Max Verstappen by drawing a quiet, unmistakable contrast between two of Formula 1’s modern giants.\"He [Verstappen] is a ruthless competitor, and I massively ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/george-russell-draws-pointed-contrast-between-hamiltons-grace-and-dignity-and-verstappens-style/10878293/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0LdemoV0/s6/george-russell-mercedes-a10878293-b705-3.jpg",
+      "published_at": 1795858978000
+    },
     {
       "id": "https://www.autosport.com/f1/news/100-wear-in-15-laps-f1s-tyre-challenges-in-qatar-far-more-extreme-than-pirelli-expected/10878519/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "title": "100% wear in 15 laps – F1’s tyre challenges in Qatar far more extreme than Pirelli expected",
@@ -30,15 +39,6 @@
       "source_name": "Sky Sports",
       "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-kimi-antonelli_7417890.jpg?20261127142554",
       "published_at": 1795809000000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/george-russell-drops-cryptic-hint-over-where-toto-wolff-stands-off-the-record-on-max-verstappen/10878290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "George Russell drops cryptic hint over where Toto Wolff “stands off the record” on Max Verstappen",
-      "snippet": "Toto Wolff has spent the past week sounding remarkably unfazed by Formula 1’s fiercest driver feud. George Russell, however, just hinted that Mercedes’ team principal sounds rather different once the microphones are switched off.Speaking exclusively to Martin Brundle for Sky Sports F1 - in an interview previewed Friday ahead of its full broadcast before Sunday’s Qatar Grand Prix - ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/george-russell-drops-cryptic-hint-over-where-toto-wolff-stands-off-the-record-on-max-verstappen/10878290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/24QGyyPY/s6/george-russell-mercedes-a10878290-b705-2.jpg",
-      "published_at": 1795833496000
     },
     {
       "id": "https://www.motorsport.com/f1/news/f1-qatar-gp-practice-analysis-antonelli-nearly-a-second-clear-of-verstappen-on-long-runs/10878464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -140,15 +140,6 @@
       "published_at": 1795790367000
     },
     {
-      "id": "https://www.skysports.com/f1/news/12433/13616912/george-russell-says-lewis-hamilton-is-a-ruthless-competitor-like-max-verstappen-but-has-incredible-grace-and-values",
-      "title": "Russell: Hamilton ruthless like Verstappen but has grace and values",
-      "snippet": "George Russell says Lewis Hamilton is an equally \"ruthless competitor\" to Max Verstappen but that his former team-mate has \"incredible values, grace and dignity\".",
-      "link": "https://www.skysports.com/f1/news/12433/13616912/george-russell-says-lewis-hamilton-is-a-ruthless-competitor-like-max-verstappen-but-has-incredible-grace-and-values",
-      "source_name": "Sky Sports",
-      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-max-verstappen-lewis-hamilton_7407677.jpg?20261127115739",
-      "published_at": 1795782600000
-    },
-    {
       "id": "https://www.autosport.com/f1/news/carlos-sainz-explains-his-intriguing-drs-proposal-for-f1-2030/10878170/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "title": "Sainz proposes intriguing DRS solution for F1 2030",
       "snippet": "With F1 close to signing off on the overarching tenets of its 2030 return to V8 power units, some of its leading drivers have fleshed out ideas of how to make those into a compelling product.F1 is set to move to all-new turbo V8 engines in 2030, with a smaller electric unit of up to 200kW and sustainable fuel. That should make engines simpler, cheaper and lighter, and therefore reduce the ...Keep reading",
@@ -201,6 +192,15 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/YP74Zm42/s6/max-verstappen-red-bull-racing-2.jpg",
       "published_at": 1795723377000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/why-max-verstappen-has-ruled-out-indy-500-entry/10878029/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "Why Max Verstappen has ruled out Indy 500 entry",
+      "snippet": "Four-time Formula 1 champion Max Verstappen has ruled out racing in the Indianapolis 500, citing the lasting effects of Nelson Piquet's crash at the Speedway.Piquet, the father of Verstappen's partner Kelly Piquet, suffered serious injuries to his legs and feet when he crashed in practice for the 1992 Indy 500, and needed months of rehabilitation.Verstappen was asked about the possibility ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/why-max-verstappen-has-ruled-out-indy-500-entry/10878029/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwB9x2/s6/max-verstappen-red-bull-racing-a10878029-b707-2.jpg",
+      "published_at": 1795719920000
     }
   ]
 }
