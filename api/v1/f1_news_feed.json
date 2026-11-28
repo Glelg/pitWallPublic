@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-28T01:32:22.857701Z",
+    "last_updated": "2026-11-28T02:02:32.920191Z",
     "total_news": 22
   },
   "news": [
@@ -15,7 +15,7 @@
     },
     {
       "id": "https://www.motorsport.com/f1/news/f1-qatar-gp-practice-analysis-antonelli-nearly-a-second-clear-of-verstappen-on-long-runs/10878464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "F1 Qatar GP practice analysis: Kimi Antonelli nearly a second clear of Max Verstappen on long runs",
+      "title": "F1 Qatar GP long runs: Kimi Antonelli nearly a second clear of Max Verstappen on Friday",
       "snippet": "Kimi Antonelli heads into the penultimate race weekend of the 2026 Formula 1 season in Qatar as the early favourite. The reigning world champion dominated Friday practice at the Lusail International Circuit, both over a single lap and in the race simulations. His advantage on the long runs was particularly impressive: his closest challenger, Max Verstappen, was on average 0.83s per lap slower in ...Keep reading",
       "link": "https://www.motorsport.com/f1/news/f1-qatar-gp-practice-analysis-antonelli-nearly-a-second-clear-of-verstappen-on-long-runs/10878464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "source_name": "Motorsport",
@@ -50,6 +50,15 @@
       "published_at": 1795809877000
     },
     {
+      "id": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
+      "title": "Mercedes set pace in eventful Qatar second practice",
+      "snippet": "World champion Kimi Antonelli sets the pace ahead of Mercedes team-mate George Russell in a disrupted second practice at the Qatar Grand Prix.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ee/live/355b1d70-ea90-11f1-a739-457c2295eaba.jpg",
+      "published_at": 1795809006000
+    },
+    {
       "id": "https://www.skysports.com/f1/live-blog/12433/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
       "title": "Audi lose Tsunoda appeal over Italian GP aborted start",
       "snippet": "",
@@ -68,6 +77,15 @@
       "published_at": 1795806327000
     },
     {
+      "id": "https://www.skysports.com/watch/video/13617299/qatar-grand-prix-practice-highlights",
+      "title": "Big spins and Verstappen-Hamilton near miss in dramatic Qatar practice",
+      "snippet": "Highlights from Friday's practice sessions at the Qatar Grand Prix.",
+      "link": "https://www.skysports.com/watch/video/13617299/qatar-grand-prix-practice-highlights",
+      "source_name": "Sky Sports",
+      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-motorsport-f1_7418111.jpg?20261127182826",
+      "published_at": 1795803960000
+    },
+    {
       "id": "https://www.autosport.com/f1/news/f1-qatar-gp-fp2-report/10878347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "title": "F1 Qatar GP: Antonelli remains on top in FP2 stalled by two red flags",
       "snippet": "Kimi Antonelli has swept Friday's running at Formula 1's Qatar Grand Prix in Doha after topping a second practice session that was interrupted by two red flags.Second practice in the cooler evening conditions presented more relevant conditions ahead of Saturday's qualifying session around the same time, with the track temperatures around 10 degrees lower than the afternoon's sweltering FP1 ...Keep reading",
@@ -84,6 +102,15 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/0arED5G2/s6/arvid-lindblad-racing-bulls-an.jpg",
       "published_at": 1795799713000
+    },
+    {
+      "id": "https://www.autosport.com/f1/news/f1-qatar-gp-fp1-report-10878259/10878259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "title": "F1 Qatar GP: Antonelli leads Russell in opening practice",
+      "snippet": "Newly crowned world champion Kimi Antonelli has comfortably topped first practice at Formula 1's Qatar Grand Prix, holding off Mercedes team-mate George Russell as drivers grappled with the tricky Lusail circuit.One week on from the high-speed drag race on the streets of Las Vegas, drivers and teams were facing a completely different challenge as they sampled the high downforce motorcycle ...Keep reading",
+      "link": "https://www.autosport.com/f1/news/f1-qatar-gp-fp1-report-10878259/10878259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "source_name": "Autosport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YP74Vj82/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": 1795790367000
     },
     {
       "id": "https://www.skysports.com/f1/news/12433/13616912/george-russell-says-lewis-hamilton-is-a-ruthless-competitor-like-max-verstappen-but-has-incredible-grace-and-values",
@@ -174,33 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/2d1k3zDY/s6/geri-horner-and-christian-horn-a10878015-b708-2.jpg",
       "published_at": 1795717223000
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12433/13616753/charles-leclerc-denies-presence-of-no-1-driver-clause-in-ferrari-contract-as-he-and-lewis-hamilton-hold-good-discussions-after-collision",
-      "title": "Leclerc denies having 'No 1 clause' in Ferrari contract",
-      "snippet": "Charles Leclerc has strongly denied suggestions he has a No 1 driver clause in his Ferrari contract.",
-      "link": "https://www.skysports.com/f1/news/12433/13616753/charles-leclerc-denies-presence-of-no-1-driver-clause-in-ferrari-contract-as-he-and-lewis-hamilton-hold-good-discussions-after-collision",
-      "source_name": "Sky Sports",
-      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-charles-leclerc-lewis-hamilton_7399379.jpg?20261106184758",
-      "published_at": 1795716720000
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mw2dkzrxo?at_medium=RSS&at_campaign=rss",
-      "title": "Ferrari facing 'very challenging times' - Hamilton",
-      "snippet": "Lewis Hamilton says Ferrari are facing \"very, very challenging times\" as a result of the series of on-track incidents between himself and team-mate Charles Leclerc.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mw2dkzrxo?at_medium=RSS&at_campaign=rss",
-      "source_name": "BBC Sport",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ab7/live/09442e30-e9bd-11f1-8d2a-f5d2aabc11cb.jpg",
-      "published_at": 1795714201000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/hamilton-convinced-ferrari-will-figure-it-out/10877979/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Hamilton convinced Ferrari will \"figure it out\" following Leclerc skirmish",
-      "snippet": "Ferrari driver Lewis Hamilton says he is confident that he and team-mate Charles Leclerc will \"figure it out\" following their latest on-track skirmish at last week's Las Vegas Grand Prix.A fortnight on from a costly on-track incident fighting for the lead in Mexico, which drew the ire of team boss Fred Vasseur, history repeated itself when Leclerc was found responsible for contact with ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/hamilton-convinced-ferrari-will-figure-it-out/10877979/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKzmeY/s6/charles-leclerc-ferrari-lewis--2.jpg",
-      "published_at": 1795712837000
     }
   ]
 }
