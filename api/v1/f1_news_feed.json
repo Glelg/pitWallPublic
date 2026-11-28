@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-28T02:32:32.788573Z",
+    "last_updated": "2026-11-28T03:02:30.789175Z",
     "total_news": 22
   },
   "news": [
@@ -12,6 +12,15 @@
       "source_name": "Sky Sports",
       "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-kimi-antonelli_7417890.jpg?20261127142554",
       "published_at": 1795809000000
+    },
+    {
+      "id": "https://www.motorsport.com/f1/news/george-russell-drops-cryptic-hint-over-where-toto-wolff-stands-off-the-record-on-max-verstappen/10878290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "George Russell drops cryptic hint over where Toto Wolff “stands off the record” on Max Verstappen",
+      "snippet": "Toto Wolff has spent the past week sounding remarkably unfazed by Formula 1’s fiercest driver feud. George Russell, however, just hinted that Mercedes’ team principal sounds rather different once the microphones are switched off.Speaking exclusively to Martin Brundle for Sky Sports F1 - in an interview previewed Friday ahead of its full broadcast before Sunday’s Qatar Grand Prix - ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/george-russell-drops-cryptic-hint-over-where-toto-wolff-stands-off-the-record-on-max-verstappen/10878290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/24QGyyPY/s6/george-russell-mercedes-a10878290-b705-2.jpg",
+      "published_at": 1795833496000
     },
     {
       "id": "https://www.motorsport.com/f1/news/f1-qatar-gp-practice-analysis-antonelli-nearly-a-second-clear-of-verstappen-on-long-runs/10878464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/0mXyxxk6/s6/lewis-hamilton-ferrari-a10878021-b704-2.jpg",
       "published_at": 1795718563000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/christian-horner-and-geri-halliwell-reportedly-snap-up-pride-and-prejudice-mansion/10878015/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "Christian Horner and Geri Halliwell reportedly snap up \"Pride and Prejudice\" mansion",
-      "snippet": "Former Red Bull Racing team principal and CEO Christian Horner and his wife, Spice Girl Geri Halliwell, are understood to have bought Edgcote House, the historic Northamptonshire estate that appeared in the BBC's Pride and Prejudice.The couple are said to have secured the 1,700-acre estate after beating a rival bid of around £52million, according to the Daily Mail. An earlier offer of ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/christian-horner-and-geri-halliwell-reportedly-snap-up-pride-and-prejudice-mansion/10878015/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2d1k3zDY/s6/geri-horner-and-christian-horn-a10878015-b708-2.jpg",
-      "published_at": 1795717223000
     }
   ]
 }
