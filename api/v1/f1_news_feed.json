@@ -1,9 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-28T11:32:39.762092Z",
+    "last_updated": "2026-11-28T12:02:36.127760Z",
     "total_news": 22
   },
   "news": [
+    {
+      "id": "https://www.motorsport.com/f1/news/two-years-later-george-russell-softens-stance-on-max-verstappens-infamous-2024-in-the-wall-threat/10878305/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "title": "George Russell softens stance on Max Verstappen’s infamous 2024 “in the wall” threat",
+      "snippet": "Two years ago at the Losail International Circuit, a routine qualifying cooldown lap turned a simmering paddock tension into open warfare. Now, returning to the exact venue where his feud with Max Verstappen detonated - and days after Las Vegas poured fresh gasoline on it - George Russell is offering a strikingly calmer verdict on the threat that once pushed him to brand the Dutchman a ...Keep reading",
+      "link": "https://www.motorsport.com/f1/news/two-years-later-george-russell-softens-stance-on-max-verstappens-infamous-2024-in-the-wall-threat/10878305/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "source_name": "Motorsport",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8ZArn2/s6/george-russell-mercedes-a10878305-b705-2.jpg",
+      "published_at": 1795866902000
+    },
     {
       "id": "https://www.autosport.com/f1/news/why-williams-breached-the-2025-f1-cost-cap/10878549/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "title": "Why Williams breached the 2025 F1 cost cap",
@@ -12,15 +21,6 @@
       "source_name": "Autosport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/24QeqOXY/s6/alexander-albon-williams-2.jpg",
       "published_at": 1795862511000
-    },
-    {
-      "id": "https://www.motorsport.com/f1/news/george-russell-draws-pointed-contrast-between-hamiltons-grace-and-dignity-and-verstappens-style/10878293/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "title": "George Russell says Lewis Hamilton offers a different example from Max Verstappen",
-      "snippet": "In an exclusive Sky Sports F1 interview with Martin Brundle - previewed Friday ahead of its full broadcast before Sunday’s Qatar Grand Prix - George Russell addressed his reignited Las Vegas feud with the four-time world champion Max Verstappen by drawing a quiet, unmistakable contrast between two of Formula 1’s modern giants.\"He [Verstappen] is a ruthless competitor, and I massively ...Keep reading",
-      "link": "https://www.motorsport.com/f1/news/george-russell-draws-pointed-contrast-between-hamiltons-grace-and-dignity-and-verstappens-style/10878293/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "source_name": "Motorsport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0LdemoV0/s6/george-russell-mercedes-a10878293-b705-3.jpg",
-      "published_at": 1795858978000
     },
     {
       "id": "https://www.autosport.com/f1/news/100-wear-in-15-laps-f1s-tyre-challenges-in-qatar-far-more-extreme-than-pirelli-expected/10878519/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -149,6 +149,15 @@
       "published_at": 1795790367000
     },
     {
+      "id": "https://www.skysports.com/f1/news/12433/13616912/george-russell-says-lewis-hamilton-is-a-ruthless-competitor-like-max-verstappen-but-has-incredible-grace-and-values",
+      "title": "Russell: Hamilton ruthless like Verstappen but has grace and values",
+      "snippet": "George Russell says Lewis Hamilton is an equally \"ruthless competitor\" to Max Verstappen but that his former team-mate has \"incredible values, grace and dignity\".",
+      "link": "https://www.skysports.com/f1/news/12433/13616912/george-russell-says-lewis-hamilton-is-a-ruthless-competitor-like-max-verstappen-but-has-incredible-grace-and-values",
+      "source_name": "Sky Sports",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-max-verstappen-lewis-hamilton_7407677.jpg?20261127115739",
+      "published_at": 1795782600000
+    },
+    {
       "id": "https://www.autosport.com/f1/news/carlos-sainz-explains-his-intriguing-drs-proposal-for-f1-2030/10878170/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "title": "Sainz proposes intriguing DRS solution for F1 2030",
       "snippet": "With F1 close to signing off on the overarching tenets of its 2030 return to V8 power units, some of its leading drivers have fleshed out ideas of how to make those into a compelling product.F1 is set to move to all-new turbo V8 engines in 2030, with a smaller electric unit of up to 200kW and sustainable fuel. That should make engines simpler, cheaper and lighter, and therefore reduce the ...Keep reading",
@@ -192,15 +201,6 @@
       "source_name": "Motorsport",
       "image_url": "https://cdn-1.motorsport.com/images/amp/24QGyQAY/s6/max-verstappen-red-bull-racing-a10878035-b707-2.jpg",
       "published_at": 1795731205000
-    },
-    {
-      "id": "https://www.autosport.com/f1/news/verstappen-to-work-with-new-race-engineer-tom-hart-again-at-qatar-gp/10878044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "title": "Verstappen to work with new race engineer Tom Hart again at Qatar GP",
-      "snippet": "Max Verstappen will be without his regular right-hand man Gianpiero Lambiase this weekend at the Lusail International Circuit. Red Bull had already opted for a rotation system for the latter part of this Formula 1 season, primarily to allow Tom Hart to settle into the role ahead of his expected permanent appointment while Lambiase is still with the team.The initial plan was for Lambiase to ...Keep reading",
-      "link": "https://www.autosport.com/f1/news/verstappen-to-work-with-new-race-engineer-tom-hart-again-at-qatar-gp/10878044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "source_name": "Autosport",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YP74Zm42/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": 1795723377000
     }
   ]
 }
